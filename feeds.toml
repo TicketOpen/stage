@@ -15,3 +15,13 @@ titleSelector = "b"
 linkSelector = "div a"
 imageSelector = "a img"
 waitUntil = "networkidle"
+
+[yes24livehall]
+title = "예스24 라이브홀"
+url = "https://yes24livehall.com/ko/show/list.php"
+entrySelector = "div.shows"
+titleSelector = "a.title"
+linkSelector = "a"
+contentSelector = "a.datetime"
+imageSelector = "a.poster img"
+waitUntil = "networkidle"
