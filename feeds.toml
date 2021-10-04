@@ -25,3 +25,13 @@ linkSelector = "a"
 contentSelector = "a.datetime"
 imageSelector = "a.poster img"
 waitUntil = "networkidle"
+
+[cjazit]
+title = "CJ문화재단 ─ 공연예매"
+url = "https://www.cjazit.org/cjazit/book/list"
+entrySelector = "div.list div.item"
+titleSelector = "h3.item-heading"
+linkSelector = "div.item-body a"
+contentSelector = "div.item-details"
+imageSelector = "div.item-thumb img"
+waitUntil = "networkidle"
