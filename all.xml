@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 03:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 04:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,198 @@
             <pubDate>Mon, 04 Oct 2021 03:18:50 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 10월 08일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/399/683058687_EC8381EC9E90EBA3A820ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2주의 가든 : 11 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21008899</link>
+            <guid>https://tickets.interpark.com/goods/21008899</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21008899" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16329002181632900218684.jpg">
+									</a>
+								</div>
+								<b>2주의 가든 : 11</b>
+								<span>카더가든</span>
+																<p>2021. 11. 02 - 2021. 11. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16329002181632900218684.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[All Live - Playlist] Chapter.3 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21009024</link>
+            <guid>https://tickets.interpark.com/goods/21009024</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21009024" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16327240211632724021925.jpg">
+									</a>
+								</div>
+								<b>[All Live - Playlist] Chapter.3</b>
+								<span>정우</span>
+																<p>2021. 10. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16327240211632724021925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206213</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206213</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206213" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16330763371633076337949.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>김마리</span>
+																<p>2021. 10. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16330763371633076337949.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤 #5] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206201</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206201</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206201" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16323742151632374215178.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [청춘의 밤 #5]</b>
+								<span>브로콜리너마저</span>
+																<p>2021. 10. 18 - 2021. 10. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16323742151632374215178.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구름닮은-라이브 VOL.6 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21008624</link>
+            <guid>https://tickets.interpark.com/goods/21008624</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21008624" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16317635911631763591577.jpg">
+									</a>
+								</div>
+								<b>구름닮은-라이브 VOL.6</b>
+								<span>짙은, 신지훈</span>
+																<p>2021. 10. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16317635911631763591577.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206184</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206184</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206184" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16317632641631763264175.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>최정윤</span>
+																<p>2021. 10. 11</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16317632641631763264175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[All Live - Playlist] Chapter.2 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21008509</link>
+            <guid>https://tickets.interpark.com/goods/21008509</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21008509" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16313431971631343197557.jpg">
+									</a>
+								</div>
+								<b>[All Live - Playlist] Chapter.2</b>
+								<span>다린</span>
+																<p>2021. 10. 09</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16313431971631343197557.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[All Live - Playlist] Chapter.1 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21008444</link>
+            <guid>https://tickets.interpark.com/goods/21008444</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21008444" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16313431501631343150485.jpg">
+									</a>
+								</div>
+								<b>[All Live - Playlist] Chapter.1</b>
+								<span>박소은</span>
+																<p>2021. 10. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16313431501631343150485.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206177</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206177</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206177" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16313431011631343101596.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>백아</span>
+																<p>2021. 10. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16313431011631343101596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 올첵 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21008603</link>
+            <guid>https://tickets.interpark.com/goods/21008603</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21008603" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16317784101631778410713.jpg">
+									</a>
+								</div>
+								<b>2021 올첵</b>
+								<span>이승환</span>
+																<p>2021. 10. 01 - 2021. 10. 02</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16317784101631778410713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5959 LIVE : 로쿠&김우주 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/21008077</link>
+            <guid>https://tickets.interpark.com/goods/21008077</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21008077" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16304664371630466437968.jpg">
+									</a>
+								</div>
+								<b>5959 LIVE : 로쿠&amp;김우주</b>
+								<span>로쿠, 김우주</span>
+																<p>2021. 09. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16304664371630466437968.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤 #4] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206153</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206153</guid>
+            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206153" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16313429911631342991539.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [청춘의 밤 #4]</b>
+								<span>데이먼스이어</span>
+																<p>2021. 09. 27 - 2021. 09. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16313429911631342991539.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
