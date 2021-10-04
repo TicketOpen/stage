@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 10:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 11:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16317635911631763591577.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단독 콘서트 Page_2 [일상] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.youtube.com/channel/UC0L1J2oXBWkZbvLG8KTPgzw/community?lb=UgyNUzdQ_GYskIIz7xx4AaABCQ</link>
+            <guid>https://www.youtube.com/channel/UC0L1J2oXBWkZbvLG8KTPgzw/community?lb=UgyNUzdQ_GYskIIz7xx4AaABCQ</guid>
+            <pubDate>Mon, 04 Oct 2021 11:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.youtube.com/channel/UC0L1J2oXBWkZbvLG8KTPgzw/community?lb=UgyNUzdQ_GYskIIz7xx4AaABCQ" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16333453051633345305947.jpg">
+									</a>
+								</div>
+								<b>단독 콘서트 Page_2 [일상]</b>
+								<span>정현욱(뽀선희)</span>
+																<p>2021. 10. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16333453051633345305947.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206184</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206184</guid>
@@ -286,22 +302,6 @@
 								<span>로쿠, 김우주</span>
 																<p>2021. 09. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16304664371630466437968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤 #4] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206153</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206153</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206153" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16313429911631342991539.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [청춘의 밤 #4]</b>
-								<span>데이먼스이어</span>
-																<p>2021. 09. 27 - 2021. 09. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16313429911631342991539.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정세운 팬미팅〈레쓰꽁 럭키!〉 (예스24 라이브홀)]]></title>
