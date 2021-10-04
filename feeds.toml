@@ -1,0 +1,9 @@
+[rollinghall]
+title = "롤링홀"
+url = "http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?sub=02"
+entrySelector = "div.col-sm-9 table td.boxArea"
+titleSelector = "span.gallery_title"
+linkSelector = "tr.nSize td a"
+contentSelector = "td.gallery_etc font"
+imageSelector = "tr.nSize img"
+waitUntil = "networkidle
