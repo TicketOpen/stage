@@ -6,4 +6,3 @@ titleSelector = "span.gallery_title"
 linkSelector = "tr.nSize td a"
 contentSelector = "td.gallery_etc font"
 imageSelector = "tr.nSize img"
-waitUntil = "networkidle
