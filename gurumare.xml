@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 04:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 05:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>카더가든</span>
 																<p>2021. 11. 02 - 2021. 11. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16329002181632900218684.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206244</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206244</guid>
+            <pubDate>Mon, 11 Oct 2021 05:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206244" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16339274521633927452752.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>안녕바다</span>
+																<p>2021. 11. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16339274521633927452752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[All Live - Playlist] Chapter.3]]></title>
@@ -182,22 +198,6 @@
 								<span>이승환</span>
 																<p>2021. 10. 01 - 2021. 10. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16317784101631778410713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE : 로쿠&김우주]]></title>
-            <link>https://tickets.interpark.com/goods/21008077</link>
-            <guid>https://tickets.interpark.com/goods/21008077</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21008077" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16304664371630466437968.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE : 로쿠&amp;김우주</b>
-								<span>로쿠, 김우주</span>
-																<p>2021. 09. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16304664371630466437968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
