@@ -4,9 +4,41 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 01:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정기단독공연 <춥지 않은 겨울밤>]]></title>
+            <link>https://www.instagram.com/p/CU7IpTSF3Wz/</link>
+            <guid>https://www.instagram.com/p/CU7IpTSF3Wz/</guid>
+            <pubDate>Fri, 15 Oct 2021 02:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CU7IpTSF3Wz/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16342647721634264772143.jpg">
+									</a>
+								</div>
+								<b>정기단독공연 &lt;춥지 않은 겨울밤&gt;</b>
+								<span>정밀아</span>
+																<p>2021. 12. 03 - 2021. 12. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16342647721634264772143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206267</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206267</guid>
+            <pubDate>Fri, 15 Oct 2021 02:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206267" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16342612451634261245565.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>그_냥</span>
+																<p>2021. 11. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16342612451634261245565.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2주의 가든 : 11]]></title>
             <link>https://tickets.interpark.com/goods/21008899</link>
@@ -166,38 +198,6 @@
 								<span>박소은</span>
 																<p>2021. 10. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16313431501631343150485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206177</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206177</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206177" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16313431011631343101596.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
-								<span>백아</span>
-																<p>2021. 10. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16313431011631343101596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 올첵]]></title>
-            <link>https://tickets.interpark.com/goods/21008603</link>
-            <guid>https://tickets.interpark.com/goods/21008603</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21008603" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16317784101631778410713.jpg">
-									</a>
-								</div>
-								<b>2021 올첵</b>
-								<span>이승환</span>
-																<p>2021. 10. 01 - 2021. 10. 02</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16317784101631778410713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
