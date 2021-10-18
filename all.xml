@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 04:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 05:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
 								<span>그_냥</span>
 																<p>2021. 11. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16342612451634261245565.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5959 LIVE : 블루파프리카 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40987&amp;groupno=40987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40987&amp;groupno=40987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 18 Oct 2021 05:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40987&amp;groupno=40987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16345337881634533788197.jpg">
+									</a>
+								</div>
+								<b>5959 LIVE : 블루파프리카</b>
+								<span>블루파프리카</span>
+																<p>2021. 11. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16345337881634533788197.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2주의 가든 : 11 (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>짙은, 신지훈</span>
 																<p>2021. 10. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16317635911631763591577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독 콘서트 Page_2 [일상] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.youtube.com/channel/UC0L1J2oXBWkZbvLG8KTPgzw/community?lb=UgyNUzdQ_GYskIIz7xx4AaABCQ</link>
-            <guid>https://www.youtube.com/channel/UC0L1J2oXBWkZbvLG8KTPgzw/community?lb=UgyNUzdQ_GYskIIz7xx4AaABCQ</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.youtube.com/channel/UC0L1J2oXBWkZbvLG8KTPgzw/community?lb=UgyNUzdQ_GYskIIz7xx4AaABCQ" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16333453051633345305947.jpg">
-									</a>
-								</div>
-								<b>단독 콘서트 Page_2 [일상]</b>
-								<span>정현욱(뽀선희)</span>
-																<p>2021. 10. 16</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16333453051633345305947.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정세운 팬미팅〈레쓰꽁 럭키!〉 (예스24 라이브홀)]]></title>
