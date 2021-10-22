@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 23:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 01:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,11 +145,11 @@
         </item>
         <item>
             <title><![CDATA[5959 LIVE : 블루파프리카 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40987&amp;groupno=40987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40987&amp;groupno=40987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 18 Oct 2021 05:20:39 GMT</pubDate>
+            <link>https://tickets.interpark.com/goods/21009978</link>
+            <guid>https://tickets.interpark.com/goods/21009978</guid>
+            <pubDate>Fri, 22 Oct 2021 01:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40987&amp;groupno=40987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+									<a href="https://tickets.interpark.com/goods/21009978" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16345337881634533788197.jpg">
 									</a>
