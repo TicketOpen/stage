@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 14:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 15:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/gn/my/rf150999128rz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오소영 데뷔 20주년 단독 콘서트]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/196</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/196</guid>
-            <pubDate>Sat, 16 Oct 2021 17:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2021.10.23
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>에프터눈레코드</dd>
-<dt>출연:</dt>
-<dd>오소영, 곽지웅, 김수환, 박혜민, 조용원</dd>
-</dl>
-<a href="/cjazit/book/view/196" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ny/vj/wz149509117sg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
