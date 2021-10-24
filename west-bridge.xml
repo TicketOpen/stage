@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp</id>
+    <title>웨스트브릿지 ─ 예정공연</title>
+    <updated>2021-10-24T10:04:36.101Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.west-bridge.co.kr/livehall/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문효진 콘서트 <바람이 된 피아노>]]></title>
+        <id>javascript:;</id>
+        <link href="javascript:;"/>
+        <updated>2021-10-24T10:04:35.463Z</updated>
+        <content type="html"><![CDATA[2021.10.30~2021.10.30]]></content>
+    </entry>
+</feed>

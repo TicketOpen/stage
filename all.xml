@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 09:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 10:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,13 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/gn/my/rf150999128rz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문효진 콘서트 <바람이 된 피아노> (웨스트브릿지 ─ 예정공연)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 24 Oct 2021 10:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.30~2021.10.30]]></content:encoded>
         </item>
     </channel>
 </rss>
