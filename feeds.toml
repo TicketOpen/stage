@@ -47,7 +47,7 @@ entrySelector = "ul.liveProduct li"
 titleSelector = "dd.pnamEllipsis a"
 linkSelector = "dd.pnamEllipsis a"
 contentSelector = "dl.liveConcertTime > dd"
-imageSelector = "div.item-thumb img"
+imageSelector = "dl:nth-child(1) > dd > a > img"
 waitUntil = "networkidle"
 onFail = "stale"
 
