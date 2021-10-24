@@ -6,4 +6,4 @@ https://ticketopen.github.io/stage/all.xml
 - CJ아지트: https://ticketopen.github.io/stage/cjazit.xml
 - 웨스트브릿지: https://ticketopen.github.io/stage/west-bridge.xml
 - 폼텍웍스홀: https://ticketopen.github.io/stage/workshall.xml
-
+- 블루스퀘어: https://ticketopen.github.io/stage/bluesquare.xml
