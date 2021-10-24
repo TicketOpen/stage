@@ -61,3 +61,13 @@ contentSelector = "a.datetime"
 imageSelector = "div.gri > figure > a > img"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[bluesquare]
+title = "블루스퀘어 ─ 공연안내"
+url = "http://www.bluesquare.kr/Goods/AllPerformanceList.asp?m_menu=performance&s_menu=all"
+entrySelector = "div.Pall"
+titleSelector = "dl dt.subject"
+linkSelector = "div.btn p:nth-child(1) a"
+contentSelector = "dl"
+imageSelector = "p.poster img"
+waitUntil = "networkidle"
