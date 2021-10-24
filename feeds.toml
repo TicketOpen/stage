@@ -71,3 +71,13 @@ linkSelector = "div.btn p:nth-child(1) a"
 contentSelector = "dl"
 imageSelector = "p.poster img"
 waitUntil = "networkidle"
+
+[sangsangmadang]
+title = "상상마당 ─ 공연정보"
+url = "https://www.sangsangmadang.com/show/HD"
+entrySelector = "ul.gallery_list.type2.movie_list li"
+titleSelector = "div.info h4"
+linkSelector = "a.thumb_type2"
+contentSelector = "div.detail span:nth-child(2)"
+imageSelector = "div.scalethumb img.lazy"
+waitUntil = "networkidle"
