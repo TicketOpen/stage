@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 10:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 10:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,7 @@
             <guid>javascript:;</guid>
             <pubDate>Sun, 24 Oct 2021 10:04:35 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.30~2021.10.30]]></content:encoded>
+            <enclosure url="http://www.west-bridge.co.kr/upfile/%EB%AC%B8%ED%9A%A8%EC%A7%84%20%20POSTER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 track.36 백아 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
