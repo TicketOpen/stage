@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블루스퀘어 ─ 공연안내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 24 Oct 2021 10:26:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑켄슈타인]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008252</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008252</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">프랑켄슈타인</dt>
+						<dd>2021.11.24 ~ 2022.02.20</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.547.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[포르테 디 콰트로 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009245</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009245</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">포르테 디 콰트로 콘서트</dt>
+						<dd>2021.11.14 ~ 2021.11.14</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168752_01.438.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[강형호 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009248</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009248</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">강형호 콘서트</dt>
+						<dd>2021.11.12 ~ 2021.11.13</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168789_01.306.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[원어스 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009339</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009339</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">원어스 콘서트</dt>
+						<dd>2021.11.06 ~ 2021.11.07</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168811_01.154.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아카이브K-ON]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167945&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167945&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">아카이브K-ON</dt>
+						<dd>2021.10.22 ~ 2021.10.23</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_167945_01.905.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[하동균 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168263&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168263&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
+						<dd>2021.10.15 ~ 2021.10.17</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168263_01.750.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[조강태 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168241&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168241&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">조강태 콘서트</dt>
+						<dd>2021.10.11 ~ 2021.10.11</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168241_01.417.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[손호영 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168351&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168351&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">손호영 콘서트</dt>
+						<dd>2021.10.09 ~ 2021.10.10</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168351_01.024.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드베리 시어터]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167967&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167967&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">사운드베리 시어터</dt>
+						<dd>2021.09.24 ~ 2021.09.25</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_167967_01.740.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[키썸 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167531&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167531&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">키썸 콘서트</dt>
+						<dd>2021.09.12 ~ 2021.09.12</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167531_01.255.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167300&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167300&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">먼데이키즈 콘서트</dt>
+						<dd>2021.09.11 ~ 2021.09.11</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167300_01.708.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[알리 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167209&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167209&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">알리 콘서트</dt>
+						<dd>2021.09.10 ~ 2021.09.10</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167209_01.211.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드베리 시어터]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167647&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167647&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">사운드베리 시어터</dt>
+						<dd>2021.09.03 ~ 2021.09.04</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167647_01.709.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아도이, 도시 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=166868&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=166868&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">아도이, 도시 콘서트</dt>
+						<dd>2021.08.21 ~ 2021.08.21</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/07/0400012107_166868_01.344.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[엑스칼리버]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005816</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005816</guid>
+            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">엑스칼리버</dt>
+						<dd>2021.08.17 ~ 2021.11.07</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167435_01.342.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
