@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,14 +360,6 @@
             <enclosure url="http://www.west-bridge.co.kr/upfile/%EB%AC%B8%ED%9A%A8%EC%A7%84%20%20POSTER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군가의 플레이리스트 track.36 백아 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=980</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=980</guid>
-            <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.24 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1633691812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[찰카기의 썰 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=989</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=989</guid>
@@ -422,6 +414,14 @@
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631587104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=986</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=986</guid>
+            <pubDate>Sun, 24 Oct 2021 15:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.20 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인 (블루스퀘어 ─ 공연안내)]]></title>
