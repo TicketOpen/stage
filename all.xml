@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 18:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,12 +416,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631587104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=986</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=986</guid>
-            <pubDate>Sun, 24 Oct 2021 15:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.20 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027180.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나만 알고 싶은 인디 Ep.1 임세모 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1002</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1002</guid>
+            <pubDate>Sun, 24 Oct 2021 18:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.21 (일) 18:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인 (블루스퀘어 ─ 공연안내)]]></title>
