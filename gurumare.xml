@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 09:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 10:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,13 +15,29 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://www.instagram.com/p/CU7IpTSF3Wz/" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16342647721634264772143.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg">
 									</a>
 								</div>
 								<b>정기단독공연 &lt;춥지 않은 겨울밤&gt;</b>
 								<span>정밀아</span>
 																<p>2021. 12. 03 - 2021. 12. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16342647721634264772143.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight1120：Bandage편]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5564</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5564</guid>
+            <pubDate>Mon, 25 Oct 2021 10:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/csoon/detail.htm?csoonId=5564" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg">
+									</a>
+								</div>
+								<b>Flight1120：Bandage편</b>
+								<span>밴디지 (Bandage)</span>
+																<p>2021. 11. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
@@ -182,22 +198,6 @@
 								<span>브로콜리너마저</span>
 																<p>2021. 10. 18 - 2021. 10. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16323742151632374215178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름닮은-라이브 VOL.6]]></title>
-            <link>https://tickets.interpark.com/goods/21008624</link>
-            <guid>https://tickets.interpark.com/goods/21008624</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21008624" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16317635911631763591577.jpg">
-									</a>
-								</div>
-								<b>구름닮은-라이브 VOL.6</b>
-								<span>짙은, 신지훈</span>
-																<p>2021. 10. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16317635911631763591577.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
