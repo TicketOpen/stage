@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 01:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,6 +458,16 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.547.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[크래비티 팬미팅 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009819</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009819</guid>
+            <pubDate>Tue, 26 Oct 2021 02:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">크래비티 팬미팅</dt>
+						<dd>2021.11.20 ~ 2021.11.21</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_169357_01.459.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[포르테 디 콰트로 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009245</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009245</guid>
@@ -479,9 +489,9 @@
         </item>
         <item>
             <title><![CDATA[원어스 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009339</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009339</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009311</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009311</guid>
+            <pubDate>Tue, 26 Oct 2021 02:33:46 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">원어스 콘서트</dt>
 						<dd>2021.11.06 ~ 2021.11.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
@@ -586,16 +596,6 @@
 						<dd>2021.08.21 ~ 2021.08.21</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/07/0400012107_166868_01.344.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[엑스칼리버 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005816</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005816</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">엑스칼리버</dt>
-						<dd>2021.08.17 ~ 2021.11.07</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167435_01.342.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[허클베리핀 17th 옐로우 콘서트 (상상마당 ─ 공연정보)]]></title>
