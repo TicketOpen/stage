@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 02:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 03:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,14 +318,6 @@
             <pubDate>Thu, 14 Oct 2021 02:33:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 (금) 19:30]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (예스24 라이브홀)]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1024&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211203</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1024&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211203</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03 (금) 20:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/IBwH26cxT0dSgkVRKXhFD1bNWPMmYeGJEsZifj8OU7pz5tyQqLr9ao34luCvnA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단편영화 상영회 <STORYUP SHORTS> (CJ문화재단 ─ 공연예매)]]></title>
