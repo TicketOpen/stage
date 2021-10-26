@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -618,6 +618,13 @@
             <content:encoded><![CDATA[2021.10.30~2021.10.30]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[슈가레코드 레이블 콘서트 Vol. 4 앵콜 조인트 공연 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1955</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1955</guid>
+            <pubDate>Tue, 26 Oct 2021 09:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27~2021.10.27]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The First Penten Tour : To Manchester (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1935</link>
             <guid>https://www.sangsangmadang.com/show/detail/1935</guid>
@@ -721,13 +728,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1878</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.04.10~2021.04.11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9와숫자들  <몽땅쑈vol3> (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1853</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1853</guid>
-            <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.03.13~2021.03.14]]></content:encoded>
         </item>
     </channel>
 </rss>
