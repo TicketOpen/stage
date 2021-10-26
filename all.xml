@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 05:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 06:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -611,6 +611,13 @@
             <content:encoded><![CDATA[2021.11.04~2021.11.04]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[＜음악가의 서평: 차세대＞ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1954</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1954</guid>
+            <pubDate>Tue, 26 Oct 2021 06:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.30~2021.10.30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The First Penten Tour : To Manchester (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1935</link>
             <guid>https://www.sangsangmadang.com/show/detail/1935</guid>
@@ -721,13 +728,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1853</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.13~2021.03.14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[민트페스타 vol.66 ~ Taurus (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1725</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1725</guid>
-            <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2020.02.23~2020.02.23]]></content:encoded>
         </item>
     </channel>
 </rss>
