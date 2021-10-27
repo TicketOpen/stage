@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 03:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 04:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케빈오 단독 콘서트：After Tonight (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=416&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=416&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 27 Oct 2021 04:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 12월 11일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/416/953256573_ECBC80EBB988EC98A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터문 단독 콘서트 : After Tonight (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=415&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=415&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 27 Oct 2021 04:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 12월 10일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/415/195354935_5BED8FACEC8AA4ED84B05D20121020EC95A0ED9484ED84B0EBACB8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결 단독 콘서트：Little Things (롤링홀)]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 11월 06일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/407/1828774115_2021.11.0620EC9588EB8F99ED8E98EC8AA4ED8BB0EBB28C_RGB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트 단독콘서트 <Halloween GIFT> (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=406&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=406&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 10월 31일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/406/1305485122_EAB8B0ED9484ED8AB8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트 단독콘서트 <Halloween GIFT> (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=405&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=405&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 10월 30일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/405/828340661_EAB8B0ED9484ED8AB8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정기단독공연 <춥지 않은 겨울밤> (구름아래소극장 ─ 공연안내)]]></title>
