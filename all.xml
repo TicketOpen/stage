@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="http://www.west-bridge.co.kr/upfile/%EB%AC%B8%ED%9A%A8%EC%A7%84%20%20POSTER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찰카기의 썰 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=989</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=989</guid>
-            <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28 (목) 17:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027157.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이지형 가을콘서트 LIVE  'MAKE A WISH' (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=981</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=981</guid>
@@ -462,6 +454,14 @@
             <pubDate>Thu, 28 Oct 2021 12:36:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.16 (화) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KPIPA 디지털 북센터 오디오북 특강 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1018</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1018</guid>
+            <pubDate>Thu, 28 Oct 2021 15:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17 (수) 14:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인 (블루스퀘어 ─ 공연안내)]]></title>
