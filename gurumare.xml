@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최항석과 부기몬스터 겨울 콘서트]]></title>
+            <link>https://tickets.interpark.com/goods/21010374</link>
+            <guid>https://tickets.interpark.com/goods/21010374</guid>
+            <pubDate>Thu, 28 Oct 2021 03:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21010374" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg">
+									</a>
+								</div>
+								<b>최항석과 부기몬스터 겨울 콘서트</b>
+								<span>최항석과 부기몬스터</span>
+																<p>2021. 12. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정기단독공연 <춥지 않은 겨울밤>]]></title>
             <link>https://www.instagram.com/p/CU7IpTSF3Wz/</link>
@@ -182,22 +198,6 @@
 								<span>김마리</span>
 																<p>2021. 10. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16330763371633076337949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제7회 흥 페스티벌]]></title>
-            <link>https://www.culture.go.kr/ticket/product/detail/new/PR009409</link>
-            <guid>https://www.culture.go.kr/ticket/product/detail/new/PR009409</guid>
-            <pubDate>Fri, 15 Oct 2021 04:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.culture.go.kr/ticket/product/detail/new/PR009409" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16342695921634269592235.jpg">
-									</a>
-								</div>
-								<b>제7회 흥 페스티벌</b>
-								<span>전문 국악 축제</span>
-																<p>2021. 10. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16342695921634269592235.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
