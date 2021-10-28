@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 01:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 02:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 CJ문화재단 X 버클리음대 뮤직콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/201</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/201</guid>
+            <pubDate>Thu, 28 Oct 2021 02:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2021.11.06
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>이상민, 황로규, 컬러리스트리오 등</dd>
+</dl>
+<a href="/cjazit/book/view/201" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/fx/lz/bq152189934wy.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단편영화 상영회 <STORYUP SHORTS>]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/200</link>

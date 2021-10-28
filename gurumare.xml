@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 01:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 02:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>정밀아</span>
 																<p>2021. 12. 03 - 2021. 12. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5959 LIVE : 강아솔]]></title>
+            <link>https://tickets.interpark.com/goods/21010549</link>
+            <guid>https://tickets.interpark.com/goods/21010549</guid>
+            <pubDate>Thu, 28 Oct 2021 02:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21010549" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16353859441635385944378.jpg">
+									</a>
+								</div>
+								<b>5959 LIVE : 강아솔</b>
+								<span>강아솔</span>
+																<p>2021. 11. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16353859441635385944378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flight1120：Bandage편]]></title>
@@ -182,22 +198,6 @@
 								<span>전문 국악 축제</span>
 																<p>2021. 10. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16342695921634269592235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤 #5]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206201</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206201</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206201" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16323742151632374215178.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [청춘의 밤 #5]</b>
-								<span>브로콜리너마저</span>
-																<p>2021. 10. 18 - 2021. 10. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16323742151632374215178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
