@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-10-29T05:22:06.023Z</updated>
+    <updated>2021-10-29T06:28:30.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우예린 [Night : 여름에 노란 꽃이 밤에만 핀다]]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1958</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1958"/>
+        <updated>2021-10-29T06:28:29.917Z</updated>
+        <content type="html"><![CDATA[2021.11.17~2021.11.17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허클베리핀 17th 옐로우 콘서트]]></title>
         <id>https://www.sangsangmadang.com/show/detail/1953</id>
@@ -25,6 +32,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/1950"/>
         <updated>2021-10-24T10:48:39.294Z</updated>
         <content type="html"><![CDATA[2021.11.04~2021.11.04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인 스트리밍 공연 [밴드의시대5] - 2021 밴드디스커버리 특집]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1957</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1957"/>
+        <updated>2021-10-29T06:28:29.920Z</updated>
+        <content type="html"><![CDATA[2021.11.02~2021.11.02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜음악가의 서평: 차세대＞]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1880"/>
         <updated>2021-10-24T10:48:39.307Z</updated>
         <content type="html"><![CDATA[2021.05.29~2021.05.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상상@ VOL.1 Too Fast to Live, Too Young to Die]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1879</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1879"/>
-        <updated>2021-10-24T10:48:39.308Z</updated>
-        <content type="html"><![CDATA[2021.05.28~2021.05.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사비나앤드론즈 「The Unfinished Melody」]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1878</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1878"/>
-        <updated>2021-10-24T10:48:39.309Z</updated>
-        <content type="html"><![CDATA[2021.04.10~2021.04.11]]></content>
     </entry>
 </feed>

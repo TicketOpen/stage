@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,22 @@
 								<span>최항석과 부기몬스터</span>
 																<p>2021. 12. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 콘서트 〈Winter Land〉 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206317#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206317#skip_nav</guid>
+            <pubDate>Fri, 29 Oct 2021 06:27:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206317#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16354866261635486626935.jpg">
+									</a>
+								</div>
+								<b>크리스마스 콘서트 〈Winter Land〉</b>
+								<span>새벽공방</span>
+																<p>2021. 12. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16354866261635486626935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정기단독공연 <춥지 않은 겨울밤> (구름아래소극장 ─ 공연안내)]]></title>
@@ -288,22 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16327240211632724021925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206213</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206213</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206213" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16330763371633076337949.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
-								<span>김마리</span>
-																<p>2021. 10. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16330763371633076337949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 권진아 단독공연 ＇우리의 방식＇ (예스24 라이브홀)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1097&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211029</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1097&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211029</guid>
@@ -318,6 +318,30 @@
             <pubDate>Thu, 14 Oct 2021 02:33:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 (금) 19:30]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이치얼랏  단독 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/202</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/202</guid>
+            <pubDate>Fri, 29 Oct 2021 06:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2021.11.19 ~ 2021.11.20
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>H a lot (에이치얼랏)</dd>
+<dt>출연:</dt>
+<dd>H a lot (에이치얼랏)</dd>
+</dl>
+<a href="/cjazit/book/view/202" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/rj/iy/ap152291157ak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 CJ문화재단 X 버클리음대 뮤직콘서트 (CJ문화재단 ─ 공연예매)]]></title>
@@ -614,6 +638,13 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/07/0400012107_166868_01.344.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[우예린 [Night : 여름에 노란 꽃이 밤에만 핀다] (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1958</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1958</guid>
+            <pubDate>Fri, 29 Oct 2021 06:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17~2021.11.17]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[허클베리핀 17th 옐로우 콘서트 (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1953</link>
             <guid>https://www.sangsangmadang.com/show/detail/1953</guid>
@@ -633,6 +664,13 @@
             <guid>https://www.sangsangmadang.com/show/detail/1950</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.04~2021.11.04]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온라인 스트리밍 공연 [밴드의시대5] - 2021 밴드디스커버리 특집 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1957</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1957</guid>
+            <pubDate>Fri, 29 Oct 2021 06:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02~2021.11.02]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[＜음악가의 서평: 차세대＞ (상상마당 ─ 공연정보)]]></title>
@@ -738,20 +776,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1880</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.05.29~2021.05.29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[상상@ VOL.1 Too Fast to Live, Too Young to Die (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1879</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1879</guid>
-            <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.28~2021.05.28]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사비나앤드론즈 「The Unfinished Melody」 (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1878</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1878</guid>
-            <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.04.10~2021.04.11]]></content:encoded>
         </item>
     </channel>
 </rss>
