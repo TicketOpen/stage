@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 03:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,20 +432,20 @@
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대관공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <title><![CDATA[아톰뮤직하트 단독공연 리허설 대관 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=996</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=996</guid>
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11 (목) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631587076.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <title><![CDATA[아톰뮤직하트 단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=997</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=997</guid>
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631587104.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
