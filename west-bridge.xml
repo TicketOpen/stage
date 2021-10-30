@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>웨스트브릿지 ─ 예정공연</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 14:21:34 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[문효진 콘서트 <바람이 된 피아노>]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 24 Oct 2021 10:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.30~2021.10.30]]></content:encoded>
-            <enclosure url="http://www.west-bridge.co.kr/upfile/%EB%AC%B8%ED%9A%A8%EC%A7%84%20%20POSTER.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp</id>
+    <title>웨스트브릿지 ─ 예정공연</title>
+    <updated>2021-10-30T15:24:48.335Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.west-bridge.co.kr/livehall/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp</id>
+        <link href="http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp"/>
+        <updated>2021-10-30T15:24:07.474Z</updated>
+        <content type="html"><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content>
+    </entry>
+</feed>
