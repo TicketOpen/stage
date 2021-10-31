@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 14:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 15:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,30 +78,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/zb/ez/xk151935457cr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위수 단독 공연<위수의 사계>]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/197</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/197</guid>
-            <pubDate>Sat, 16 Oct 2021 17:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2021.10.30 ~ 2021.10.31
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>위수</dd>
-<dt>출연:</dt>
-<dd>위수</dd>
-</dl>
-<a href="/cjazit/book/view/197" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/gn/my/rf150999128rz.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 14:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 15:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16327240211632724021925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 권진아 단독공연 ＇우리의 방식＇ (예스24 라이브홀)]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1097&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211031</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1097&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211031</guid>
-            <pubDate>Sat, 30 Oct 2021 15:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 (일) 17:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/tukZi1E5DoWN29xjBpHsbF7wOQLenJmdPa0KGcAT4CX3lqzrMRY86IVhUgSvfy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 (예스24 라이브홀)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1108&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211119</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1108&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211119</guid>
@@ -392,43 +384,11 @@
             <enclosure url="https://www.cjazit.org/image/schedule/zb/ez/xk151935457cr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위수 단독 공연<위수의 사계> (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/197</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/197</guid>
-            <pubDate>Sat, 16 Oct 2021 17:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2021.10.30 ~ 2021.10.31
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>위수</dd>
-<dt>출연:</dt>
-<dd>위수</dd>
-</dl>
-<a href="/cjazit/book/view/197" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/gn/my/rf150999128rz.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 31 Oct 2021 14:20:40 GMT</pubDate>
+            <pubDate>Sun, 31 Oct 2021 15:24:03 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이지형 가을콘서트 LIVE  'MAKE A WISH' (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=982</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=982</guid>
-            <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.31 (일) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1634775014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track.37 정해일x문빛 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -485,6 +445,14 @@
             <pubDate>Sat, 30 Oct 2021 15:24:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17 (수) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1017</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1017</guid>
+            <pubDate>Sun, 31 Oct 2021 15:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.18 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420367.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인 (블루스퀘어 ─ 공연안내)]]></title>
