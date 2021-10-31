@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 10:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 11:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -419,7 +419,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 31 Oct 2021 10:25:57 GMT</pubDate>
+            <pubDate>Sun, 31 Oct 2021 11:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
