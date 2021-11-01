@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -387,7 +387,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 01 Nov 2021 03:25:10 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 04:30:37 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -396,7 +396,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=994</guid>
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.06 (토) 18:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.2 임소정 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -404,7 +404,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=995</guid>
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.07 (일) 18:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739439.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아톰뮤직하트 단독공연 리허설 대관 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -412,7 +412,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=996</guid>
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11 (목) 00:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739460.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아톰뮤직하트 단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -420,15 +420,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=997</guid>
             <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12 (금) 20:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1015</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1015</guid>
-            <pubDate>Thu, 28 Oct 2021 12:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16 (화) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420337.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 오디오북 특강 '듣는 책'의 시대를 열다 - 오디오북 시대의 도래 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -439,20 +431,28 @@
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1016</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1016</guid>
-            <pubDate>Sat, 30 Oct 2021 15:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.17 (수) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420352.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나만 알고 싶은 인디 Ep.1 임세모 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1002</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1002</guid>
+            <pubDate>Mon, 01 Nov 2021 04:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.21 (일) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739577.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1017</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1017</guid>
-            <pubDate>Sun, 31 Oct 2021 15:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635420367.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SHOWCASE WORKS 정재동 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1000</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1000</guid>
+            <pubDate>Mon, 01 Nov 2021 04:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24 (수) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739388.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰카기의 썰 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=992</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=992</guid>
+            <pubDate>Mon, 01 Nov 2021 04:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25 (목) 19:30]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인 (블루스퀘어 ─ 공연안내)]]></title>
