@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 06:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 07:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 01 Nov 2021 06:28:54 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 07:24:12 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -436,7 +436,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1018</guid>
             <pubDate>Thu, 28 Oct 2021 15:25:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17 (수) 14:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635750566.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.1 임세모 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
