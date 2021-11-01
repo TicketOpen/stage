@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 23:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 01:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -387,7 +387,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 31 Oct 2021 23:24:23 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 01:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -612,6 +612,13 @@
             <content:encoded><![CDATA[2021.11.17~2021.11.17]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2021 Made in Daegu (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1959</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1959</guid>
+            <pubDate>Mon, 01 Nov 2021 01:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.14~2021.11.14]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[허클베리핀 17th 옐로우 콘서트 (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1953</link>
             <guid>https://www.sangsangmadang.com/show/detail/1953</guid>
@@ -736,13 +743,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1881</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.05.30~2021.05.30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[상상@ VOL.2 ROCK STATION (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1880</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1880</guid>
-            <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.29~2021.05.29]]></content:encoded>
         </item>
     </channel>
 </rss>

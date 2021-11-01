@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-10-31T23:25:10.514Z</updated>
+    <updated>2021-11-01T01:15:34.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/1958"/>
         <updated>2021-10-29T06:28:29.917Z</updated>
         <content type="html"><![CDATA[2021.11.17~2021.11.17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Made in Daegu]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1959</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1959"/>
+        <updated>2021-11-01T01:15:34.248Z</updated>
+        <content type="html"><![CDATA[2021.11.14~2021.11.14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[허클베리핀 17th 옐로우 콘서트]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1881"/>
         <updated>2021-10-24T10:48:39.307Z</updated>
         <content type="html"><![CDATA[2021.05.30~2021.05.30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상상@ VOL.2 ROCK STATION]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1880</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1880"/>
-        <updated>2021-10-24T10:48:39.307Z</updated>
-        <content type="html"><![CDATA[2021.05.29~2021.05.29]]></content>
     </entry>
 </feed>
