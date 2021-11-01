@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 04:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 소극장 단독 콘서트：Dear december (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=419&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=419&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Mon, 01 Nov 2021 05:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 12월 05일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/419/880336416_ED9484EBA1AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 소극장 단독 콘서트：Dear december (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=418&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=418&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Mon, 01 Nov 2021 05:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 12월 04일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/418/269444172_ED9484EBA1AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트：Prequel (속편) (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=417&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=417&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Mon, 01 Nov 2021 05:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 11월 28일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/417/1283209200_EBA7A5EAB1B0ED9580.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케빈오 단독 콘서트：After Tonight (롤링홀)]]></title>
@@ -86,30 +110,6 @@
             <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 11월 18일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/410/1889892240_TVT20ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Volunteers 단독공연 〈Join the TVT Club〉 (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=409&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=409&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 11월 11일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/409/859236376_TVT20ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 단독 콘서트 : 오두막 (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=408&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=408&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 11월 05일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/408/1718200169_EC9BB9ED8FACEC8AA4ED84B0_1105-EC9DB4ECA09C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RE:SPES ANDONG 2021×롤링홀 (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=407&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=407&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 11월 06일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/407/1170221730_EBA6ACEC8AA4ED8E98EC8AA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최항석과 부기몬스터 겨울 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
@@ -312,6 +312,14 @@
             <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL） (예스24 라이브홀)]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1110&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1110&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</guid>
+            <pubDate>Mon, 01 Nov 2021 05:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22 (금) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/1ePOrUKBnVy4fbXzQMLRY9FwGtD3pdljkH02TuZCq6NEgc7si8hv5JSAmaIoWx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에이치얼랏  단독 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/202</link>
             <guid>https://www.cjazit.org/cjazit/book/view/202</guid>
@@ -387,7 +395,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 01 Nov 2021 04:30:37 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 05:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>

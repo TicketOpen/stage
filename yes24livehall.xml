@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 04:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 14 Oct 2021 02:33:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 (금) 19:30]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1110&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1110&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</guid>
+            <pubDate>Mon, 01 Nov 2021 05:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22 (금) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/1ePOrUKBnVy4fbXzQMLRY9FwGtD3pdljkH02TuZCq6NEgc7si8hv5JSAmaIoWx.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
