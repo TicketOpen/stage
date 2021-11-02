@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,11 +145,11 @@
         </item>
         <item>
             <title><![CDATA[정기단독공연 <춥지 않은 겨울밤> (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.instagram.com/p/CU7IpTSF3Wz/</link>
-            <guid>https://www.instagram.com/p/CU7IpTSF3Wz/</guid>
-            <pubDate>Fri, 15 Oct 2021 02:35:05 GMT</pubDate>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206330</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206330</guid>
+            <pubDate>Tue, 02 Nov 2021 08:27:29 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CU7IpTSF3Wz/" target="_blank">
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206330" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg">
 									</a>
@@ -312,7 +312,31 @@
             <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스테이지업 쇼케이스 뮤지컬 <던컨> 1회차(오후 4시) (CJ문화재단 ─ 공연예매)]]></title>
+            <title><![CDATA[스테이지업 쇼케이스 <던컨> 2회차(오후7시 30분) (CJ문화재단 ─ 공연예매)]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/204</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/204</guid>
+            <pubDate>Tue, 02 Nov 2021 08:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2021.11.08
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 대학로</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>홍륜희, 전혜주, 김리, 임별</dd>
+</dl>
+<a href="/cjazit/book/view/204" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/ac/jt/tj152641648cq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스테이지업 쇼케이스 <던컨> 1회차(오후 4시) (CJ문화재단 ─ 공연예매)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/203</link>
             <guid>https://www.cjazit.org/cjazit/book/view/203</guid>
             <pubDate>Tue, 02 Nov 2021 03:24:42 GMT</pubDate>
@@ -411,7 +435,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 02 Nov 2021 07:22:48 GMT</pubDate>
+            <pubDate>Tue, 02 Nov 2021 08:27:52 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
