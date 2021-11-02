@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 04:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 오디오북 특강 '듣는 책'의 시대를 열다 - 오디오북 시대의 도래]]></title>
+            <title><![CDATA[[2021 오디오북 특강] 지금, 책을 켜다 - 오디오북 시장의 확장과 미래]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1018</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1018</guid>
             <pubDate>Thu, 28 Oct 2021 15:25:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17 (수) 14:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635750566.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.1 임세모 단독 콘서트]]></title>
