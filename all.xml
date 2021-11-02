@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 03:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 04:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -411,7 +411,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 02 Nov 2021 03:24:48 GMT</pubDate>
+            <pubDate>Tue, 02 Nov 2021 04:30:53 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -664,6 +664,13 @@
             <content:encoded><![CDATA[2021.11.04~2021.11.04]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모트 단독공연［소중함에 대하여］ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1963</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1963</guid>
+            <pubDate>Tue, 02 Nov 2021 04:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.03~2021.11.03]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[온라인 스트리밍 공연 [밴드의시대5] - 2021 밴드디스커버리 특집 (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1957</link>
             <guid>https://www.sangsangmadang.com/show/detail/1957</guid>
@@ -760,13 +767,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1882</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.05~2021.06.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크루셜스타 데뷔 10주년 기념 [ 별밤 3 : STARRY NIGHTT 3 ] (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1881</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1881</guid>
-            <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.30~2021.05.30]]></content:encoded>
         </item>
     </channel>
 </rss>
