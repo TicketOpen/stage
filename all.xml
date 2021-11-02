@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 02:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 03:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,30 @@
             <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 스테이지업 뮤지컬 리딩쇼케이스 <던컨> (CJ문화재단 ─ 공연예매)]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/203</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/203</guid>
+            <pubDate>Tue, 02 Nov 2021 03:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2021.11.08
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 대학로</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>홍륜희, 전혜주, 김리, 임별</dd>
+</dl>
+<a href="/cjazit/book/view/203" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/te/cm/fk152621220jq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에이치얼랏  단독 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/202</link>
             <guid>https://www.cjazit.org/cjazit/book/view/202</guid>
@@ -387,7 +411,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 02 Nov 2021 02:36:47 GMT</pubDate>
+            <pubDate>Tue, 02 Nov 2021 03:24:48 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
