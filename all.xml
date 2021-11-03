@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 03:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 04:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -435,7 +435,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 03:24:57 GMT</pubDate>
+            <pubDate>Wed, 03 Nov 2021 04:30:30 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -501,6 +501,16 @@
             <pubDate>Mon, 01 Nov 2021 04:30:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25 (목) 19:30]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169613&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169613&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Wed, 03 Nov 2021 04:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">정동원 콘서트</dt>
+						<dd>2021.11.26 ~ 2021.11.28</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인 (블루스퀘어 ─ 공연안내)]]></title>
@@ -641,16 +651,6 @@
 						<dd>2021.09.03 ~ 2021.09.04</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167647_01.709.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아도이, 도시 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=166868&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=166868&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">아도이, 도시 콘서트</dt>
-						<dd>2021.08.21 ~ 2021.08.21</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/07/0400012107_166868_01.344.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[우예린 [Night : 여름에 노란 꽃이 밤에만 핀다] (상상마당 ─ 공연정보)]]></title>
