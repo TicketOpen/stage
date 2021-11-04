@@ -80,3 +80,13 @@ titleSelector = "div.info h4"
 linkSelector = "a.thumb_type2"
 contentSelector = "div.detail span:nth-child(2)"
 waitUntil = "networkidle"
+
+[samsunghall]
+title = "이화여대 삼성홀"
+url = "http://samsunghall.interpark.com/performance/ListAjax.asp"
+entrySelector = "body > table > tbody > tr:nth-child(2) > td:nth-child(3) > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1),tr:nth-child(5),tr:nth-child(9),tr:nth-child(13),tr:nth-child(17),tr:nth-child(21),tr:nth-child(25),tr:nth-child(29),tr:nth-child(33),tr:nth-child(37),tr:nth-child(41),tr:nth-child(45),tr:nth-child(49),tr:nth-child(53),tr:nth-child(57),tr:nth-child(61)"
+titleSelector = "td:nth-child(3) > p"
+linkSelector = "a:nth-child(8)"
+contentSelector = "td:nth-child(3)"
+imageSelector = "td:nth-child(1) > img"
+waitUntil = "networkidle"
