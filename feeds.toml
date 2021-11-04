@@ -97,3 +97,12 @@ url = "https://linktr.ee/prismhall"
 entrySelector = "div.sc-dQppl.jjdMus"
 titleSelector = "p[class='sc-hBEYos Button__StyledText-sc-uh5tyw-0 cqgIKE rsIfq']"
 linkSelector = "a[class='sc-hHftDr StyledButton-sc-686c3k-0 egoGPQ dLjCyh']"
+
+[nestnada_inpock]
+title = "네스트나다 ─ 인포크링크"
+url = "https://link.inpock.co.kr/nestnada"
+entrySelector = "div.link.gtm-link-click-visitor"
+titleSelector = "p[class='inpock-typography paragraph-2 titleClass title']"
+linkSelector = "a.link-a"
+imageSelector = "div.image"
+waitUntil = "networkidle"
