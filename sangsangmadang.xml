@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-11-04T06:28:38.771Z</updated>
+    <updated>2021-11-04T07:23:05.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/1946"/>
         <updated>2021-10-24T10:48:39.294Z</updated>
         <content type="html"><![CDATA[2021.11.11~2021.11.12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레인보우 노트 단독공연［Animation］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1969</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1969"/>
+        <updated>2021-11-04T07:23:04.982Z</updated>
+        <content type="html"><![CDATA[2021.11.10~2021.11.10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투데이올드스니커즈 첫 단독공연 [여기서 빛난다]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1908"/>
         <updated>2021-10-24T10:48:39.306Z</updated>
         <content type="html"><![CDATA[2021.07.20~2021.07.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리어코스티 'tiny festival']]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1883</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1883"/>
-        <updated>2021-10-24T10:48:39.306Z</updated>
-        <content type="html"><![CDATA[2021.06.19~2021.06.20]]></content>
     </entry>
 </feed>
