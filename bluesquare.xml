@@ -4,18 +4,18 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 01:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[정동원 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169613&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169613&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 03 Nov 2021 04:30:46 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010860</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010860</guid>
+            <pubDate>Thu, 04 Nov 2021 02:36:29 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">정동원 콘서트</dt>
 						<dd>2021.11.26 ~ 2021.11.28</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169613_01.941.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[프랑켄슈타인]]></title>
