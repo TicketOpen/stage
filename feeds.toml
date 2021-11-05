@@ -91,6 +91,13 @@ contentSelector = "td:nth-child(3)"
 imageSelector = "td:nth-child(1) > img"
 waitUntil = "networkidle"
 
+[ctrsound_linktree]
+title = "씨티알사운드 ─ 링크트리"
+url = "https://linktr.ee/CTRSOUND"
+entrySelector = "div.sc-bdfBwQ.pkAuV"
+titleSelector = "p[class='sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq']"
+linkSelector = "a[class='sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh']"
+
 [prismhall_linktree]
 title = "프리즘홀 ─ 링크트리"
 url = "https://linktr.ee/prismhall"
