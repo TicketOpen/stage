@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 02:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 03:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -435,7 +435,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 05 Nov 2021 02:35:43 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 03:24:59 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -554,9 +554,9 @@
         </item>
         <item>
             <title><![CDATA[하동균 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008477</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008477</guid>
-            <pubDate>Fri, 05 Nov 2021 02:36:01 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008472</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008472</guid>
+            <pubDate>Fri, 05 Nov 2021 03:25:16 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
 						<dd>2021.11.08 ~ 2021.11.30</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
@@ -1064,7 +1064,7 @@
             <title><![CDATA[10월 14일 목요일 8시 ﻿"oo_mool Serenade Vol.2 10/10(일)오전 10:00 예매 오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 05 Nov 2021 02:36:46 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 03:25:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/10/7/thumb@300_2021-10-7-1633583094261.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">10월 14일 목요일 8시 ﻿"oo_mool Serenade Vol.2 10/10(일)오전 10:00 예매 오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/10/7/thumb@300_2021-10-7-1633583094261.png" length="0" type="image/png"/>
         </item>
@@ -1072,7 +1072,7 @@
             <title><![CDATA[10월 23일, 24일 "Festival NADA 2021" 10/5(화) 오후 2시 YES 24 티켓오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 05 Nov 2021 02:36:46 GMT</pubDate>
+            <pubDate>Fri, 05 Nov 2021 03:25:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/9/30/thumb@300_2021-9-30-1632971699205.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">10월 23일, 24일 "Festival NADA 2021" 10/5(화) 오후 2시 YES 24 티켓오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/9/30/thumb@300_2021-9-30-1632971699205.png" length="0" type="image/png"/>
         </item>
