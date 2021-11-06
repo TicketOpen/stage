@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 14:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 15:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track.37 정해일x문빛 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=994</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=994</guid>
-            <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.06 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739420.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.2 임소정 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=995</link>
@@ -70,6 +62,14 @@
             <pubDate>Mon, 01 Nov 2021 04:30:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25 (목) 19:30]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track.38 정아로 단독 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1012</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1012</guid>
+            <pubDate>Sat, 06 Nov 2021 15:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1636118793.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

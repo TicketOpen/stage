@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 14:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 15:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,30 +384,6 @@
             <enclosure url="https://www.cjazit.org/image/schedule/rj/iy/ap152291157ak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 CJ문화재단 X 버클리음대 뮤직콘서트 (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/201</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/201</guid>
-            <pubDate>Thu, 28 Oct 2021 02:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2021.11.06
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>이상민, 황로규, 컬러리스트리오 등</dd>
-</dl>
-<a href="/cjazit/book/view/201" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/fx/lz/bq152189934wy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[단편영화 상영회 <STORYUP SHORTS> (CJ문화재단 ─ 공연예매)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/200</link>
             <guid>https://www.cjazit.org/cjazit/book/view/200</guid>
@@ -435,16 +411,8 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 06 Nov 2021 14:21:15 GMT</pubDate>
+            <pubDate>Sat, 06 Nov 2021 15:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track.37 정해일x문빛 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=994</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=994</guid>
-            <pubDate>Sun, 24 Oct 2021 10:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.06 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1635739420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.2 임소정 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -501,6 +469,14 @@
             <pubDate>Mon, 01 Nov 2021 04:30:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25 (목) 19:30]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1631027234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track.38 정아로 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1012</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1012</guid>
+            <pubDate>Sat, 06 Nov 2021 15:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1636118793.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정동원 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
@@ -1008,7 +984,7 @@
             <title><![CDATA[강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' & 이벤트 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 06 Nov 2021 14:22:03 GMT</pubDate>
+            <pubDate>Sat, 06 Nov 2021 15:24:51 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' &amp; 이벤트</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1120,7 +1096,7 @@
             <title><![CDATA[10월 14일 목요일 8시 ﻿"oo_mool Serenade Vol.2 10/10(일)오전 10:00 예매 오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 06 Nov 2021 14:22:15 GMT</pubDate>
+            <pubDate>Sat, 06 Nov 2021 15:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/10/7/thumb@300_2021-10-7-1633583094261.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">10월 14일 목요일 8시 ﻿"oo_mool Serenade Vol.2 10/10(일)오전 10:00 예매 오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/10/7/thumb@300_2021-10-7-1633583094261.png" length="0" type="image/png"/>
         </item>
@@ -1128,7 +1104,7 @@
             <title><![CDATA[10월 23일, 24일 "Festival NADA 2021" 10/5(화) 오후 2시 YES 24 티켓오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 06 Nov 2021 14:22:15 GMT</pubDate>
+            <pubDate>Sat, 06 Nov 2021 15:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/9/30/thumb@300_2021-9-30-1632971699205.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">10월 23일, 24일 "Festival NADA 2021" 10/5(화) 오후 2시 YES 24 티켓오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/9/30/thumb@300_2021-9-30-1632971699205.png" length="0" type="image/png"/>
         </item>
