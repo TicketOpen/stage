@@ -4,9 +4,57 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 13:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 14:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STAGEUP 벤자민 버튼의 시간은 거꾸로 간다-2회]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/206</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/206</guid>
+            <pubDate>Sun, 07 Nov 2021 14:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2021.11.15
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 대학로</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>김승대, 박은미, 김나윤, 이민재, 이승현</dd>
+</dl>
+<a href="/cjazit/book/view/206" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/hx/qp/pi153079758rw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAGEUP 벤자민 버튼의 시간은 거꾸로 간다-1회]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/205</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/205</guid>
+            <pubDate>Sun, 07 Nov 2021 14:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2021.11.15
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 대학로</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>김승대, 박은미, 김나윤, 이민재, 이승현</dd>
+</dl>
+<a href="/cjazit/book/view/205" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/qq/pn/dl153079512tw.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스테이지업 쇼케이스 <던컨> 2회차(오후7시 30분)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/204</link>
