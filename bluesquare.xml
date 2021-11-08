@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 23:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 01:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,7 +83,7 @@
             <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168263&amp;m_menu=performance&amp;s_menu=info</guid>
             <pubDate>Fri, 05 Nov 2021 04:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
-						<dd>2021.10.15 ~ 2021.10.15</dd>
+						<dd>2021.10.15 ~ 2021.10.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168263_01.750.gif" length="0" type="image/gif"/>
         </item>
