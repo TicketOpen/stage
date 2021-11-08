@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>정밀아</span>
 																<p>2021. 12. 03 - 2021. 12. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충돌의 일상]]></title>
+            <link>https://blog.naver.com/ws9498/222562016912</link>
+            <guid>https://blog.naver.com/ws9498/222562016912</guid>
+            <pubDate>Mon, 08 Nov 2021 07:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/ws9498/222562016912" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16363542901636354290179.jpg">
+									</a>
+								</div>
+								<b>충돌의 일상</b>
+								<span>작곡가 최원석</span>
+																<p>2021. 11. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16363542901636354290179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5959 LIVE : 강아솔]]></title>
@@ -182,22 +198,6 @@
 								<span>안다영</span>
 																<p>2021. 10. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16342687461634268746144.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[All Live - Playlist] Chapter.3]]></title>
-            <link>https://tickets.interpark.com/goods/21009024</link>
-            <guid>https://tickets.interpark.com/goods/21009024</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21009024" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16327240211632724021925.jpg">
-									</a>
-								</div>
-								<b>[All Live - Playlist] Chapter.3</b>
-								<span>정우</span>
-																<p>2021. 10. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16327240211632724021925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
