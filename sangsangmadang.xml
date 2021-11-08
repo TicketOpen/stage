@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-11-08T03:26:08.601Z</updated>
+    <updated>2021-11-08T04:31:49.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웃음꽃 가든]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1972</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1972"/>
+        <updated>2021-11-08T04:31:24.918Z</updated>
+        <content type="html"><![CDATA[2021.11.20~2021.11.21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극동아시아타이거즈 단독 콘서트 "가족잔치"]]></title>
         <id>https://www.sangsangmadang.com/show/detail/1968</id>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1913"/>
         <updated>2021-10-24T10:48:39.305Z</updated>
         <content type="html"><![CDATA[2021.07.24~2021.07.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHILI 4 CHILL]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1908</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1908"/>
-        <updated>2021-10-24T10:48:39.306Z</updated>
-        <content type="html"><![CDATA[2021.07.20~2021.07.28]]></content>
     </entry>
 </feed>
