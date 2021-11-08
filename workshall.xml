@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 11:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 12:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1018</guid>
             <pubDate>Thu, 28 Oct 2021 15:25:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17 (수) 14:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1636374085.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.1 임세모 단독 콘서트]]></title>
