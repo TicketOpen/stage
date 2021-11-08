@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 07:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 08:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -459,7 +459,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 07:23:17 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 08:28:22 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -817,6 +817,23 @@
             <content:encoded><![CDATA[2021.07.24~2021.07.24]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[캐치 티니핑 (이화여대 삼성홀 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011221</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011221</guid>
+            <pubDate>Mon, 08 Nov 2021 08:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">캐치 티니핑</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>뮤지컬<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2021.12.24 ~ 2022.01.23<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011221" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=169832&amp;EntGoodsCode=21011221"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169832_01.736.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[친정엄마와 2박3일 (이화여대 삼성홀 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009076</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009076</guid>
@@ -1016,23 +1033,10 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/19/10/0400011910_150204_0310.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[김윤아 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=150177&amp;EntGoodsCode=19015396</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=150177&amp;EntGoodsCode=19015396</guid>
-            <pubDate>Thu, 04 Nov 2021 19:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">김윤아 콘서트</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2019.11.29 ~ 2019.12.01<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=150177&amp;EntGoodsCode=19015396"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/19/10/0400011910_150177_0712.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' & 이벤트 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 07:24:01 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 08:29:15 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' &amp; 이벤트</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1144,7 +1148,7 @@
             <title><![CDATA[11월 12일 금요일 8시 ﻿"NADA UR WAY" 11/9(화) 오후8시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 07:24:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 08:29:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636254325900.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 12일 금요일 8시 ﻿"NADA UR WAY" 11/9(화) 오후8시 예매오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636254325900.png" length="0" type="image/png"/>
         </item>
@@ -1152,7 +1156,7 @@
             <title><![CDATA[11월 11일 목요일 8시 ﻿"때론 나홀로 나다" 11/7(일) 오후8시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 07:24:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 08:29:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253956084.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 11일 목요일 8시 ﻿"때론 나홀로 나다" 11/7(일) 오후8시 예매오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253956084.png" length="0" type="image/png"/>
         </item>
@@ -1160,7 +1164,7 @@
             <title><![CDATA[12월 4일 토요일 7시 ﻿"LASER SOLO AGAIN" 11/7(일) 오후 2시 예매 오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 07:24:13 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 08:29:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253458785.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">12월 4일 토요일 7시 ﻿"LASER SOLO AGAIN" 11/7(일) 오후 2시 예매 오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253458785.png" length="0" type="image/png"/>
         </item>
