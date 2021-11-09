@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp</id>
     <title>웨스트브릿지 ─ 예정공연</title>
-    <updated>2021-11-09T03:26:29.695Z</updated>
+    <updated>2021-11-09T04:31:56.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.west-bridge.co.kr/livehall/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp</id>
         <link href="http://www.west-bridge.co.kr/livehall/reserveShow.asp?status=exp"/>
-        <updated>2021-11-09T03:25:17.130Z</updated>
+        <updated>2021-11-09T04:30:52.274Z</updated>
         <content type="html"><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content>
     </entry>
 </feed>
