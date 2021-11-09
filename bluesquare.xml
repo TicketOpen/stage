@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 04:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 05:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페퍼톤스 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011052</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011052</guid>
+            <pubDate>Tue, 09 Nov 2021 05:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">페퍼톤스 콘서트</dt>
+						<dd>2021.12.11 ~ 2021.12.12</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169733_01.314.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[정동원 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010860</link>
@@ -146,16 +156,6 @@
 						<dd>2021.09.10 ~ 2021.09.10</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167209_01.211.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드베리 시어터]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167647&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167647&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">사운드베리 시어터</dt>
-						<dd>2021.09.03 ~ 2021.09.04</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167647_01.709.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
