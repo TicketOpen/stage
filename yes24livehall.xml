@@ -4,9 +4,17 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 09:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 10:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1112&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211113</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1112&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211113</guid>
+            <pubDate>Wed, 10 Nov 2021 10:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.13 (토) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/UVnu71rLA9ZsC0zaWRt6bENvwme3Sd2xG4BTkP5jHIpFyDQlgXKioYOqJcM8hf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1108&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211119</link>
@@ -14,6 +22,30 @@
             <pubDate>Thu, 14 Oct 2021 02:33:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 (금) 19:30]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/2pA1Solwfcb0kxmnu8JL4r6WaD5yGjgIzsPFMhTUqdQRZBE3KtevOX7iCY9VHN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 VOL.1〈팔로알토, 허클베리피, 저스디스, EK〉]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1111&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211123</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1111&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211123</guid>
+            <pubDate>Wed, 10 Nov 2021 10:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23 (화) 19:30]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/9PtTwgLVoBpSKhG0F7Ndj8cHueq1WJyDxlMvEzmi35QO2IsRArfY46UknZXabC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel]]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1113&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211204</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1113&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211204</guid>
+            <pubDate>Wed, 10 Nov 2021 10:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.04 (토) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/Pshcjt94WTbX0au7ZC21mOwFd3MVRENJnqHzoA6xSev5GQiLpKDf8BglYIkUyr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE]]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1114&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211209</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1114&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211209</guid>
+            <pubDate>Wed, 10 Nov 2021 10:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09 (목) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/pFyvDmThMg34SlLCfI56AYbWoz7eKPBNiJ91H8EtU20QxjsucaOqndRwXZrGkV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
