@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 02:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 03:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1108&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211119</guid>
             <pubDate>Thu, 14 Oct 2021 02:33:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19 (금) 19:30]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/mw3eDUbpyYWRTLK2S5Bs1i84E0gJVhrnovqOuAfxd79MNCZFlPQtIzjHkaGcX6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://yes24livehall.com/upload/2pA1Solwfcb0kxmnu8JL4r6WaD5yGjgIzsPFMhTUqdQRZBE3KtevOX7iCY9VHN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
