@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/prismhall</id>
     <title>프리즘홀 ─ 링크트리</title>
-    <updated>2021-11-12T09:24:41.349Z</updated>
+    <updated>2021-11-12T10:27:16.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 공식 블로그</p></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WATCH THE WORLD TURN #블랙신드롬 #메써드 #크럭스스]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206353</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206353"/>
+        <updated>2021-11-12T10:27:09.639Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206353" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">WATCH THE WORLD TURN #블랙신드롬 #메써드 #크럭스스</p></a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jump in-to-the-universe]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206305</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206305"/>
@@ -46,12 +53,5 @@
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206280"/>
         <updated>2021-11-05T08:28:34.800Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206280" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">스틸얼라이브 4주년 콘서트 김훨&amp;정우</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRISM BREAK vol.11 싱어송라이터특집_권나무, 이설아]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206251</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206251"/>
-        <updated>2021-11-04T19:12:42.108Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206251" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">PRISM BREAK vol.11 싱어송라이터특집_권나무, 이설아</p></a></div>]]></content>
     </entry>
 </feed>
