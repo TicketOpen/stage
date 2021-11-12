@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,28 +88,36 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/413/1961176679_5BED8FACEC8AA4ED84B05D201126-2720EAB2B020EB8BA8EB8F8520ECBD98EC849CED8AB8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Synopsis ∼climax∼ (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=412&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=412&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Mon, 11 Oct 2021 06:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 11월 07일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/412/868661207_9001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Synopsis ∼climax∼ (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=411&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=411&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Mon, 11 Oct 2021 06:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 11월 06일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/411/1760215800_9001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Volunteers 단독공연 〈Join the TVT Club〉 (롤링홀)]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=410&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=410&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
             <pubDate>Thu, 07 Oct 2021 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 11월 18일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/410/1889892240_TVT20ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Volunteers 단독공연 〈Join the TVT Club〉 (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=409&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=409&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 12 Nov 2021 07:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 11월 11일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/409/859236376_TVT20ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 파란 공책 : 2021 꿈의 환상 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.instagram.com/p/CWIfCmvl119/</link>
+            <guid>https://www.instagram.com/p/CWIfCmvl119/</guid>
+            <pubDate>Fri, 12 Nov 2021 07:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CWIfCmvl119/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16367008941636700894902.jpg">
+									</a>
+								</div>
+								<b>나의 파란 공책 : 2021 꿈의 환상</b>
+								<span>위아더나잇</span>
+																<p>2021. 12. 18 - 2021. 12. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16367008941636700894902.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최항석과 부기몬스터 겨울 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
@@ -288,22 +296,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16342699141634269914412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[WRK#4 : 안다영의 목마른 방 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/21009490</link>
-            <guid>https://tickets.interpark.com/goods/21009490</guid>
-            <pubDate>Fri, 15 Oct 2021 04:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21009490" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16342687461634268746144.jpg">
-									</a>
-								</div>
-								<b>WRK#4 : 안다영의 목마른 방</b>
-								<span>안다영</span>
-																<p>2021. 10. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16342687461634268746144.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[WONHO CONCERT〈WE ARE YOUNG〉 (예스24 라이브홀)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1112&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211113</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1112&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211113</guid>
@@ -443,7 +435,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 06:28:07 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 07:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -1020,7 +1012,7 @@
             <title><![CDATA[강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' & 이벤트 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 06:28:50 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 07:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' &amp; 이벤트</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1132,7 +1124,7 @@
             <title><![CDATA[11월 12일 금요일 8시 ﻿"NADA UR WAY" 11/9(화) 오후8시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 06:29:01 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 07:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636254325900.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 12일 금요일 8시 ﻿"NADA UR WAY" 11/9(화) 오후8시 예매오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636254325900.png" length="0" type="image/png"/>
         </item>
@@ -1140,7 +1132,7 @@
             <title><![CDATA[11월 11일 목요일 8시 ﻿"때론 나홀로 나다" 11/7(일) 오후8시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 06:29:01 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 07:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253956084.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 11일 목요일 8시 ﻿"때론 나홀로 나다" 11/7(일) 오후8시 예매오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253956084.png" length="0" type="image/png"/>
         </item>
@@ -1148,7 +1140,7 @@
             <title><![CDATA[12월 4일 토요일 7시 ﻿"LASER SOLO AGAIN" 11/7(일) 오후 2시 예매 오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 06:29:01 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 07:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253458785.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">12월 4일 토요일 7시 ﻿"LASER SOLO AGAIN" 11/7(일) 오후 2시 예매 오픈!</p></div>]]></content:encoded>
             <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253458785.png" length="0" type="image/png"/>
         </item>

@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 파란 공책 : 2021 꿈의 환상]]></title>
+            <link>https://www.instagram.com/p/CWIfCmvl119/</link>
+            <guid>https://www.instagram.com/p/CWIfCmvl119/</guid>
+            <pubDate>Fri, 12 Nov 2021 07:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CWIfCmvl119/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16367008941636700894902.jpg">
+									</a>
+								</div>
+								<b>나의 파란 공책 : 2021 꿈의 환상</b>
+								<span>위아더나잇</span>
+																<p>2021. 12. 18 - 2021. 12. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16367008941636700894902.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최항석과 부기몬스터 겨울 콘서트]]></title>
             <link>https://tickets.interpark.com/goods/21010374</link>
@@ -182,22 +198,6 @@
 								<span>WH3N</span>
 																<p>2021. 10. 31</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16342699141634269914412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WRK#4 : 안다영의 목마른 방]]></title>
-            <link>https://tickets.interpark.com/goods/21009490</link>
-            <guid>https://tickets.interpark.com/goods/21009490</guid>
-            <pubDate>Fri, 15 Oct 2021 04:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21009490" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16342687461634268746144.jpg">
-									</a>
-								</div>
-								<b>WRK#4 : 안다영의 목마른 방</b>
-								<span>안다영</span>
-																<p>2021. 10. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16342687461634268746144.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
