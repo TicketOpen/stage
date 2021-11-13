@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 14:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 15:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[강형호 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009248</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009248</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168789&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168789&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 13 Nov 2021 15:24:13 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">강형호 콘서트</dt>
 						<dd>2021.11.12 ~ 2021.11.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
