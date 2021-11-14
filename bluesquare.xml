@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009245</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009245</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168752&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168752&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 14 Nov 2021 15:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">포르테 디 콰트로 콘서트</dt>
 						<dd>2021.11.14 ~ 2021.11.14</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
