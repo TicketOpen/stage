@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://linktr.ee/gongsangondo</id>
+    <title>공상온도 ─ 링크트리</title>
+    <updated>2021-11-14T06:32:50.727Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://linktr.ee/static/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>http://gongsangondo.shop/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</id>
+        <link href="http://gongsangondo.shop/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1"/>
+        <updated>2021-11-14T06:32:44.530Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 fSUfbu kbFtjI"><a href="http://gongsangondo.shop/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">[weave.wave] western kite &amp; onthedal 예매    (Ticket Open 11/11(목) pm 8)</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>http://gongsang.xyz/</id>
+        <link href="http://gongsang.xyz/"/>
+        <updated>2021-11-14T06:32:44.532Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 fSUfbu kbFtjI"><a href="http://gongsang.xyz" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 네이버 스마트스토어</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>http://pf.kakao.com/_xmVpHM</id>
+        <link href="http://pf.kakao.com/_xmVpHM"/>
+        <updated>2021-11-14T06:32:44.533Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 fSUfbu kbFtjI"><a href="http://pf.kakao.com/_xmVpHM" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 카카오톡 채널 (문의)</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4</id>
+        <link href="https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4"/>
+        <updated>2021-11-14T06:32:44.534Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 fSUfbu kbFtjI"><a href="https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">ARTIST 택배대행 서비스</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>http://gongsangondo.com/</id>
+        <link href="http://gongsangondo.com/"/>
+        <updated>2021-11-14T06:32:44.535Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 fSUfbu kbFtjI"><a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official &amp; store</p></a></div>]]></content>
+    </entry>
+</feed>
