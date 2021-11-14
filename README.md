@@ -11,6 +11,7 @@ https://ticketopen.github.io/stage/all.xml
 - 이화여자대학교 삼성홀: https://ticketopen.github.io/stage/samsunghall.xml
 
 ## 링크트리
+- 노들섬 라이브하우스: https://ticketopen.github.io/stage/nodeulmusic_linktree.xml
 - 프리즘홀: https://ticketopen.github.io/stage/prismhall_linktree.xml
 - 네스트나다: https://ticketopen.github.io/stage/nestnada_inpock.xml
 - 씨티알사운드(제비다방): https://ticketopen.github.io/stage/ctrsound_linktree.xml
