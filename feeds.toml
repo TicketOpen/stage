@@ -122,7 +122,7 @@ linkSelector = "a[class='sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh']"
 [gongsangondo_linktree]
 title = "공상온도 ─ 링크트리"
 url = "https://linktr.ee/gongsangondo"
-entrySelector = "div.sc-bdfBwQ.pkAuV"
+entrySelector = "div[class='sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 fSUfbu kbFtjI']"
 titleSelector = "p[class='sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq']"
 linkSelector = "a[class='sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh']"
 
