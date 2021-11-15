@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>네스트나다 ─ 인포크링크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 16:38:04 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[12월 4일 토요일 7시 ﻿"LASER SOLO AGAIN" 11/7(일) 오후 2시 예매 오픈!]]></title>
-            <link>https://link.inpock.co.kr/nestnada</link>
-            <guid>https://link.inpock.co.kr/nestnada</guid>
-            <pubDate>Mon, 15 Nov 2021 16:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253458785.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">12월 4일 토요일 7시 ﻿"LASER SOLO AGAIN" 11/7(일) 오후 2시 예매 오픈!</p></div>]]></content:encoded>
-            <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/7/thumb@300_2021-11-7-1636253458785.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 20일 토요일 6시  ﻿"Dream Serenade" 예매 11/16 (화) 오후 14:00 예매오픈!]]></title>
-            <link>https://link.inpock.co.kr/nestnada</link>
-            <guid>https://link.inpock.co.kr/nestnada</guid>
-            <pubDate>Mon, 15 Nov 2021 16:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/15/thumb@300_2021-11-15-1636952609702.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 20일 토요일 6시  ﻿"Dream Serenade" 예매 11/16 (화) 오후 14:00 예매오픈!</p></div>]]></content:encoded>
-            <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/15/thumb@300_2021-11-15-1636952609702.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 19일 금요일 8시 ﻿"NADA Switch High" 예매 11/15일 (월) 오후 20:00 예매 오픈!]]></title>
-            <link>https://link.inpock.co.kr/nestnada</link>
-            <guid>https://link.inpock.co.kr/nestnada</guid>
-            <pubDate>Mon, 15 Nov 2021 16:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/15/thumb@300_2021-11-15-1636952505811.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 19일 금요일 8시 ﻿"NADA Switch High" 예매 11/15일 (월) 오후 20:00 예매 오픈!</p></div>]]></content:encoded>
-            <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/15/thumb@300_2021-11-15-1636952505811.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 18일 목요일 8시 ﻿"때론 나홀로 나다" 예매 11/15(월) 오후 14:00 예매 오픈!]]></title>
-            <link>https://link.inpock.co.kr/nestnada</link>
-            <guid>https://link.inpock.co.kr/nestnada</guid>
-            <pubDate>Mon, 15 Nov 2021 16:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="image" style="background-image: url(&quot;https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/15/thumb@300_2021-11-15-1636949848314.png&quot;);" data-v-56297a18=""></div> <div class="link-meta" data-v-56297a18=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-56297a18="">11월 18일 목요일 8시 ﻿"때론 나홀로 나다" 예매 11/15(월) 오후 14:00 예매 오픈!</p></div>]]></content:encoded>
-            <enclosure url="https://d2aenjhgznzcx.cloudfront.net/media/images/2021/11/15/thumb@300_2021-11-15-1636949848314.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://link.inpock.co.kr/nestnada</id>
+    <title>네스트나다 ─ 인포크링크</title>
+    <updated>2021-11-15T17:29:35.483Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://link.inpock.co.kr/favicon.ico</icon>
+</feed>
