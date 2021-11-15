@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2021-11-15T05:22:52.725Z</updated>
+    <updated>2021-11-15T06:30:18.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[11/12(금) 오후 7시 - [우리가 초원으로 향할 경우의 수는] : 김초원, 신경우]]></title>
-        <id>https://forms.gle/ZqKYARXR6AcigW8h8</id>
-        <link href="https://forms.gle/ZqKYARXR6AcigW8h8"/>
-        <updated>2021-11-13T17:40:35.988Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/ZqKYARXR6AcigW8h8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">11/12(금) 오후 7시 - [우리가 초원으로 향할 경우의 수는] : 김초원, 신경우</p></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[11/26(금) 오후 8시 - [2021 연말결산 및 2022 신년계획 발표회] : 애리, 코스모스 슈퍼스타]]></title>
         <id>https://booking.naver.com/booking/5/bizes/522253/items/4168465?preview=0</id>
