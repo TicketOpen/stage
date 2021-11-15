@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2021-11-15T06:30:18.782Z</updated>
+    <updated>2021-11-15T07:24:04.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/522253/items/4168465?preview=0" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">11/26(금) 오후 8시 - [2021 연말결산 및 2022 신년계획 발표회] : 애리, 코스모스 슈퍼스타</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 11월 오픈 마이크 신청]]></title>
-        <id>https://forms.gle/79dpcA8axJqoDBdr7</id>
-        <link href="https://forms.gle/79dpcA8axJqoDBdr7"/>
-        <updated>2021-11-13T17:40:35.991Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/79dpcA8axJqoDBdr7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2021 11월 오픈 마이크 신청</p></a></div>]]></content>
+        <title type="html"><![CDATA[2021 12월 오픈 마이크 신청]]></title>
+        <id>https://forms.gle/6hsPNmtKAewX6yUT9</id>
+        <link href="https://forms.gle/6hsPNmtKAewX6yUT9"/>
+        <updated>2021-11-15T07:23:54.051Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/6hsPNmtKAewX6yUT9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2021 12월 오픈 마이크 신청</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
