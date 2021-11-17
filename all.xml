@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 07:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 08:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
 								<span>최항석과 부기몬스터</span>
 																<p>2021. 12. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노래하는 동화책 [향기장수 이야기] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/610192</link>
+            <guid>https://booking.naver.com/booking/5/bizes/610192</guid>
+            <pubDate>Wed, 17 Nov 2021 08:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://booking.naver.com/booking/5/bizes/610192" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16371374811637137481477.jpg">
+									</a>
+								</div>
+								<b>노래하는 동화책 [향기장수 이야기]</b>
+								<span>사부작당</span>
+																<p>2021. 12. 10 - 2021. 12. 11</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16371374811637137481477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 콘서트 〈Winter Land〉 (구름아래소극장 ─ 공연안내)]]></title>
@@ -288,22 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16329002181632900218684.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206244</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206244</guid>
-            <pubDate>Mon, 11 Oct 2021 05:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206244" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16339274521633927452752.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
-								<span>안녕바다</span>
-																<p>2021. 11. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16339274521633927452752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 적재 전국투어 ＇서로의 서로＇- 서울 (예스24 라이브홀)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1108&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211119</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1108&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211119</guid>
@@ -435,7 +435,7 @@
             <title><![CDATA[undefined (웨스트브릿지 ─ 예정공연)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 07:22:34 GMT</pubDate>
+            <pubDate>Wed, 17 Nov 2021 08:27:31 GMT</pubDate>
             <content:encoded><![CDATA[<p style="margin:0 20px;padding:0px 25px;font-size:14px;display:block;height:30px;line-height:30px;">등록된 공연이 없습니다.</p>]]></content:encoded>
         </item>
         <item>
@@ -511,6 +511,16 @@
 						<dd>2021.12.11 ~ 2021.12.12</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169733_01.314.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱 데이 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011728</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011728</guid>
+            <pubDate>Wed, 17 Nov 2021 08:27:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">로맨틱 데이 콘서트</dt>
+						<dd>2021.12.05 ~ 2021.12.05</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170171_01.958.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[루시 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
@@ -641,16 +651,6 @@
 						<dd>2021.09.12 ~ 2021.09.12</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167531_01.255.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이키즈 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167300&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167300&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">먼데이키즈 콘서트</dt>
-						<dd>2021.09.11 ~ 2021.09.11</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/08/0400012108_167300_01.708.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday (상상마당 ─ 공연정보)]]></title>
@@ -1026,7 +1026,7 @@
             <title><![CDATA[강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' & 이벤트 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 07:23:42 GMT</pubDate>
+            <pubDate>Wed, 17 Nov 2021 08:28:35 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' &amp; 이벤트</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
