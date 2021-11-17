@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-11-17T03:27:17.085Z</updated>
+    <updated>2021-11-17T04:32:22.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루비레코드 레이블쇼－Ruby Wednesday]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1983</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1983"/>
+        <updated>2021-11-17T04:31:47.061Z</updated>
+        <content type="html"><![CDATA[2021.11.24~2021.11.24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웃음꽃 가든]]></title>
         <id>https://www.sangsangmadang.com/show/detail/1972</id>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1904"/>
         <updated>2021-10-24T10:48:39.305Z</updated>
         <content type="html"><![CDATA[2021.07.25~2021.07.25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차세대 쇼케이스 [해비치]]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1913</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1913"/>
-        <updated>2021-10-24T10:48:39.305Z</updated>
-        <content type="html"><![CDATA[2021.07.24~2021.07.24]]></content>
     </entry>
 </feed>
