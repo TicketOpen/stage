@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 03:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 04:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>최항석과 부기몬스터</span>
 																<p>2021. 12. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6주년 단독공연 <팡>]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206379</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206379</guid>
+            <pubDate>Thu, 18 Nov 2021 04:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206379" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16372060091637206009592.jpg">
+									</a>
+								</div>
+								<b>6주년 단독공연 &lt;팡&gt;</b>
+								<span>전자양</span>
+																<p>2021. 12. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16372060091637206009592.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래하는 동화책 [향기장수 이야기]]]></title>
@@ -182,22 +198,6 @@
 								<span>블루파프리카</span>
 																<p>2021. 11. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16345337881634533788197.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2주의 가든 : 11]]></title>
-            <link>https://tickets.interpark.com/goods/21008899</link>
-            <guid>https://tickets.interpark.com/goods/21008899</guid>
-            <pubDate>Mon, 04 Oct 2021 04:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21008899" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16329002181632900218684.jpg">
-									</a>
-								</div>
-								<b>2주의 가든 : 11</b>
-								<span>카더가든</span>
-																<p>2021. 11. 02 - 2021. 11. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16329002181632900218684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
