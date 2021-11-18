@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2021-11-18T09:25:16.757Z</updated>
+    <updated>2021-11-18T10:28:23.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://booking.naver.com/booking/5/bizes/522253/items/4168465?preview=0"/>
         <updated>2021-11-13T17:40:35.989Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/522253/items/4168465?preview=0" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">11/26(금) 오후 8시 - [2021 연말결산 및 2022 신년계획 발표회] : 애리, 코스모스 슈퍼스타</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12/4(토) 오후 7시 - [첫 번째 잔향殘香/殘響] : 정우]]></title>
+        <id>https://booking.naver.com/booking/5/bizes/522253/items/4183406?preview=1</id>
+        <link href="https://booking.naver.com/booking/5/bizes/522253/items/4183406?preview=1"/>
+        <updated>2021-11-18T10:28:11.911Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/522253/items/4183406?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/4(토) 오후 7시 - [첫 번째 잔향殘香/殘響] : 정우</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 12월 오픈 마이크 신청]]></title>
