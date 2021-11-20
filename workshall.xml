@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 17:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 18:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,8 +52,8 @@
             <link>http://www.workshall.co.kr/play/show_detail.html?no=988</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=988</guid>
             <pubDate>Thu, 11 Nov 2021 15:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28 (일) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1636118775.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.11.28 (일) 17:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2021 오디오북 콘서트] 듣는이의 즐거움 그리고 읽는이의 즐거움]]></title>
@@ -61,7 +61,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1019</guid>
             <pubDate>Fri, 12 Nov 2021 15:25:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30 (화) 14:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1637432643.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[European Jazz Festival]]></title>
