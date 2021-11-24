@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 03:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 04:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -630,32 +630,11 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_167967_01.740.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[Play NuPlay［2nd Label Concert］ (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1987</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1987</guid>
-            <pubDate>Thu, 18 Nov 2021 07:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22~2021.12.22]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SING 4 U 5 (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1989</link>
             <guid>https://www.sangsangmadang.com/show/detail/1989</guid>
             <pubDate>Tue, 23 Nov 2021 04:32:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17~2021.12.17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Play NuPlay [＃3 ECOBRIDGE ] (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1986</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1986</guid>
-            <pubDate>Thu, 18 Nov 2021 07:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.15~2021.12.15]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Play NuPlay [＃2 THE CHIMMI ] (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1985</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1985</guid>
-            <pubDate>Thu, 18 Nov 2021 07:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08~2021.12.08]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday (상상마당 ─ 공연정보)]]></title>
@@ -768,6 +747,27 @@
             <guid>https://www.sangsangmadang.com/show/detail/1922</guid>
             <pubDate>Wed, 24 Nov 2021 03:26:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.05~2021.09.05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[from. 최낙타 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1917</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1917</guid>
+            <pubDate>Wed, 24 Nov 2021 04:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.21~2021.08.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[양방언 summer gig tour 2021 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1911</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1911</guid>
+            <pubDate>Wed, 24 Nov 2021 04:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.08~2021.08.08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[from. LUCY (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1912</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1912</guid>
+            <pubDate>Wed, 24 Nov 2021 04:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.08.07~2021.08.07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캐치 티니핑 (이화여대 삼성홀 ─ 공연안내)]]></title>
@@ -1007,7 +1007,7 @@
             <title><![CDATA[강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' & 이벤트 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 03:26:29 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 04:32:47 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' &amp; 이벤트</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
