@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 11:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 12:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1019</guid>
             <pubDate>Fri, 12 Nov 2021 15:25:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30 (화) 14:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1637432643.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[European Jazz Festival]]></title>
@@ -61,7 +61,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1004</guid>
             <pubDate>Wed, 17 Nov 2021 15:25:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1634775339.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[European Jazz Festival]]></title>
@@ -69,7 +69,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1005</guid>
             <pubDate>Sun, 21 Nov 2021 15:25:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.04 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1634775375.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
