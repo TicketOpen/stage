@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 06:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 10 Nov 2021 10:26:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.09 (목) 20:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/pFyvDmThMg34SlLCfI56AYbWoz7eKPBNiJ91H8EtU20QxjsucaOqndRwXZrGkV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2F 단독 콘서트 〈If〉]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1132&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211224</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1132&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211224</guid>
+            <pubDate>Thu, 25 Nov 2021 06:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24 (금) 19:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/jfvGRtHw2mz6QuaqMoNSLniWZDbTFx8hgBeU0PKYdryX1klsVE47CA3OIp5c9J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
