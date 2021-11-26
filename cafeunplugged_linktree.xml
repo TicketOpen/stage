@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2021-11-26T08:31:18.656Z</updated>
+    <updated>2021-11-26T09:27:35.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -21,10 +21,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[12/5(일) 오후 7시 - [Winter is Coming] : 김승주, 라디오 파라다이스]]></title>
-        <id>https://booking.naver.com/booking/5/bizes/522253/items/4190461?preview=1</id>
-        <link href="https://booking.naver.com/booking/5/bizes/522253/items/4190461?preview=1"/>
-        <updated>2021-11-25T10:28:14.329Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/522253/items/4190461?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/5(일) 오후 7시 - [Winter is Coming] : 김승주, 라디오 파라다이스</p></a></div>]]></content>
+        <id>https://forms.gle/u8R3XssBR2k1QgjW7</id>
+        <link href="https://forms.gle/u8R3XssBR2k1QgjW7"/>
+        <updated>2021-11-26T09:27:24.956Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/u8R3XssBR2k1QgjW7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/5(일) 오후 7시 - [Winter is Coming] : 김승주, 라디오 파라다이스</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 12월 오픈 마이크 신청]]></title>
