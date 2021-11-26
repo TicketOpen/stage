@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김필 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Fri, 26 Nov 2021 01:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">김필 콘서트</dt>
+						<dd>2021.12.31 ~ 2022.01.01</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[10cm 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011751</link>
@@ -146,16 +156,6 @@
 						<dd>2021.10.09 ~ 2021.10.10</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168351_01.024.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드베리 시어터]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167967&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167967&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">사운드베리 시어터</dt>
-						<dd>2021.09.24 ~ 2021.09.25</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_167967_01.740.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
