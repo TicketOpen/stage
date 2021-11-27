@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 14:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 15:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track.38 정아로 단독 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=987</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=987</guid>
-            <pubDate>Sun, 07 Nov 2021 15:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1636118784.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[마리슈 7주년 단독공연]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=988</link>
@@ -69,6 +61,14 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1016</guid>
             <pubDate>Fri, 26 Nov 2021 15:27:04 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07 (화) 20:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 싱글 ［셔터 (Shutter)］ 발매 기념 소극장 투어 ‘The Moments’ Scene 4]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1017</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1017</guid>
+            <pubDate>Sat, 27 Nov 2021 15:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08 (수) 20:00]]></content:encoded>
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
