@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 14:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 15:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[마리슈 7주년 단독공연]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=988</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=988</guid>
-            <pubDate>Thu, 11 Nov 2021 15:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28 (일) 17:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2021 오디오북 콘서트] 듣는이의 즐거움 그리고 읽는이의 즐거움]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1019</link>
@@ -69,6 +61,14 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1017</guid>
             <pubDate>Sat, 27 Nov 2021 15:25:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.08 (수) 20:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안희수 단독공연 〈still silly〉]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1007</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1007</guid>
+            <pubDate>Sun, 28 Nov 2021 15:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 (금) 20:00]]></content:encoded>
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
