@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 23:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,7 +75,7 @@
             <content:encoded><![CDATA[<dt class="subject">프랑켄슈타인</dt>
 						<dd>2021.11.24 ~ 2022.02.20</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.547.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.630.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[크래비티 팬미팅]]></title>
