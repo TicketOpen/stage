@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1015</guid>
             <pubDate>Thu, 25 Nov 2021 15:26:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.06 (월) 20:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255502.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 싱글 ［셔터 (Shutter)］ 발매 기념 소극장 투어 ‘The Moments’ Scene 4]]></title>
@@ -53,7 +53,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1016</guid>
             <pubDate>Fri, 26 Nov 2021 15:27:04 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07 (화) 20:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255509.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 싱글 ［셔터 (Shutter)］ 발매 기념 소극장 투어 ‘The Moments’ Scene 4]]></title>
@@ -61,7 +61,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1017</guid>
             <pubDate>Sat, 27 Nov 2021 15:25:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.08 (수) 20:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안희수 단독공연 〈still silly〉]]></title>
@@ -69,7 +69,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1007</guid>
             <pubDate>Sun, 28 Nov 2021 15:25:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (금) 20:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
