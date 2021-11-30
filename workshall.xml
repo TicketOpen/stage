@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2021 오디오북 콘서트] 듣는이의 즐거움 그리고 읽는이의 즐거움]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1019</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1019</guid>
-            <pubDate>Fri, 12 Nov 2021 15:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30 (화) 14:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638166981.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[European Jazz Festival]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1004</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 28 Nov 2021 15:25:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIAK WEEK 씬디프레젠트 vol.7]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1024</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1024</guid>
+            <pubDate>Tue, 30 Nov 2021 15:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15 (수) 00:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
