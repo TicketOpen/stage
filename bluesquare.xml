@@ -4,14 +4,14 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[김필 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Fri, 26 Nov 2021 01:12:47 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011968</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011968</guid>
+            <pubDate>Tue, 30 Nov 2021 04:27:27 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">김필 콘서트</dt>
 						<dd>2021.12.31 ~ 2022.01.01</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
