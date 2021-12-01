@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 04:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5959 LIVE : 초승]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41503&amp;groupno=41503&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41503&amp;groupno=41503&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 01 Dec 2021 05:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41503&amp;groupno=41503&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg">
+									</a>
+								</div>
+								<b>5959 LIVE : 초승</b>
+								<span>초승</span>
+																<p>2021. 12. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왈츠소파 크리스마스 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206412</link>
@@ -182,22 +198,6 @@
 								<span>밴디지 (Bandage)</span>
 																<p>2021. 11. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 초록우산 어워드]]></title>
-            <link>https://www.instagram.com/p/CWaai3LFIpK/</link>
-            <guid>https://www.instagram.com/p/CWaai3LFIpK/</guid>
-            <pubDate>Fri, 19 Nov 2021 09:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CWaai3LFIpK/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16373118741637311874785.jpg">
-									</a>
-								</div>
-								<b>2021 초록우산 어워드</b>
-								<span>초록우산 어린이재단</span>
-																<p>2021. 11. 11</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16373118741637311874785.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
