@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16372060091637206009592.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노래하는 동화책 [향기장수 이야기]]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/610192</link>
-            <guid>https://booking.naver.com/booking/5/bizes/610192</guid>
-            <pubDate>Wed, 17 Nov 2021 08:27:14 GMT</pubDate>
+            <title><![CDATA[판타지 국악가족극 <노래하는 동화책:향기장수 이야기>]]></title>
+            <link>https://m.booking.naver.com/booking/5/bizes/610192</link>
+            <guid>https://m.booking.naver.com/booking/5/bizes/610192</guid>
+            <pubDate>Wed, 01 Dec 2021 06:28:39 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://booking.naver.com/booking/5/bizes/610192" target="_blank">
+									<a href="https://m.booking.naver.com/booking/5/bizes/610192" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16371374811637137481477.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg">
 									</a>
 								</div>
-								<b>노래하는 동화책 [향기장수 이야기]</b>
+								<b>판타지 국악가족극 &lt;노래하는 동화책:향기장수 이야기&gt;</b>
 								<span>사부작당</span>
 																<p>2021. 12. 10 - 2021. 12. 11</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16371374811637137481477.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 콘서트 〈Winter Land〉]]></title>
