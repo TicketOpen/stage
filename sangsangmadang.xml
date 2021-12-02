@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-12-02T02:39:39.296Z</updated>
+    <updated>2021-12-02T03:27:35.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/1989"/>
         <updated>2021-11-23T04:32:30.016Z</updated>
         <content type="html"><![CDATA[2021.12.17~2021.12.17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠비나이 단독공연 New songs Premiere]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1992</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1992"/>
+        <updated>2021-12-02T03:26:56.246Z</updated>
+        <content type="html"><![CDATA[2021.12.10~2021.12.11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[루비레코드 레이블쇼－Ruby Wednesday]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1911"/>
         <updated>2021-11-24T04:32:35.985Z</updated>
         <content type="html"><![CDATA[2021.08.08~2021.08.08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[from. LUCY]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1912</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1912"/>
-        <updated>2021-11-24T04:32:35.986Z</updated>
-        <content type="html"><![CDATA[2021.08.07~2021.08.07]]></content>
     </entry>
 </feed>
