@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 15:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 16:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,6 +430,70 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/zb/ez/xk151935457cr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문효진 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206260</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206260</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[〈바람이 된 피아노〉]]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_bc85e7d48925434e8f30dca81d46c712~mv2.jpg/v1/crop/x_0,y_237,w_700,h_516/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%B0%94%EB%9E%8Cs.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[박소영&오현용 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206128</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206128</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA['O LIEB']]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_7fafdab5f85a4e94ae7b8e44d06d8067~mv2.jpg/v1/crop/x_0,y_232,w_700,h_516/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EC%98%A4%EB%A6%BDs.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 MLF 미니멀라이프페스티벌 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206106</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206106</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[(디어클라우드+코토바)]]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_de6d478cbcc44ea7a990fe67c69e1fc2~mv2.jpg/v1/crop/x_0,y_301,w_1000,h_737/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AF%B8%EB%8B%88%EB%A9%80s.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[브로콜리너마저 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206013</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206013</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA['이른열대야 THE 페스티벌']]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_8e18c22662f24aac8ef91ed826853d2c~mv2.jpg/v1/crop/x_0,y_240,w_700,h_516/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EA%B7%B8%EB%A3%B9s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은의 초여름 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=205976</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=205976</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[CON SORDINO]]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_ff24f408317b48579bd2fc47c703cd58~mv2.jpg/v1/crop/x_0,y_232,w_700,h_516/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EC%A7%99%EC%9D%80s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Fri, 03 Dec 2021 16:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
+            <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[European Jazz Festival (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
