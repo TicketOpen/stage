@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[EP [새로운 길] 쇼케이스]]></title>
+            <link>https://www.instagram.com/p/CXAL_kXvb72/</link>
+            <guid>https://www.instagram.com/p/CXAL_kXvb72/</guid>
+            <pubDate>Fri, 03 Dec 2021 08:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CXAL_kXvb72/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385167301638516730334.jpg">
+									</a>
+								</div>
+								<b>EP [새로운 길] 쇼케이스</b>
+								<span>임백천</span>
+																<p>2021. 12. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385167301638516730334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6주년 단독공연 <팡>]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206379</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206379</guid>
@@ -182,22 +198,6 @@
 								<span>정밀아</span>
 																<p>2021. 12. 03 - 2021. 12. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱글 [셔터(Shutter)] 발매 기념 소극장 투어]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41310&amp;groupno=41310&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41310&amp;groupno=41310&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41310&amp;groupno=41310&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16369649541636964954229.jpg">
-									</a>
-								</div>
-								<b>싱글 [셔터(Shutter)] 발매 기념 소극장 투어</b>
-								<span>소란</span>
-																<p>2021. 11. 27 - 2021. 11. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16369649541636964954229.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
