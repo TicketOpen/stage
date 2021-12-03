@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 06:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 07:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,38 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206426</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206426</guid>
+            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206426" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [청춘의 밤]</b>
+								<span>전진희</span>
+																<p>2021. 12. 27 - 2021. 12. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 연말공연 <아무튼, 단공> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</link>
+            <guid>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</guid>
+            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg">
+									</a>
+								</div>
+								<b>2021 연말공연 &lt;아무튼, 단공&gt;</b>
+								<span>히미츠</span>
+																<p>2021. 12. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[왈츠소파 크리스마스 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206412</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206412</guid>
@@ -142,6 +174,22 @@
 								<span>허밍어반스테레오, 리소, 밴젝스, 예슬로우</span>
 																<p>2021. 12. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16379879731637987973469.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
+            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206407" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>모브닝</span>
+																<p>2021. 12. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 파란 공책 : 2021 꿈의 환상 (구름아래소극장 ─ 공연안내)]]></title>
@@ -254,54 +302,6 @@
 								<span>소란</span>
 																<p>2021. 11. 27 - 2021. 11. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16369649541636964954229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충돌의 일상 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://blog.naver.com/ws9498/222562016912</link>
-            <guid>https://blog.naver.com/ws9498/222562016912</guid>
-            <pubDate>Mon, 08 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/ws9498/222562016912" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16363542901636354290179.jpg">
-									</a>
-								</div>
-								<b>충돌의 일상</b>
-								<span>작곡가 최원석</span>
-																<p>2021. 11. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16363542901636354290179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE : 강아솔 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/21010549</link>
-            <guid>https://tickets.interpark.com/goods/21010549</guid>
-            <pubDate>Thu, 28 Oct 2021 02:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21010549" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16353859441635385944378.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE : 강아솔</b>
-								<span>강아솔</span>
-																<p>2021. 11. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16353859441635385944378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight1120：Bandage편 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206294</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206294</guid>
-            <pubDate>Mon, 15 Nov 2021 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206294" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg">
-									</a>
-								</div>
-								<b>Flight1120：Bandage편</b>
-								<span>밴디지 (Bandage)</span>
-																<p>2021. 11. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel] (예스24 라이브홀)]]></title>
@@ -1016,60 +1016,39 @@
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' & 이벤트 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://TicketOpen.github.io/stage/all.xml</link>
-            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 03 Dec 2021 06:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">강원작품개발지원 [강원다운] 선정 '김재훈 단독공연 ＜S.W.I.M＞' &amp; 이벤트</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
+            <title><![CDATA[[최고은] 새 앨범 발매 기념 공연 '오늘의 난 미지근하게 축제' 티켓 예매 (씨티알사운드 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206417</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206417</guid>
+            <pubDate>Fri, 03 Dec 2021 07:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206417" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[최고은] 새 앨범 발매 기념 공연 '오늘의 난 미지근하게 축제' 티켓 예매</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[GENIE] 김재훈 정규 2집 S.W.I.M 제작 인터뷰 (씨티알사운드 ─ 링크트리)]]></title>
+            <title><![CDATA[[곽푸른하늘] 10주년 기념 단독공연 '10' 티켓 예매 (씨티알사운드 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206420</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206420</guid>
+            <pubDate>Fri, 03 Dec 2021 07:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206420" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 10주년 기념 단독공연 '10' 티켓 예매</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[정우] 연말 단독공연 'Frame' 티켓 예매 (씨티알사운드 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206431</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206431</guid>
+            <pubDate>Fri, 03 Dec 2021 07:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206431" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 연말 단독공연 'Frame' 티켓 예매</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김재훈] 정규 2집 S.W.I.M 제작 인터뷰 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1</link>
             <guid>https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1</guid>
             <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[GENIE] 김재훈 정규 2집 S.W.I.M 제작 인터뷰</p></a></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[김재훈] 정규 2집 S.W.I.M 제작 인터뷰</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김재훈 단독공연 <S.W.I.M> 예매 - 국립극장 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://m.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=266079</link>
-            <guid>https://m.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=266079</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://m.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=266079" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">김재훈 단독공연 &lt;S.W.I.M&gt; 예매 - 국립극장</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김재훈 단독공연 <S.W.I.M> 예매 - 멜론티켓 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>http://kko.to/ACNx-0P4B</link>
-            <guid>http://kko.to/ACNx-0P4B</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="http://kko.to/ACNx-0P4B" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">김재훈 단독공연 &lt;S.W.I.M&gt; 예매 - 멜론티켓</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김일두 Diggin Gimbab Records (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://www.youtube.com/watch?v=CsGQ2kvrhEE</link>
-            <guid>https://www.youtube.com/watch?v=CsGQ2kvrhEE</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/watch?v=CsGQ2kvrhEE" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">김일두 Diggin Gimbab Records </p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정우 마포FM 스틸얼라이브 4주년 기념 공연 (with 김훨) 예매 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206280</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206280</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206280" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">정우 마포FM 스틸얼라이브 4주년 기념 공연 (with 김훨) 예매</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최고은 앨범 및 굿즈 판매 'Modest Monster' (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://smartstore.naver.com/iamgonne</link>
-            <guid>https://smartstore.naver.com/iamgonne</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://smartstore.naver.com/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">최고은 앨범 및 굿즈 판매 'Modest Monster'</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[♥️ 씨티알싸운드 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</link>
-            <guid>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 씨티알싸운드 유튜브</p></a></div>]]></content:encoded>
+            <title><![CDATA[♥️ 임지원 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
+            <link>https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw</link>
+            <guid>https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw</guid>
+            <pubDate>Fri, 03 Dec 2021 07:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 임지원 유튜브</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[♥️ 최고은 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
@@ -1077,6 +1056,13 @@
             <guid>https://www.youtube.com/user/iamgonne</guid>
             <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/user/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 최고은 유튜브</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[♥️ 씨티알싸운드 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
+            <link>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</link>
+            <guid>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</guid>
+            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 씨티알싸운드 유튜브</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프리즘홀 유튜브 (프리즘홀 ─ 링크트리)]]></title>

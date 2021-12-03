@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 06:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 07:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,38 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206426</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206426</guid>
+            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206426" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [청춘의 밤]</b>
+								<span>전진희</span>
+																<p>2021. 12. 27 - 2021. 12. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 연말공연 <아무튼, 단공>]]></title>
+            <link>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</link>
+            <guid>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</guid>
+            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg">
+									</a>
+								</div>
+								<b>2021 연말공연 &lt;아무튼, 단공&gt;</b>
+								<span>히미츠</span>
+																<p>2021. 12. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[왈츠소파 크리스마스 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206412</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206412</guid>
@@ -38,6 +70,22 @@
 								<span>허밍어반스테레오, 리소, 밴젝스, 예슬로우</span>
 																<p>2021. 12. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16379879731637987973469.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
+            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206407" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
+								<span>모브닝</span>
+																<p>2021. 12. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 파란 공책 : 2021 꿈의 환상]]></title>
@@ -150,54 +198,6 @@
 								<span>소란</span>
 																<p>2021. 11. 27 - 2021. 11. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16369649541636964954229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충돌의 일상]]></title>
-            <link>https://blog.naver.com/ws9498/222562016912</link>
-            <guid>https://blog.naver.com/ws9498/222562016912</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/ws9498/222562016912" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16363542901636354290179.jpg">
-									</a>
-								</div>
-								<b>충돌의 일상</b>
-								<span>작곡가 최원석</span>
-																<p>2021. 11. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16363542901636354290179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE : 강아솔]]></title>
-            <link>https://tickets.interpark.com/goods/21010549</link>
-            <guid>https://tickets.interpark.com/goods/21010549</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21010549" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16353859441635385944378.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE : 강아솔</b>
-								<span>강아솔</span>
-																<p>2021. 11. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16353859441635385944378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight1120：Bandage편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206294</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206294</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206294" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg">
-									</a>
-								</div>
-								<b>Flight1120：Bandage편</b>
-								<span>밴디지 (Bandage)</span>
-																<p>2021. 11. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16351549761635154976766.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
