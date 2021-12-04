@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 10:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 11:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Fri, 03 Dec 2021 15:25:19 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 XINDIE PRESENTS vol．7 안예은x오추프로젝트 (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=436&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=436&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Sat, 04 Dec 2021 11:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 12월 15일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/436/755783001_EC94ACEB9494_12EC9B9415EC9DBC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 XINDIE PRESENTS vol．7 딕펑스x소낙별 (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=435&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=435&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Sat, 04 Dec 2021 11:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2021년 12월 14일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/435/979847185_EC94ACEB9494_12EC9B9414EC9DBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박시환 단독 콘서트 '사랑하지 않아서야' (롤링홀)]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Fri, 03 Dec 2021 15:25:19 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 12월 16일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/427/1575427390_EAB980EB9CBBEB8F8CED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALIVE STAGE ＃7：백아 소극장 단독 콘서트 ‘종이비.. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=426&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=426&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Fri, 03 Dec 2021 15:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 12월 26일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/426/1248305629_EBB0B1EC9584ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시 (dosii) 네 번째 단독공연 [樂園의 도시］ (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=422&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=422&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Sat, 04 Dec 2021 06:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 12월 12일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/422/791848630_EB8F84EC8B9C_ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5959 LIVE : 초승 (구름아래소극장 ─ 공연안내)]]></title>
@@ -459,7 +459,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 04 Dec 2021 10:25:42 GMT</pubDate>
+            <pubDate>Sat, 04 Dec 2021 11:19:47 GMT</pubDate>
             <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
         </item>
@@ -483,7 +483,7 @@
             <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 04 Dec 2021 10:25:42 GMT</pubDate>
+            <pubDate>Sat, 04 Dec 2021 11:19:47 GMT</pubDate>
             <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
         </item>
@@ -491,7 +491,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 04 Dec 2021 10:25:42 GMT</pubDate>
+            <pubDate>Sat, 04 Dec 2021 11:19:47 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
         </item>
