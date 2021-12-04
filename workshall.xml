@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 14:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 15:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[European Jazz Festival]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1005</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1005</guid>
-            <pubDate>Thu, 02 Dec 2021 16:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.04 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638510408.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[European Jazz Festival]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1006</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 03 Dec 2021 15:27:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (금) 19:30]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255683.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주윤하 콘서트 BE FINE]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1009</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1009</guid>
+            <pubDate>Sat, 04 Dec 2021 15:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18 (토) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255696.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
