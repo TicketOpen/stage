@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel] (예스24 라이브홀)]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1113&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211205</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1113&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211205</guid>
-            <pubDate>Sat, 04 Dec 2021 15:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.05 (일) 17:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/Pshcjt94WTbX0au7ZC21mOwFd3MVRENJnqHzoA6xSev5GQiLpKDf8BglYIkUyr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[온앤오프（ONF）2021 LIVE CONTACT :: CODE ＃1. [REVERSE] (예스24 라이브홀)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1114&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211209</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1114&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211209</guid>
@@ -459,7 +451,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 05 Dec 2021 14:21:48 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 15:24:42 GMT</pubDate>
             <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
         </item>
@@ -483,7 +475,7 @@
             <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 05 Dec 2021 14:21:48 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 15:24:42 GMT</pubDate>
             <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
         </item>
@@ -491,17 +483,9 @@
             <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 05 Dec 2021 14:21:48 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 15:24:42 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[European Jazz Festival (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1006</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1006</guid>
-            <pubDate>Wed, 24 Nov 2021 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.05 (일) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638510418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 싱글 ［셔터 (Shutter)］ 발매 기념 소극장 투어 ‘The Moments’ Scene 4 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -560,6 +544,14 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포플레이 데뷔30주년 헌정 공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1010</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1010</guid>
+            <pubDate>Sun, 05 Dec 2021 15:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.19 (일) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김필 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011968</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011968</guid>
@@ -591,9 +583,9 @@
         </item>
         <item>
             <title><![CDATA[로맨틱 데이 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011728</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011728</guid>
-            <pubDate>Wed, 17 Nov 2021 08:27:48 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170171&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170171&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 05 Dec 2021 15:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">로맨틱 데이 콘서트</dt>
 						<dd>2021.12.05 ~ 2021.12.05</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
