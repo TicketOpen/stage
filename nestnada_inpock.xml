@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://link.inpock.co.kr/nestnada</id>
     <title>네스트나다 ─ 인포크링크</title>
-    <updated>2021-12-05T11:21:14.253Z</updated>
+    <updated>2021-12-05T12:37:47.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d2t18a6mds8ktb.cloudfront.net/favicon/favicon.png?w=32&amp;f=png</icon>
+    <entry>
+        <title type="html"><![CDATA[12월 12일 일요일 5시 "oo_mool Serenade" 예매 12/8(수) 오전 10:00 예매오픈!]]></title>
+        <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=546410&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfJIvCJ1N2ySiS0VztFmaYzL1aIw5sZ2_Vqzx7jdmhVfWraJw%2Fviewform%3Fusp%3Dsf_link</id>
+        <link href="https://link.inpock.co.kr/api/statistics/click-link?link_id=546410&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfJIvCJ1N2ySiS0VztFmaYzL1aIw5sZ2_Vqzx7jdmhVfWraJw%2Fviewform%3Fusp%3Dsf_link"/>
+        <updated>2021-12-05T12:37:47.339Z</updated>
+        <content type="html"><![CDATA[<div class="link gtm-link-click-visitor" data-v-51436cdf=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-51436cdf=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2021/12/5/2021-12-5-1638705408790.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2021/12/5/2021-12-5-1638705408790.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2021/12/5/2021-12-5-1638705408790.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-51436cdf=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-51436cdf="">12월 12일 일요일 5시 "oo_mool Serenade" 예매 12/8(수) 오전 10:00 예매오픈!</p></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 10일 금요일 8시 ﻿"U R UNIVERSE" 예매 12/7(화) 오후 14:00 예매오픈!]]></title>
         <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=546258&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSe4zdmy1BZV-qraa1neforI9xY3daY8ajYV3FHA_8jQ1DTzWQ%2Fviewform%3Fusp%3Dsf_link</id>
