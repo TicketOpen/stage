@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 14:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 15:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[소란 싱글 ［셔터 (Shutter)］ 발매 기념 소극장 투어 ‘The Moments’ Scene 4]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1015</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1015</guid>
-            <pubDate>Thu, 02 Dec 2021 16:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06 (월) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255502.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[소란 싱글 ［셔터 (Shutter)］ 발매 기념 소극장 투어 ‘The Moments’ Scene 4]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1016</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 05 Dec 2021 15:24:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.19 (일) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[촬영대관]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1027</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1027</guid>
+            <pubDate>Mon, 06 Dec 2021 15:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20 (월) 09:11]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638058286.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
