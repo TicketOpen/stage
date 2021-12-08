@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 02:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 03:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -451,7 +451,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 02:40:09 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 03:24:44 GMT</pubDate>
             <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
         </item>
@@ -475,7 +475,7 @@
             <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 02:40:09 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 03:24:44 GMT</pubDate>
             <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
         </item>
@@ -483,7 +483,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 02:40:09 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 03:24:44 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1142,32 +1142,39 @@
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 공식 블로그</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WATCH THE WORLD TURN #블랙신드롬 #메써드 #크럭스스 (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206353</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206353</guid>
-            <pubDate>Fri, 12 Nov 2021 10:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206353" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">WATCH THE WORLD TURN #블랙신드롬 #메써드 #크럭스스</p></a></div>]]></content:encoded>
+            <title><![CDATA[오프더메뉴 첫 단독콘서트 (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206397</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206397</guid>
+            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206397" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">오프더메뉴 첫 단독콘서트</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Jump in-to-the-universe (프리즘홀 ─ 링크트리)]]></title>
+            <title><![CDATA[RETURN TO SCHOOL BAND special (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://forms.gle/qAtsoCPh9B1A1o2u7</link>
+            <guid>https://forms.gle/qAtsoCPh9B1A1o2u7</guid>
+            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/qAtsoCPh9B1A1o2u7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">RETURN TO SCHOOL BAND special</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울인디뮤직페스타 [LIVE CLUB DAY－LIVE IS HERE] (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206399</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206399</guid>
+            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206399" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">서울인디뮤직페스타 [LIVE CLUB DAY－LIVE IS HERE]</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 XINDIE PRESENTS vol.7 #그_냥 #김필선 (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206434</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206434</guid>
+            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206434" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2021 XINDIE PRESENTS vol.7 #그_냥 #김필선</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jump in-to-the-universe #몬구 #돌연한출발 #까데호 (프리즘홀 ─ 링크트리)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206305</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
             <pubDate>Fri, 05 Nov 2021 08:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206305" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">Jump in-to-the-universe</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WEWEWE FESTA 2021 (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/396582/items/4150131</link>
-            <guid>https://booking.naver.com/booking/12/bizes/396582/items/4150131</guid>
-            <pubDate>Fri, 05 Nov 2021 08:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/12/bizes/396582/items/4150131" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">WEWEWE FESTA 2021</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스틸얼라이브 4주년 콘서트 김훨&정우 (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206280</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206280</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206280" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">스틸얼라이브 4주년 콘서트 김훨&amp;정우</p></a></div>]]></content:encoded>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206305" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">Jump in-to-the-universe #몬구 #돌연한출발 #까데호</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월 17일 (금) 저녁 8시 - [크리스마스의 버둥] : 버둥 (카페 언플러그드 ─ 링크트리)]]></title>
