@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 10:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 11:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -451,7 +451,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 10:26:49 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 11:20:41 GMT</pubDate>
             <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
         </item>
@@ -475,7 +475,7 @@
             <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 10:26:49 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 11:20:41 GMT</pubDate>
             <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
         </item>
@@ -483,7 +483,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 10:26:49 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 11:20:41 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1203,6 +1203,13 @@
             <guid>https://booking.naver.com/booking/5/bizes/620446</guid>
             <pubDate>Wed, 08 Dec 2021 08:30:10 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/620446" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/31(금) 오후 6시 - [Farewell 2021] : 이븐이프, 모팁</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1/8(토) 찰리빈웍스 기획전 : [발버둥은 이런겁니다] (카페 언플러그드 ─ 링크트리)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/619958</link>
+            <guid>https://booking.naver.com/booking/5/bizes/619958</guid>
+            <pubDate>Wed, 08 Dec 2021 11:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/619958" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/8(토) 찰리빈웍스 기획전 : [발버둥은 이런겁니다] </p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[언플러그드 공식 굿즈 주문 신청서 (카페 언플러그드 ─ 링크트리)]]></title>
