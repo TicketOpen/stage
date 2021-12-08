@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2021-12-08T03:26:15.565Z</updated>
+    <updated>2021-12-08T04:33:24.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thumbs UP! with 이정권]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1998</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1998"/>
+        <updated>2021-12-08T04:32:42.931Z</updated>
+        <content type="html"><![CDATA[2021.12.31~2021.12.31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정우의 [ Frame ]]]></title>
         <id>https://www.sangsangmadang.com/show/detail/1993</id>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1922"/>
         <updated>2021-11-24T03:26:16.353Z</updated>
         <content type="html"><![CDATA[2021.09.05~2021.09.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[from. 최낙타]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1917</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1917"/>
-        <updated>2021-11-24T04:32:35.985Z</updated>
-        <content type="html"><![CDATA[2021.08.21~2021.08.21]]></content>
     </entry>
 </feed>

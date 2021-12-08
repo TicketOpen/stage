@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 03:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 04:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조민규 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012650</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012650</guid>
+            <pubDate>Wed, 08 Dec 2021 04:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">조민규 콘서트</dt>
+						<dd>2022.01.08 ~ 2022.01.09</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/12/0400012112_170890_01.847.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[김필 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011968</link>
@@ -146,16 +156,6 @@
 						<dd>2021.10.11 ~ 2021.10.11</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168241_01.417.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[손호영 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168351&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168351&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">손호영 콘서트</dt>
-						<dd>2021.10.09 ~ 2021.10.10</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168351_01.024.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
