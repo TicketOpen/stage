@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 10:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 11:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[For ever and ever,]]></title>
+            <link>https://tickets.interpark.com/goods/21012625</link>
+            <guid>https://tickets.interpark.com/goods/21012625</guid>
+            <pubDate>Thu, 09 Dec 2021 11:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21012625" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16390466981639046698475.jpg">
+									</a>
+								</div>
+								<b>For ever and ever,</b>
+								<span>노브(nov)</span>
+																<p>2022. 01. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16390466981639046698475.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5959 LIVE : 초승]]></title>
             <link>https://tickets.interpark.com/goods/21012565</link>
@@ -72,6 +88,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16379879731637987973469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더할 나위 없이：유니크-리스마스]]></title>
+            <link>https://tickets.interpark.com/goods/21012744</link>
+            <guid>https://tickets.interpark.com/goods/21012744</guid>
+            <pubDate>Thu, 09 Dec 2021 11:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21012744" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16390470751639047075300.jpg">
+									</a>
+								</div>
+								<b>더할 나위 없이：유니크-리스마스</b>
+								<span>바닥소리</span>
+																<p>2021. 12. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16390470751639047075300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
@@ -84,7 +116,7 @@
 								</div>
 								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
 								<span>모브닝</span>
-																<p>2021. 12. 20</p>]]></content:encoded>
+																<p>2021. 12. 20 - 2021. 12. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -166,38 +198,6 @@
 								<span>사부작당</span>
 																<p>2021. 12. 10 - 2021. 12. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 콘서트 〈Winter Land〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206317#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206317#skip_nav</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206317#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16354866261635486626935.jpg">
-									</a>
-								</div>
-								<b>크리스마스 콘서트 〈Winter Land〉</b>
-								<span>새벽공방</span>
-																<p>2021. 12. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16354866261635486626935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정기단독공연 <춥지 않은 겨울밤>]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206330</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206330</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206330" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg">
-									</a>
-								</div>
-								<b>정기단독공연 &lt;춥지 않은 겨울밤&gt;</b>
-								<span>정밀아</span>
-																<p>2021. 12. 03 - 2021. 12. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16351551241635155124526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
