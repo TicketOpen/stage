@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용용 콘서트 소호도 ‘小虎跳’：롤링 27주년 기념 공..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=441&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=441&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 09 Dec 2021 06:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 01월 09일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/441/329587111_5BED8FACEC8AA4ED84B05D200109_EC9AA9EC9AA9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밴디지 단독 콘서트：롤링 27주년 기념 공연]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 12월 23일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/431/2108223104_5BED8FACEC8AA4ED84B05D202021.12.2320ECB2B4EBA6ACED9584ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 박소은 연말 단독 콘서트 <일기>]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=430&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=430&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 12월 25일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/430/395577884_EBB095EC868CEC9D80ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
