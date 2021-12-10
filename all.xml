@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 03:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 04:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -451,7 +451,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE11 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 10 Dec 2021 03:24:41 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 04:31:15 GMT</pubDate>
             <content:encoded><![CDATA['마리앙투아네트']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_456,h_336,al_c,q_80,usm_0.66_1.00_0.01/%EB%AE%A4%EC%8B%9C%EC%A6%8C.webp" length="0" type="image/webp"/>
         </item>
@@ -475,7 +475,7 @@
             <title><![CDATA[소란 소극장 콘서트 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 10 Dec 2021 03:24:41 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 04:31:15 GMT</pubDate>
             <content:encoded><![CDATA[〈SWITCH ON〉]]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_3f88e73c210a4d42b639fc0714d306bf~mv2.gif" length="0" type="image/gif"/>
         </item>
@@ -483,7 +483,7 @@
             <title><![CDATA[[뮤:시즌] EPISODE10 (웨스트브릿지 ─ 공연정보)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 10 Dec 2021 03:24:41 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 04:31:15 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;'레드북']]></content:encoded>
             <enclosure url="https://static.wixstatic.com/media/0af9c5_cd5e9ad6d0b742c388fa8e6659c20b12~mv2.jpg/v1/crop/x_0,y_322,w_962,h_709/fill/w_182,h_134,al_c,q_80,usm_0.66_1.00_0.01,blur_2/%EB%AE%A4%EC%8B%9C%EC%A6%8C.jpg" length="0" type="image/jpg"/>
         </item>
@@ -716,6 +716,13 @@
             <content:encoded><![CDATA[2021.12.30~2021.12.30]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[WHY NOT 보수동쿨러？ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2000</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2000</guid>
+            <pubDate>Fri, 10 Dec 2021 04:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.19~2021.12.19]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SING 4 U 5 (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/1989</link>
             <guid>https://www.sangsangmadang.com/show/detail/1989</guid>
@@ -833,13 +840,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1931</guid>
             <pubDate>Sun, 24 Oct 2021 10:48:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.02~2021.10.03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최예근 단독공연 [근의 공식] (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1922</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1922</guid>
-            <pubDate>Wed, 24 Nov 2021 03:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.05~2021.09.05]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캐치 티니핑 (이화여대 삼성홀 ─ 공연안내)]]></title>
