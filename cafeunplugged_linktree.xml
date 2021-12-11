@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2021-12-11T08:29:04.234Z</updated>
+    <updated>2021-12-11T09:25:13.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[12/17(금) 저녁 8시 - 언플러그드 스튜디ꔌ 공연 : 신경우, 테종]]></title>
+        <id>https://docs.google.com/forms/d/19pG_twZlrbE9U6VCTP3toDfMTpIi2ZdkEL3pp8J1yHQ/edit</id>
+        <link href="https://docs.google.com/forms/d/19pG_twZlrbE9U6VCTP3toDfMTpIi2ZdkEL3pp8J1yHQ/edit"/>
+        <updated>2021-12-11T09:25:00.496Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/19pG_twZlrbE9U6VCTP3toDfMTpIi2ZdkEL3pp8J1yHQ/edit" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/17(금) 저녁 8시 - 언플러그드 스튜디ꔌ 공연 : 신경우, 테종</p></a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 17일 (금) 저녁 8시 - [크리스마스의 버둥] : 버둥]]></title>
         <id>https://booking.naver.com/booking/5/bizes/620248/items/4196512?preview=1</id>
