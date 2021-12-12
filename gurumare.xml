@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 08:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 09:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16390470751639047075300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유쾌한 혜진이 유쾌한 콘서트]]></title>
+            <link>https://tickets.interpark.com/goods/21012759</link>
+            <guid>https://tickets.interpark.com/goods/21012759</guid>
+            <pubDate>Sun, 12 Dec 2021 09:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/21012759" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16392982041639298204583.jpg">
+									</a>
+								</div>
+								<b>유쾌한 혜진이 유쾌한 콘서트</b>
+								<span>혜진이</span>
+																<p>2021. 12. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16392982041639298204583.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
@@ -182,22 +198,6 @@
 								<span>전자양</span>
 																<p>2021. 12. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16372060091637206009592.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판타지 국악가족극 <노래하는 동화책:향기장수 이야기>]]></title>
-            <link>https://m.booking.naver.com/booking/5/bizes/610192</link>
-            <guid>https://m.booking.naver.com/booking/5/bizes/610192</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://m.booking.naver.com/booking/5/bizes/610192" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg">
-									</a>
-								</div>
-								<b>판타지 국악가족극 &lt;노래하는 동화책:향기장수 이야기&gt;</b>
-								<span>사부작당</span>
-																<p>2021. 12. 10 - 2021. 12. 11</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
