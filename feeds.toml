@@ -134,3 +134,13 @@ titleSelector = "div.link.gtm-link-click-visitor div.link-meta p.inpock-typograp
 linkSelector = "*"
 imageSelector = "div.image"
 waitUntil = "networkidle"
+
+[studiozemi_smartstore]
+title = "재미공작소 ─ 네이버 스마트스토어"
+url = "https://smartstore.naver.com/studiozemi/category/ALL?cp=1"
+entrySelector = "ul li.-qHwcFXhj0"
+titleSelector = "strong.QNNliuiAk3"
+linkSelector = "a"
+imageSelector = "img._25CKxIKjAk"
+contentSelector = "div._23DThs7PLJ span.nIAdxeTzhx"
+waitUntil = "networkidle"
