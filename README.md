@@ -10,6 +10,9 @@ https://ticketopen.github.io/stage/all.xml
 - 상상마당: https://ticketopen.github.io/stage/sangsangmadang.xml
 - 이화여자대학교 삼성홀: https://ticketopen.github.io/stage/samsunghall.xml
 
+### 스토어
+- 재미공작소: https://ticketopen.github.io/stage/studiozemi_smartstore.xml
+
 ### 링크
 - 노들섬 라이브하우스: https://ticketopen.github.io/stage/nodeulmusic_linktree.xml
 - 프리즘홀: https://ticketopen.github.io/stage/prismhall_linktree.xml
