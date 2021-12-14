@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 18:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1024</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1024</guid>
             <pubDate>Thu, 02 Dec 2021 16:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.15 (수) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638510438.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2021.12.15 (수) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1639503005.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Show Your Song]]></title>
