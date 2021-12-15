@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 04:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,13 +111,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/21012759" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16392982041639298204583.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16395450751639545075685.jpg">
 									</a>
 								</div>
 								<b>유쾌한 혜진이 유쾌한 콘서트</b>
 								<span>혜진이</span>
 																<p>2021. 12. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16392982041639298204583.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16395450751639545075685.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼]]]></title>
