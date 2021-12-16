@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2021-12-16T12:39:51.871Z</updated>
+    <updated>2021-12-16T13:30:15.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/620456/items/4196654?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[매진]12/25(토) 오후 3시 - [merry chriSOONmas] : 이제</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12/30(목) 저녁 8시 - [The last page of Diary] : 박진휘, 성해빈]]></title>
+        <title type="html"><![CDATA[12/30(목) 저녁 7시 - [The last page of Diary] : 박진휘, 성해빈]]></title>
         <id>https://forms.gle/eJFLVfKTmmSLzV6r8</id>
         <link href="https://forms.gle/eJFLVfKTmmSLzV6r8"/>
         <updated>2021-12-14T09:26:23.294Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/eJFLVfKTmmSLzV6r8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/30(목) 저녁 8시 - [The last page of Diary] : 박진휘, 성해빈</p></a></div>]]></content>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/eJFLVfKTmmSLzV6r8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">12/30(목) 저녁 7시 - [The last page of Diary] : 박진휘, 성해빈</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12/31(금) 오후 6시 - [Farewell 2021] : 이븐이프, 모팁]]></title>
