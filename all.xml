@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 14:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 15:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,14 +416,6 @@
             <enclosure url="https://www.cjazit.org/image/schedule/zb/ez/xk151935457cr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Show Your Song (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1008</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1008</guid>
-            <pubDate>Fri, 03 Dec 2021 15:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.17 (금) 19:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[주윤하 콘서트 BE FINE (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1009</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1009</guid>
@@ -478,6 +470,14 @@
             <pubDate>Fri, 10 Dec 2021 15:27:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 (목) 19:00]]></content:encoded>
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1031</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1031</guid>
+            <pubDate>Fri, 17 Dec 2021 15:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.08 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1639503061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조민규 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
