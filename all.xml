@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 07:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 08:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,12 +472,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1639662843.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MOSAIC DREAM CONCERT (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <title><![CDATA[MOZIK DREAM CONCERT (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1011</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1011</guid>
             <pubDate>Fri, 10 Dec 2021 15:27:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 (목) 19:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255759.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조민규 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
