@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 14:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 15:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[주윤하 콘서트 BE FINE]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1009</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1009</guid>
-            <pubDate>Sat, 04 Dec 2021 15:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.18 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255696.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[포플레이 데뷔30주년 헌정 공연]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1010</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 17 Dec 2021 15:25:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.08 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1639503061.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1025</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1025</guid>
+            <pubDate>Sat, 18 Dec 2021 15:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.15 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1637839840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
