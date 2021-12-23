@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/CTRSOUND</id>
     <title>씨티알사운드 ─ 링크트리</title>
-    <updated>2021-12-23T05:25:55.777Z</updated>
+    <updated>2021-12-23T06:30:46.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[최고은] 새 앨범 발매 기념 공연 '오늘의 난 미지근하게 축제' 티켓 예매]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206417</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206417"/>
-        <updated>2021-12-03T07:24:54.093Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206417" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[최고은] 새 앨범 발매 기념 공연 '오늘의 난 미지근하게 축제' 티켓 예매</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[곽푸른하늘] 10주년 기념 단독공연 '10' 티켓 예매]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206420</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206420"/>
-        <updated>2021-12-03T07:24:54.095Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206420" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 10주년 기념 단독공연 '10' 티켓 예매</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정우] 연말 단독공연 'Frame' 티켓 예매]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206431</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206431"/>
-        <updated>2021-12-03T07:24:54.096Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206431" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 연말 단독공연 'Frame' 티켓 예매</p></a></div>]]></content>
+        <title type="html"><![CDATA[[김재훈] 온스테이지 라이브]]></title>
+        <id>https://blog.naver.com/onstage0808/222602591301</id>
+        <link href="https://blog.naver.com/onstage0808/222602591301"/>
+        <updated>2021-12-23T06:30:18.804Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://blog.naver.com/onstage0808/222602591301" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[김재훈] 온스테이지 라이브</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[김재훈] 정규 2집 S.W.I.M 제작 인터뷰]]></title>
