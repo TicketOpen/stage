@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,14 +416,6 @@
             <enclosure url="https://www.cjazit.org/image/schedule/zb/ez/xk151935457cr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찰리 브라운 크리스마스 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1020</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1020</guid>
-            <pubDate>Tue, 07 Dec 2021 15:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.23 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하이진 4집 앨범 발매 쇼케이스 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1023</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1023</guid>
@@ -478,6 +470,14 @@
             <pubDate>Wed, 22 Dec 2021 16:42:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.27 (목) 19:30]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1640188843.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1029</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1029</guid>
+            <pubDate>Thu, 23 Dec 2021 15:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.29 (토) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조민규 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
@@ -1160,7 +1160,7 @@
             <title><![CDATA[정아로 Love on Top 커버 라이브클립 (공상온도 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 14:23:19 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 15:26:28 GMT</pubDate>
             <content:encoded><![CDATA[<div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">정아로 Love on Top 커버 라이브클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPbgGn"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div>]]></content:encoded>
         </item>
         <item>
