@@ -4,25 +4,9 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 04:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[For ever and ever,]]></title>
-            <link>https://tickets.interpark.com/goods/21012625</link>
-            <guid>https://tickets.interpark.com/goods/21012625</guid>
-            <pubDate>Thu, 09 Dec 2021 11:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21012625" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16390466981639046698475.jpg">
-									</a>
-								</div>
-								<b>For ever and ever,</b>
-								<span>노브(nov)</span>
-																<p>2022. 01. 08</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16390466981639046698475.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[5959 LIVE : 초승]]></title>
             <link>https://tickets.interpark.com/goods/21012565</link>
@@ -198,6 +182,22 @@
 								<span>전자양</span>
 																<p>2021. 12. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16372060091637206009592.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판타지 국악가족극 <노래하는 동화책:향기장수 이야기>]]></title>
+            <link>https://m.booking.naver.com/booking/5/bizes/610192</link>
+            <guid>https://m.booking.naver.com/booking/5/bizes/610192</guid>
+            <pubDate>Fri, 24 Dec 2021 05:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://m.booking.naver.com/booking/5/bizes/610192" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg">
+									</a>
+								</div>
+								<b>판타지 국악가족극 &lt;노래하는 동화책:향기장수 이야기&gt;</b>
+								<span>사부작당</span>
+																<p>2021. 12. 10 - 2021. 12. 11</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
