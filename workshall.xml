@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 14:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 15:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하이진 4집 앨범 발매 쇼케이스]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1023</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1023</guid>
-            <pubDate>Wed, 08 Dec 2021 15:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.25 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638255725.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[찰카기의 썰]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1032</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 23 Dec 2021 15:25:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.29 (토) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659352.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1030</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1030</guid>
+            <pubDate>Sat, 25 Dec 2021 15:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.30 (일) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659370.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
