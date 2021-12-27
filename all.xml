@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 08:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 09:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1084,6 +1084,13 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
             <pubDate>Fri, 05 Nov 2021 08:28:34 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206305" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">Jump in-to-the-universe #몬구 #돌연한출발 #까데호</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[22년 1월 언플러그드 오픈마이크 신청 (카페 언플러그드 ─ 링크트리)]]></title>
+            <link>https://forms.gle/hpYhZpRtUDBn8tnH7</link>
+            <guid>https://forms.gle/hpYhZpRtUDBn8tnH7</guid>
+            <pubDate>Mon, 27 Dec 2021 09:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/hpYhZpRtUDBn8tnH7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 1월 언플러그드 오픈마이크 신청</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12/30(목) 저녁 7시 - [The last page of Diary] : 박진휘, 성해빈 (카페 언플러그드 ─ 링크트리)]]></title>
