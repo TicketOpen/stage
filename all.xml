@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,6 +472,16 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659370.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제6회 한국뮤지컬어워즈 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013307</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013307</guid>
+            <pubDate>Tue, 28 Dec 2021 07:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">제6회 한국뮤지컬어워즈</dt>
+						<dd>2022.01.10 ~ 2022.01.10</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/12/0400012112_171302_01.246.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[조민규 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012650</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012650</guid>
@@ -610,16 +620,6 @@
 						<dd>2021.10.15 ~ 2021.10.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168263_01.750.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[조강태 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168241&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168241&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 24 Oct 2021 10:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">조강태 콘서트</dt>
-						<dd>2021.10.11 ~ 2021.10.11</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168241_01.417.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?> (상상마당 ─ 공연정보)]]></title>
@@ -1051,39 +1051,39 @@
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 공식 블로그</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오프더메뉴 첫 단독콘서트 (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206397</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206397</guid>
-            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206397" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">오프더메뉴 첫 단독콘서트</p></a></div>]]></content:encoded>
+            <title><![CDATA[먼데이프로젝트 시즌4 : ORIGINAL [허드 단독 콘서트] (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206451</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206451</guid>
+            <pubDate>Tue, 28 Dec 2021 07:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206451" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">먼데이프로젝트 시즌4 : ORIGINAL [허드 단독 콘서트]</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[RETURN TO SCHOOL BAND special (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://forms.gle/qAtsoCPh9B1A1o2u7</link>
-            <guid>https://forms.gle/qAtsoCPh9B1A1o2u7</guid>
-            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/qAtsoCPh9B1A1o2u7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">RETURN TO SCHOOL BAND special</p></a></div>]]></content:encoded>
+            <title><![CDATA[2021 SIMF 제주대구부산서울 인디교류전 (서울) (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/633220</link>
+            <guid>https://booking.naver.com/booking/5/bizes/633220</guid>
+            <pubDate>Tue, 28 Dec 2021 07:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/633220" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2021 SIMF 제주대구부산서울 인디교류전 (서울)</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울인디뮤직페스타 [LIVE CLUB DAY－LIVE IS HERE] (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206399</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206399</guid>
-            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206399" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">서울인디뮤직페스타 [LIVE CLUB DAY－LIVE IS HERE]</p></a></div>]]></content:encoded>
+            <title><![CDATA[루이드 dryflower 발매 기념 LIVE CONCERT (프리즘홀 ─ 링크트리)]]></title>
+            <link>http://naver.me/GfPUPRYh</link>
+            <guid>http://naver.me/GfPUPRYh</guid>
+            <pubDate>Tue, 28 Dec 2021 07:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="http://naver.me/GfPUPRYh" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">루이드 dryflower 발매 기념 LIVE CONCERT</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 XINDIE PRESENTS vol.7 #그_냥 #김필선 (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206434</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206434</guid>
-            <pubDate>Wed, 08 Dec 2021 03:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206434" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2021 XINDIE PRESENTS vol.7 #그_냥 #김필선</p></a></div>]]></content:encoded>
+            <title><![CDATA[＋1dB (plz) #키라라 #리우리 #기나이직 #넷갈라 (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206482</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206482</guid>
+            <pubDate>Tue, 28 Dec 2021 07:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206482" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">＋1dB (plz) #키라라 #리우리 #기나이직 #넷갈라</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Jump in-to-the-universe #몬구 #돌연한출발 #까데호 (프리즘홀 ─ 링크트리)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206305</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
-            <pubDate>Fri, 05 Nov 2021 08:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206305" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">Jump in-to-the-universe #몬구 #돌연한출발 #까데호</p></a></div>]]></content:encoded>
+            <title><![CDATA[CONNECT：마리슈x오추프로젝트 (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206480</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206480</guid>
+            <pubDate>Tue, 28 Dec 2021 07:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206480" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">CONNECT：마리슈x오추프로젝트</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[22년 1월 언플러그드 오픈마이크 신청 (카페 언플러그드 ─ 링크트리)]]></title>
