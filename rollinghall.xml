@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 06:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=448&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=448&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 29 Dec 2021 06:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 02월 05일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/448/1153579901_5BED8FACEC8AA4ED84B05D200225_EC9DB4ECA09C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미스피츠 단독 콘서트 ‘First Step’ : 롤링 27주년 ..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Sun, 05 Dec 2021 05:21:35 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 12월 30일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/437/1352688460_ECA095EC8381EC8898_ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALIVE STAGE ＃8：박시환 단독 콘서트 '사랑하지..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=434&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=434&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 01월 02일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/434/1147742420_5BED8FACEC8AA4ED84B05D20EBB095EC8B9CED9998.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
