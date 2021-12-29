@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 14:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 15:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1032</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1032</guid>
-            <pubDate>Thu, 16 Dec 2021 14:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29 (수) 19:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1639662843.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[MOZIK DREAM CONCERT]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1011</link>
