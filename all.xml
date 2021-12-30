@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 08:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 09:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[406호 프로젝트 단독 콘서트 'CAMPING' : .. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=449&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=449&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 30 Dec 2021 09:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 02월 06일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/449/1599009847_5BED8FACEC8AA4ED84B05D200206_406ED98B8_RGB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 (롤링홀)]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 07 Dec 2021 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 01월 08일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/440/1599684299_28EBA1A4EBA781ED998029200108_EBB0B4EB9494ECA780_ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 정상수 기부 콘서트－서울 (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=437&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=437&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Sun, 05 Dec 2021 05:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2021년 12월 30일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/437/1352688460_ECA095EC8381EC8898_ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5959 LIVE : 초승 (구름아래소극장 ─ 공연안내)]]></title>
