@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 06:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Tue, 30 Nov 2021 01:11:52 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 (목) 19:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/ufhVMi37gsS8ovcyFXedYZ4t9EKLPx2HRwzbTGAJlIDq6C0aN5pWBmU1QjOkrn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[래원 X 이영지 콘서트 [꽃말 : 매듭]]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1151&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220104</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1151&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220104</guid>
+            <pubDate>Thu, 30 Dec 2021 07:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.04 (화) 15:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/NxIRBUwsiQ3VbnAqTKtSEWlpcFkr6O0u1PhagL5Dmyvjd2ZHeXJGfM79Y48ozC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 KIM JAE JOONG J-PARTY]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1152&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220123</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1152&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220123</guid>
+            <pubDate>Thu, 30 Dec 2021 07:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.23 (일) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/6WoOiYBZkmjngVSh1tX8KP9fqw7TyMlHENzF3UsGdRIbvapuC5erx0DJ4cL2QA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1153&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1153&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</guid>
+            <pubDate>Thu, 30 Dec 2021 07:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22 (금) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/Ws1ShoJDk8XgxM9Zc34aqztLn7vIRdyYE5bfVF2iU0OTKwle6QjuCPGArNpBmH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
