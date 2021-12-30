@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/prismhall</id>
     <title>프리즘홀 ─ 링크트리</title>
-    <updated>2021-12-30T10:28:57.144Z</updated>
+    <updated>2021-12-30T11:21:30.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -60,5 +60,12 @@
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206480"/>
         <updated>2021-12-28T07:23:50.134Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206480" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">CONNECT：마리슈x오추프로젝트</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흐름 流 flow season：겨울 #양반들 #보수동쿨러 #허클베리핀]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206486</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206486"/>
+        <updated>2021-12-30T11:21:05.524Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206486" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">흐름 流 flow season：겨울 #양반들 #보수동쿨러 #허클베리핀</p></a></div>]]></content>
     </entry>
 </feed>

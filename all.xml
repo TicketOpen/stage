@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 10:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 11:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1100,6 +1100,13 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206480</guid>
             <pubDate>Tue, 28 Dec 2021 07:23:50 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206480" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">CONNECT：마리슈x오추프로젝트</p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흐름 流 flow season：겨울 #양반들 #보수동쿨러 #허클베리핀 (프리즘홀 ─ 링크트리)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206486</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206486</guid>
+            <pubDate>Thu, 30 Dec 2021 11:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206486" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">흐름 流 flow season：겨울 #양반들 #보수동쿨러 #허클베리핀</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[22년 1월 언플러그드 오픈마이크 신청 (카페 언플러그드 ─ 링크트리)]]></title>
