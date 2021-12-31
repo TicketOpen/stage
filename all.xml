@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,6 @@
 								<span>사부작당</span>
 																<p>2021. 12. 10 - 2021. 12. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16383397931638339793577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MC몽 20주년 콘서트: 이제부터 시작이다! (예스24 라이브홀)]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1135&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211231</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1135&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20211231</guid>
-            <pubDate>Thu, 30 Dec 2021 15:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31 (금) 19:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/ufhVMi37gsS8ovcyFXedYZ4t9EKLPx2HRwzbTGAJlIDq6C0aN5pWBmU1QjOkrn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[래원 X 이영지 콘서트 [꽃말 : 매듭] (예스24 라이브홀)]]></title>
