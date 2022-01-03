@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/gongsangondo</id>
     <title>공상온도 ─ 링크트리</title>
-    <updated>2022-01-03T16:40:39.795Z</updated>
+    <updated>2022-01-03T17:33:26.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Youth out of the city ! 0107 20:00 open]]></title>
+        <id>https://bityl.co/AJPp</id>
+        <link href="https://bityl.co/AJPp"/>
+        <updated>2022-01-03T17:33:09.555Z</updated>
+        <content type="html"><![CDATA[<a href="https://bityl.co/AJPp" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">Youth out of the city ! 0107 20:00 open</p></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공상온도 네이버 스마트스토어]]></title>
         <id>http://gongsang.xyz/</id>
