@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 01:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
             <pubDate>Sat, 25 Dec 2021 15:24:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.30 (일) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659370.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1034</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1034</guid>
+            <pubDate>Mon, 03 Jan 2022 02:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.19 (토) 19:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1035</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1035</guid>
+            <pubDate>Mon, 03 Jan 2022 02:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.20 (일) 18:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
