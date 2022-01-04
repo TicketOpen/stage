@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-01-04T02:43:42.386Z</updated>
+    <updated>2022-01-04T03:26:16.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.sangsangmadang.com/show/detail/2007</id>
         <link href="https://www.sangsangmadang.com/show/detail/2007"/>
         <updated>2021-12-16T03:25:33.197Z</updated>
-        <content type="html"><![CDATA[2022.01.08~2022.01.15]]></content>
+        <content type="html"><![CDATA[2022.01.15~2022.01.15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thumbs UP! with 이정권]]></title>
