@@ -1,71 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://linktr.ee/cafe.unplugged</id>
-    <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-01-06T15:27:09.400Z</updated>
+    <id>https://linktr.ee/gongsangondo</id>
+    <title>공상온도 ─ 링크트리</title>
+    <updated>2022-01-06T16:42:11.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
-        <title type="html"><![CDATA[22년 1월 언플러그드 오픈마이크 신청]]></title>
-        <id>https://forms.gle/hpYhZpRtUDBn8tnH7</id>
-        <link href="https://forms.gle/hpYhZpRtUDBn8tnH7"/>
-        <updated>2022-01-04T13:34:51.223Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/hpYhZpRtUDBn8tnH7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 1월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
+        <title type="html"><![CDATA[Youth out of the city ! 0107 20:00 open]]></title>
+        <id>https://bityl.co/AJPp</id>
+        <link href="https://bityl.co/AJPp"/>
+        <updated>2022-01-06T16:41:57.495Z</updated>
+        <content type="html"><![CDATA[<a href="https://bityl.co/AJPp" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">Youth out of the city ! 0107 20:00 open</p></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1/7(금) - 저녁 8시 : 니쥬 & 쿠인]]></title>
-        <id>https://forms.gle/GkEvjZZB1VEVyq1e7</id>
-        <link href="https://forms.gle/GkEvjZZB1VEVyq1e7"/>
-        <updated>2021-12-29T08:31:03.546Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/GkEvjZZB1VEVyq1e7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/7(금) - 저녁 8시 : 니쥬 &amp; 쿠인</p></a></div>]]></content>
+        <title type="html"><![CDATA[공상온도 네이버 스마트스토어]]></title>
+        <id>http://gongsang.xyz/</id>
+        <link href="http://gongsang.xyz/"/>
+        <updated>2022-01-06T16:41:57.495Z</updated>
+        <content type="html"><![CDATA[<a href="http://gongsang.xyz" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 네이버 스마트스토어</p></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1/14(금) - 저녁 8시 [Don't hurry up] : 김민성, 김효린]]></title>
-        <id>https://forms.gle/jZiYPfheXR5Cs1fB6</id>
-        <link href="https://forms.gle/jZiYPfheXR5Cs1fB6"/>
-        <updated>2022-01-05T14:20:10.616Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/jZiYPfheXR5Cs1fB6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/14(금) - 저녁 8시 [Don't hurry up] : 김민성, 김효린</p></a></div>]]></content>
+        <title type="html"><![CDATA[공상온도 카카오톡 채널 (문의)]]></title>
+        <id>http://pf.kakao.com/_xmVpHM</id>
+        <link href="http://pf.kakao.com/_xmVpHM"/>
+        <updated>2022-01-06T16:41:57.495Z</updated>
+        <content type="html"><![CDATA[<a href="http://pf.kakao.com/_xmVpHM" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 카카오톡 채널 (문의)</p></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1/21(금)- 저녁 8시 : 나의 노랑말들 쇼케이스 <행복회로 파티!>]]></title>
-        <id>https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing</id>
-        <link href="https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing"/>
-        <updated>2022-01-05T11:22:00.864Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/21(금)- 저녁 8시 : 나의 노랑말들 쇼케이스 &lt;행복회로 파티!&gt;</p></a></div>]]></content>
+        <title type="html"><![CDATA[ARTIST 택배대행 서비스]]></title>
+        <id>https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4</id>
+        <link href="https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4"/>
+        <updated>2022-01-06T16:41:57.496Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">ARTIST 택배대행 서비스</p></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
-        <id>https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link</id>
-        <link href="https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link"/>
-        <updated>2021-11-13T17:40:35.992Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">언플러그드 공식 굿즈 주문 신청서</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<언플러그드에서 온 편지> 과월호 신청]]></title>
-        <id>https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link</id>
-        <link href="https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link"/>
-        <updated>2021-11-13T17:40:35.993Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">&lt;언플러그드에서 온 편지&gt; 과월호 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 언플러그드_UNPL]]></title>
-        <id>https://youtube.com/user/cafeunplugged1</id>
-        <link href="https://youtube.com/user/cafeunplugged1"/>
-        <updated>2021-11-13T17:40:35.994Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://youtube.com/user/cafeunplugged1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">유튜브 언플러그드_UNPL</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언플러그드 대관 신청]]></title>
-        <id>https://forms.gle/3cL2AyqY8W46ZFmUA</id>
-        <link href="https://forms.gle/3cL2AyqY8W46ZFmUA"/>
-        <updated>2021-11-13T17:40:35.996Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/3cL2AyqY8W46ZFmUA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">언플러그드 대관 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언플러그드 네이버카페]]></title>
-        <id>https://cafe.naver.com/cafeunplugged</id>
-        <link href="https://cafe.naver.com/cafeunplugged"/>
-        <updated>2021-11-13T17:40:36.002Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://cafe.naver.com/cafeunplugged" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">언플러그드 네이버카페</p></a></div>]]></content>
+        <title type="html"><![CDATA[공상온도 official & store]]></title>
+        <id>http://gongsangondo.com/</id>
+        <link href="http://gongsangondo.com/"/>
+        <updated>2022-01-06T16:41:57.497Z</updated>
+        <content type="html"><![CDATA[<a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official &amp; store</p></a>]]></content>
     </entry>
 </feed>

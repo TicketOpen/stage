@@ -1,161 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블루스퀘어 ─ 공연안내</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 15:27:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제6회 한국뮤지컬어워즈]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013307</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013307</guid>
-            <pubDate>Tue, 28 Dec 2021 07:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">제6회 한국뮤지컬어워즈</dt>
-						<dd>2022.01.10 ~ 2022.01.10</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/12/0400012112_171302_01.246.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[조민규 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012650</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012650</guid>
-            <pubDate>Wed, 08 Dec 2021 04:32:18 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">조민규 콘서트</dt>
-						<dd>2022.01.08 ~ 2022.01.09</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/12/0400012112_170890_01.847.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sat, 01 Jan 2022 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">김필 콘서트</dt>
-						<dd>2021.12.31 ~ 2022.01.01</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170513_01.311.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[10cm 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170255&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170255&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 26 Dec 2021 15:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">10cm 콘서트</dt>
-						<dd>2021.12.17 ~ 2021.12.26</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170255_01.012.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[페퍼톤스 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169733&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169733&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 12 Dec 2021 15:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">페퍼톤스 콘서트</dt>
-						<dd>2021.12.11 ~ 2021.12.12</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169733_01.314.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱 데이 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170171&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170171&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 05 Dec 2021 15:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">로맨틱 데이 콘서트</dt>
-						<dd>2021.12.05 ~ 2021.12.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170171_01.958.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[루시 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169791&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169791&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sat, 04 Dec 2021 15:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">루시 콘서트</dt>
-						<dd>2021.12.03 ~ 2021.12.04</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169791_01.125.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169613&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169613&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">정동원 콘서트</dt>
-						<dd>2021.11.26 ~ 2021.11.28</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169613_01.941.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑켄슈타인]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008252</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008252</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">프랑켄슈타인</dt>
-						<dd>2021.11.24 ~ 2022.02.20</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.630.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[크래비티 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169357&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169357&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">크래비티 팬미팅</dt>
-						<dd>2021.11.20 ~ 2021.11.21</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_169357_01.459.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테 디 콰트로 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168752&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168752&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">포르테 디 콰트로 콘서트</dt>
-						<dd>2021.11.14 ~ 2021.11.14</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168752_01.438.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[강형호 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168789&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168789&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">강형호 콘서트</dt>
-						<dd>2021.11.12 ~ 2021.11.13</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168789_01.306.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168811&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168811&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">원어스 콘서트</dt>
-						<dd>2021.11.06 ~ 2021.11.07</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168811_01.154.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아카이브K-ON]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167945&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167945&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">아카이브K-ON</dt>
-						<dd>2021.10.22 ~ 2021.10.23</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_167945_01.905.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[하동균 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168263&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=168263&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 02 Dec 2021 16:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
-						<dd>2021.10.15 ~ 2021.10.17</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168263_01.750.gif" length="0" type="image/gif"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.sangsangmadang.com/show/HD</id>
+    <title>상상마당 ─ 공연정보</title>
+    <updated>2022-01-06T16:42:11.233Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?>]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2007</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2007"/>
+        <updated>2022-01-06T16:41:32.544Z</updated>
+        <content type="html"><![CDATA[2022.01.15~2022.01.15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thumbs UP! with 이정권]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1998</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1998"/>
+        <updated>2022-01-06T16:41:32.544Z</updated>
+        <content type="html"><![CDATA[2021.12.31~2021.12.31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정우의 [ Frame ]]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1993</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1993"/>
+        <updated>2022-01-06T16:41:32.547Z</updated>
+        <content type="html"><![CDATA[2021.12.30~2021.12.30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울인디뮤직페스타［LIVE CLUB DAY－LIVE IS HERE］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2003</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2003"/>
+        <updated>2022-01-06T16:41:32.547Z</updated>
+        <content type="html"><![CDATA[2021.12.21~2021.12.21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHY NOT 보수동쿨러？]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2000</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2000"/>
+        <updated>2022-01-06T16:41:32.547Z</updated>
+        <content type="html"><![CDATA[2021.12.19~2021.12.19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<이소정 콘서트> 겨울 꽃, 피다]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2005</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2005"/>
+        <updated>2022-01-06T16:41:32.549Z</updated>
+        <content type="html"><![CDATA[2021.12.18~2021.12.18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SING 4 U 5]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1989</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1989"/>
+        <updated>2022-01-06T16:41:32.550Z</updated>
+        <content type="html"><![CDATA[2021.12.17~2021.12.17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠비나이 단독공연 New songs Premiere]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1992</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1992"/>
+        <updated>2022-01-06T16:41:32.551Z</updated>
+        <content type="html"><![CDATA[2021.12.10~2021.12.11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루비레코드 레이블쇼－Ruby Wednesday]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1983</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1983"/>
+        <updated>2022-01-06T16:41:32.552Z</updated>
+        <content type="html"><![CDATA[2021.11.24~2021.11.24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웃음꽃 가든]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1972</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1972"/>
+        <updated>2022-01-06T16:41:32.553Z</updated>
+        <content type="html"><![CDATA[2021.11.20~2021.11.21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극동아시아타이거즈 단독 콘서트 "가족잔치"]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1968</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1968"/>
+        <updated>2022-01-06T16:41:32.554Z</updated>
+        <content type="html"><![CDATA[2021.11.18~2021.11.18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우예린 [Night : 여름에 노란 꽃이 밤에만 핀다]]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1958</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1958"/>
+        <updated>2022-01-06T16:41:32.554Z</updated>
+        <content type="html"><![CDATA[2021.11.17~2021.11.17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Made in Daegu]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1959</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1959"/>
+        <updated>2022-01-06T16:41:32.555Z</updated>
+        <content type="html"><![CDATA[2021.11.14~2021.11.14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허클베리핀 17th 옐로우 콘서트]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1953</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1953"/>
+        <updated>2022-01-06T16:41:32.556Z</updated>
+        <content type="html"><![CDATA[2021.11.13~2021.11.13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임헌일 단독공연 SUNSET]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1946</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1946"/>
+        <updated>2022-01-06T16:41:32.557Z</updated>
+        <content type="html"><![CDATA[2021.11.11~2021.11.12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레인보우 노트 단독공연［Animation］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1969</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1969"/>
+        <updated>2022-01-06T16:41:32.558Z</updated>
+        <content type="html"><![CDATA[2021.11.10~2021.11.10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투데이올드스니커즈 첫 단독공연 [여기서 빛난다]]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1950</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1950"/>
+        <updated>2022-01-06T16:41:32.559Z</updated>
+        <content type="html"><![CDATA[2021.11.04~2021.11.04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모트 단독공연［소중함에 대하여］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1963</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1963"/>
+        <updated>2022-01-06T16:41:32.560Z</updated>
+        <content type="html"><![CDATA[2021.11.03~2021.11.03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인 스트리밍 공연 [밴드의시대5] - 2021 밴드디스커버리 특집]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1957</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1957"/>
+        <updated>2022-01-06T16:41:32.562Z</updated>
+        <content type="html"><![CDATA[2021.11.02~2021.11.02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＜음악가의 서평: 차세대＞]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1954</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1954"/>
+        <updated>2022-01-06T16:41:32.564Z</updated>
+        <content type="html"><![CDATA[2021.10.30~2021.10.30]]></content>
+    </entry>
+</feed>
