@@ -1,71 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://linktr.ee/prismhall</id>
-    <title>프리즘홀 ─ 링크트리</title>
-    <updated>2022-01-06T16:42:11.236Z</updated>
+    <id>https://linktr.ee/CTRSOUND</id>
+    <title>씨티알사운드 ─ 링크트리</title>
+    <updated>2022-01-06T17:33:57.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
-        <title type="html"><![CDATA[프리즘홀 유튜브]]></title>
-        <id>https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw</id>
-        <link href="https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw"/>
-        <updated>2022-01-06T16:41:50.115Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 유튜브</p></a></div>]]></content>
+        <title type="html"><![CDATA[[곽푸른하늘] 'NEW YEAR'S RESOLUTION' 온라인 공연 예매]]></title>
+        <id>https://livelystage.com/live-detail/223</id>
+        <link href="https://livelystage.com/live-detail/223"/>
+        <updated>2022-01-06T17:33:28.826Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://livelystage.com/live-detail/223" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 'NEW YEAR'S RESOLUTION' 온라인 공연 예매</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프리즘홀 공식 홈페이지]]></title>
-        <id>https://www.prismhall.com/</id>
-        <link href="https://www.prismhall.com/"/>
-        <updated>2022-01-06T16:41:50.115Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://www.prismhall.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 공식 홈페이지</p></a></div>]]></content>
+        <title type="html"><![CDATA[[정우] 양 I 종말 라이브 클립]]></title>
+        <id>https://linktr.ee/CTRSOUND</id>
+        <link href="https://linktr.ee/CTRSOUND"/>
+        <updated>2022-01-06T17:33:28.794Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프리즘홀 공식 블로그]]></title>
-        <id>https://blog.naver.com/prismhall2012</id>
-        <link href="https://blog.naver.com/prismhall2012"/>
-        <updated>2022-01-06T16:41:50.116Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 공식 블로그</p></a></div>]]></content>
+        <title type="html"><![CDATA[[김재훈] 온스테이지 라이브]]></title>
+        <id>https://blog.naver.com/onstage0808/222602591301</id>
+        <link href="https://blog.naver.com/onstage0808/222602591301"/>
+        <updated>2022-01-06T17:33:28.830Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://blog.naver.com/onstage0808/222602591301" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[김재훈] 온스테이지 라이브</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌4 : ORIGINAL [허드 단독 콘서트]]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206451</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206451"/>
-        <updated>2022-01-06T16:41:50.117Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206451" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">먼데이프로젝트 시즌4 : ORIGINAL [허드 단독 콘서트]</p></a></div>]]></content>
+        <title type="html"><![CDATA[[김재훈] 정규 2집 S.W.I.M 제작 인터뷰]]></title>
+        <id>https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1</id>
+        <link href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1"/>
+        <updated>2022-01-06T17:33:28.832Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[김재훈] 정규 2집 S.W.I.M 제작 인터뷰</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 SIMF 제주대구부산서울 인디교류전 (서울)]]></title>
-        <id>https://booking.naver.com/booking/5/bizes/633220</id>
-        <link href="https://booking.naver.com/booking/5/bizes/633220"/>
-        <updated>2022-01-06T16:41:50.120Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/633220" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2021 SIMF 제주대구부산서울 인디교류전 (서울)</p></a></div>]]></content>
+        <title type="html"><![CDATA[최고은 굿즈샵]]></title>
+        <id>https://smartstore.naver.com/iamgonne</id>
+        <link href="https://smartstore.naver.com/iamgonne"/>
+        <updated>2022-01-06T17:33:28.834Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://smartstore.naver.com/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">최고은 굿즈샵</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[루이드 dryflower 발매 기념 LIVE CONCERT]]></title>
-        <id>http://naver.me/GfPUPRYh</id>
-        <link href="http://naver.me/GfPUPRYh"/>
-        <updated>2022-01-06T16:41:50.121Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="http://naver.me/GfPUPRYh" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">루이드 dryflower 발매 기념 LIVE CONCERT</p></a></div>]]></content>
+        <title type="html"><![CDATA[♥️ 임지원 유튜브]]></title>
+        <id>https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw</id>
+        <link href="https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw"/>
+        <updated>2022-01-06T17:33:28.835Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 임지원 유튜브</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[＋1dB (plz) #키라라 #리우리 #기나이직 #넷갈라]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206482</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206482"/>
-        <updated>2022-01-06T16:41:50.123Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206482" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">＋1dB (plz) #키라라 #리우리 #기나이직 #넷갈라</p></a></div>]]></content>
+        <title type="html"><![CDATA[♥️ 최고은 유튜브]]></title>
+        <id>https://www.youtube.com/user/iamgonne</id>
+        <link href="https://www.youtube.com/user/iamgonne"/>
+        <updated>2022-01-06T17:33:28.837Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/user/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 최고은 유튜브</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CONNECT：마리슈x오추프로젝트]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206480</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206480"/>
-        <updated>2022-01-06T16:41:50.125Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206480" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">CONNECT：마리슈x오추프로젝트</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흐름 流 flow season：겨울 #양반들 #보수동쿨러 #허클베리핀]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206486</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206486"/>
-        <updated>2022-01-06T16:41:50.126Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206486" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">흐름 流 flow season：겨울 #양반들 #보수동쿨러 #허클베리핀</p></a></div>]]></content>
+        <title type="html"><![CDATA[♥️ 씨티알싸운드 유튜브]]></title>
+        <id>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</id>
+        <link href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA"/>
+        <updated>2022-01-06T17:33:28.839Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 씨티알싸운드 유튜브</p></a></div>]]></content>
     </entry>
 </feed>
