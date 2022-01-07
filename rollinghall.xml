@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 06:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,30 @@
             <pubDate>Sat, 04 Dec 2021 15:24:49 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2021년 03월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/334/858119620_EC82ACEBB3B820-ED9E99ED95A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김사월 단독 콘서트 : 롤링 27주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=452&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=452&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 07 Jan 2022 06:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 02월 12일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/452/1155255791_5BED8FACEC8AA4ED84B05D200211-12_EAB980EC82ACEC9B94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김사월 단독 콘서트：롤링 27주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=451&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=451&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 07 Jan 2022 06:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 02월 11일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/451/1624798860_5BED8FACEC8AA4ED84B05D200211-12_EAB980EC82ACEC9B94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모트 단독 콘서트 ‘몽글몽글’：롤링 27주년 기념 공..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=450&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=450&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 07 Jan 2022 06:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 02월 04일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/450/1727755849_5BED8FACEC8AA4ED84B05D200204_EBAAA8ED8AB8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[406호 프로젝트 단독 콘서트 'CAMPING' : ..]]></title>
@@ -86,30 +110,6 @@
             <pubDate>Mon, 13 Dec 2021 04:31:32 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 01월 16일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/444/1832810186_5BED8FACEC8AA4ED84B05D200115-16_1415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1415 3rd EP naps! 발매기념 단독 공연 : 롤링 27주년..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=442&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=442&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Mon, 13 Dec 2021 04:31:32 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 01월 15일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/442/380808274_5BED8FACEC8AA4ED84B05D200115-16_1415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용용 콘서트 소호도 ‘小虎跳’：롤링 27주년 기념 공..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=441&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=441&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 09 Dec 2021 06:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 01월 09일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/441/329587111_5BED8FACEC8AA4ED84B05D200109_EC9AA9EC9AA9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴디지 단독 콘서트：롤링 27주년 기념 공연]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=440&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=440&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Tue, 07 Dec 2021 07:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 01월 08일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/440/1599684299_28EBA1A4EBA781ED998029200108_EBB0B4EB9494ECA780_ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
