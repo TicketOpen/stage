@@ -4,32 +4,32 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 23:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 01:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[the mind 1st concert: 마음의 마음]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1031</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1031</guid>
             <pubDate>Thu, 06 Jan 2022 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.08 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1639503061.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.08 (토) 19:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1641518248.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[A Love Supreme Live]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1025</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1025</guid>
             <pubDate>Thu, 06 Jan 2022 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1637839840.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.15 (토) 19:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1641518423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[이지형 2022 첫 콘서트: New Year's Night(신년의 밤)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1026</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1026</guid>
             <pubDate>Thu, 06 Jan 2022 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.22 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1637839857.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.01.22 (토) 18:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찰카기의 썰]]></title>
@@ -40,20 +40,20 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1640188843.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[누군가의 플레이리스트 Track.42 유승우 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1029</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1029</guid>
             <pubDate>Thu, 06 Jan 2022 17:32:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.29 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659352.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[누군가의 플레이리스트 Track.42 유승우 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1030</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1030</guid>
             <pubDate>Thu, 06 Jan 2022 17:32:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.30 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1638659370.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독공연]]></title>
