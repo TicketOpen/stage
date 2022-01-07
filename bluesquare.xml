@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 07:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 08:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2022.02.26 ~ 2022.03.13</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.800.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이준호 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000049</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000049</guid>
+            <pubDate>Fri, 07 Jan 2022 08:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">이준호 팬미팅</dt>
+						<dd>2022.01.22 ~ 2022.01.23</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171504_01.449.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제6회 한국뮤지컬어워즈]]></title>
@@ -146,16 +156,6 @@
 						<dd>2021.11.06 ~ 2021.11.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168811_01.154.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아카이브K-ON]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167945&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=167945&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 06 Jan 2022 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">아카이브K-ON</dt>
-						<dd>2021.10.22 ~ 2021.10.23</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_167945_01.905.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
