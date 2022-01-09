@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 07:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 08:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 첫 단독 공연 <팡파레>]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206500</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206500</guid>
+            <pubDate>Sun, 09 Jan 2022 08:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206500" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16417131701641713170695.jpg">
+									</a>
+								</div>
+								<b>새해 첫 단독 공연 &lt;팡파레&gt;</b>
+								<span>전자양</span>
+																<p>2022. 02. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16417131701641713170695.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WRK#5 : 김마리의 피어나는 방]]></title>
             <link>https://tickets.interpark.com/goods/21013302</link>
@@ -182,22 +198,6 @@
 								<span>최항석과 부기몬스터</span>
 																<p>2021. 12. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EP [새로운 길] 쇼케이스]]></title>
-            <link>https://www.instagram.com/p/CXAL_kXvb72/</link>
-            <guid>https://www.instagram.com/p/CXAL_kXvb72/</guid>
-            <pubDate>Fri, 03 Dec 2021 08:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CXAL_kXvb72/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16385167301638516730334.jpg">
-									</a>
-								</div>
-								<b>EP [새로운 길] 쇼케이스</b>
-								<span>임백천</span>
-																<p>2021. 12. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16385167301638516730334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
