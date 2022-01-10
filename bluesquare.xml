@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 14:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 15:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,9 +29,9 @@
         </item>
         <item>
             <title><![CDATA[제6회 한국뮤지컬어워즈]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013307</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013307</guid>
-            <pubDate>Thu, 06 Jan 2022 17:32:49 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171302&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171302&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Mon, 10 Jan 2022 15:26:40 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">제6회 한국뮤지컬어워즈</dt>
 						<dd>2022.01.10 ~ 2022.01.10</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
