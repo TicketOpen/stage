@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 23:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 01:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000002</guid>
             <pubDate>Fri, 07 Jan 2022 06:30:21 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">노트르담 드 파리 내한공연</dt>
-						<dd>2022.02.26 ~ 2022.03.13</dd>
+						<dd>2022.02.25 ~ 2022.03.13</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.800.gif" length="0" type="image/gif"/>
         </item>
