@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 01:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Fri, 07 Jan 2022 08:29:04 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 01월 15일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/442/380808274_5BED8FACEC8AA4ED84B05D200115-16_1415.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0212 : The Whales 편 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.instagram.com/p/CYizJz4FQQR/</link>
+            <guid>https://www.instagram.com/p/CYizJz4FQQR/</guid>
+            <pubDate>Tue, 11 Jan 2022 02:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CYizJz4FQQR/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16418668971641866897330.jpg">
+									</a>
+								</div>
+								<b>Flight0212 : The Whales 편</b>
+								<span>더 웨일즈(The Whales)</span>
+																<p>2022. 02. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16418668971641866897330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해 첫 단독 공연 <팡파레> (구름아래소극장 ─ 공연안내)]]></title>
@@ -288,22 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16367008941636700894902.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최항석과 부기몬스터 겨울 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/21010374</link>
-            <guid>https://tickets.interpark.com/goods/21010374</guid>
-            <pubDate>Thu, 28 Oct 2021 03:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21010374" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg">
-									</a>
-								</div>
-								<b>최항석과 부기몬스터 겨울 콘서트</b>
-								<span>최항석과 부기몬스터</span>
-																<p>2021. 12. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16353886271635388627938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 KIM JAE JOONG J-PARTY (예스24 라이브홀)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1152&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220123</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1152&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220123</guid>
@@ -391,7 +391,7 @@
             <content:encoded><![CDATA[<dt class="subject">노트르담 드 파리 내한공연</dt>
 						<dd>2022.02.25 ~ 2022.03.13</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.800.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.837.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이준호 팬미팅 (블루스퀘어 ─ 공연안내)]]></title>
@@ -898,62 +898,6 @@
             <guid>https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA</guid>
             <pubDate>Sun, 14 Nov 2021 06:49:06 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[곽푸른하늘] 'NEW YEAR'S RESOLUTION' 온라인 공연 예매 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://livelystage.com/live-detail/223</link>
-            <guid>https://livelystage.com/live-detail/223</guid>
-            <pubDate>Tue, 04 Jan 2022 09:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://livelystage.com/live-detail/223" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 'NEW YEAR'S RESOLUTION' 온라인 공연 예매</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://TicketOpen.github.io/stage/all.xml</link>
-            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 11 Jan 2022 01:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[김재훈] 온스테이지 라이브 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://blog.naver.com/onstage0808/222602591301</link>
-            <guid>https://blog.naver.com/onstage0808/222602591301</guid>
-            <pubDate>Thu, 23 Dec 2021 06:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://blog.naver.com/onstage0808/222602591301" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[김재훈] 온스테이지 라이브</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[김재훈] 정규 2집 S.W.I.M 제작 인터뷰 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1</link>
-            <guid>https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11045&amp;pg=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[김재훈] 정규 2집 S.W.I.M 제작 인터뷰</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최고은 굿즈샵 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://smartstore.naver.com/iamgonne</link>
-            <guid>https://smartstore.naver.com/iamgonne</guid>
-            <pubDate>Thu, 16 Dec 2021 06:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://smartstore.naver.com/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">최고은 굿즈샵</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[♥️ 임지원 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw</link>
-            <guid>https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw</guid>
-            <pubDate>Fri, 03 Dec 2021 07:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 임지원 유튜브</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[♥️ 최고은 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://www.youtube.com/user/iamgonne</link>
-            <guid>https://www.youtube.com/user/iamgonne</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/user/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 최고은 유튜브</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[♥️ 씨티알싸운드 유튜브 (씨티알사운드 ─ 링크트리)]]></title>
-            <link>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</link>
-            <guid>https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA</guid>
-            <pubDate>Fri, 05 Nov 2021 08:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">♥️ 씨티알싸운드 유튜브</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프리즘홀 유튜브 (프리즘홀 ─ 링크트리)]]></title>

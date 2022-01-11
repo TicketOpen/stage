@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 01:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<dt class="subject">노트르담 드 파리 내한공연</dt>
 						<dd>2022.02.25 ~ 2022.03.13</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.800.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.837.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이준호 팬미팅]]></title>
