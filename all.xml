@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:34:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,22 @@
             <pubDate>Thu, 30 Dec 2021 07:23:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.23 (일) 18:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/xHEou61mPeCcpqzFgUBRrJvSOQWKZ02ht9VbiA7kLIn8fNa3YslDGw5jXT4ydM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PENTAGON 12th Mini Album [IN:VITE U] LAUNCHING SHOW (예스24 라이브홀)]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1160&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220124</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1160&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220124</guid>
+            <pubDate>Mon, 17 Jan 2022 05:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.24 (월) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/kEbGQ34oe8VlTc79A2DnpmhLXaSWZv5Uj0frMxYu6tPOHyFKJd1NwqiCsgzRBI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon (예스24 라이브홀)]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1159&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220205</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1159&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220205</guid>
+            <pubDate>Mon, 17 Jan 2022 05:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.05 (토) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/LfGhxDK4uFbacOHASC0UIvBwe83rtkmqdV6PQ5Z9loXsyTM2jWYJR7zE1gnipN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!” (예스24 라이브홀)]]></title>
@@ -918,7 +934,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 17 Jan 2022 04:33:57 GMT</pubDate>
+            <pubDate>Mon, 17 Jan 2022 05:26:04 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
