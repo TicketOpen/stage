@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-01-18T22:28:34.233Z</updated>
+    <updated>2022-01-18T23:21:10.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -35,10 +35,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2/4 (금) 저녁 8시 - 박나경, 김라프, 라현미]]></title>
-        <id>https://docs.google.com/spreadsheets/d/1995IX749azhqhGViRA1V_bivPbsjevd1BIaZjq9zTgw/edit?usp=sharing</id>
-        <link href="https://docs.google.com/spreadsheets/d/1995IX749azhqhGViRA1V_bivPbsjevd1BIaZjq9zTgw/edit?usp=sharing"/>
-        <updated>2022-01-18T12:42:49.995Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/spreadsheets/d/1995IX749azhqhGViRA1V_bivPbsjevd1BIaZjq9zTgw/edit?usp=sharing" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/4 (금) 저녁 8시 - 박나경, 김라프, 라현미</p></a></div>]]></content>
+        <id>https://docs.google.com/forms/d/1WXe50qix-6ZACCUOva2sTFpKk11EdRAGG8KG-iDfn6I/edit</id>
+        <link href="https://docs.google.com/forms/d/1WXe50qix-6ZACCUOva2sTFpKk11EdRAGG8KG-iDfn6I/edit"/>
+        <updated>2022-01-18T23:20:51.807Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/1WXe50qix-6ZACCUOva2sTFpKk11EdRAGG8KG-iDfn6I/edit" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/4 (금) 저녁 8시 - 박나경, 김라프, 라현미</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
