@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-01-19T02:35:54.572Z</updated>
+    <updated>2022-01-19T03:23:59.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[22년 2월 언플러그드 오픈마이크 신청]]></title>
+        <id>https://forms.gle/vDNaeTAm1fdMsUKZ6</id>
+        <link href="https://forms.gle/vDNaeTAm1fdMsUKZ6"/>
+        <updated>2022-01-19T03:23:39.096Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/vDNaeTAm1fdMsUKZ6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 2월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1/21(금) 저녁 8시 : 나의 노랑말들 쇼케이스 <행복회로 파티!>]]></title>
         <id>https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing</id>
