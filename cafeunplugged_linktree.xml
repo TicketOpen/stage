@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-01-18T23:21:10.154Z</updated>
+    <updated>2022-01-19T01:13:45.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[22년 1월 언플러그드 오픈마이크 신청]]></title>
-        <id>https://forms.gle/hpYhZpRtUDBn8tnH7</id>
-        <link href="https://forms.gle/hpYhZpRtUDBn8tnH7"/>
-        <updated>2022-01-06T17:33:38.613Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/hpYhZpRtUDBn8tnH7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 1월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[1/21(금) 저녁 8시 : 나의 노랑말들 쇼케이스 <행복회로 파티!>]]></title>
         <id>https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing</id>
@@ -25,6 +18,13 @@
         <link href="https://forms.gle/NRzC8CpHfW4eCGuM9"/>
         <updated>2022-01-12T12:41:17.359Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/NRzC8CpHfW4eCGuM9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/23(일) 저녁 7시 [신년운세뽑기] : 오붓, 프랭클리</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1/24(월) 오후 8시 - 오픈마이크]]></title>
+        <id>https://booking.naver.com/booking/5/bizes/641165/items/4260627?preview=1</id>
+        <link href="https://booking.naver.com/booking/5/bizes/641165/items/4260627?preview=1"/>
+        <updated>2022-01-19T01:13:27.013Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/641165/items/4260627?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/24(월) 오후 8시 - 오픈마이크</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1/29(토) 저녁 7시 - 홍예진, 램씨]]></title>
