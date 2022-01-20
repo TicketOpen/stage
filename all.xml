@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,38 @@
             <pubDate>Thu, 30 Dec 2021 09:24:21 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 02월 06일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/449/1599009847_5BED8FACEC8AA4ED84B05D200206_406ED98B8_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 [팬미팅 콘서트] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206538</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206538</guid>
+            <pubDate>Thu, 20 Jan 2022 06:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206538" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 [팬미팅 콘서트]</b>
+								<span>프롬</span>
+																<p>2022. 02. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206536</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206536</guid>
+            <pubDate>Thu, 20 Jan 2022 06:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206536" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16426563851642656385796.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 [음악여행, 쉼]</b>
+								<span>결(KYUL)</span>
+																<p>2022. 02. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16426563851642656385796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딱 (구름아래소극장 ─ 공연안내)]]></title>
@@ -270,38 +302,6 @@
 								<span>바닥소리</span>
 																<p>2021. 12. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16390470751639047075300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유쾌한 혜진이 유쾌한 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/21012759</link>
-            <guid>https://tickets.interpark.com/goods/21012759</guid>
-            <pubDate>Sun, 12 Dec 2021 09:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21012759" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16395450751639545075685.jpg">
-									</a>
-								</div>
-								<b>유쾌한 혜진이 유쾌한 콘서트</b>
-								<span>혜진이</span>
-																<p>2021. 12. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16395450751639545075685.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
-            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206407" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [음악여행, 쉼]</b>
-								<span>모브닝</span>
-																<p>2021. 12. 20 - 2021. 12. 22</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16385147421638514742323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 KIM JAE JOONG J-PARTY (예스24 라이브홀)]]></title>
@@ -958,7 +958,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 05:21:51 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 06:28:17 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1163,6 +1163,20 @@
             <guid>http://gongsangondo.com/</guid>
             <pubDate>Sun, 14 Nov 2021 06:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official &amp; store</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1월 29일 토요일 6시 ﻿"Shining NADA" 예매 페이지 1/25(화) 오후 2시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=594202&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd8rOuKzEsRIBMk5zlWzvh1X0HJaDChGoAMBCjvB6SYxE0RMw%2Fviewform%3Fusp%3Dsf_link</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=594202&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd8rOuKzEsRIBMk5zlWzvh1X0HJaDChGoAMBCjvB6SYxE0RMw%2Fviewform%3Fusp%3Dsf_link</guid>
+            <pubDate>Thu, 20 Jan 2022 06:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-24b900f9=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-24b900f9=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/1/20/2022-1-20-1642660036398.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/1/20/2022-1-20-1642660036398.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/1/20/2022-1-20-1642660036398.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-24b900f9=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-24b900f9="">1월 29일 토요일 6시 ﻿"Shining NADA" 예매 페이지 1/25(화) 오후 2시 예매오픈!</p></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1월 28일 금요일 8시 ﻿"NADA SWITCH HIGH" 예매 페이지 1/23(일) 오전 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=594144&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfNLOfRVgtCGfScgRndWtU07NNWKuGM-zBEri3PONvgH29UeQ%2Fviewform%3Fusp%3Dsf_link</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=594144&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfNLOfRVgtCGfScgRndWtU07NNWKuGM-zBEri3PONvgH29UeQ%2Fviewform%3Fusp%3Dsf_link</guid>
+            <pubDate>Thu, 20 Jan 2022 06:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-24b900f9=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-24b900f9=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/1/20/2022-1-20-1642657698582.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/1/20/2022-1-20-1642657698582.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/1/20/2022-1-20-1642657698582.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-24b900f9=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-24b900f9="">1월 28일 금요일 8시 ﻿"NADA SWITCH HIGH" 예매 페이지 1/23(일) 오전 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1월 27일 목요일 8시 ﻿"때론 나홀로 나다" 예매 페이지 1/26(수) 오후 5시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
