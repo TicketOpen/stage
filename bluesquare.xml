@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <content:encoded><![CDATA[<dt class="subject">조명섭 콘서트</dt>
 						<dd>2022.01.29 ~ 2022.01.29</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171604_01.240.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171604_01.356.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이준호 팬미팅]]></title>
