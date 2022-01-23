@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 14:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 15:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[이준호 팬미팅]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000049</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000049</guid>
-            <pubDate>Fri, 07 Jan 2022 08:29:47 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171504&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171504&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 23 Jan 2022 15:24:13 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">이준호 팬미팅</dt>
 						<dd>2022.01.22 ~ 2022.01.23</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
