@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-01-23T02:36:25.290Z</updated>
+    <updated>2022-01-23T03:25:05.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://forms.gle/vDNaeTAm1fdMsUKZ6"/>
         <updated>2022-01-19T03:23:39.096Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/vDNaeTAm1fdMsUKZ6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 2월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/21(금) 저녁 8시 : 나의 노랑말들 쇼케이스 <행복회로 파티!>]]></title>
-        <id>https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing</id>
-        <link href="https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing"/>
-        <updated>2022-01-06T17:33:38.617Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/11EL2Q28ONR8aCixtV1yg5v-f4xNUsVNBAviH1liC-7U/edit?usp=sharing" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">1/21(금) 저녁 8시 : 나의 노랑말들 쇼케이스 &lt;행복회로 파티!&gt;</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1/23(일) 저녁 7시 [신년운세뽑기] : 오붓, 프랭클리]]></title>
@@ -46,6 +39,13 @@
         <link href="https://docs.google.com/forms/d/1WXe50qix-6ZACCUOva2sTFpKk11EdRAGG8KG-iDfn6I/edit"/>
         <updated>2022-01-18T23:20:51.807Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/1WXe50qix-6ZACCUOva2sTFpKk11EdRAGG8KG-iDfn6I/edit" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/4 (금) 저녁 8시 - 박나경, 김라프, 라현미</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2/6 (일) 저녁 7시 - 크로트노트, 지고 공연]]></title>
+        <id>https://docs.google.com/forms/d/e/1FAIpQLSe-p1rS6S_OKzzgBUIHUT74N86vNok4pOxddS-4aRA0ogI2OQ/viewform?usp=sf_link</id>
+        <link href="https://docs.google.com/forms/d/e/1FAIpQLSe-p1rS6S_OKzzgBUIHUT74N86vNok4pOxddS-4aRA0ogI2OQ/viewform?usp=sf_link"/>
+        <updated>2022-01-23T03:24:44.208Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe-p1rS6S_OKzzgBUIHUT74N86vNok4pOxddS-4aRA0ogI2OQ/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/6 (일) 저녁 7시 - 크로트노트, 지고 공연</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
