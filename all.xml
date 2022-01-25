@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 02:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 03:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -566,6 +566,13 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.630.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2022년 상생 공연 대관료 지원 프로그램 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2016</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2016</guid>
+            <pubDate>Tue, 25 Jan 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20~2022.04.30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?> (상상마당 ─ 공연정보)]]></title>
             <link>https://www.sangsangmadang.com/show/detail/2007</link>
             <guid>https://www.sangsangmadang.com/show/detail/2007</guid>
@@ -697,13 +704,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1957</guid>
             <pubDate>Fri, 29 Oct 2021 06:28:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02~2021.11.02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[＜음악가의 서평: 차세대＞ (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1954</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1954</guid>
-            <pubDate>Tue, 26 Oct 2021 06:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.30~2021.10.30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캐치 티니핑 (이화여대 삼성홀 ─ 공연안내)]]></title>
@@ -938,7 +938,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 25 Jan 2022 02:39:26 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 03:24:37 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
