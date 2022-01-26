@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 01:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>프롬</span>
 																<p>2022. 02. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 번째 팬미팅 <꽃신>]]></title>
+            <link>https://tickets.interpark.com/goods/22000912</link>
+            <guid>https://tickets.interpark.com/goods/22000912</guid>
+            <pubDate>Wed, 26 Jan 2022 01:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22000912" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16431574901643157490323.jpg">
+									</a>
+								</div>
+								<b>첫 번째 팬미팅 &lt;꽃신&gt;</b>
+								<span>채보훈</span>
+																<p>2022. 02. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16431574901643157490323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼]]]></title>
@@ -182,22 +198,6 @@
 								<span>허밍어반스테레오, 리소, 밴젝스, 예슬로우</span>
 																<p>2021. 12. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16379879731637987973469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더할 나위 없이：유니크-리스마스]]></title>
-            <link>https://tickets.interpark.com/goods/21012744</link>
-            <guid>https://tickets.interpark.com/goods/21012744</guid>
-            <pubDate>Thu, 09 Dec 2021 11:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21012744" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16390470751639047075300.jpg">
-									</a>
-								</div>
-								<b>더할 나위 없이：유니크-리스마스</b>
-								<span>바닥소리</span>
-																<p>2021. 12. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16390470751639047075300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
