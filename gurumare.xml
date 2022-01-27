@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 10:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 11:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,13 +31,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22000912" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16431574901643157490323.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg">
 									</a>
 								</div>
 								<b>첫 번째 팬미팅 &lt;꽃신&gt;</b>
 								<span>채보훈</span>
 																<p>2022. 02. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16431574901643157490323.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼]]]></title>
@@ -63,13 +63,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22000598" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16425783271642578327022.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg">
 									</a>
 								</div>
 								<b>딱</b>
 								<span>이승환</span>
 																<p>2022. 02. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16425783271642578327022.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flight0212 : The Whales 편]]></title>
@@ -79,13 +79,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=206511" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16418668971641866897330.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16432816441643281644926.jpg">
 									</a>
 								</div>
 								<b>Flight0212 : The Whales 편</b>
 								<span>더 웨일즈(The Whales)</span>
 																<p>2022. 02. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16418668971641866897330.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16432816441643281644926.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해 첫 단독 공연 <팡파레>]]></title>
@@ -111,13 +111,29 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/21013302" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16417128951641712895695.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16432815981643281598543.jpg">
 									</a>
 								</div>
 								<b>WRK#5 : 김마리의 피어나는 방</b>
 								<span>김마리</span>
 																<p>2022. 01. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16417128951641712895695.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16432815981643281598543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤지컬 갈라쇼]]></title>
+            <link>https://www.instagram.com/p/CZBgn0HpIdw/</link>
+            <guid>https://www.instagram.com/p/CZBgn0HpIdw/</guid>
+            <pubDate>Thu, 27 Jan 2022 11:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CZBgn0HpIdw/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16432814851643281485026.jpg">
+									</a>
+								</div>
+								<b>2022 뮤지컬 갈라쇼</b>
+								<span>아트꼼포지트</span>
+																<p>2022. 01. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16432814851643281485026.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Healing Time With CHUNG HA]]></title>
@@ -182,22 +198,6 @@
 								<span>히미츠</span>
 																<p>2021. 12. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왈츠소파 크리스마스 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206412</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206412</guid>
-            <pubDate>Thu, 02 Dec 2021 16:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206412" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16379879731637987973469.jpg">
-									</a>
-								</div>
-								<b>왈츠소파 크리스마스 콘서트</b>
-								<span>허밍어반스테레오, 리소, 밴젝스, 예슬로우</span>
-																<p>2021. 12. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16379879731637987973469.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
