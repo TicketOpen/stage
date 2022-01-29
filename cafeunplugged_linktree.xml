@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-01-29T07:23:00.028Z</updated>
+    <updated>2022-01-29T08:28:12.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://docs.google.com/forms/d/e/1FAIpQLSe-p1rS6S_OKzzgBUIHUT74N86vNok4pOxddS-4aRA0ogI2OQ/viewform?usp=sf_link"/>
         <updated>2022-01-23T03:24:44.208Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe-p1rS6S_OKzzgBUIHUT74N86vNok4pOxddS-4aRA0ogI2OQ/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/6 (일) 저녁 7시 - 크로트노트, 지고 공연</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2/11(금) 오후 8시 - 김필선, 2단지]]></title>
+        <id>https://forms.gle/2qdPRd1gaXr2cssJA</id>
+        <link href="https://forms.gle/2qdPRd1gaXr2cssJA"/>
+        <updated>2022-01-29T08:27:49.778Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/2qdPRd1gaXr2cssJA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/11(금) 오후 8시 - 김필선, 2단지</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2/12(토) 저녁 7시 - OOSKE : 로쿠, 최윤영, 곽태풍]]></title>
