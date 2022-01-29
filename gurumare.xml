@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 06:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 07:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>채보훈</span>
 																<p>2022. 02. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 아카데미 <세계 경제를 진단하다>]]></title>
+            <link>https://www.ohmyschool.org/views/event/2022_event/0126/</link>
+            <guid>https://www.ohmyschool.org/views/event/2022_event/0126/</guid>
+            <pubDate>Sat, 29 Jan 2022 07:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ohmyschool.org/views/event/2022_event/0126/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg">
+									</a>
+								</div>
+								<b>2022 아카데미 &lt;세계 경제를 진단하다&gt;</b>
+								<span>최진기</span>
+																<p>2022. 02. 17 - 2022. 03. 31</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼]]]></title>
@@ -182,22 +198,6 @@
 								<span>전진희</span>
 																<p>2021. 12. 27 - 2021. 12. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 연말공연 <아무튼, 단공>]]></title>
-            <link>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</link>
-            <guid>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</guid>
-            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg">
-									</a>
-								</div>
-								<b>2021 연말공연 &lt;아무튼, 단공&gt;</b>
-								<span>히미츠</span>
-																<p>2021. 12. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

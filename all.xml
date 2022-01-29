@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 06:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 07:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
 								<span>채보훈</span>
 																<p>2022. 02. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 아카데미 <세계 경제를 진단하다> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.ohmyschool.org/views/event/2022_event/0126/</link>
+            <guid>https://www.ohmyschool.org/views/event/2022_event/0126/</guid>
+            <pubDate>Sat, 29 Jan 2022 07:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ohmyschool.org/views/event/2022_event/0126/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg">
+									</a>
+								</div>
+								<b>2022 아카데미 &lt;세계 경제를 진단하다&gt;</b>
+								<span>최진기</span>
+																<p>2022. 02. 17 - 2022. 03. 31</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>전진희</span>
 																<p>2021. 12. 27 - 2021. 12. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 연말공연 <아무튼, 단공> (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</link>
-            <guid>https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0</guid>
-            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://m.booking.naver.com/booking/5/bizes/67598/items/4200393?preview=0" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg">
-									</a>
-								</div>
-								<b>2021 연말공연 &lt;아무튼, 단공&gt;</b>
-								<span>히미츠</span>
-																<p>2021. 12. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16385157251638515725530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon (예스24 라이브홀)]]></title>
@@ -1002,7 +1002,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 29 Jan 2022 06:27:31 GMT</pubDate>
+            <pubDate>Sat, 29 Jan 2022 07:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
