@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 14:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track.42 유승우 단독 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1030</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1030</guid>
-            <pubDate>Thu, 06 Jan 2022 17:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.30 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1642699265.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[모자이크]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1040</link>
@@ -69,6 +61,14 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1036</guid>
             <pubDate>Sat, 29 Jan 2022 15:22:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26 (토) 18:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track.44]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1037</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1037</guid>
+            <pubDate>Sun, 30 Jan 2022 15:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.27 (일) 18:00]]></content:encoded>
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
