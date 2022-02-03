@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>예스24 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:33:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 N.Flying LIVE ‘＆CON’ - Man on the Moon]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1159&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220205</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1159&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220205</guid>
-            <pubDate>Mon, 17 Jan 2022 05:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 (토) 18:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/LfGhxDK4uFbacOHASC0UIvBwe83rtkmqdV6PQ5Z9loXsyTM2jWYJR7zE1gnipN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 ONEWE 2nd Live Concert ‘O! NEW E!volution Ⅱ’]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1163&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220212</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1163&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220212</guid>
-            <pubDate>Tue, 25 Jan 2022 09:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.12 (토) 17:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/3q8zixdhXwBpOmrvPsb5kuMGD9SYJFH07nZR6Lt2eyIUlVWaCgN4AQ1ofETjKc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1158&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220219</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1158&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220219</guid>
-            <pubDate>Mon, 17 Jan 2022 04:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.19 (토) 17:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/KZUG4a2oLuPzInfbCrtxFS73vVQkYmXcJBEpeO1g86TNWqj9RDs0whdAMlyH5i.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE]]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1164&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220226</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1164&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220226</guid>
-            <pubDate>Wed, 26 Jan 2022 09:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26 (토) 17:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/y9O3fiLIwGFB2djTo7mxPMpNchgQnJASak6RUsKeWq5zrlbXDZCEYt8uVv140H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 내한공연（CHRISTOPHER LIVE IN SEOUL）]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1153&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1153&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20220422</guid>
-            <pubDate>Thu, 30 Dec 2021 07:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22 (금) 20:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/Ws1ShoJDk8XgxM9Zc34aqztLn7vIRdyYE5bfVF2iU0OTKwle6QjuCPGArNpBmH.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yes24livehall.com/ko/show/list.php</id>
+    <title>예스24 라이브홀</title>
+    <updated>2022-02-03T05:22:28.229Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://yes24livehall.com/ko/show/favicon.ico</icon>
+</feed>
