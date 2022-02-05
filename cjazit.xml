@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 13:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 15:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/et/xd/we159906292qk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍은기 단독 콘서트]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/222</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/222</guid>
-            <pubDate>Tue, 18 Jan 2022 20:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.02.05
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>다올 엔터테인먼트</dd>
-<dt>출연:</dt>
-<dd>홍은기</dd>
-</dl>
-<a href="/cjazit/book/view/222" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/px/kh/wh159289614dt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔분의일 단독 콘서트]]></title>

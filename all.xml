@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 13:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 15:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,30 +328,6 @@
             <enclosure url="https://www.cjazit.org/image/schedule/et/xd/we159906292qk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홍은기 단독 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/222</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/222</guid>
-            <pubDate>Tue, 18 Jan 2022 20:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.02.05
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>다올 엔터테인먼트</dd>
-<dt>출연:</dt>
-<dd>홍은기</dd>
-</dl>
-<a href="/cjazit/book/view/222" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/px/kh/wh159289614dt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엔분의일 단독 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/221</link>
             <guid>https://www.cjazit.org/cjazit/book/view/221</guid>
@@ -374,14 +350,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/nn/sk/me159187895ct.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모자이크 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1040</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1040</guid>
-            <pubDate>Wed, 05 Jan 2022 13:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.05 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1643077852.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.3 홍예진 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -438,6 +406,14 @@
             <pubDate>Sun, 30 Jan 2022 15:22:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.27 (일) 18:00]]></content:encoded>
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A.N.D: Another Nice Day (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1043</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1043</guid>
+            <pubDate>Sat, 05 Feb 2022 15:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1642980715.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새소년 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
@@ -962,7 +938,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Feb 2022 13:22:18 GMT</pubDate>
+            <pubDate>Sat, 05 Feb 2022 15:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
