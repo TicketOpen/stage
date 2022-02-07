@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 08:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 소극장 콘서트 “어떤 날들”]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=2&amp;stext=&amp;no=41997&amp;groupno=41997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=2&amp;stext=&amp;no=41997&amp;groupno=41997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 07 Feb 2022 08:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=2&amp;stext=&amp;no=41997&amp;groupno=41997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16442187251644218725156.jpg">
+									</a>
+								</div>
+								<b>2022 소극장 콘서트 “어떤 날들”</b>
+								<span>스텔라장</span>
+																<p>2022. 03. 04 - 2022. 03. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16442187251644218725156.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [팬미팅 콘서트]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206538</link>
@@ -182,22 +198,6 @@
 								<span>초승</span>
 																<p>2021. 12. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4 [청춘의 밤]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206426</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206426</guid>
-            <pubDate>Fri, 03 Dec 2021 07:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206426" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌4 [청춘의 밤]</b>
-								<span>전진희</span>
-																<p>2021. 12. 27 - 2021. 12. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16385149031638514903818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
