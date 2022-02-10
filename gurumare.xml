@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>김정훈</span>
 																<p>2022. 02. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16444558141644455814346.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WRK#6 : 놀이도감의 산뜻한 방]]></title>
+            <link>https://tickets.interpark.com/goods/22001440</link>
+            <guid>https://tickets.interpark.com/goods/22001440</guid>
+            <pubDate>Thu, 10 Feb 2022 12:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22001440" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16444921141644492114056.jpg">
+									</a>
+								</div>
+								<b>WRK#6 : 놀이도감의 산뜻한 방</b>
+								<span>놀이도감</span>
+																<p>2022. 02. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16444921141644492114056.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [팬미팅 콘서트]]]></title>
@@ -182,22 +198,6 @@
 								<span>아트꼼포지트</span>
 																<p>2022. 01. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432814851643281485026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Healing Time With CHUNG HA]]></title>
-            <link>https://tickets.interpark.com/goods/21013005</link>
-            <guid>https://tickets.interpark.com/goods/21013005</guid>
-            <pubDate>Sun, 09 Jan 2022 07:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21013005" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16417126881641712688438.jpg">
-									</a>
-								</div>
-								<b>Healing Time With CHUNG HA</b>
-								<span>청하</span>
-																<p>2021. 12. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16417126881641712688438.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
