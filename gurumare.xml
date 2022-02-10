@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 23:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 01:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>스텔라장</span>
 																<p>2022. 03. 04 - 2022. 03. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16442187251644218725156.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206564</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206564</guid>
+            <pubDate>Thu, 10 Feb 2022 01:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206564" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16444558141644455814346.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 [음악여행, 쉼]</b>
+								<span>김정훈</span>
+																<p>2022. 02. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16444558141644455814346.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [팬미팅 콘서트]]]></title>
@@ -182,22 +198,6 @@
 								<span>청하</span>
 																<p>2021. 12. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16417126881641712688438.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE : 초승]]></title>
-            <link>https://tickets.interpark.com/goods/21012565</link>
-            <guid>https://tickets.interpark.com/goods/21012565</guid>
-            <pubDate>Fri, 03 Dec 2021 12:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21012565" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE : 초승</b>
-								<span>초승</span>
-																<p>2021. 12. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16383344451638334445499.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
