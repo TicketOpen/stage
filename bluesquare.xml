@@ -4,19 +4,9 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 06:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아이다]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=172196&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=172196&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 07 Feb 2022 02:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">아이다</dt>
-						<dd>2022.05.10 ~ 2022.08.07</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172196_01.105.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[새소년 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000931</link>
@@ -156,6 +146,16 @@
 						<dd>2021.11.26 ~ 2021.11.28</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169613_01.941.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑켄슈타인]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008252</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008252</guid>
+            <pubDate>Tue, 15 Feb 2022 06:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">프랑켄슈타인</dt>
+						<dd>2021.11.24 ~ 2022.02.20</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/09/0400012109_168190_01.630.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
