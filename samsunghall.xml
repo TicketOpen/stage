@@ -4,9 +4,26 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 07:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 08:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김문정 콘서트]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001570</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001570</guid>
+            <pubDate>Thu, 17 Feb 2022 08:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">김문정 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.03.11 ~ 2022.03.27<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001570" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=172342&amp;EntGoodsCode=22001570"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172342_01.821.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[캐치 티니핑]]></title>
             <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=169832&amp;EntGoodsCode=21011221</link>
@@ -201,19 +218,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=150097&amp;EntGoodsCode=19015180"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/19/10/0400011910_150097_0506.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트 콘서트]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=151081&amp;EntGoodsCode=19016516</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=151081&amp;EntGoodsCode=19016516</guid>
-            <pubDate>Thu, 06 Jan 2022 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">기프트 콘서트</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2019.12.14 ~ 2019.12.15<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=151081&amp;EntGoodsCode=19016516"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/19/10/0400011910_151081_0037.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
