@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Lovender] 쇼케이스]]></title>
+            <link>https://www.instagram.com/inyuniverse/</link>
+            <guid>https://www.instagram.com/inyuniverse/</guid>
+            <pubDate>Thu, 17 Feb 2022 09:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/inyuniverse/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16450878281645087828337.jpg">
+									</a>
+								</div>
+								<b>[Lovender] 쇼케이스</b>
+								<span>한승윤</span>
+																<p>2022. 02. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16450878281645087828337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206536</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206536</guid>
@@ -182,22 +198,6 @@
 								<span>김마리</span>
 																<p>2022. 01. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432815981643281598543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 뮤지컬 갈라쇼]]></title>
-            <link>https://www.instagram.com/p/CZBgn0HpIdw/</link>
-            <guid>https://www.instagram.com/p/CZBgn0HpIdw/</guid>
-            <pubDate>Thu, 27 Jan 2022 11:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CZBgn0HpIdw/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432814851643281485026.jpg">
-									</a>
-								</div>
-								<b>2022 뮤지컬 갈라쇼</b>
-								<span>아트꼼포지트</span>
-																<p>2022. 01. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432814851643281485026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
