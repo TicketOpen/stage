@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 14:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 15:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.3 홍예진 단독 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1041</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1041</guid>
-            <pubDate>Thu, 20 Jan 2022 17:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.18 (금) 19:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1644845366.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 43 김마리 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1034</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 05 Feb 2022 15:22:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.03 (목) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1642980715.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1045</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1045</guid>
+            <pubDate>Fri, 18 Feb 2022 15:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1644292800.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
