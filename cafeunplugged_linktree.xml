@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-02-18T11:20:34.715Z</updated>
+    <updated>2022-02-18T12:37:33.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSec2ximjbxqwTHvR-W2dLIp3aAtmEWPzcuUsNvyOOVhEqjBrg/viewform" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 3월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2/19 (토) 2022 술이 된 노래들 vol.6 김사월]]></title>
+        <title type="html"><![CDATA[2/19 (토) 저녁 7시 2022 술이 된 노래들 vol.6 김사월]]></title>
         <id>https://booking.naver.com/booking/5/bizes/522253/items/4294640?preview=1</id>
         <link href="https://booking.naver.com/booking/5/bizes/522253/items/4294640?preview=1"/>
         <updated>2022-02-12T14:21:46.156Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/522253/items/4294640?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/19 (토) 2022 술이 된 노래들 vol.6 김사월</p></a></div>]]></content>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/522253/items/4294640?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/19 (토) 저녁 7시 2022 술이 된 노래들 vol.6 김사월</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2/20(일) 오후 7시 - 문없는집, 소년달]]></title>
@@ -46,6 +46,13 @@
         <link href="https://forms.gle/XFYMr1qsDPPeoxcc6"/>
         <updated>2022-02-15T09:23:45.724Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/XFYMr1qsDPPeoxcc6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">2/27(일) 저녁 6시 - 우물&amp;펜텐</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3/4 (금) 저녁 8시 - '우당탕탕야옹야옹 vol.4' 슬라이드로사, 안지]]></title>
+        <id>https://forms.gle/8JBzJr7R6N3juwBW9</id>
+        <link href="https://forms.gle/8JBzJr7R6N3juwBW9"/>
+        <updated>2022-02-18T12:37:12.409Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/8JBzJr7R6N3juwBW9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/4 (금) 저녁 8시 - '우당탕탕야옹야옹 vol.4' 슬라이드로사, 안지</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
