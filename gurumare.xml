@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 01:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 02:38:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소극장 콘서트 [2022 우연의 음악]]]></title>
+            <link>https://tickets.interpark.com/goods/22001845</link>
+            <guid>https://tickets.interpark.com/goods/22001845</guid>
+            <pubDate>Sat, 19 Feb 2022 02:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22001845" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16452355481645235548157.jpg">
+									</a>
+								</div>
+								<b>소극장 콘서트 [2022 우연의 음악]</b>
+								<span>짙은</span>
+																<p>2022. 03. 18 - 2022. 03. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16452355481645235548157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 소극장 콘서트 “어떤 날들”]]></title>
             <link>https://tickets.interpark.com/goods/22001360</link>
@@ -182,22 +198,6 @@
 								<span>전자양</span>
 																<p>2022. 02. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16417131701641713170695.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WRK#5 : 김마리의 피어나는 방]]></title>
-            <link>https://tickets.interpark.com/goods/21013302</link>
-            <guid>https://tickets.interpark.com/goods/21013302</guid>
-            <pubDate>Sun, 09 Jan 2022 07:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/21013302" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432815981643281598543.jpg">
-									</a>
-								</div>
-								<b>WRK#5 : 김마리의 피어나는 방</b>
-								<span>김마리</span>
-																<p>2022. 01. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432815981643281598543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
