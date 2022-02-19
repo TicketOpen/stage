@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>CJ문화재단 ─ 공연예매</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 15:37:38 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[엔분의일 단독 콘서트]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/221</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/221</guid>
-            <pubDate>Tue, 25 Jan 2022 05:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.02.19
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>유한책임회사 폰드</dd>
-<dt>출연:</dt>
-<dd>엔분의일</dd>
-</dl>
-<a href="/cjazit/book/view/221" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/nn/sk/me159187895ct.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cjazit.org/cjazit/book/list</id>
+    <title>CJ문화재단 ─ 공연예매</title>
+    <updated>2022-02-19T16:33:43.494Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
+</feed>
