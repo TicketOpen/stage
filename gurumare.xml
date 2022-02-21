@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 07:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 08:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>김정훈</span>
 																<p>2022. 02. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16444558141644455814346.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Gift Concert [하고 싶은 말]]]></title>
+            <link>https://www.youtube.com/channel/UChLhv-ieQocUpEOFv2rJyUA/community?lb=UgkxrtdESifvb5MpgHYHtc0u9Rig9bbPKiFb</link>
+            <guid>https://www.youtube.com/channel/UChLhv-ieQocUpEOFv2rJyUA/community?lb=UgkxrtdESifvb5MpgHYHtc0u9Rig9bbPKiFb</guid>
+            <pubDate>Mon, 21 Feb 2022 08:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.youtube.com/channel/UChLhv-ieQocUpEOFv2rJyUA/community?lb=UgkxrtdESifvb5MpgHYHtc0u9Rig9bbPKiFb" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16454301001645430100562.jpg">
+									</a>
+								</div>
+								<b>2022 Gift Concert [하고 싶은 말]</b>
+								<span>김현중</span>
+																<p>2022. 02. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16454301001645430100562.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WRK#6 : 놀이도감의 산뜻한 방]]></title>
@@ -182,22 +198,6 @@
 								<span>더 웨일즈(The Whales)</span>
 																<p>2022. 02. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432816441643281644926.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 첫 단독 공연 <팡파레>]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206500</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206500</guid>
-            <pubDate>Sun, 09 Jan 2022 08:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206500" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16417131701641713170695.jpg">
-									</a>
-								</div>
-								<b>새해 첫 단독 공연 &lt;팡파레&gt;</b>
-								<span>전자양</span>
-																<p>2022. 02. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16417131701641713170695.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
