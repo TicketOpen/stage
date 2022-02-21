@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 09:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>스텔라장</span>
 																<p>2022. 03. 04 - 2022. 03. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16442187251644218725156.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[914시리즈 '딱']]></title>
+            <link>https://tickets.interpark.com/goods/22001883</link>
+            <guid>https://tickets.interpark.com/goods/22001883</guid>
+            <pubDate>Mon, 21 Feb 2022 09:30:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22001883" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16454352011645435201116.jpg">
+									</a>
+								</div>
+								<b>914시리즈 '딱'</b>
+								<span>이승환</span>
+																<p>2022. 03. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16454352011645435201116.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼]]]></title>
@@ -182,22 +198,6 @@
 								<span>이승환</span>
 																<p>2022. 02. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0212 : The Whales 편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206511</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206511</guid>
-            <pubDate>Thu, 13 Jan 2022 08:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206511" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432816441643281644926.jpg">
-									</a>
-								</div>
-								<b>Flight0212 : The Whales 편</b>
-								<span>더 웨일즈(The Whales)</span>
-																<p>2022. 02. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432816441643281644926.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
