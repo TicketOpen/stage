@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 08:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 07 Dec 2021 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 01월 01일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/439/1590969120_5BED8FACEC8AA4ED84B05D201ECB0A820EAB080EB8298EB8BA420EB9DBCEC9DB8EC9785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브로 단독 콘서트 ‘오늘부터 1일’：롤링 27주년.. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=476&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=476&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 22 Feb 2022 08:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 03월 18일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/476/840714609_5BED8FACEC8AA4ED84B05D0318_ED9598EC9DB4EBB88CEBA19C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4SECONDS 앨범 발매 기념 콘서트 '꽃' : 롤.. (롤링홀)]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 04 Feb 2022 04:28:40 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 03월 06일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/467/633351895_5BED8FACEC8AA4ED84B05D200306_EB8298EC9DB8_RGB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 단독 콘서트：롤링 27주년 기념 공연 (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=466&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=466&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Fri, 04 Feb 2022 04:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 02월 05일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/466/1624390172_5BED8FACEC8AA4ED84B05D200304-05_EB8488EB939CECBBA4EB84A5EC8598_RGB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소극장 콘서트 [2022 우연의 음악] (구름아래소극장 ─ 공연안내)]]></title>
@@ -901,7 +901,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 22 Feb 2022 07:22:30 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 08:31:10 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
