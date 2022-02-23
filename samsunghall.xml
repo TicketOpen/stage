@@ -4,9 +4,26 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 07:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 08:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스윗소로우 콘서트]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001993</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001993</guid>
+            <pubDate>Wed, 23 Feb 2022 08:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">스윗소로우 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.04.15 ~ 2022.04.17<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001993" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=172639&amp;EntGoodsCode=22001993"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172639_01.211.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[김문정 콘서트]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001570</link>
@@ -205,19 +222,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=152820&amp;EntGoodsCode=19018197"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/19/12/0400011912_152820_0522.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[베이비버스]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=150097&amp;EntGoodsCode=19015180</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=150097&amp;EntGoodsCode=19015180</guid>
-            <pubDate>Thu, 06 Jan 2022 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">베이비버스</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>뮤지컬<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2019.12.21 ~ 2020.02.02<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=150097&amp;EntGoodsCode=19015180"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/19/10/0400011910_150097_0506.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
