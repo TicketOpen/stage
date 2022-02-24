@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 04:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[heeling time]]></title>
+            <link>https://www.instagram.com/reddlepoptaionia/</link>
+            <guid>https://www.instagram.com/reddlepoptaionia/</guid>
+            <pubDate>Thu, 24 Feb 2022 05:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/reddlepoptaionia/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16456800941645680094173.jpg">
+									</a>
+								</div>
+								<b>heeling time</b>
+								<span>김재희</span>
+																<p>2022. 03. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16456800941645680094173.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소극장 콘서트 [2022 우연의 음악]]]></title>
             <link>https://tickets.interpark.com/goods/22001845</link>
@@ -182,22 +198,6 @@
 								<span>결(KYUL)</span>
 																<p>2022. 02. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16426563851642656385796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딱]]></title>
-            <link>https://tickets.interpark.com/goods/22000598</link>
-            <guid>https://tickets.interpark.com/goods/22000598</guid>
-            <pubDate>Wed, 19 Jan 2022 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22000598" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg">
-									</a>
-								</div>
-								<b>딱</b>
-								<span>이승환</span>
-																<p>2022. 02. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
