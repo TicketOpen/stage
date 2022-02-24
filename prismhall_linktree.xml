@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/prismhall</id>
     <title>프리즘홀 ─ 링크트리</title>
-    <updated>2022-02-24T05:25:17.949Z</updated>
+    <updated>2022-02-24T06:32:04.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">프리즘홀 공식 블로그</p></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CONNECT : 서온X홍예진]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206616</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206616"/>
+        <updated>2022-02-24T06:31:40.640Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206616" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">CONNECT : 서온X홍예진</p></a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내 귀에 드라마 콘서트：에이프릴세컨드]]></title>
         <id>https://ticket.melon.com/performance/index.htm?prodId=206566</id>
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206566"/>
@@ -46,33 +53,5 @@
         <link href="https://ticket.melon.com/performance/index.htm?prodId=206506"/>
         <updated>2022-01-12T05:26:02.607Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206506" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">CONNECT：조희원X허드</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티키타카 콘서트 : 오프더메뉴]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206544</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206544"/>
-        <updated>2022-02-11T07:21:25.830Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206544" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">티키타카 콘서트 : 오프더메뉴</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티키타카 콘서트 : 해서웨이]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206542</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206542"/>
-        <updated>2022-02-11T07:21:25.831Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206542" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">티키타카 콘서트 : 해서웨이</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티키타카 콘서트 : 잭킹콩]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206541</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206541"/>
-        <updated>2022-01-21T04:32:43.372Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://ticket.melon.com/performance/index.htm?prodId=206541" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">티키타카 콘서트 : 잭킹콩</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RETURN TO SCHOOL BAND vol.5]]></title>
-        <id>https://forms.gle/QjGDTYiHuf2Eihc7A</id>
-        <link href="https://forms.gle/QjGDTYiHuf2Eihc7A"/>
-        <updated>2022-01-21T03:23:48.501Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/QjGDTYiHuf2Eihc7A" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">RETURN TO SCHOOL BAND vol.5</p></a></div>]]></content>
     </entry>
 </feed>
