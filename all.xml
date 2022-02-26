@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 01:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -913,7 +913,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Fri, 25 Feb 2022 23:25:10 GMT</pubDate>
+            <pubDate>Sat, 26 Feb 2022 01:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1155,14 +1155,6 @@
             <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/2/22/2022-2-22-1645489127418.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/2/22/2022-2-22-1645489127418.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/2/22/2022-2-22-1645489127418.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">2월 27일 일요일 7시 ﻿"Born and Raised" 예매 페이지 2/22(화) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[씬의 아이들 (재미공작소 ─ 네이버 스마트스토어)]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4734868401</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4734868401</guid>
-            <pubDate>Sun, 12 Dec 2021 21:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191119_52/15741572637629QWhj_JPEG/11517098289519576_1034772698.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (재미공작소 ─ 네이버 스마트스토어)]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/5503218245</link>
             <guid>https://smartstore.naver.com/studiozemi/products/5503218245</guid>
@@ -1177,6 +1169,14 @@
             <pubDate>Sun, 12 Dec 2021 21:05:30 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210405_105/1617612102801gYTez_JPEG/18747991317582276_1286824318.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씬의 아이들 (재미공작소 ─ 네이버 스마트스토어)]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/4734868401</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/4734868401</guid>
+            <pubDate>Sun, 12 Dec 2021 21:05:30 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191119_52/15741572637629QWhj_JPEG/11517098289519576_1034772698.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범 (재미공작소 ─ 네이버 스마트스토어)]]></title>

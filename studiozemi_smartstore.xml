@@ -4,17 +4,9 @@
         <title>재미공작소 ─ 네이버 스마트스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 01:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[씬의 아이들]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4734868401</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4734868401</guid>
-            <pubDate>Thu, 06 Jan 2022 17:33:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191119_52/15741572637629QWhj_JPEG/11517098289519576_1034772698.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/5503218245</link>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 06 Jan 2022 17:33:56 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210405_105/1617612102801gYTez_JPEG/18747991317582276_1286824318.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씬의 아이들]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/4734868401</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/4734868401</guid>
+            <pubDate>Thu, 06 Jan 2022 17:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191119_52/15741572637629QWhj_JPEG/11517098289519576_1034772698.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범]]></title>
