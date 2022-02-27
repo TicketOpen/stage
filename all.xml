@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 15:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,14 +328,6 @@
             <enclosure url="https://www.cjazit.org/image/schedule/dy/sa/gn162584082hj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 44 gnook(前 오왠) 단독 콘서트 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1037</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1037</guid>
-            <pubDate>Sun, 30 Jan 2022 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.27 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1644845449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Another Nice Day ＃29 - DUNK(덩크), msftz(미스피츠) (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1043</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1043</guid>
@@ -392,6 +384,14 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645958946.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[찰카기의 썰 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1051</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1051</guid>
+            <pubDate>Sun, 27 Feb 2022 15:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.28 (목) 19:51]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645959105.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이다 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001534</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001534</guid>
@@ -423,9 +423,9 @@
         </item>
         <item>
             <title><![CDATA[새소년 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000931</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000931</guid>
-            <pubDate>Fri, 28 Jan 2022 03:22:48 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=172064&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=172064&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 27 Feb 2022 15:24:20 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">새소년 콘서트</dt>
 						<dd>2022.02.25 ~ 2022.02.27</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
@@ -929,7 +929,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sun, 27 Feb 2022 14:22:05 GMT</pubDate>
+            <pubDate>Sun, 27 Feb 2022 15:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
