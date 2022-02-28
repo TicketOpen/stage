@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 07:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>김재희</span>
 																<p>2022. 03. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16456800941645680094173.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 [청춘의 밤]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206611</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206611</guid>
+            <pubDate>Mon, 28 Feb 2022 08:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206611" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 [청춘의 밤]</b>
+								<span>임세모</span>
+																<p>2022. 03. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소극장 콘서트 [2022 우연의 음악]]]></title>
@@ -182,22 +198,6 @@
 								<span>결(KYUL)</span>
 																<p>2022. 02. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16426563851642656385796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딱]]></title>
-            <link>https://tickets.interpark.com/goods/22000598</link>
-            <guid>https://tickets.interpark.com/goods/22000598</guid>
-            <pubDate>Thu, 24 Feb 2022 10:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22000598" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg">
-									</a>
-								</div>
-								<b>딱</b>
-								<span>이승환</span>
-																<p>2022. 02. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432816991643281699007.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
