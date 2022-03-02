@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-03-02T04:31:38.700Z</updated>
+    <updated>2022-03-02T05:22:32.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/2021"/>
         <updated>2022-03-02T01:39:55.467Z</updated>
         <content type="html"><![CDATA[2022.03.26~2022.03.26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 Burn in my youth］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2023</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2023"/>
+        <updated>2022-03-02T05:21:47.199Z</updated>
+        <content type="html"><![CDATA[2022.03.14~2022.03.15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 상생 공연 대관료 지원 프로그램]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1969"/>
         <updated>2022-02-11T03:23:23.192Z</updated>
         <content type="html"><![CDATA[2021.11.10~2021.11.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투데이올드스니커즈 첫 단독공연 [여기서 빛난다]]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1950</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1950"/>
-        <updated>2022-02-11T03:23:23.198Z</updated>
-        <content type="html"><![CDATA[2021.11.04~2021.11.04]]></content>
     </entry>
 </feed>
