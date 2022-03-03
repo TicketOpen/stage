@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 14:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 15:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.cjazit.org/image/schedule/dy/sa/gn162584082hj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[촬영대관 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1053</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1053</guid>
+            <pubDate>Thu, 03 Mar 2022 15:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14 (월) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1646319508.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OFF THE LIVE 04 BALOO X DAWN (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1052</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1052</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.02 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645958946.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰카기의 썰 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1051</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1051</guid>
-            <pubDate>Thu, 03 Mar 2022 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28 (목) 19:51]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645959105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이다 (블루스퀘어 ─ 공연안내)]]></title>
@@ -540,6 +540,146 @@
 						<dd>2021.12.05 ~ 2021.12.05</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170171_01.958.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2022</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2022</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.03~2022.04.03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[차세대 데뷔 3주년 기념 공연 [당신들의 다음 세대 vol.3] (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2021</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2021</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26~2022.03.26]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 Burn in my youth］ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2023</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2023</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14~2022.03.15]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 상생 공연 대관료 지원 프로그램 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2016</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2016</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20~2022.04.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?> (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2007</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2007</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.15~2022.01.15]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Thumbs UP! with 이정권 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1998</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1998</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31~2021.12.31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정우의 [ Frame ] (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1993</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1993</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30~2021.12.30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울인디뮤직페스타［LIVE CLUB DAY－LIVE IS HERE］ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2003</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2003</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.21~2021.12.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WHY NOT 보수동쿨러？ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2000</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2000</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.19~2021.12.19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<이소정 콘서트> 겨울 꽃, 피다 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2005</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2005</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18~2021.12.18]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SING 4 U 5 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1989</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1989</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17~2021.12.17]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독공연 New songs Premiere (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1992</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1992</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10~2021.12.11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1983</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1983</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24~2021.11.24]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[웃음꽃 가든 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1972</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1972</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.20~2021.11.21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[극동아시아타이거즈 단독 콘서트 "가족잔치" (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1968</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1968</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.18~2021.11.18]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우예린 [Night : 여름에 노란 꽃이 밤에만 핀다] (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1958</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1958</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.17~2021.11.17]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 Made in Daegu (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1959</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1959</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.14~2021.11.14]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허클베리핀 17th 옐로우 콘서트 (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1953</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1953</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.13~2021.11.13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임헌일 단독공연 SUNSET (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1946</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1946</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11~2021.11.12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레인보우 노트 단독공연［Animation］ (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/1969</link>
+            <guid>https://www.sangsangmadang.com/show/detail/1969</guid>
+            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10~2021.11.10]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스윗소로우 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
@@ -789,7 +929,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 14:24:21 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 15:28:48 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>

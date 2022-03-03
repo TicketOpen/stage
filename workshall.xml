@@ -4,9 +4,17 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 14:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 15:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촬영대관]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1053</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1053</guid>
+            <pubDate>Thu, 03 Mar 2022 15:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14 (월) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1646319508.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OFF THE LIVE 04 BALOO X DAWN]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1052</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.02 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645958946.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1051</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1051</guid>
-            <pubDate>Thu, 03 Mar 2022 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28 (목) 19:51]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645959105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
