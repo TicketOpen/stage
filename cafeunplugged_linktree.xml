@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-03-06T13:26:05.473Z</updated>
+    <updated>2022-03-06T14:25:24.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://booking.naver.com/booking/5/bizes/646448/items/4322298?preview=1"/>
         <updated>2022-03-04T11:22:42.730Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/646448/items/4322298?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/19(토) 저녁 7시 - 언플러그드 두 번째 잔향 &lt;위수&gt;</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3/20(일) 저녁 7시 - 이르다, 오아!]]></title>
+        <id>https://forms.gle/d2VQJbJLXGp8n6cF8</id>
+        <link href="https://forms.gle/d2VQJbJLXGp8n6cF8"/>
+        <updated>2022-03-06T14:25:03.655Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/d2VQJbJLXGp8n6cF8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/20(일) 저녁 7시 - 이르다, 오아!</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
