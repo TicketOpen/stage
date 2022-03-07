@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-03-07T01:28:57.460Z</updated>
+    <updated>2022-03-07T02:46:58.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/2021"/>
         <updated>2022-03-03T15:28:34.294Z</updated>
         <content type="html"><![CDATA[2022.03.26~2022.03.26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 줄리아드림 첫번째 콘서트 ［Could not say］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2027</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2027"/>
+        <updated>2022-03-07T02:46:02.343Z</updated>
+        <content type="html"><![CDATA[2022.03.19~2022.03.19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 Burn in my youth］]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1946"/>
         <updated>2022-03-03T15:28:34.342Z</updated>
         <content type="html"><![CDATA[2021.11.11~2021.11.12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레인보우 노트 단독공연［Animation］]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1969</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1969"/>
-        <updated>2022-03-03T15:28:34.343Z</updated>
-        <content type="html"><![CDATA[2021.11.10~2021.11.10]]></content>
     </entry>
 </feed>
