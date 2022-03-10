@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>이승환</span>
 																<p>2022. 03. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16468973911646897391192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WRK#7 : 크리스탈 티의 공상하는 방]]></title>
+            <link>https://tickets.interpark.com/goods/22002672</link>
+            <guid>https://tickets.interpark.com/goods/22002672</guid>
+            <pubDate>Thu, 10 Mar 2022 11:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22002672" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16469107311646910731737.jpg">
+									</a>
+								</div>
+								<b>WRK#7 : 크리스탈 티의 공상하는 방</b>
+								<span>크리스탈 티</span>
+																<p>2022. 03. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16469107311646910731737.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[heeling time]]></title>
@@ -182,22 +198,6 @@
 								<span>최진기</span>
 																<p>2022. 02. 17 - 2022. 03. 31</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Lovender] 쇼케이스]]></title>
-            <link>https://www.instagram.com/inyuniverse/</link>
-            <guid>https://www.instagram.com/inyuniverse/</guid>
-            <pubDate>Thu, 17 Feb 2022 09:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/inyuniverse/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16450878281645087828337.jpg">
-									</a>
-								</div>
-								<b>[Lovender] 쇼케이스</b>
-								<span>한승윤</span>
-																<p>2022. 02. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16450878281645087828337.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
