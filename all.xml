@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,12 +112,28 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/473/248046267_5BED8FACEC8AA4ED84B05D20031920ED95B4EBA6ACEBB985EBB284ED8ABC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[heeling time (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.instagram.com/reddlepoptaionia/</link>
-            <guid>https://www.instagram.com/reddlepoptaionia/</guid>
-            <pubDate>Thu, 24 Feb 2022 05:23:37 GMT</pubDate>
+            <title><![CDATA[914시리즈 3딱 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/22002547</link>
+            <guid>https://tickets.interpark.com/goods/22002547</guid>
+            <pubDate>Thu, 10 Mar 2022 08:28:45 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/reddlepoptaionia/" target="_blank">
+									<a href="https://tickets.interpark.com/goods/22002547" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16468973911646897391192.jpg">
+									</a>
+								</div>
+								<b>914시리즈 3딱</b>
+								<span>이승환</span>
+																<p>2022. 03. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16468973911646897391192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[heeling time (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://band.us/n/afa46cLfqaT8b</link>
+            <guid>https://band.us/n/afa46cLfqaT8b</guid>
+            <pubDate>Thu, 10 Mar 2022 08:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://band.us/n/afa46cLfqaT8b" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16456800941645680094173.jpg">
 									</a>
@@ -286,22 +302,6 @@
 								<span>한승윤</span>
 																<p>2022. 02. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16450878281645087828337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 [음악여행, 쉼] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206536</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206536</guid>
-            <pubDate>Thu, 20 Jan 2022 06:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206536" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16426563851642656385796.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌5 [음악여행, 쉼]</b>
-								<span>결(KYUL)</span>
-																<p>2022. 02. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16426563851642656385796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lacuna : Summer Tales (CJ문화재단 ─ 공연예매)]]></title>
@@ -929,7 +929,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 07:24:34 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 08:31:02 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
