@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 01:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,6 +403,16 @@
         </item>
         <item>
             <title><![CDATA[사운드베리 시어터 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002454</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002454</guid>
+            <pubDate>Fri, 11 Mar 2022 01:39:11 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">사운드베리 시어터</dt>
+						<dd>2022.03.26 ~ 2022.03.27</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_172869_01.232.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드베리 시어터 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002203</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002203</guid>
             <pubDate>Thu, 03 Mar 2022 01:36:54 GMT</pubDate>
@@ -532,14 +542,11 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169733_01.314.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[로맨틱 데이 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170171&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170171&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 05 Dec 2021 15:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">로맨틱 데이 콘서트</dt>
-						<dd>2021.12.05 ~ 2021.12.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170171_01.958.gif" length="0" type="image/gif"/>
+            <title><![CDATA[406호 프로젝트 정기공연 [406DAY] (상상마당 ─ 공연정보)]]></title>
+            <link>https://www.sangsangmadang.com/show/detail/2035</link>
+            <guid>https://www.sangsangmadang.com/show/detail/2035</guid>
+            <pubDate>Fri, 11 Mar 2022 01:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.10~2022.04.10]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9와 숫자들 Blue Concert Tour－서울 (상상마당 ─ 공연정보)]]></title>
@@ -673,13 +680,6 @@
             <guid>https://www.sangsangmadang.com/show/detail/1958</guid>
             <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17~2021.11.17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 Made in Daegu (상상마당 ─ 공연정보)]]></title>
-            <link>https://www.sangsangmadang.com/show/detail/1959</link>
-            <guid>https://www.sangsangmadang.com/show/detail/1959</guid>
-            <pubDate>Thu, 03 Mar 2022 15:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.14~2021.11.14]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스윗소로우 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
@@ -929,7 +929,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 23:25:48 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 01:39:52 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>

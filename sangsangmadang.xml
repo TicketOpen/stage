@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-03-10T23:26:17.125Z</updated>
+    <updated>2022-03-11T01:40:22.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[406호 프로젝트 정기공연 [406DAY]]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2035</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2035"/>
+        <updated>2022-03-11T01:39:36.461Z</updated>
+        <content type="html"><![CDATA[2022.04.10~2022.04.10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9와 숫자들 Blue Concert Tour－서울]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2028</id>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1958"/>
         <updated>2022-03-03T15:28:34.333Z</updated>
         <content type="html"><![CDATA[2021.11.17~2021.11.17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Made in Daegu]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1959</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1959"/>
-        <updated>2022-03-03T15:28:34.342Z</updated>
-        <content type="html"><![CDATA[2021.11.14~2021.11.14]]></content>
     </entry>
 </feed>
