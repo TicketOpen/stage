@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-03-14T18:45:42.175Z</updated>
+    <updated>2022-03-14T19:32:44.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[22년 3월 언플러그드 오픈마이크 신청]]></title>
-        <id>https://docs.google.com/forms/d/e/1FAIpQLSec2ximjbxqwTHvR-W2dLIp3aAtmEWPzcuUsNvyOOVhEqjBrg/viewform</id>
-        <link href="https://docs.google.com/forms/d/e/1FAIpQLSec2ximjbxqwTHvR-W2dLIp3aAtmEWPzcuUsNvyOOVhEqjBrg/viewform"/>
-        <updated>2022-02-17T05:22:28.970Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSec2ximjbxqwTHvR-W2dLIp3aAtmEWPzcuUsNvyOOVhEqjBrg/viewform" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 3월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/18(금) 저녁 8시 - 주하늘, 신경우]]></title>
-        <id>https://forms.gle/nCyyix1eaUBvmC1k9</id>
-        <link href="https://forms.gle/nCyyix1eaUBvmC1k9"/>
-        <updated>2022-03-04T07:23:35.705Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/nCyyix1eaUBvmC1k9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/18(금) 저녁 8시 - 주하늘, 신경우</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/19(토) 저녁 7시 - 언플러그드 두 번째 잔향 <위수>]]></title>
-        <id>https://booking.naver.com/booking/6/bizes/273308/items/4324760</id>
-        <link href="https://booking.naver.com/booking/6/bizes/273308/items/4324760"/>
-        <updated>2022-03-07T09:25:12.646Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/6/bizes/273308/items/4324760" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/19(토) 저녁 7시 - 언플러그드 두 번째 잔향 &lt;위수&gt;</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/20(일) 저녁 7시 - 이르다, 오아!]]></title>
-        <id>https://forms.gle/d2VQJbJLXGp8n6cF8</id>
-        <link href="https://forms.gle/d2VQJbJLXGp8n6cF8"/>
-        <updated>2022-03-06T14:25:03.655Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/d2VQJbJLXGp8n6cF8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/20(일) 저녁 7시 - 이르다, 오아!</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/25(금) 저녁 8시 - 영비누, 온시, 우주문]]></title>
-        <id>https://forms.gle/QaoKfA2uRwCZCJWQ9</id>
-        <link href="https://forms.gle/QaoKfA2uRwCZCJWQ9"/>
-        <updated>2022-03-13T03:30:19.954Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/QaoKfA2uRwCZCJWQ9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/25(금) 저녁 8시 - 영비누, 온시, 우주문</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
-        <id>https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link</id>
-        <link href="https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link"/>
-        <updated>2022-01-06T17:33:38.617Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">언플러그드 공식 굿즈 주문 신청서</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<언플러그드에서 온 편지> 과월호 신청]]></title>
-        <id>https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link</id>
-        <link href="https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link"/>
-        <updated>2022-01-06T17:33:38.622Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">&lt;언플러그드에서 온 편지&gt; 과월호 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 언플러그드_UNPL]]></title>
-        <id>https://youtube.com/user/cafeunplugged1</id>
-        <link href="https://youtube.com/user/cafeunplugged1"/>
-        <updated>2022-01-06T17:33:38.622Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://youtube.com/user/cafeunplugged1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">유튜브 언플러그드_UNPL</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언플러그드 대관 신청]]></title>
-        <id>https://forms.gle/3cL2AyqY8W46ZFmUA</id>
-        <link href="https://forms.gle/3cL2AyqY8W46ZFmUA"/>
-        <updated>2022-01-06T17:33:38.623Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/3cL2AyqY8W46ZFmUA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">언플러그드 대관 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언플러그드 네이버카페]]></title>
-        <id>https://cafe.naver.com/cafeunplugged</id>
-        <link href="https://cafe.naver.com/cafeunplugged"/>
-        <updated>2022-01-06T17:33:38.624Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://cafe.naver.com/cafeunplugged" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">언플러그드 네이버카페</p></a></div>]]></content>
-    </entry>
+    <icon>https://linktr.ee/favicon.ico</icon>
 </feed>

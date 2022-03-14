@@ -2,21 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.music</id>
     <title>노들섬 라이브하우스 ─ 링크트리</title>
-    <updated>2022-03-14T18:45:42.176Z</updated>
+    <updated>2022-03-14T19:32:44.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기]]></title>
-        <id>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</id>
-        <link href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;"/>
-        <updated>2022-01-06T17:33:23.367Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라디오 노들(RADIO NODEUL) YOUTUBE]]></title>
-        <id>https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA</id>
-        <link href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA"/>
-        <updated>2022-01-06T17:33:23.368Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx dEOCVq"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content>
-    </entry>
+    <icon>https://linktr.ee/favicon.ico</icon>
 </feed>
