@@ -4,7 +4,7 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 01:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,7 +39,7 @@
 											</a>
 											
 											<a href="performance_detail.asp?PlayNo=173021&amp;EntGoodsCode=22002660"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173021_01.514.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173021_01.014.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김문정 콘서트]]></title>
