@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 07:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 08:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 번째 콘서트 ‘너와 나, 여기’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206672</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206672</guid>
+            <pubDate>Tue, 15 Mar 2022 08:37:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206672" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16473332711647333271682.jpg">
+									</a>
+								</div>
+								<b>첫 번째 콘서트 ‘너와 나, 여기’</b>
+								<span>진민호</span>
+																<p>2022. 04. 09 - 2022. 04. 10</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16473332711647333271682.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[914시리즈 3딱]]></title>
             <link>https://tickets.interpark.com/goods/22002547</link>
@@ -182,22 +198,6 @@
 								<span>채보훈</span>
 																<p>2022. 02. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 아카데미 <세계 경제를 진단하다>]]></title>
-            <link>https://www.ohmyschool.org/views/event/2022_event/0126/</link>
-            <guid>https://www.ohmyschool.org/views/event/2022_event/0126/</guid>
-            <pubDate>Sat, 29 Jan 2022 07:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.ohmyschool.org/views/event/2022_event/0126/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg">
-									</a>
-								</div>
-								<b>2022 아카데미 &lt;세계 경제를 진단하다&gt;</b>
-								<span>최진기</span>
-																<p>2022. 02. 17 - 2022. 03. 31</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16434387241643438724186.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
