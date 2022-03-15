@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-03-15T05:24:32.132Z</updated>
+    <updated>2022-03-15T06:31:40.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CRATIA PHOENIXLX LIVE]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2039</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2039"/>
+        <updated>2022-03-15T06:30:52.699Z</updated>
+        <content type="html"><![CDATA[2022.04.23~2022.04.23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 더베인 단독콘서트 〈MONSTER〉]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2040</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2040"/>
+        <updated>2022-03-15T06:30:52.699Z</updated>
+        <content type="html"><![CDATA[2022.04.16~2022.04.17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[406호 프로젝트 정기공연 [406DAY]]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2035</id>
@@ -130,19 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1983"/>
         <updated>2022-03-03T15:28:34.333Z</updated>
         <content type="html"><![CDATA[2021.11.24~2021.11.24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃음꽃 가든]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1972</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1972"/>
-        <updated>2022-03-03T15:28:34.333Z</updated>
-        <content type="html"><![CDATA[2021.11.20~2021.11.21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극동아시아타이거즈 단독 콘서트 "가족잔치"]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1968</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1968"/>
-        <updated>2022-03-03T15:28:34.333Z</updated>
-        <content type="html"><![CDATA[2021.11.18~2021.11.18]]></content>
     </entry>
 </feed>

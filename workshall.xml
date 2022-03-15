@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 06:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645579408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[예결밴드 새 앨범발매 기념 쇼케이스 "뒷산타령"]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1048</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1048</guid>
             <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.02 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1645958946.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2022.04.02 (토) 19:30]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OFF THE LIVE 04]]></title>
