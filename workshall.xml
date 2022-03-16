@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 01:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 02:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1048</guid>
             <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.02 (토) 19:30]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647397716.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OFF THE LIVE 04]]></title>
