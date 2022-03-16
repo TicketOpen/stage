@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,36 @@
 						<dd>2022.05.10 ~ 2022.08.07</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172196_01.105.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[씨아이엑스 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002677</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002677</guid>
+            <pubDate>Wed, 16 Mar 2022 05:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">씨아이엑스 콘서트</dt>
+						<dd>2022.04.15 ~ 2022.04.17</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173185_01.925.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[선우정아 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002421</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002421</guid>
+            <pubDate>Wed, 16 Mar 2022 05:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">선우정아 콘서트</dt>
+						<dd>2022.04.08 ~ 2022.04.10</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173184_01.724.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[펜타곤 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002139</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002139</guid>
+            <pubDate>Wed, 16 Mar 2022 05:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">펜타곤 팬미팅</dt>
+						<dd>2022.04.02 ~ 2022.04.03</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172675_01.445.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[사운드베리 시어터]]></title>
@@ -126,36 +156,6 @@
 						<dd>2022.01.08 ~ 2022.01.09</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/12/0400012112_170890_01.847.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170513&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 06 Jan 2022 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">김필 콘서트</dt>
-						<dd>2021.12.31 ~ 2022.01.01</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170513_01.311.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[10cm 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170255&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=170255&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 06 Jan 2022 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">10cm 콘서트</dt>
-						<dd>2021.12.17 ~ 2021.12.26</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170255_01.012.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[페퍼톤스 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169733&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=169733&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 06 Jan 2022 17:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">페퍼톤스 콘서트</dt>
-						<dd>2021.12.11 ~ 2021.12.12</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169733_01.314.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
