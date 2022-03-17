@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 01:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647397716.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OFF THE LIVE 04]]></title>
+            <title><![CDATA[OFF THE LIVE 04 TARIN X HANALIN]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1054</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1054</guid>
             <pubDate>Mon, 14 Mar 2022 15:27:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.03 (일) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1646746934.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
