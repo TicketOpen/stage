@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 07 Dec 2021 07:23:06 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 01월 01일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/439/1590969120_5BED8FACEC8AA4ED84B05D201ECB0A820EAB080EB8298EB8BA420EB9DBCEC9DB8EC9785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정우 단독 콘서트 : 롤링 27주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=487&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=487&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 18 Mar 2022 06:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 04월 22일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/487/1153852318_5BED8FACEC8AA4ED84B05D20042220ECA095EC9AB0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크라잉넛 단독 콘서트 ‘Let’s Go!’：롤링 27주년 ..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 25 Feb 2022 08:26:46 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 03월 27일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/478/751703056_5BED8FACEC8AA4ED84B05D-0327-EC9584EC9DB4ECA688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다비 단독 콘서트 ‘Day＆Night’：롤링 27주년 기념 ..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=477&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=477&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Wed, 23 Feb 2022 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 03월 26일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/477/778902237_5BED8FACEC8AA4ED84B05D20032620EB8BA4EBB984.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
