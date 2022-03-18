@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 14:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 15:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[OFF THE LIVE 04 BALOO X DAWN]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1052</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1052</guid>
-            <pubDate>Thu, 03 Mar 2022 02:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1646302198.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[심각한 개구리 X 필로(PiLO) 콜라보 콘서트 : P.S.]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1049</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.02 (토) 19:30]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647483472.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OFF THE LIVE 04 TARIN X HANALIN]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1054</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1054</guid>
+            <pubDate>Fri, 18 Mar 2022 15:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.03 (일) 17:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647483086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
