@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-03-18T04:56:04.192Z</updated>
+    <updated>2022-03-18T05:26:27.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/2034"/>
         <updated>2022-03-10T01:44:16.013Z</updated>
         <content type="html"><![CDATA[2022.04.02~2022.04.02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기대학교 실용음악학과 신입생 크래커 공연<RISING STAR>]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2043</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2043"/>
+        <updated>2022-03-18T05:25:38.340Z</updated>
+        <content type="html"><![CDATA[2022.03.31~2022.03.31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차세대 데뷔 3주년 기념 공연 [당신들의 다음 세대 vol.3]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1989"/>
         <updated>2022-03-03T15:28:34.333Z</updated>
         <content type="html"><![CDATA[2021.12.17~2021.12.17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠비나이 단독공연 New songs Premiere]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1992</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1992"/>
-        <updated>2022-03-03T15:28:34.333Z</updated>
-        <content type="html"><![CDATA[2021.12.10~2021.12.11]]></content>
     </entry>
 </feed>
