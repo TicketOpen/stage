@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 11:31:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
 								<span>김재희 외</span>
 																<p>2022. 03. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16475098171647509817647.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Can't Stop This Party] 음감회]]></title>
+            <link>https://youtu.be/cVgA3telj8w</link>
+            <guid>https://youtu.be/cVgA3telj8w</guid>
+            <pubDate>Tue, 22 Mar 2022 11:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://youtu.be/cVgA3telj8w" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16479475631647947563596.jpg">
+									</a>
+								</div>
+								<b>[Can't Stop This Party] 음감회</b>
+								<span>서리 Seori</span>
+																<p>2022. 03. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16479475631647947563596.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소극장 콘서트 [2022 우연의 음악]]]></title>
@@ -182,22 +198,6 @@
 								<span>프롬</span>
 																<p>2022. 02. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 번째 팬미팅 <꽃신>]]></title>
-            <link>https://tickets.interpark.com/goods/22000912</link>
-            <guid>https://tickets.interpark.com/goods/22000912</guid>
-            <pubDate>Wed, 26 Jan 2022 01:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22000912" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg">
-									</a>
-								</div>
-								<b>첫 번째 팬미팅 &lt;꽃신&gt;</b>
-								<span>채보훈</span>
-																<p>2022. 02. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

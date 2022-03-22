@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 11:31:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16475098171647509817647.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Can't Stop This Party] 음감회 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://youtu.be/cVgA3telj8w</link>
+            <guid>https://youtu.be/cVgA3telj8w</guid>
+            <pubDate>Tue, 22 Mar 2022 11:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://youtu.be/cVgA3telj8w" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16479475631647947563596.jpg">
+									</a>
+								</div>
+								<b>[Can't Stop This Party] 음감회</b>
+								<span>서리 Seori</span>
+																<p>2022. 03. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16479475631647947563596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소극장 콘서트 [2022 우연의 음악] (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://tickets.interpark.com/goods/22001845</link>
             <guid>https://tickets.interpark.com/goods/22001845</guid>
@@ -286,22 +302,6 @@
 								<span>프롬</span>
 																<p>2022. 02. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 번째 팬미팅 <꽃신> (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/22000912</link>
-            <guid>https://tickets.interpark.com/goods/22000912</guid>
-            <pubDate>Wed, 26 Jan 2022 01:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22000912" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg">
-									</a>
-								</div>
-								<b>첫 번째 팬미팅 &lt;꽃신&gt;</b>
-								<span>채보훈</span>
-																<p>2022. 02. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16432817571643281757624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[촬영대관 (폼텍웍스홀 ─ 공연안내 ─ 예정공연)]]></title>
@@ -913,7 +913,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 10:33:02 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2022 11:31:25 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
