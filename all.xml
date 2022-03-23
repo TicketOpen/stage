@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -913,7 +913,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 05:23:57 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 06:33:36 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1083,6 +1083,13 @@
             <guid>http://gongsangondo.com/</guid>
             <pubDate>Tue, 15 Mar 2022 01:41:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official &amp; store</p></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3월 31일 목요일 8시 ﻿"때론 나홀로 나다" 예매 페이지 3/26(토) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=659464&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf9NuxqQ_Wluor-1ph6MRMgF-5fSf2aLm0wNbjpklPzXDCAmw%2Fviewform</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=659464&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf9NuxqQ_Wluor-1ph6MRMgF-5fSf2aLm0wNbjpklPzXDCAmw%2Fviewform</guid>
+            <pubDate>Wed, 23 Mar 2022 06:33:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/23/2022-3-23-1648017149662.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/23/2022-3-23-1648017149662.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/23/2022-3-23-1648017149662.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">3월 31일 목요일 8시 ﻿"때론 나홀로 나다" 예매 페이지 3/26(토) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4월 2일 토요일 8시 ﻿"다락(다양한 즐거움)" 예매 페이지 3/23(수) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://link.inpock.co.kr/nestnada</id>
     <title>네스트나다 ─ 인포크링크</title>
-    <updated>2022-03-23T05:24:30.963Z</updated>
+    <updated>2022-03-23T06:34:05.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d2t18a6mds8ktb.cloudfront.net/favicon/favicon.png?w=32&amp;f=png</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 31일 목요일 8시 ﻿"때론 나홀로 나다" 예매 페이지 3/26(토) 오전 10시 예매오픈!]]></title>
+        <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=659464&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf9NuxqQ_Wluor-1ph6MRMgF-5fSf2aLm0wNbjpklPzXDCAmw%2Fviewform</id>
+        <link href="https://link.inpock.co.kr/api/statistics/click-link?link_id=659464&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf9NuxqQ_Wluor-1ph6MRMgF-5fSf2aLm0wNbjpklPzXDCAmw%2Fviewform"/>
+        <updated>2022-03-23T06:33:57.425Z</updated>
+        <content type="html"><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/23/2022-3-23-1648017149662.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/23/2022-3-23-1648017149662.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/23/2022-3-23-1648017149662.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">3월 31일 목요일 8시 ﻿"때론 나홀로 나다" 예매 페이지 3/26(토) 오전 10시 예매오픈!</p></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 2일 토요일 8시 ﻿"다락(다양한 즐거움)" 예매 페이지 3/23(수) 오전 10시 예매오픈!]]></title>
         <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=643337&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfy0PAT2TZSlZ9sgDkttLlHlj60XL2LA645IAvWX1lI-YNIOQ%2Fviewform%3Fusp%3Dsf_link</id>
