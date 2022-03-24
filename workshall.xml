@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 01:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:57:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1048</guid>
             <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.02 (토) 19:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647483472.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648089175.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OFF THE LIVE 04 TARIN X HANALIN]]></title>
@@ -57,19 +57,19 @@
         </item>
         <item>
             <title><![CDATA[단독공연]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1059</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1059</guid>
-            <pubDate>Sat, 19 Mar 2022 15:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647397763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독공연]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1060</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1060</guid>
             <pubDate>Sun, 20 Mar 2022 15:27:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.16 (토) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647397788.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1061</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1061</guid>
+            <pubDate>Thu, 24 Mar 2022 02:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.17 (일) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1647397805.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
