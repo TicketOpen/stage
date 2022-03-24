@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-03-24T06:31:17.749Z</updated>
+    <updated>2022-03-24T07:26:22.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://www.sangsangmadang.com/show/detail/2042"/>
         <updated>2022-03-18T04:55:21.727Z</updated>
         <content type="html"><![CDATA[2022.04.05~2022.04.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2022</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2022"/>
-        <updated>2022-03-03T15:28:34.294Z</updated>
-        <content type="html"><![CDATA[2022.04.03~2022.04.03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blast from the past]]></title>
@@ -144,5 +137,12 @@
         <link href="https://www.sangsangmadang.com/show/detail/1989"/>
         <updated>2022-03-03T15:28:34.333Z</updated>
         <content type="html"><![CDATA[2021.12.17~2021.12.17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠비나이 단독공연 New songs Premiere]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/1992</id>
+        <link href="https://www.sangsangmadang.com/show/detail/1992"/>
+        <updated>2022-03-24T07:25:40.544Z</updated>
+        <content type="html"><![CDATA[2021.12.10~2021.12.11]]></content>
     </entry>
 </feed>
