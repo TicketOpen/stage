@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-03-27T04:32:39.475Z</updated>
+    <updated>2022-03-27T05:23:35.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://forms.gle/rJjt5uPBzwoB3cUK6"/>
         <updated>2022-03-17T03:28:08.092Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/rJjt5uPBzwoB3cUK6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 4월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/25(금) 저녁 8시 - 영비누, 온시, 우주문]]></title>
-        <id>https://forms.gle/QaoKfA2uRwCZCJWQ9</id>
-        <link href="https://forms.gle/QaoKfA2uRwCZCJWQ9"/>
-        <updated>2022-03-14T23:28:04.648Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/QaoKfA2uRwCZCJWQ9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">3/25(금) 저녁 8시 - 영비누, 온시, 우주문</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3/27(일) 오후 6시 - 크리스피 & 달담]]></title>
@@ -39,6 +32,13 @@
         <link href="https://docs.google.com/forms/d/e/1FAIpQLScvzeFlLjcNe_EKJ8d_mFEmgAioYwoAnfRe0QWJpbppNfYtQQ/viewform?usp=sf_link"/>
         <updated>2022-03-21T16:43:56.188Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLScvzeFlLjcNe_EKJ8d_mFEmgAioYwoAnfRe0QWJpbppNfYtQQ/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/3(일) 오후 7시 - 사공, 초원, 나디</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/8(금) 오후 8시 - [pictures of you] : 윤숭, 양창근]]></title>
+        <id>https://forms.gle/qETBZiAF4uWjNnkL6</id>
+        <link href="https://forms.gle/qETBZiAF4uWjNnkL6"/>
+        <updated>2022-03-27T05:23:17.049Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/qETBZiAF4uWjNnkL6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/8(금) 오후 8시 - [pictures of you] : 윤숭, 양창근</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4/9 (토) 저녁 7시 - 오씰 첫 번째 EP 발매 기념 쇼케이스]]></title>
