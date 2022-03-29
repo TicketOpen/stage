@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>임세모</span>
 																<p>2022. 04. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[914시리즈 3딱]]></title>
+            <link>https://tickets.interpark.com/goods/22003596</link>
+            <guid>https://tickets.interpark.com/goods/22003596</guid>
+            <pubDate>Tue, 29 Mar 2022 08:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22003596" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16485423701648542370447.jpg">
+									</a>
+								</div>
+								<b>914시리즈 3딱</b>
+								<span>이승환</span>
+																<p>2022. 04. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16485423701648542370447.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 번째 콘서트 ‘너와 나, 여기’]]></title>
@@ -182,22 +198,6 @@
 								<span>놀이도감</span>
 																<p>2022. 02. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16444921141644492114056.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 [팬미팅 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206538</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206538</guid>
-            <pubDate>Thu, 20 Jan 2022 06:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206538" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌5 [팬미팅 콘서트]</b>
-								<span>프롬</span>
-																<p>2022. 02. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16426565441642656544235.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
