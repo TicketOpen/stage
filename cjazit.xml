@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 폴스 정규 앨범 발매 기념 앵콜 콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/226</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/226</guid>
+            <pubDate>Tue, 29 Mar 2022 12:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.04.08 ~ 2022.04.09
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>The Poles</dd>
+<dt>출연:</dt>
+<dd>The Poles</dd>
+</dl>
+<a href="/cjazit/book/view/226" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/xq/xd/ct165350053ns.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보고싶어요 <수림 X 홍예진>]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/225</link>
