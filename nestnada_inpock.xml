@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://link.inpock.co.kr/nestnada</id>
     <title>네스트나다 ─ 인포크링크</title>
-    <updated>2022-03-31T13:34:43.597Z</updated>
+    <updated>2022-03-31T14:25:08.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d2t18a6mds8ktb.cloudfront.net/favicon/favicon.png?w=32&amp;f=png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://link.inpock.co.kr/api/statistics/click-link?link_id=644876&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdP2d_ibzcTUVe1mbX9QTuVOkkia7c-es0uBG1nMdtxcka2Lg%2Fviewform%3Fusp%3Dsf_link"/>
         <updated>2022-03-30T18:30:36.133Z</updated>
         <content type="html"><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/30/2022-3-30-1648603169716.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/30/2022-3-30-1648603169716.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/30/2022-3-30-1648603169716.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 10일 일요일 6시 ﻿Goosedown Concert &lt;NO WAR&gt; " 예매 페이지 3/30(수) 오전 10시 예매오픈!</p></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4월 9일 토요일 6시 ﻿"NADA BOMBERS" 예매 페이지 4/3(일) 오후 2시 예매오픈!]]></title>
+        <id>https://link.inpock.co.kr/api/statistics/click-link?link_id=669161&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSegVbmIWqoGZqwykI3EUOb-NCBK_nMoxEIdj0EH1UaNUgzB1g%2Fviewform%3Fusp%3Dsf_link</id>
+        <link href="https://link.inpock.co.kr/api/statistics/click-link?link_id=669161&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSegVbmIWqoGZqwykI3EUOb-NCBK_nMoxEIdj0EH1UaNUgzB1g%2Fviewform%3Fusp%3Dsf_link"/>
+        <updated>2022-03-31T14:24:58.149Z</updated>
+        <content type="html"><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/31/2022-3-31-1648735343601.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/31/2022-3-31-1648735343601.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/3/31/2022-3-31-1648735343601.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 9일 토요일 6시 ﻿"NADA BOMBERS" 예매 페이지 4/3(일) 오후 2시 예매오픈!</p></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4월 8일 금요일 8시 ﻿"NADA BOOM UP" 예매 페이지 4/3(일) 오전 10시 예매오픈!]]></title>
