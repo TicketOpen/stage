@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 14:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[예결밴드 새 앨범발매 기념 쇼케이스 "뒷산타령"]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1048</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1048</guid>
-            <pubDate>Sun, 27 Feb 2022 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.02 (토) 19:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648089175.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[OFF THE LIVE 05 TARIN X HANALIN]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1054</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 31 Mar 2022 15:26:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.29 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648712466.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사비나앤드론즈 소극장 콘서트，결국 우리를 울게 할［The Lyrics］]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1047</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1047</guid>
+            <pubDate>Sat, 02 Apr 2022 15:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.30 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648898034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
