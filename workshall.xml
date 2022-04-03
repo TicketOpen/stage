@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 14:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 15:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[OFF THE LIVE 05 TARIN X HANALIN]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1054</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1054</guid>
-            <pubDate>Fri, 18 Mar 2022 15:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.03 (일) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648710751.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 45 안예은 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1060</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 02 Apr 2022 15:24:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.30 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648898034.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MONDAY PROJECT]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1062</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1062</guid>
+            <pubDate>Sun, 03 Apr 2022 15:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.02 (월) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1648712490.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
