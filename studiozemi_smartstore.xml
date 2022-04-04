@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>재미공작소 ─ 네이버 스마트스토어</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:25:21 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[12월의 책 고양이와 김승일]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/5503218245</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/5503218245</guid>
-            <pubDate>Sun, 03 Apr 2022 11:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210405_13/1617605908118P6Uny_JPEG/18741741263658837_1409002853.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월의 책]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4780649469</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4780649469</guid>
-            <pubDate>Sun, 03 Apr 2022 11:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210405_105/1617612102801gYTez_JPEG/18747991317582276_1286824318.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씬의 아이들]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4734868401</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4734868401</guid>
-            <pubDate>Sun, 03 Apr 2022 11:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191119_52/15741572637629QWhj_JPEG/11517098289519576_1034772698.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4729668828</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4729668828</guid>
-            <pubDate>Sun, 03 Apr 2022 11:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_141/1573560229313luqTg_JPEG/10922562873713801_124320880.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이고 뮤직 북 EGO MUSIC BOOK]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4728840545</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4728840545</guid>
-            <pubDate>Sun, 03 Apr 2022 11:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_116/15735579008524sHJM_JPEG/10917735400880486_1979879031.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 황금시대 2]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4728820535</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4728820535</guid>
-            <pubDate>Sun, 03 Apr 2022 11:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://smartstore.naver.com/studiozemi/category/ALL?cp=1</id>
+    <title>재미공작소 ─ 네이버 스마트스토어</title>
+    <updated>2022-04-04T02:00:01.799Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://smartstore.naver.com/studiozemi/category/favicon.ico</icon>
+</feed>
