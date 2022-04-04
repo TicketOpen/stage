@@ -4,7 +4,7 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,17 +26,13 @@
         </item>
         <item>
             <title><![CDATA[에녹 팬미팅]]></title>
-            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002660</link>
-            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002660</guid>
-            <pubDate>Fri, 11 Mar 2022 05:24:08 GMT</pubDate>
+            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=173021&amp;EntGoodsCode=22002660</link>
+            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=173021&amp;EntGoodsCode=22002660</guid>
+            <pubDate>Mon, 04 Apr 2022 15:27:36 GMT</pubDate>
             <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">에녹 팬미팅</p>
 											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
 											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.04.05 ~ 2022.04.05<br>
 											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002660" target="_blank">
-												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
-											</a>
 											
 											<a href="performance_detail.asp?PlayNo=173021&amp;EntGoodsCode=22002660"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173021_01.014.gif" length="0" type="image/gif"/>
