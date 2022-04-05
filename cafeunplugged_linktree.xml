@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-04-05T13:34:28.893Z</updated>
+    <updated>2022-04-05T14:24:45.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[22년 4월 언플러그드 오픈마이크 신청]]></title>
-        <id>https://forms.gle/rJjt5uPBzwoB3cUK6</id>
-        <link href="https://forms.gle/rJjt5uPBzwoB3cUK6"/>
-        <updated>2022-03-17T03:28:08.092Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/rJjt5uPBzwoB3cUK6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 4월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[4/8(금) 오후 8시 - [pictures of you] : 윤숭, 양창근]]></title>
         <id>https://forms.gle/qETBZiAF4uWjNnkL6</id>
@@ -32,6 +25,13 @@
         <link href="https://forms.gle/3jzzLQYMH48UgQm1A"/>
         <updated>2022-03-30T08:31:43.373Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/3jzzLQYMH48UgQm1A" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/10(일) 오후 7시 - 달란트, 수연이</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/16 (토) 저녁 7시 - 앤드오어, 투데이올드스니커즈]]></title>
+        <id>https://docs.google.com/forms/d/1Y4XGxsHSDYWDAncRdWj0xIP6vWSmlB_Zs6CMI43O84I/edit?usp=sharing</id>
+        <link href="https://docs.google.com/forms/d/1Y4XGxsHSDYWDAncRdWj0xIP6vWSmlB_Zs6CMI43O84I/edit?usp=sharing"/>
+        <updated>2022-04-05T14:24:27.660Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/1Y4XGxsHSDYWDAncRdWj0xIP6vWSmlB_Zs6CMI43O84I/edit?usp=sharing" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/16 (토) 저녁 7시 - 앤드오어, 투데이올드스니커즈</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
