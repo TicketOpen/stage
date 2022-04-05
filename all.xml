@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 01:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -706,6 +706,23 @@
             <content:encoded><![CDATA[2021.12.17~2021.12.17]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김문정 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004111</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004111</guid>
+            <pubDate>Tue, 05 Apr 2022 03:00:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">김문정 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.04.22 ~ 2022.04.24<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004111" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=173644&amp;EntGoodsCode=22004111"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_173644_01.943.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[스윗소로우 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001993</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001993</guid>
@@ -905,19 +922,6 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/20/06/0400012006_157731_0303.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[무트댄스, 김영희 예술의 꽃을 피우다 (이화여대 삼성홀 ─ 공연안내)]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=156855&amp;EntGoodsCode=20003595</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=156855&amp;EntGoodsCode=20003595</guid>
-            <pubDate>Thu, 04 Nov 2021 19:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">무트댄스, 김영희 예술의 꽃을 피우다</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>무용<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2020.05.28 ~ 2020.05.29<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=156855&amp;EntGoodsCode=20003595"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/20/04/0400012004_156855_0558.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기 (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</link>
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</guid>
@@ -949,7 +953,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 01:52:20 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 03:00:56 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
