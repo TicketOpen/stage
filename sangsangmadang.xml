@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-04-07T08:30:28.527Z</updated>
+    <updated>2022-04-07T09:25:26.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9와 숫자들 Blue Concert Tour－서울]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2056</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2056"/>
+        <updated>2022-04-07T09:24:45.773Z</updated>
+        <content type="html"><![CDATA[2022.05.15~2022.05.15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N.Flying 소극장 콘서트: 우만합 - 서울]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2046</id>
@@ -32,13 +39,6 @@
         <link href="https://www.sangsangmadang.com/show/detail/2035"/>
         <updated>2022-03-11T01:39:36.461Z</updated>
         <content type="html"><![CDATA[2022.04.10~2022.04.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9와 숫자들 Blue Concert Tour－서울]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2028</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2028"/>
-        <updated>2022-03-07T03:26:36.747Z</updated>
-        <content type="html"><![CDATA[2022.04.09~2022.04.09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［1415 단독 콘서트］]]></title>
