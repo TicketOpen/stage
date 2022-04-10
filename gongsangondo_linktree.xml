@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/gongsangondo</id>
     <title>공상온도 ─ 링크트리</title>
-    <updated>2022-04-10T08:29:08.230Z</updated>
+    <updated>2022-04-10T09:26:28.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://m.booking.naver.com/booking/12/bizes/606994/items/4340448?preview=1"/>
         <updated>2022-04-01T10:29:31.630Z</updated>
         <content type="html"><![CDATA[<a href="https://m.booking.naver.com/booking/12/bizes/606994/items/4340448?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">[공연예매] 보일 &lt;나쁜 마음&gt; 쇼케이스 guest. 천용성 4/16(토) 16:00</p></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연예매] 인천상륙작전 / 전유동, 나의노랑말들, 메리애플 4/9(토) 14:00]]></title>
-        <id>https://forms.gle/svVKV9QBLuhtiT5X8</id>
-        <link href="https://forms.gle/svVKV9QBLuhtiT5X8"/>
-        <updated>2022-04-01T10:29:31.635Z</updated>
-        <content type="html"><![CDATA[<a href="https://forms.gle/svVKV9QBLuhtiT5X8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">[공연예매] 인천상륙작전 / 전유동, 나의노랑말들, 메리애플 4/9(토) 14:00</p></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공상온도 네이버 스마트스토어]]></title>
@@ -48,10 +41,10 @@
         <content type="html"><![CDATA[<a href="https://www.instagram.com/p/B-o29Mvpeq9/?igshid=152picdh30xk4" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">ARTIST 택배대행 서비스</p></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공상온도 official & store]]></title>
+        <title type="html"><![CDATA[공상온도 official site & store]]></title>
         <id>http://gongsangondo.com/</id>
         <link href="http://gongsangondo.com/"/>
         <updated>2022-03-15T01:41:40.104Z</updated>
-        <content type="html"><![CDATA[<a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official &amp; store</p></a>]]></content>
+        <content type="html"><![CDATA[<a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official site &amp; store</p></a>]]></content>
     </entry>
 </feed>
