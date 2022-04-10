@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 14:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 15:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[선우정아 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002421</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002421</guid>
-            <pubDate>Wed, 16 Mar 2022 05:22:47 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=173184&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=173184&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 10 Apr 2022 15:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">선우정아 콘서트</dt>
 						<dd>2022.04.08 ~ 2022.04.10</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
