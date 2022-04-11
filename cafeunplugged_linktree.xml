@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-04-11T03:17:39.630Z</updated>
+    <updated>2022-04-11T04:33:23.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[4/10(일) 오후 7시 - 달란트, 수연이]]></title>
-        <id>https://forms.gle/3jzzLQYMH48UgQm1A</id>
-        <link href="https://forms.gle/3jzzLQYMH48UgQm1A"/>
-        <updated>2022-03-30T08:31:43.373Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/3jzzLQYMH48UgQm1A" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/10(일) 오후 7시 - 달란트, 수연이</p></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[4/16 (토) 저녁 7시 - 앤드오어, 투데이올드스니커즈]]></title>
         <id>https://docs.google.com/forms/d/1Y4XGxsHSDYWDAncRdWj0xIP6vWSmlB_Zs6CMI43O84I/edit?usp=sharing</id>
@@ -25,6 +18,13 @@
         <link href="https://docs.google.com/forms/d/e/1FAIpQLSd7Lwz0glq3aXi6ZlUyZjrjbPWpl9hyK4CHZNMw_WIKI6BBvg/viewform?usp=sf_link"/>
         <updated>2022-04-09T08:31:18.428Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7Lwz0glq3aXi6ZlUyZjrjbPWpl9hyK4CHZNMw_WIKI6BBvg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/17(일) 오후 7시 - 한백, 햄스터파우더클럽</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/22일(금) 오후 8시 - 데이지, 임예송, 취향상점]]></title>
+        <id>https://docs.google.com/forms/d/1uZkoNz5P5JX4QU98yHkbmo4Wksgqjlr5Qlkxq-SoWu4/edit#responses</id>
+        <link href="https://docs.google.com/forms/d/1uZkoNz5P5JX4QU98yHkbmo4Wksgqjlr5Qlkxq-SoWu4/edit#responses"/>
+        <updated>2022-04-11T04:33:02.564Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/1uZkoNz5P5JX4QU98yHkbmo4Wksgqjlr5Qlkxq-SoWu4/edit#responses" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/22일(금) 오후 8시 - 데이지, 임예송, 취향상점</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4/24(일) 베리코이버니 단독공연 [More Release Concert]]]></title>
