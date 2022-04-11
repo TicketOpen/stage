@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/CTRSOUND</id>
     <title>씨티알사운드 ─ 링크트리</title>
-    <updated>2022-04-11T04:33:23.743Z</updated>
+    <updated>2022-04-11T05:30:35.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
-        <title type="html"><![CDATA[[정우] 먼데이프로젝트 청춘의 밤 단독콘서트 예매]]></title>
-        <id>https://ticket.melon.com/performance/index.htm?prodId=206578#none</id>
-        <link href="https://ticket.melon.com/performance/index.htm?prodId=206578#none"/>
-        <updated>2022-03-15T01:41:26.472Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206578#none" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 먼데이프로젝트 청춘의 밤 단독콘서트 예매</p></a></div>]]></content>
+        <title type="html"><![CDATA[[곽푸른하늘] 정규 3집 발매 기념 공연 예매]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206757</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206757"/>
+        <updated>2022-04-11T05:30:00.287Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206757" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 정규 3집 발매 기념 공연 예매</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정우] 롤링 27주년 기념 단독공연 예매]]></title>
+        <id>https://ticket.melon.com/performance/index.htm?prodId=206689</id>
+        <link href="https://ticket.melon.com/performance/index.htm?prodId=206689"/>
+        <updated>2022-04-11T05:30:00.290Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://ticket.melon.com/performance/index.htm?prodId=206689" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 롤링 27주년 기념 단독공연 예매</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[곽푸른하늘] 정규 3집 Nearly (T)here Playlist Film]]></title>
+        <id>https://linktr.ee/CTRSOUND</id>
+        <link href="https://linktr.ee/CTRSOUND"/>
+        <updated>2022-04-11T05:30:00.220Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 정규 3집 Nearly (T)here Playlist Film</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[곽푸른하늘] 벅스 @바웃 정규 3집 [Nearly (T)here] 오디오 작업기]]></title>
+        <id>https://music.bugs.co.kr/radio/musiccast/episode/25426?wl_ref=nRadio_10_02</id>
+        <link href="https://music.bugs.co.kr/radio/musiccast/episode/25426?wl_ref=nRadio_10_02"/>
+        <updated>2022-04-11T05:30:00.304Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://music.bugs.co.kr/radio/musiccast/episode/25426?wl_ref=nRadio_10_02" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 벅스 @바웃 정규 3집 [Nearly (T)here] 오디오 작업기</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[곽푸른하늘] Nearly (T)here 지니 매거진]]></title>
+        <id>https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11818&amp;pg=1</id>
+        <link href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11818&amp;pg=1"/>
+        <updated>2022-04-11T05:30:00.306Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><a href="https://www.genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11818&amp;pg=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] Nearly (T)here 지니 매거진</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[곽푸른하늘]  7인치 싱글 '날' 판매]]></title>
@@ -23,7 +51,7 @@
         <title type="html"><![CDATA[[정우] 양 I 종말 라이브 클립]]></title>
         <id>https://linktr.ee/CTRSOUND</id>
         <link href="https://linktr.ee/CTRSOUND"/>
-        <updated>2022-04-11T04:32:54.282Z</updated>
+        <updated>2022-04-11T05:30:00.251Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content>
     </entry>
     <entry>
