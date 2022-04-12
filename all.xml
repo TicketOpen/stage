@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 23:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 01:55:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,54 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/488/2124486593_5BED8FACEC8AA4ED84B05D200423-2420EC9E84ED978CEC9DBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Flight0521: THE FIX 편 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.instagram.com/p/Cb_0DwYlUS7/</link>
+            <guid>https://www.instagram.com/p/Cb_0DwYlUS7/</guid>
+            <pubDate>Tue, 12 Apr 2022 01:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Cb_0DwYlUS7/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg">
+									</a>
+								</div>
+								<b>Flight0521: THE FIX 편</b>
+								<span>THE FIX</span>
+																<p>2022. 05. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 리누 콘서트 [MEMO－LEENU] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/22004387</link>
+            <guid>https://tickets.interpark.com/goods/22004387</guid>
+            <pubDate>Tue, 12 Apr 2022 01:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22004387" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16497272391649727239929.jpg">
+									</a>
+								</div>
+								<b>2022 리누 콘서트 [MEMO－LEENU]</b>
+								<span>리누</span>
+																<p>2022. 05. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16497272391649727239929.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WRK#8 : 빈센트블루의 별이 빛나는 방 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/22004161</link>
+            <guid>https://tickets.interpark.com/goods/22004161</guid>
+            <pubDate>Tue, 12 Apr 2022 01:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22004161" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16497215471649721547034.jpg">
+									</a>
+								</div>
+								<b>WRK#8 : 빈센트블루의 별이 빛나는 방</b>
+								<span>빈센트블루</span>
+																<p>2022. 04. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16497215471649721547034.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [청춘의 밤] (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206611</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206611</guid>
@@ -126,6 +174,22 @@
 								<span>임세모</span>
 																<p>2022. 04. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PEAKBOX 22-02 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/22003760</link>
+            <guid>https://tickets.interpark.com/goods/22003760</guid>
+            <pubDate>Tue, 12 Apr 2022 01:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22003760" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16497218881649721888497.jpg">
+									</a>
+								</div>
+								<b>PEAKBOX 22-02</b>
+								<span>데이먼스 이어, 미스피츠, 나인</span>
+																<p>2022. 04. 23 - 2022. 04. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16497218881649721888497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[914시리즈 3딱 (구름아래소극장 ─ 공연안내)]]></title>
@@ -238,70 +302,6 @@
 								<span>짙은</span>
 																<p>2022. 03. 18 - 2022. 03. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16452355481645235548157.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 소극장 콘서트 “어떤 날들” (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/22001360</link>
-            <guid>https://tickets.interpark.com/goods/22001360</guid>
-            <pubDate>Thu, 10 Feb 2022 02:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22001360" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16442187251644218725156.jpg">
-									</a>
-								</div>
-								<b>2022 소극장 콘서트 “어떤 날들”</b>
-								<span>스텔라장</span>
-																<p>2022. 03. 04 - 2022. 03. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16442187251644218725156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[914시리즈 '딱' (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/22001883</link>
-            <guid>https://tickets.interpark.com/goods/22001883</guid>
-            <pubDate>Mon, 21 Feb 2022 09:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22001883" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16454352011645435201116.jpg">
-									</a>
-								</div>
-								<b>914시리즈 '딱'</b>
-								<span>이승환</span>
-																<p>2022. 03. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16454352011645435201116.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Gift Concert [하고 싶은 말] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://hyun-joong.com/bbs/board.php?bo_table=NOTICE&amp;wr_id=167</link>
-            <guid>https://hyun-joong.com/bbs/board.php?bo_table=NOTICE&amp;wr_id=167</guid>
-            <pubDate>Thu, 24 Feb 2022 08:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://hyun-joong.com/bbs/board.php?bo_table=NOTICE&amp;wr_id=167" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16456902871645690287887.jpg">
-									</a>
-								</div>
-								<b>2022 Gift Concert [하고 싶은 말]</b>
-								<span>김현중</span>
-																<p>2022. 02. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16456902871645690287887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WRK#6 : 놀이도감의 산뜻한 방 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/22001440</link>
-            <guid>https://tickets.interpark.com/goods/22001440</guid>
-            <pubDate>Thu, 10 Feb 2022 12:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22001440" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16444921141644492114056.jpg">
-									</a>
-								</div>
-								<b>WRK#6 : 놀이도감의 산뜻한 방</b>
-								<span>놀이도감</span>
-																<p>2022. 02. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16444921141644492114056.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제4회 스토리업쇼츠 섹션 1 어디에 있더라도 (CJ문화재단 ─ 공연예매)]]></title>
@@ -730,6 +730,23 @@
             <content:encoded><![CDATA[2021.12.19~2021.12.19]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이승환 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004360</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004360</guid>
+            <pubDate>Tue, 12 Apr 2022 01:54:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">이승환 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.05.07 ~ 2022.05.08<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004360" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=173790&amp;EntGoodsCode=22004360"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_173790_01.834.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[김문정 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004111</link>
             <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004111</guid>
@@ -933,19 +950,6 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/20/06/0400012006_157948_0515.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이승환 콘서트 (이화여대 삼성홀 ─ 공연안내)]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=157731&amp;EntGoodsCode=20004435</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=157731&amp;EntGoodsCode=20004435</guid>
-            <pubDate>Thu, 04 Nov 2021 19:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">이승환 콘서트</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2020.06.13 ~ 2020.06.19<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=157731&amp;EntGoodsCode=20004435"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/20/06/0400012006_157731_0303.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기 (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</link>
             <guid>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</guid>
@@ -977,7 +981,7 @@
             <title><![CDATA[[곽푸른하늘] 정규 3집 Nearly (T)here Playlist Film (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 23:27:10 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 01:54:32 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 정규 3집 Nearly (T)here Playlist Film</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1005,7 +1009,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 23:27:10 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 01:54:32 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
