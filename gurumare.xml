@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 04:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>THE FIX</span>
 																<p>2022. 05. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김경현 콘서트 ［5 ROCK 室］]]></title>
+            <link>https://tickets.interpark.com/goods/22004388</link>
+            <guid>https://tickets.interpark.com/goods/22004388</guid>
+            <pubDate>Wed, 13 Apr 2022 05:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22004388" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16498246961649824696115.jpg">
+									</a>
+								</div>
+								<b>2022 김경현 콘서트 ［5 ROCK 室］</b>
+								<span>김경현</span>
+																<p>2022. 05. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16498246961649824696115.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 리누 콘서트 [MEMO－LEENU]]]></title>
@@ -83,7 +99,7 @@
 									</a>
 								</div>
 								<b>PEAKBOX 22-02</b>
-								<span>데이먼스 이어, 미스피츠, 나인</span>
+								<span>데이먼스 이어 , 나인</span>
 																<p>2022. 04. 23 - 2022. 04. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16497218881649721888497.jpg" length="0" type="image/jpg"/>
         </item>
@@ -182,22 +198,6 @@
 								<span>서리 Seori</span>
 																<p>2022. 03. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16479475631647947563596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소극장 콘서트 [2022 우연의 음악]]]></title>
-            <link>https://tickets.interpark.com/goods/22001845</link>
-            <guid>https://tickets.interpark.com/goods/22001845</guid>
-            <pubDate>Sat, 19 Feb 2022 02:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22001845" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16452355481645235548157.jpg">
-									</a>
-								</div>
-								<b>소극장 콘서트 [2022 우연의 음악]</b>
-								<span>짙은</span>
-																<p>2022. 03. 18 - 2022. 03. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16452355481645235548157.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
