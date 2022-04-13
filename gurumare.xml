@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 김경현 콘서트 ［5 ROCK 室］]]></title>
+            <title><![CDATA[2022 김경현 콘서트 [5 ROCK 室]]]></title>
             <link>https://tickets.interpark.com/goods/22004388</link>
             <guid>https://tickets.interpark.com/goods/22004388</guid>
             <pubDate>Wed, 13 Apr 2022 05:22:20 GMT</pubDate>
@@ -34,7 +34,7 @@
 										<img src="http://gurumare.co.kr/file_upload/16498246961649824696115.jpg">
 									</a>
 								</div>
-								<b>2022 김경현 콘서트 ［5 ROCK 室］</b>
+								<b>2022 김경현 콘서트 [5 ROCK 室]</b>
 								<span>김경현</span>
 																<p>2022. 05. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16498246961649824696115.jpg" length="0" type="image/jpg"/>
