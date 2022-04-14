@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-04-14T06:31:53.460Z</updated>
+    <updated>2022-04-14T07:25:34.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://url.kr/85lzor"/>
         <updated>2022-04-07T06:30:39.231Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://url.kr/85lzor" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/24(일) 베리코이버니 단독공연 [More Release Concert]</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/30(토) 오후 7시 - [나의 꽃말 #1] 택우, 유다빈]]></title>
+        <id>https://booking.naver.com/booking/5/bizes/646448/items/4371713?preview=1</id>
+        <link href="https://booking.naver.com/booking/5/bizes/646448/items/4371713?preview=1"/>
+        <updated>2022-04-14T07:25:16.729Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/5/bizes/646448/items/4371713?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/30(토) 오후 7시 - [나의 꽃말 #1] 택우, 유다빈</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
