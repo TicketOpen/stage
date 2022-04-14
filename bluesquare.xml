@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,26 @@
 						<dd>2022.05.07 ~ 2022.05.08</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173208_01.228.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[준케이, 우영 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004351</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004351</guid>
+            <pubDate>Thu, 14 Apr 2022 23:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">준케이, 우영 콘서트</dt>
+						<dd>2022.04.30 ~ 2022.05.01</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_173781_01.933.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프로미스나인 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003676</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003676</guid>
+            <pubDate>Thu, 14 Apr 2022 23:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">프로미스나인 팬미팅</dt>
+						<dd>2022.04.22 ~ 2022.04.24</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_173978_01.341.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[씨아이엑스 콘서트]]></title>
@@ -136,26 +156,6 @@
 						<dd>2022.02.05 ~ 2022.02.06</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171753_01.459.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[조명섭 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171604&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171604&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sat, 29 Jan 2022 15:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">조명섭 콘서트</dt>
-						<dd>2022.01.29 ~ 2022.01.29</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171604_01.356.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이준호 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171504&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171504&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 23 Jan 2022 15:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">이준호 팬미팅</dt>
-						<dd>2022.01.22 ~ 2022.01.23</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171504_01.139.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
