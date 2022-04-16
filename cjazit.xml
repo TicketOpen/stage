@@ -4,33 +4,9 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 14:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 15:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제4회 스토리업쇼츠 섹션 1 어디에 있더라도]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/229</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/229</guid>
-            <pubDate>Mon, 11 Apr 2022 01:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.04.16
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CGV압구정</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>정은욱, 이준섭 </dd>
-</dl>
-<a href="/cjazit/book/view/229" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/px/ch/sa166442065gv.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Happy Together]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/228</link>
