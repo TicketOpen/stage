@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,20 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/439/1590969120_5BED8FACEC8AA4ED84B05D201ECB0A820EAB080EB8298EB8BA420EB9DBCEC9DB8EC9785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오추프로젝트 단독 콘서트 : 롤링 27주년 기념 공연 (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=499&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=499&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 20 Apr 2022 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 05월 27일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/499/1640422603_5BED8FACEC8AA4ED84B05D20052720EC98A4ECB694ED9484EBA19CECA09DED8AB8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유지희 첫 단독 콘서트 'Where is blue?' :.. (롤링홀)]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=498&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=498&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
             <pubDate>Mon, 18 Apr 2022 05:23:01 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 05월 22일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/498/1391549758_5BED8FACEC8AA4ED84B05D20052220EC9CA0ECA780ED9DAC2028129.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/498/1411692244_EC9CA0ECA780ED9DAC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정석훈＆김준서：롤링 27주년 기념 공연 (롤링홀)]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 06 Apr 2022 04:30:29 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 04월 29일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/492/1672856714_5BED8FACEC8AA4ED84B05D20042920ED84B0ECB998EB939C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[METHOD 단독 콘서트 : 롤링 27주년 기념 공연 (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=491&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=491&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Mon, 28 Mar 2022 07:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 05월 08일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/491/1408978238_5BED8FACEC8AA4ED84B05D20050820METHOD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flight0521: THE FIX 편 (구름아래소극장 ─ 공연안내)]]></title>
@@ -967,7 +967,7 @@
             <title><![CDATA[[곽푸른하늘] 정규 3집 Nearly (T)here Playlist Film (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 04:07:06 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 05:41:43 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[곽푸른하늘] 정규 3집 Nearly (T)here Playlist Film</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -995,7 +995,7 @@
             <title><![CDATA[[정우] 양 I 종말 라이브 클립 (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Wed, 20 Apr 2022 04:07:06 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2022 05:41:43 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx hdlZPy"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[정우] 양 I 종말 라이브 클립</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
@@ -1195,6 +1195,34 @@
             <content:encoded><![CDATA[<a href="http://gongsangondo.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-gongsangondo " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">공상온도 official site &amp; store</p></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[4월 30일 토요일 6시 ﻿"Active Volcano" 예매 페이지 4/21(목) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=671208&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfWAqvaGsOF9gYsG13q0e51sckHReJaudGOK0nl6u_25_xLbQ%2Fviewform%3Fusp%3Dsf_link</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=671208&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfWAqvaGsOF9gYsG13q0e51sckHReJaudGOK0nl6u_25_xLbQ%2Fviewform%3Fusp%3Dsf_link</guid>
+            <pubDate>Wed, 20 Apr 2022 05:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428619392.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428619392.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428619392.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 30일 토요일 6시 ﻿"Active Volcano" 예매 페이지 4/21(목) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4월 29일 금요일 7시 30분 ﻿﻿"NADA V.A" 예매 페이지 4/20(수) 오후 2시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=643337&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScq5tLch0ptMcVEv51zR8mWlTATt-ZN4C3CwFx3-KFrP3ENuQ%2Fviewform%3Fusp%3Dsf_link</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=643337&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScq5tLch0ptMcVEv51zR8mWlTATt-ZN4C3CwFx3-KFrP3ENuQ%2Fviewform%3Fusp%3Dsf_link</guid>
+            <pubDate>Wed, 20 Apr 2022 05:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428524141.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428524141.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428524141.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 29일 금요일 7시 30분 ﻿﻿"NADA V.A" 예매 페이지 4/20(수) 오후 2시 예매오픈!</p></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4월 28일 목요일 7시 30분 ﻿"때론 나홀로 나다" 예매 페이지 4/20(수) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=643457&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdaSotTL07FTvRtKyJx23XRI5zawGjFbDNcJf-fFgUEKyCoqw%2Fviewform%3Fusp%3Dsf_link</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=643457&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdaSotTL07FTvRtKyJx23XRI5zawGjFbDNcJf-fFgUEKyCoqw%2Fviewform%3Fusp%3Dsf_link</guid>
+            <pubDate>Wed, 20 Apr 2022 05:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428365575.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428365575.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/20/2022-4-20-1650428365575.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 28일 목요일 7시 30분 ﻿"때론 나홀로 나다" 예매 페이지 4/20(수) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4월 24일 일요일 5시 ﻿"Spring is Here" 예매 페이지 4/15(금) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
+            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=644876&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfQN3DST1RuYzMDhbwIU5XK-VGK_uqunbnm5WiT3NZDIwRpCA%2Fviewform%3Fusp%3Dsf_link</link>
+            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=644876&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfQN3DST1RuYzMDhbwIU5XK-VGK_uqunbnm5WiT3NZDIwRpCA%2Fviewform%3Fusp%3Dsf_link</guid>
+            <pubDate>Mon, 11 Apr 2022 12:43:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649679169610.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649679169610.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649679169610.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 24일 일요일 5시 ﻿"Spring is Here" 예매 페이지 4/15(금) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[4월 23일 토요일 6시 ﻿"NADA UR WAY" 예매 페이지 4/14(목) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
             <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=669161&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSeQMqtEDdBR3DURpU-Bba9kqHi5amrGY4bMBAdZjSauyVP5qg%2Fviewform%3Fusp%3Dsf_link</link>
             <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=669161&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSeQMqtEDdBR3DURpU-Bba9kqHi5amrGY4bMBAdZjSauyVP5qg%2Fviewform%3Fusp%3Dsf_link</guid>
@@ -1214,34 +1242,6 @@
             <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=644934&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfMxdVo_29NdSUzeZ9VcxpEIv6s1rGClNjzKwd3uK895W8Sfg%2Fviewform%3Fusp%3Dsf_link</guid>
             <pubDate>Mon, 11 Apr 2022 07:26:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649661094311.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649661094311.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649661094311.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 21일 목요일 8시 "때론 나홀로 나다"  예매 페이지 4/13(수) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월 16일 토요일 6시 ﻿"April Dream" 예매 페이지 4/6(수) 오후 2시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
-            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=671208&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSe8roW7liAezwQHa-e6jHCspzb-F3-ELSD5ptCjEOP71pvm9g%2Fviewform%3Fusp%3Dsf_link</link>
-            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=671208&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSe8roW7liAezwQHa-e6jHCspzb-F3-ELSD5ptCjEOP71pvm9g%2Fviewform%3Fusp%3Dsf_link</guid>
-            <pubDate>Sun, 03 Apr 2022 02:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/3/2022-4-3-1648951031577.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/3/2022-4-3-1648951031577.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/3/2022-4-3-1648951031577.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 16일 토요일 6시 ﻿"April Dream" 예매 페이지 4/6(수) 오후 2시 예매오픈!</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월 15일 금요일 7시 30분 ﻿"U R Universe" 예매 페이지 4/6(수) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
-            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=643337&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd2MWJzzfYGs7Z-vSlFf5y_dIS1MN7oqhieMUb429dluwKNdA%2Fviewform%3Fusp%3Dsf_link</link>
-            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=643337&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSd2MWJzzfYGs7Z-vSlFf5y_dIS1MN7oqhieMUb429dluwKNdA%2Fviewform%3Fusp%3Dsf_link</guid>
-            <pubDate>Sun, 03 Apr 2022 02:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/3/2022-4-3-1648950949053.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/3/2022-4-3-1648950949053.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/3/2022-4-3-1648950949053.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 15일 금요일 7시 30분 ﻿"U R Universe" 예매 페이지 4/6(수) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월 14일 목요일 8시 ﻿"때론 나홀로 나다-드러머 특집" 예매 페이지 4/5(화) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
-            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=643457&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfjsUnsMppZ-E5X9VtKZtwZAPt5CSNdnbnB7JkFN5aIZNKNsg%2Fviewform%3Fusp%3Dsf_link</link>
-            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=643457&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfjsUnsMppZ-E5X9VtKZtwZAPt5CSNdnbnB7JkFN5aIZNKNsg%2Fviewform%3Fusp%3Dsf_link</guid>
-            <pubDate>Sat, 02 Apr 2022 11:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/2/2022-4-2-1648897276419.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/2/2022-4-2-1648897276419.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/2/2022-4-2-1648897276419.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 14일 목요일 8시 ﻿"때론 나홀로 나다-드러머 특집" 예매 페이지 4/5(화) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월 24일 일요일 5시 ﻿"Spring is Here" 예매 페이지 4/15(금) 오전 10시 예매오픈! (네스트나다 ─ 인포크링크)]]></title>
-            <link>https://link.inpock.co.kr/api/statistics/click-link?link_id=644876&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfQN3DST1RuYzMDhbwIU5XK-VGK_uqunbnm5WiT3NZDIwRpCA%2Fviewform%3Fusp%3Dsf_link</link>
-            <guid>https://link.inpock.co.kr/api/statistics/click-link?link_id=644876&amp;user_id=36708&amp;username=nestnada&amp;redirect_url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfQN3DST1RuYzMDhbwIU5XK-VGK_uqunbnm5WiT3NZDIwRpCA%2Fviewform%3Fusp%3Dsf_link</guid>
-            <pubDate>Mon, 11 Apr 2022 12:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="link gtm-link-click-visitor" data-v-405dad60=""><div class="picture-wrapper image" data-v-1566f4d6="" data-v-405dad60=""><picture data-v-1566f4d6=""><source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649679169610.webp?w=300" type="image/webp" data-v-1566f4d6=""> <source srcset="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649679169610.webp?w=300&amp;f=png" type="image/png" data-v-1566f4d6=""> <img src="https://d3ojqbf8oic3ch.cloudfront.net/2022/4/11/2022-4-11-1649679169610.webp?w=300&amp;f=png" style="height:100%;object-fit:cover;" data-v-1566f4d6=""></picture> <!----></div> <div class="link-meta" data-v-405dad60=""><!----> <p class="inpock-typography paragraph-2 titleClass title" data-v-405dad60="">4월 24일 일요일 5시 ﻿"Spring is Here" 예매 페이지 4/15(금) 오전 10시 예매오픈!</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일 (재미공작소 ─ 네이버 스마트스토어)]]></title>
