@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 02:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재정 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004735</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004735</guid>
+            <pubDate>Fri, 22 Apr 2022 02:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">박재정 콘서트</dt>
+						<dd>2022.05.21 ~ 2022.05.22</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_174012_01.830.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003345</link>
@@ -146,16 +156,6 @@
 						<dd>2022.02.19 ~ 2022.02.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171929_01.539.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[빅톤 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171753&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171753&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 06 Feb 2022 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">빅톤 팬미팅</dt>
-						<dd>2022.02.05 ~ 2022.02.06</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171753_01.459.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
