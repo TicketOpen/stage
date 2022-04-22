@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 02:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16485423701648542370447.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미니앨범 [Seoul] 쇼케이스]]></title>
+            <link>https://youtu.be/r_ALdsMbwqI</link>
+            <guid>https://youtu.be/r_ALdsMbwqI</guid>
+            <pubDate>Fri, 22 Apr 2022 04:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://youtu.be/r_ALdsMbwqI" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16505992141650599214925.jpg">
+									</a>
+								</div>
+								<b>미니앨범 [Seoul] 쇼케이스</b>
+								<span>볼빨간사춘기</span>
+																<p>2022. 04. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16505992141650599214925.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[첫 번째 콘서트 ‘너와 나, 여기’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206672</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206672</guid>
@@ -182,22 +198,6 @@
 								<span>크리스탈 티</span>
 																<p>2022. 03. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16469107311646910731737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제42회 느림보 콘서트]]></title>
-            <link>https://m.sentv.co.kr/senent/view/614176#_DYAD</link>
-            <guid>https://m.sentv.co.kr/senent/view/614176#_DYAD</guid>
-            <pubDate>Thu, 17 Mar 2022 10:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://m.sentv.co.kr/senent/view/614176#_DYAD" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16475098171647509817647.jpg">
-									</a>
-								</div>
-								<b>제42회 느림보 콘서트</b>
-								<span>김재희 외</span>
-																<p>2022. 03. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16475098171647509817647.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
