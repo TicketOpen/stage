@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-04-24T13:35:38.959Z</updated>
+    <updated>2022-04-24T14:24:06.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/static/favicon.png</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://naver.me/xEMruX9w"/>
         <updated>2022-04-23T09:24:46.163Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://naver.me/xEMruX9w" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">두레 페스타 FESTA 참가신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4/24(일) 베리코이버니 단독공연 [More Release Concert]]]></title>
-        <id>https://url.kr/85lzor</id>
-        <link href="https://url.kr/85lzor"/>
-        <updated>2022-04-07T06:30:39.231Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://url.kr/85lzor" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">4/24(일) 베리코이버니 단독공연 [More Release Concert]</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4/28 (목) 저녁 8시 - 박진휘, 연우, 정새벽]]></title>
