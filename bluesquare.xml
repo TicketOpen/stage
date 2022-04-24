@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 15:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[프로미스나인 팬미팅]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003676</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003676</guid>
-            <pubDate>Thu, 14 Apr 2022 23:24:49 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=173978&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=173978&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Apr 2022 15:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">프로미스나인 팬미팅</dt>
 						<dd>2022.04.22 ~ 2022.04.24</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
