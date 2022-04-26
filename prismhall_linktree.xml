@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/prismhall</id>
     <title>프리즘홀 ─ 링크트리</title>
-    <updated>2022-04-26T02:13:56.070Z</updated>
+    <updated>2022-04-26T03:54:29.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://linktr.ee/static/favicon.png</icon>
+    <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[프리즘홀 유튜브]]></title>
         <id>https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw</id>
