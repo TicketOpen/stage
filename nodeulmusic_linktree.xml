@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.music</id>
     <title>노들섬 라이브하우스 ─ 링크트리</title>
-    <updated>2022-04-25T23:27:41.554Z</updated>
+    <updated>2022-04-26T02:13:56.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://linktr.ee/static/favicon.png</icon>
+    <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기]]></title>
         <id>http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;</id>
