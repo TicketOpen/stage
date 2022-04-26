@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Flight0528：9001편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206824</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206824</guid>
+            <pubDate>Tue, 26 Apr 2022 07:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206824" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16509553611650955361298.jpg">
+									</a>
+								</div>
+								<b>Flight0528：9001편</b>
+								<span>9001</span>
+																<p>2022. 05. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16509553611650955361298.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flight0521: THE FIX 편]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206792</link>
@@ -182,22 +198,6 @@
 								<span>진민호</span>
 																<p>2022. 04. 09 - 2022. 04. 10</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16473332711647333271682.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[914시리즈 3딱]]></title>
-            <link>https://tickets.interpark.com/goods/22002547</link>
-            <guid>https://tickets.interpark.com/goods/22002547</guid>
-            <pubDate>Thu, 10 Mar 2022 08:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22002547" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16468973911646897391192.jpg">
-									</a>
-								</div>
-								<b>914시리즈 3딱</b>
-								<span>이승환</span>
-																<p>2022. 03. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16468973911646897391192.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
