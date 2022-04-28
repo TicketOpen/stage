@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 06:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1649916716.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[다시, 봄]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1073</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1073</guid>
             <pubDate>Thu, 21 Apr 2022 04:03:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.13 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1649856837.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1651125444.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OFF THE LIVE 06 HYOWON X NAMU]]></title>
