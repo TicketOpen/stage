@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 14:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 15:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/px/oc/mg166127901um.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[튠업 위드 프렌즈 4월의 아침 <홍이삭X김제형>]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/227</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/227</guid>
-            <pubDate>Thu, 31 Mar 2022 02:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.04.29
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>홍이삭, 김제형</dd>
-</dl>
-<a href="/cjazit/book/view/227" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/qx/aq/zi165350392bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
