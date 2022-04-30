@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 06:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[암호(AMHO) 첫 단독 콘서트 <리듬체인지>]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206830</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206830</guid>
+            <pubDate>Sat, 30 Apr 2022 06:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206830" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16512979651651297965312.jpg">
+									</a>
+								</div>
+								<b>암호(AMHO) 첫 단독 콘서트 &lt;리듬체인지&gt;</b>
+								<span>암호(AMHO)</span>
+																<p>2022. 05. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16512979651651297965312.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flight0528：9001편]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206824</link>
@@ -24,7 +40,7 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16509553611650955361298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Flight0521: THE FIX 편]]></title>
+            <title><![CDATA[Flight0521 : THE FIX 편]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206792</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206792</guid>
             <pubDate>Tue, 19 Apr 2022 06:30:18 GMT</pubDate>
@@ -34,7 +50,7 @@
 										<img src="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg">
 									</a>
 								</div>
-								<b>Flight0521: THE FIX 편</b>
+								<b>Flight0521 : THE FIX 편</b>
 								<span>THE FIX</span>
 																<p>2022. 05. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg" length="0" type="image/jpg"/>
@@ -182,22 +198,6 @@
 								<span>이승환</span>
 																<p>2022. 04. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16485423701648542370447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니앨범 [Seoul] 쇼케이스]]></title>
-            <link>https://youtu.be/r_ALdsMbwqI</link>
-            <guid>https://youtu.be/r_ALdsMbwqI</guid>
-            <pubDate>Fri, 22 Apr 2022 04:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://youtu.be/r_ALdsMbwqI" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16505992141650599214925.jpg">
-									</a>
-								</div>
-								<b>미니앨범 [Seoul] 쇼케이스</b>
-								<span>볼빨간사춘기</span>
-																<p>2022. 04. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16505992141650599214925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
