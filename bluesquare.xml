@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[준케이, 우영 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004351</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004351</guid>
-            <pubDate>Thu, 14 Apr 2022 23:24:49 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=173781&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=173781&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 01 May 2022 15:26:42 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">준케이, 우영 콘서트</dt>
 						<dd>2022.04.30 ~ 2022.05.01</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
