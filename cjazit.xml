@@ -4,9 +4,57 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 06:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우소연 1집 발매기념 단독 콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/232</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/232</guid>
+            <pubDate>Mon, 02 May 2022 06:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.05.21
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>에프터눈레코드</dd>
+<dt>출연:</dt>
+<dd>우소연</dd>
+</dl>
+<a href="/cjazit/book/view/232" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/vd/ee/jz168274000so.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튠업23기 3차 심사 쇼케이스]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/231</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/231</guid>
+            <pubDate>Mon, 02 May 2022 06:31:27 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.05.11
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>튠업23기 2차 통과 15개팀</dd>
+</dl>
+<a href="/cjazit/book/view/231" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/mx/du/yp168273226ic.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Happy Together]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/228</link>
