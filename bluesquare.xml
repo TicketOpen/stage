@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2022.06.17 ~ 2022.06.18</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/05/0400012205_174401_01.900.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2am 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005487</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005487</guid>
+            <pubDate>Tue, 03 May 2022 07:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2am 콘서트</dt>
+						<dd>2022.06.11 ~ 2022.06.12</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/05/0400012205_174448_01.844.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[박재정 콘서트]]></title>
@@ -136,16 +146,6 @@
 						<dd>2022.03.05 ~ 2022.03.06</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172401_01.715.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[노트르담 드 파리 내한공연]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171584&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=171584&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Fri, 18 Mar 2022 15:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">노트르담 드 파리 내한공연</dt>
-						<dd>2022.02.25 ~ 2022.03.18</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/01/0400012201_171584_01.837.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[새소년 콘서트]]></title>
