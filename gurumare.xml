@@ -4,24 +4,40 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 05:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 06:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[첫 단독 콘서트 <리듬체인지>]]></title>
+            <title><![CDATA[김장훈콘서트 [킬링보이숲콘서트]]]></title>
+            <link>https://tickets.interpark.com/goods/22005532</link>
+            <guid>https://tickets.interpark.com/goods/22005532</guid>
+            <pubDate>Sun, 08 May 2022 06:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22005532" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16519881171651988117750.jpg">
+									</a>
+								</div>
+								<b>김장훈콘서트 [킬링보이숲콘서트]</b>
+								<span>김장훈</span>
+																<p>2022. 06. 03 - 2022. 06. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16519881171651988117750.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 단독 콘서트 〈리듬체인지〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206830</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206830</guid>
             <pubDate>Sat, 30 Apr 2022 06:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=206830" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16512979651651297965312.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16519885001651988500676.jpg">
 									</a>
 								</div>
-								<b>첫 단독 콘서트 &lt;리듬체인지&gt;</b>
-								<span>암호(AMHO)</span>
+								<b>첫 단독 콘서트 〈리듬체인지〉</b>
+								<span>암호 (AMHO)</span>
 																<p>2022. 05. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16512979651651297965312.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16519885001651988500676.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flight0528：9001편]]></title>
@@ -31,45 +47,61 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=206824" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16509553611650955361298.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16519885851651988585366.jpg">
 									</a>
 								</div>
 								<b>Flight0528：9001편</b>
 								<span>9001</span>
 																<p>2022. 05. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16509553611650955361298.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16519885851651988585366.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Flight0521 : THE FIX 편]]></title>
+            <title><![CDATA[제43회 김재희의 생명존중 콘서트]]></title>
+            <link>https://tickets.interpark.com/goods/22005608</link>
+            <guid>https://tickets.interpark.com/goods/22005608</guid>
+            <pubDate>Sun, 08 May 2022 06:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22005608" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16519879311651987931904.jpg">
+									</a>
+								</div>
+								<b>제43회 김재희의 생명존중 콘서트</b>
+								<span>김재희</span>
+																<p>2022. 05. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16519879311651987931904.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0521：THE FIX편]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206792</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206792</guid>
             <pubDate>Tue, 19 Apr 2022 06:30:18 GMT</pubDate>
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=206792" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16519886631651988663554.jpg">
 									</a>
 								</div>
-								<b>Flight0521 : THE FIX 편</b>
+								<b>Flight0521：THE FIX편</b>
 								<span>THE FIX</span>
 																<p>2022. 05. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16497276051649727605925.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16519886631651988663554.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앨범발매기념 단독콘서트 <별과 추억과 시>]]></title>
+            <title><![CDATA[앨범발매기념 단독콘서트 〈별과 추억과 시〉]]></title>
             <link>https://tickets.interpark.com/goods/22004938</link>
             <guid>https://tickets.interpark.com/goods/22004938</guid>
             <pubDate>Fri, 22 Apr 2022 07:26:47 GMT</pubDate>
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22004938" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16506099911650609991391.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16519887671651988767616.jpg">
 									</a>
 								</div>
-								<b>앨범발매기념 단독콘서트 &lt;별과 추억과 시&gt;</b>
+								<b>앨범발매기념 단독콘서트 〈별과 추억과 시〉</b>
 								<span>신지훈</span>
 																<p>2022. 05. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16506099911650609991391.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16519887671651988767616.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 김경현 콘서트 [5 ROCK 室]]]></title>
@@ -166,38 +198,6 @@
 								<span>임세모</span>
 																<p>2022. 04. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PEAKBOX 22-02]]></title>
-            <link>https://tickets.interpark.com/goods/22003760</link>
-            <guid>https://tickets.interpark.com/goods/22003760</guid>
-            <pubDate>Tue, 12 Apr 2022 01:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22003760" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16497218881649721888497.jpg">
-									</a>
-								</div>
-								<b>PEAKBOX 22-02</b>
-								<span>데이먼스 이어 , 나인</span>
-																<p>2022. 04. 23 - 2022. 04. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16497218881649721888497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[914시리즈 3딱]]></title>
-            <link>https://tickets.interpark.com/goods/22003596</link>
-            <guid>https://tickets.interpark.com/goods/22003596</guid>
-            <pubDate>Tue, 29 Mar 2022 08:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22003596" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16485423701648542370447.jpg">
-									</a>
-								</div>
-								<b>914시리즈 3딱</b>
-								<span>이승환</span>
-																<p>2022. 04. 22</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16485423701648542370447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
