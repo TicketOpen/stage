@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-05-11T06:42:34.029Z</updated>
+    <updated>2022-05-11T07:26:56.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://booking.naver.com/booking/12/bizes/690920/items/4402525?preview=1"/>
         <updated>2022-05-05T08:33:52.261Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://booking.naver.com/booking/12/bizes/690920/items/4402525?preview=1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/21(토) 오후 3시 / 오후 7시 - PLUG SWITCH vol.1 : 해서웨이</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5/22(일) 오후 5시 - 예람, 리디, 이서]]></title>
+        <id>https://forms.gle/i1qCaLYd59cYaJC89</id>
+        <link href="https://forms.gle/i1qCaLYd59cYaJC89"/>
+        <updated>2022-05-11T07:26:39.067Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/i1qCaLYd59cYaJC89" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/22(일) 오후 5시 - 예람, 리디, 이서</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
