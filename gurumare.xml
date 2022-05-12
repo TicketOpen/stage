@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 02:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앨범 발매 기념 콘서트 '다시 봄처럼, 안녕']]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C0%CC%B9%CE%C7%F5&amp;no=42901&amp;groupno=42901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C0%CC%B9%CE%C7%F5&amp;no=42901&amp;groupno=42901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 12 May 2022 02:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C0%CC%B9%CE%C7%F5&amp;no=42901&amp;groupno=42901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16523200801652320080758.jpg">
+									</a>
+								</div>
+								<b>앨범 발매 기념 콘서트 '다시 봄처럼, 안녕'</b>
+								<span>이민혁</span>
+																<p>2022. 06. 18 - 2022. 06. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16523200801652320080758.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김장훈콘서트 [킬링보이숲콘서트]]]></title>
             <link>https://tickets.interpark.com/goods/22005532</link>
@@ -88,7 +104,7 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16519886631651988663554.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앨범발매기념 단독콘서트 〈별과 추억과 시〉]]></title>
+            <title><![CDATA[앨범발매기념 단독콘서트〈별과 추억과 시〉]]></title>
             <link>https://tickets.interpark.com/goods/22004938</link>
             <guid>https://tickets.interpark.com/goods/22004938</guid>
             <pubDate>Fri, 22 Apr 2022 07:26:47 GMT</pubDate>
@@ -98,7 +114,7 @@
 										<img src="http://gurumare.co.kr/file_upload/16519887671651988767616.jpg">
 									</a>
 								</div>
-								<b>앨범발매기념 단독콘서트 〈별과 추억과 시〉</b>
+								<b>앨범발매기념 단독콘서트〈별과 추억과 시〉</b>
 								<span>신지훈</span>
 																<p>2022. 05. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16519887671651988767616.jpg" length="0" type="image/jpg"/>
@@ -182,22 +198,6 @@
 								<span>ICHILLIN’(아이칠린)</span>
 																<p>2022. 04. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16510315661651031566873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 [청춘의 밤]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206611</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206611</guid>
-            <pubDate>Mon, 28 Feb 2022 08:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206611" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌5 [청춘의 밤]</b>
-								<span>임세모</span>
-																<p>2022. 04. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16460357781646035778223.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
