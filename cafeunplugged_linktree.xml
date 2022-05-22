@@ -2,36 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-05-12T22:29:54.862Z</updated>
+    <updated>2022-05-22T02:49:40.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[22년 6월 언플러그드 오픈마이크 신청]]></title>
+        <id>https://docs.google.com/forms/d/e/1FAIpQLSdRkQLiQSEwO6zJf057kooKUp3mB6Pq-hxzA-RYhDE3Un0Iqg/viewform?usp=sf_link</id>
+        <link href="https://docs.google.com/forms/d/e/1FAIpQLSdRkQLiQSEwO6zJf057kooKUp3mB6Pq-hxzA-RYhDE3Un0Iqg/viewform?usp=sf_link"/>
+        <updated>2022-05-22T02:49:18.323Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdRkQLiQSEwO6zJf057kooKUp3mB6Pq-hxzA-RYhDE3Un0Iqg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 6월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클럽 DIY 2기 가입신청서]]></title>
+        <id>https://docs.google.com/forms/d/e/1FAIpQLSfHInf8JuZ8GKjvwXyq_2IV8Mwo3nxnzhlLQaeBL9qID1Ehyw/viewform?usp=sf_link</id>
+        <link href="https://docs.google.com/forms/d/e/1FAIpQLSfHInf8JuZ8GKjvwXyq_2IV8Mwo3nxnzhlLQaeBL9qID1Ehyw/viewform?usp=sf_link"/>
+        <updated>2022-05-22T02:49:18.327Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHInf8JuZ8GKjvwXyq_2IV8Mwo3nxnzhlLQaeBL9qID1Ehyw/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">클럽 DIY 2기 가입신청서</p></a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두레 페스타 FESTA 참가신청]]></title>
         <id>https://naver.me/xEMruX9w</id>
         <link href="https://naver.me/xEMruX9w"/>
         <updated>2022-04-23T09:24:46.163Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://naver.me/xEMruX9w" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">두레 페스타 FESTA 참가신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/12(목) 오후 8시 - Hey, May : 민채영, 류하, SAGA]]></title>
-        <id>https://forms.gle/QYHtbNb6WQUrv8F38</id>
-        <link href="https://forms.gle/QYHtbNb6WQUrv8F38"/>
-        <updated>2022-05-01T06:32:53.702Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/QYHtbNb6WQUrv8F38" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/12(목) 오후 8시 - Hey, May : 민채영, 류하, SAGA</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/13(금) 저녁 8시 - 차빛나, 다정]]></title>
-        <id>https://forms.gle/WzuQSc77oTV49B1M8</id>
-        <link href="https://forms.gle/WzuQSc77oTV49B1M8"/>
-        <updated>2022-04-29T08:34:08.961Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/WzuQSc77oTV49B1M8" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/13(금) 저녁 8시 - 차빛나, 다정</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/15(일) 저녁 7시 - 언플위키 vol.2 : 나의 노랑말들, 행로난]]></title>
-        <id>https://forms.gle/1uToVxipY5xGeJpU7</id>
-        <link href="https://forms.gle/1uToVxipY5xGeJpU7"/>
-        <updated>2022-05-02T05:36:14.957Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/1uToVxipY5xGeJpU7" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/15(일) 저녁 7시 - 언플위키 vol.2 : 나의 노랑말들, 행로난</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5/19(목) 오후 8시 - 볼륨업 #3 : 장여름, 주운, 하종혁]]></title>
@@ -60,6 +53,13 @@
         <link href="https://forms.gle/i1qCaLYd59cYaJC89"/>
         <updated>2022-05-11T07:26:39.067Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/i1qCaLYd59cYaJC89" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/22(일) 오후 5시 - 예람, 리디, 이서</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5/27(금) 오후 8시 - 보이어, 에니그마타]]></title>
+        <id>https://forms.gle/oE4LaE67Nb9csYoQA</id>
+        <link href="https://forms.gle/oE4LaE67Nb9csYoQA"/>
+        <updated>2022-05-22T02:49:18.336Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/oE4LaE67Nb9csYoQA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/27(금) 오후 8시 - 보이어, 에니그마타</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>

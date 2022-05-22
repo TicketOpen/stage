@@ -4,16 +4,16 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 22:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[앨범 발매 기념 콘서트 '다시 봄처럼, 안녕']]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C0%CC%B9%CE%C7%F5&amp;no=42901&amp;groupno=42901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C0%CC%B9%CE%C7%F5&amp;no=42901&amp;groupno=42901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 12 May 2022 02:12:43 GMT</pubDate>
+            <link>https://tickets.interpark.com/goods/22005932</link>
+            <guid>https://tickets.interpark.com/goods/22005932</guid>
+            <pubDate>Sun, 22 May 2022 02:47:45 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C0%CC%B9%CE%C7%F5&amp;no=42901&amp;groupno=42901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+									<a href="https://tickets.interpark.com/goods/22005932" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16523200801652320080758.jpg">
 									</a>
@@ -104,6 +104,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16519886631651988663554.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정규 10집 [SORY] 발매 기념 기자간담회]]></title>
+            <link>https://youtu.be/_aizx90SPAo</link>
+            <guid>https://youtu.be/_aizx90SPAo</guid>
+            <pubDate>Sun, 22 May 2022 02:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://youtu.be/_aizx90SPAo" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16528375131652837513413.jpg">
+									</a>
+								</div>
+								<b>정규 10집 [SORY] 발매 기념 기자간담회</b>
+								<span>이수영</span>
+																<p>2022. 05. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16528375131652837513413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앨범발매기념 단독콘서트〈별과 추억과 시〉]]></title>
             <link>https://tickets.interpark.com/goods/22004938</link>
             <guid>https://tickets.interpark.com/goods/22004938</guid>
@@ -182,22 +198,6 @@
 								<span>우리나라</span>
 																<p>2022. 04. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16499114851649911485821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니앨범 [Bridge of Dreams] 쇼케이스]]></title>
-            <link>https://www.instagram.com/ichillin_km/</link>
-            <guid>https://www.instagram.com/ichillin_km/</guid>
-            <pubDate>Wed, 27 Apr 2022 04:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/ichillin_km/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16510315661651031566873.jpg">
-									</a>
-								</div>
-								<b>미니앨범 [Bridge of Dreams] 쇼케이스</b>
-								<span>ICHILLIN’(아이칠린)</span>
-																<p>2022. 04. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16510315661651031566873.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

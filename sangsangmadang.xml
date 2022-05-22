@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-05-12T22:29:54.864Z</updated>
+    <updated>2022-05-22T02:49:40.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -122,7 +122,7 @@
         <id>https://www.sangsangmadang.com/show/detail/2016</id>
         <link href="https://www.sangsangmadang.com/show/detail/2016"/>
         <updated>2022-03-03T15:28:34.294Z</updated>
-        <content type="html"><![CDATA[2022.01.20~2022.04.30]]></content>
+        <content type="html"><![CDATA[2022.01.20~2022.06.30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?>]]></title>
