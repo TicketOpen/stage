@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-05-23T11:24:52.257Z</updated>
+    <updated>2022-05-23T12:49:51.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://forms.gle/Z1wAKRUR7WmEuheu9"/>
         <updated>2022-05-23T03:58:57.421Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/Z1wAKRUR7WmEuheu9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/29(일) 저녁 7시 - 나의 꽃말 #2 주하늘, 변민석</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6/4(토) 저녁 7시 - 파파더캅, 컨파인드 화이트]]></title>
+        <id>https://docs.google.com/forms/d/1kN4YUIs-vBxTN-4okBR6UYUiP9fYS_pH-0AVdNO5SWM/edit?usp=drivesdk</id>
+        <link href="https://docs.google.com/forms/d/1kN4YUIs-vBxTN-4okBR6UYUiP9fYS_pH-0AVdNO5SWM/edit?usp=drivesdk"/>
+        <updated>2022-05-23T12:49:30.454Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/1kN4YUIs-vBxTN-4okBR6UYUiP9fYS_pH-0AVdNO5SWM/edit?usp=drivesdk" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-cafe-unplugged " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">6/4(토) 저녁 7시 - 파파더캅, 컨파인드 화이트</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
