@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-05-24T02:12:00.947Z</updated>
+    <updated>2022-05-24T04:01:01.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아디오스오디오 단독콘서트 〈Hola Audio Summer〉]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2089</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2089"/>
+        <updated>2022-05-24T04:00:14.772Z</updated>
+        <content type="html"><![CDATA[2022.06.19~2022.06.19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PAIR PLAY：vol.1 허드x바닐레어]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2082</id>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/1998"/>
         <updated>2022-03-03T15:28:34.295Z</updated>
         <content type="html"><![CDATA[2021.12.31~2021.12.31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우의 [ Frame ]]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1993</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1993"/>
-        <updated>2022-03-03T15:28:34.295Z</updated>
-        <content type="html"><![CDATA[2021.12.30~2021.12.30]]></content>
     </entry>
 </feed>
