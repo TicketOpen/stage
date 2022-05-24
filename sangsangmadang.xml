@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-05-24T04:01:01.765Z</updated>
+    <updated>2022-05-24T04:45:21.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노브레인 스탠딩 단독공연 '미친 듯 놀자']]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2090</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2090"/>
+        <updated>2022-05-24T04:44:42.636Z</updated>
+        <content type="html"><![CDATA[2022.06.26~2022.06.26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투데이올드스니커즈 싱글 발매 쇼케이스 'ROBOT-REPAIR SHOP']]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2091</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2091"/>
+        <updated>2022-05-24T04:44:42.637Z</updated>
+        <content type="html"><![CDATA[2022.06.24~2022.06.24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아디오스오디오 단독콘서트 〈Hola Audio Summer〉]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2089</id>
@@ -130,19 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2016"/>
         <updated>2022-03-03T15:28:34.294Z</updated>
         <content type="html"><![CDATA[2022.01.20~2022.06.30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜은이x재주소년 <당신의 '파란나라'는 무엇인가요?>]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2007</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2007"/>
-        <updated>2022-03-03T15:28:34.294Z</updated>
-        <content type="html"><![CDATA[2022.01.15~2022.01.15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbs UP! with 이정권]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/1998</id>
-        <link href="https://www.sangsangmadang.com/show/detail/1998"/>
-        <updated>2022-03-03T15:28:34.295Z</updated>
-        <content type="html"><![CDATA[2021.12.31~2021.12.31]]></content>
     </entry>
 </feed>
