@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 06:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[겨울 지나 벚꽃] 태성과 해봄의 두번째 팬미팅]]></title>
+            <link>http://ticket.yes24.com/Perf/42313</link>
+            <guid>http://ticket.yes24.com/Perf/42313</guid>
+            <pubDate>Tue, 24 May 2022 06:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/42313" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16533725121653372512419.jpg">
+									</a>
+								</div>
+								<b>[겨울 지나 벚꽃] 태성과 해봄의 두번째 팬미팅</b>
+								<span>옥진욱,강희</span>
+																<p>2022. 06. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16533725121653372512419.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앨범 발매 기념 콘서트 '다시 봄처럼, 안녕']]></title>
             <link>https://tickets.interpark.com/goods/22005932</link>
@@ -182,22 +198,6 @@
 								<span>빈센트블루</span>
 																<p>2022. 04. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16497215471649721547034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 나무와 함께]]></title>
-            <link>https://www.facebook.com/photo?fbid=647506913138023&amp;set=a.455051375716912</link>
-            <guid>https://www.facebook.com/photo?fbid=647506913138023&amp;set=a.455051375716912</guid>
-            <pubDate>Thu, 14 Apr 2022 05:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.facebook.com/photo?fbid=647506913138023&amp;set=a.455051375716912" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16499114851649911485821.jpg">
-									</a>
-								</div>
-								<b>이 나무와 함께</b>
-								<span>우리나라</span>
-																<p>2022. 04. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16499114851649911485821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
