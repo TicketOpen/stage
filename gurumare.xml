@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 [순간의 노래]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206938</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206938</guid>
+            <pubDate>Thu, 26 May 2022 06:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206938" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16535443501653544350084.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 [순간의 노래]</b>
+								<span>안예은</span>
+																<p>2022. 06. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16535443501653544350084.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[겨울 지나 벚꽃] 태성과 해봄의 두번째 팬미팅]]></title>
             <link>http://ticket.yes24.com/Perf/42313</link>
@@ -182,22 +198,6 @@
 								<span>리누</span>
 																<p>2022. 05. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16497272391649727239929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WRK#8 : 빈센트블루의 별이 빛나는 방]]></title>
-            <link>https://tickets.interpark.com/goods/22004161</link>
-            <guid>https://tickets.interpark.com/goods/22004161</guid>
-            <pubDate>Tue, 12 Apr 2022 01:53:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22004161" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16497215471649721547034.jpg">
-									</a>
-								</div>
-								<b>WRK#8 : 빈센트블루의 별이 빛나는 방</b>
-								<span>빈센트블루</span>
-																<p>2022. 04. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16497215471649721547034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
