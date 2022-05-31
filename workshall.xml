@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 11:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 12:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1653402448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JAZZ WORKS n02]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1103</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1103</guid>
+            <pubDate>Tue, 31 May 2022 12:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1653998379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.8 로쿠 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1086</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1086</guid>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 28 May 2022 15:27:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.26 (일) 18:00]]></content:encoded>
             <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소극장 공연]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1097</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1097</guid>
-            <pubDate>Sat, 28 May 2022 15:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28 (화) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1653402466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
