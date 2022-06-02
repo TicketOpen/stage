@@ -2,36 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/cafe.unplugged</id>
     <title>카페 언플러그드 ─ 링크트리</title>
-    <updated>2022-06-02T09:28:57.674Z</updated>
+    <updated>2022-06-02T10:32:54.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[22년 6월 언플러그드 오픈마이크 신청]]></title>
-        <id>https://docs.google.com/forms/d/e/1FAIpQLSdRkQLiQSEwO6zJf057kooKUp3mB6Pq-hxzA-RYhDE3Un0Iqg/viewform?usp=sf_link</id>
-        <link href="https://docs.google.com/forms/d/e/1FAIpQLSdRkQLiQSEwO6zJf057kooKUp3mB6Pq-hxzA-RYhDE3Un0Iqg/viewform?usp=sf_link"/>
-        <updated>2022-05-22T02:49:18.323Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdRkQLiQSEwO6zJf057kooKUp3mB6Pq-hxzA-RYhDE3Un0Iqg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-카페언플러그드-홍대점 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">22년 6월 언플러그드 오픈마이크 신청</p></a></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[두레 페스타 FESTA 참가신청]]></title>
         <id>https://naver.me/xEMruX9w</id>
         <link href="https://naver.me/xEMruX9w"/>
         <updated>2022-04-23T09:24:46.163Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://naver.me/xEMruX9w" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-카페언플러그드-홍대점 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">두레 페스타 FESTA 참가신청</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/27(금) 오후 8시 - 보이어, 에니그마타]]></title>
-        <id>https://forms.gle/oE4LaE67Nb9csYoQA</id>
-        <link href="https://forms.gle/oE4LaE67Nb9csYoQA"/>
-        <updated>2022-05-22T02:49:18.336Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/oE4LaE67Nb9csYoQA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-카페언플러그드-홍대점 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/27(금) 오후 8시 - 보이어, 에니그마타</p></a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/29(일) 저녁 7시 - 나의 꽃말 #2 주하늘, 변민석]]></title>
-        <id>https://forms.gle/Z1wAKRUR7WmEuheu9</id>
-        <link href="https://forms.gle/Z1wAKRUR7WmEuheu9"/>
-        <updated>2022-05-23T03:58:57.421Z</updated>
-        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/Z1wAKRUR7WmEuheu9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-카페언플러그드-홍대점 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">5/29(일) 저녁 7시 - 나의 꽃말 #2 주하늘, 변민석</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6/4(토) 저녁 7시 - 파파더캅, 컨파인드 화이트]]></title>
@@ -60,6 +39,13 @@
         <link href="https://forms.gle/Ly9AnuRXpyBWU8pU9"/>
         <updated>2022-05-24T09:28:10.932Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/Ly9AnuRXpyBWU8pU9" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-카페언플러그드-홍대점 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">6/11(토) 오후 7시 - 오호x유할매x튜바박 with Hodge</p></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6/12(일) 오후 4시 - 오픈마이크 볼륨업 #4]]></title>
+        <id>https://forms.gle/kjxK5s5cfRCro2F7A</id>
+        <link href="https://forms.gle/kjxK5s5cfRCro2F7A"/>
+        <updated>2022-06-02T10:32:32.188Z</updated>
+        <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx jGFpoK"><a href="https://forms.gle/kjxK5s5cfRCro2F7A" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-카페언플러그드-홍대점 " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">6/12(일) 오후 4시 - 오픈마이크 볼륨업 #4</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언플러그드 공식 굿즈 주문 신청서]]></title>
