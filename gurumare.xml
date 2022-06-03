@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정밀아 정기단독공연 〈초여름〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206958</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206958</guid>
+            <pubDate>Fri, 03 Jun 2022 03:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=206958" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16542214491654221449923.jpg">
+									</a>
+								</div>
+								<b>정밀아 정기단독공연 〈초여름〉</b>
+								<span>정밀아</span>
+																<p>2022. 07. 03</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16542214491654221449923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커피소년 여름 콘서트 [Mellow Diving]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206948</link>
@@ -182,22 +198,6 @@
 								<span>신지훈</span>
 																<p>2022. 05. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16519887671651988767616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 김경현 콘서트 [5 ROCK 室]]]></title>
-            <link>https://tickets.interpark.com/goods/22004388</link>
-            <guid>https://tickets.interpark.com/goods/22004388</guid>
-            <pubDate>Wed, 13 Apr 2022 05:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22004388" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16498246961649824696115.jpg">
-									</a>
-								</div>
-								<b>2022 김경현 콘서트 [5 ROCK 室]</b>
-								<span>김경현</span>
-																<p>2022. 05. 08</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16498246961649824696115.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
