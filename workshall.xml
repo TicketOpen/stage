@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 13:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 14:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1655042814.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JAZZ WORKS n02]]></title>
+            <title><![CDATA[JAZZ WORKS n02 김민찬]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1103</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1103</guid>
             <pubDate>Tue, 31 May 2022 12:50:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1653998379.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1655129734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.8 로쿠 단독 콘서트]]></title>
