@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 02:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 : 청춘의 밤]]></title>
+            <link>https://www.instagram.com/p/Cez2Ca3JaXx/</link>
+            <guid>https://www.instagram.com/p/Cez2Ca3JaXx/</guid>
+            <pubDate>Wed, 15 Jun 2022 04:00:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Cez2Ca3JaXx/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16552650771655265077538.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 : 청춘의 밤</b>
+								<span>다린</span>
+																<p>2022. 07. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16552650771655265077538.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정밀아 정기단독공연 [초여름]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206958</link>
@@ -63,13 +79,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22007098" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16543961011654396101053.jpeg">
+										<img src="http://gurumare.co.kr/file_upload/16552651241655265124426.png">
 									</a>
 								</div>
 								<b>제44회 김재희의 생명존중콘서트</b>
 								<span>김재희</span>
 																<p>2022. 06. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16543961011654396101053.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16552651241655265124426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태성과 해봄의 두번째 팬미팅 [Forever with you]]]></title>
@@ -182,22 +198,6 @@
 								<span>THE FIX</span>
 																<p>2022. 05. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16519886631651988663554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정규 10집 [SORY] 발매 기념 기자간담회]]></title>
-            <link>https://youtu.be/_aizx90SPAo</link>
-            <guid>https://youtu.be/_aizx90SPAo</guid>
-            <pubDate>Sun, 22 May 2022 02:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://youtu.be/_aizx90SPAo" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16528375131652837513413.jpg">
-									</a>
-								</div>
-								<b>정규 10집 [SORY] 발매 기념 기자간담회</b>
-								<span>이수영</span>
-																<p>2022. 05. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16528375131652837513413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
