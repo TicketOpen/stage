@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 04:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<dt class="subject">엘리자벳</dt>
 						<dd>2022.08.25 ~ 2022.11.13</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175860_01.442.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[노리플라이, 정준일, 페퍼톤스 콘서트]]></title>
