@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,9 +23,9 @@
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22007534</guid>
             <pubDate>Mon, 20 Jun 2022 03:50:25 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">This is TVT Club</dt>
-						<dd>2022.07.16 ~ 2022.07.17</dd>
+						<dd>2022.07.15 ~ 2022.07.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175854_01.348.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175854_01.419.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[노리플라이, 정준일, 페퍼톤스 콘서트]]></title>
