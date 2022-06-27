@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>짙은</span>
 																<p>2022. 07. 16 - 2022. 07. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16559501421655950142377.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만화페이지 콘서트 [당신의 자리, 우리의 자리]]]></title>
+            <link>https://bit.ly/3HAVv9y</link>
+            <guid>https://bit.ly/3HAVv9y</guid>
+            <pubDate>Mon, 27 Jun 2022 05:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href=" https://bit.ly/3HAVv9y" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16563031731656303173873.jpg">
+									</a>
+								</div>
+								<b>만화페이지 콘서트 [당신의 자리, 우리의 자리]</b>
+								<span>고명원밴드,고윤희</span>
+																<p>2022. 07. 14 - 2022. 07. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16563031731656303173873.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정규 앨범 발매 기념 단독 공연 [RECYCLE]]]></title>
@@ -182,22 +198,6 @@
 								<span>태성 , 해봄</span>
 																<p>2022. 06. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16543964501654396450449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
-            <link>https://booking.naver.com/booking/6/bizes/339623/items/4473914</link>
-            <guid>https://booking.naver.com/booking/6/bizes/339623/items/4473914</guid>
-            <pubDate>Wed, 15 Jun 2022 04:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://booking.naver.com/booking/6/bizes/339623/items/4473914" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16552666291655266629678.jpg">
-									</a>
-								</div>
-								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
-								<span>전유동</span>
-																<p>2022. 06. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16552666291655266629678.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
