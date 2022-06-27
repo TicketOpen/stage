@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 02:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 04:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제45회 김재희의 생명존중 콘서트]]></title>
+            <link>https://tickets.interpark.com/goods/22008093</link>
+            <guid>https://tickets.interpark.com/goods/22008093</guid>
+            <pubDate>Mon, 27 Jun 2022 04:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22008093" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg">
+									</a>
+								</div>
+								<b>제45회 김재희의 생명존중 콘서트</b>
+								<span>김재희</span>
+																<p>2022. 07. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정규 3집 PART.01 : MONO 발매 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207028</link>
@@ -182,22 +198,6 @@
 								<span>전유동</span>
 																<p>2022. 06. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16552666291655266629678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨범 발매 기념 콘서트 [다시 봄처럼, 안녕]]]></title>
-            <link>https://tickets.interpark.com/goods/22005932</link>
-            <guid>https://tickets.interpark.com/goods/22005932</guid>
-            <pubDate>Sun, 22 May 2022 02:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22005932" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16543963741654396374125.jpg">
-									</a>
-								</div>
-								<b>앨범 발매 기념 콘서트 [다시 봄처럼, 안녕]</b>
-								<span>이민혁</span>
-																<p>2022. 06. 18 - 2022. 06. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16543963741654396374125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
