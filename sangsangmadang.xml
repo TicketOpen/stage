@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-06-28T09:26:24.468Z</updated>
+    <updated>2022-06-28T10:30:04.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아웃사이더 콘서트]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2109</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2109"/>
+        <updated>2022-06-28T10:29:26.057Z</updated>
+        <content type="html"><![CDATA[2022.07.10~2022.07.10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wave to Earth 단독공연 : Deep dive in Seoul]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2104</id>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2034"/>
         <updated>2022-06-17T17:25:08.289Z</updated>
         <content type="html"><![CDATA[2022.04.02~2022.04.02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기대학교 실용음악학과 신입생 크래커 공연<RISING STAR>]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2043</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2043"/>
-        <updated>2022-06-17T17:25:08.290Z</updated>
-        <content type="html"><![CDATA[2022.03.31~2022.03.31]]></content>
     </entry>
 </feed>
