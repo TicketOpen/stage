@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,13 +19,13 @@
         </item>
         <item>
             <title><![CDATA[조항조, 진성 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176385&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176385&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 28 Jun 2022 05:32:30 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008232</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008232</guid>
+            <pubDate>Tue, 28 Jun 2022 07:23:38 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">조항조, 진성 콘서트</dt>
 						<dd>2022.08.13 ~ 2022.08.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_176385_01.611.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[나폴레옹 헌정 콘서트]]></title>
