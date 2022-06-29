@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원상하 첫 팬미팅 [너가 멈추지 않으면 ing야]]]></title>
+            <link>http://ticket.yes24.com/Perf/42733</link>
+            <guid>http://ticket.yes24.com/Perf/42733</guid>
+            <pubDate>Wed, 29 Jun 2022 07:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/42733" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16564867471656486747872.jpg">
+									</a>
+								</div>
+								<b>원상하 첫 팬미팅 [너가 멈추지 않으면 ing야]</b>
+								<span>천승호,한세진</span>
+																<p>2022. 07. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16564867471656486747872.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제45회 김재희의 생명존중 콘서트]]></title>
             <link>https://tickets.interpark.com/goods/22008093</link>
@@ -104,6 +120,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16559426321655942632792.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[KBS 쿨FM 일상회복 프로젝트 [조금씩,천천히,너에게]]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScwKvPWqvSSUp937QPaVrqQjKxtQmoFH4sOeS6pGJe8vtD0Aw/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScwKvPWqvSSUp937QPaVrqQjKxtQmoFH4sOeS6pGJe8vtD0Aw/viewform</guid>
+            <pubDate>Wed, 29 Jun 2022 07:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://docs.google.com/forms/d/e/1FAIpQLScwKvPWqvSSUp937QPaVrqQjKxtQmoFH4sOeS6pGJe8vtD0Aw/viewform" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16564864691656486469987.jpg">
+									</a>
+								</div>
+								<b>KBS 쿨FM 일상회복 프로젝트 [조금씩,천천히,너에게]</b>
+								<span>데이브레이크,LUCY,백아연,죠지,SOLE</span>
+																<p>2022. 07. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16564864691656486469987.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정밀아 정기단독공연 [초여름]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206958</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206958</guid>
@@ -166,38 +198,6 @@
 								<span>안예은</span>
 																<p>2022. 06. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16543965251654396525437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제44회 김재희의 생명존중콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/22007098</link>
-            <guid>https://tickets.interpark.com/goods/22007098</guid>
-            <pubDate>Sun, 05 Jun 2022 03:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22007098" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16552651241655265124426.png">
-									</a>
-								</div>
-								<b>제44회 김재희의 생명존중콘서트</b>
-								<span>김재희</span>
-																<p>2022. 06. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16552651241655265124426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태성과 해봄의 두번째 팬미팅 [Forever with you]]]></title>
-            <link>http://ticket.yes24.com/Perf/42313</link>
-            <guid>http://ticket.yes24.com/Perf/42313</guid>
-            <pubDate>Tue, 24 May 2022 06:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/42313" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16543964501654396450449.jpg">
-									</a>
-								</div>
-								<b>태성과 해봄의 두번째 팬미팅 [Forever with you]</b>
-								<span>태성 , 해봄</span>
-																<p>2022. 06. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16543964501654396450449.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
