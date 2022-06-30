@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-06-30T02:24:32.482Z</updated>
+    <updated>2022-06-30T04:03:49.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/2114"/>
         <updated>2022-06-30T02:23:46.884Z</updated>
         <content type="html"><![CDATA[2022.07.02~2022.07.03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양방언 summer gig tour 2022]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2118</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2118"/>
+        <updated>2022-06-30T04:03:10.979Z</updated>
+        <content type="html"><![CDATA[2022.07.01~2022.07.01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 KT&G 상상마당 홍대 음악지원사업]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2039"/>
         <updated>2022-06-17T17:25:08.284Z</updated>
         <content type="html"><![CDATA[2022.04.23~2022.04.23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 더베인 단독콘서트 〈MONSTER〉]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2040</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2040"/>
-        <updated>2022-06-17T17:25:08.285Z</updated>
-        <content type="html"><![CDATA[2022.04.16~2022.04.17]]></content>
     </entry>
 </feed>
