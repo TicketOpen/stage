@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 15:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1078</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1078</guid>
-            <pubDate>Mon, 13 Jun 2022 04:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1652319049.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.10 바스바오＆리플리 콜라보 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1089</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 26 Jun 2022 15:24:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21 (목) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1655549158.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1091</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1091</guid>
+            <pubDate>Thu, 30 Jun 2022 15:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.23 (토) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1652927081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
