@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 15:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 16:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1654137418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[특별한 3교시]]></title>
+            <title><![CDATA[특별한 3교시: 이나리(미술사가 나리) - <아픈 여자 프리다 칼로, 나쁜 남자 디에고 리베라: 화가 부부의 삶과 작업 이야기>]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1081</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1081</guid>
             <pubDate>Wed, 22 Jun 2022 15:26:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.03 (일) 14:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1654748251.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악의 언어 : 북 콘서트]]></title>
@@ -48,28 +48,28 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656238558.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단독공연]]></title>
+            <title><![CDATA[박한빈 앨범 발매 쇼케이스 : Scartch]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1121</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1121</guid>
             <pubDate>Sun, 26 Jun 2022 15:24:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1655549158.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군가의 플레이리스트]]></title>
+            <title><![CDATA[누군가의 플레이리스트 Track. 49 홈존 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1091</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1091</guid>
             <pubDate>Thu, 30 Jun 2022 15:28:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1652927081.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군가의 플레이리스트]]></title>
+            <title><![CDATA[누군가의 플레이리스트 Track. 49 홈존 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1092</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1092</guid>
             <pubDate>Fri, 01 Jul 2022 15:28:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.24 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1652927099.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690369.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
