@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 14:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 15:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.11 조주＆정예원 콜라보 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1090</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1090</guid>
-            <pubDate>Sun, 19 Jun 2022 15:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.02 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1654137418.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[특별한 3교시: 이나리(미술사가 나리) - <아픈 여자 프리다 칼로, 나쁜 남자 디에고 리베라: 화가 부부의 삶과 작업 이야기>]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1081</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 01 Jul 2022 15:28:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.24 (일) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰카기의 썰]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1082</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1082</guid>
+            <pubDate>Sat, 02 Jul 2022 15:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1652319280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
