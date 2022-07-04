@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,16 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175854_01.419.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[고우림 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008116</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008116</guid>
+            <pubDate>Mon, 04 Jul 2022 05:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">고우림 콘서트</dt>
+						<dd>2022.07.09 ~ 2022.07.10</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_176327_01.702.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[노리플라이, 정준일, 페퍼톤스 콘서트]]></title>
             <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=175715&amp;m_menu=performance&amp;s_menu=info</link>
             <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=175715&amp;m_menu=performance&amp;s_menu=info</guid>
@@ -146,16 +156,6 @@
 						<dd>2022.05.13 ~ 2022.05.15</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/03/0400012203_173326_01.507.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아이다]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001534</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001534</guid>
-            <pubDate>Wed, 16 Feb 2022 04:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">아이다</dt>
-						<dd>2022.05.10 ~ 2022.08.07</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/02/0400012202_172196_01.105.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
