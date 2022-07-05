@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>빌리어코스티 </span>
 																<p>2022. 07. 23 - 2022. 07. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16559580681655958068190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
+            <link>https://www.instagram.com/p/CflbKZBFCfi/</link>
+            <guid>https://www.instagram.com/p/CflbKZBFCfi/</guid>
+            <pubDate>Tue, 05 Jul 2022 05:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CflbKZBFCfi/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16569951401656995140840.jpg">
+									</a>
+								</div>
+								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
+								<span>손혜은</span>
+																<p>2022. 07. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16569951401656995140840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 : 청춘의 밤]]></title>
@@ -182,22 +198,6 @@
 								<span>최낙타</span>
 																<p>2022. 07. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16552667551655266755367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 순간의 노래]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206938</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206938</guid>
-            <pubDate>Thu, 26 May 2022 06:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206938" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16543965251654396525437.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌5 순간의 노래</b>
-								<span>안예은</span>
-																<p>2022. 06. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16543965251654396525437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

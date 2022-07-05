@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
             <content:encoded><![CDATA[<dt class="subject">나폴레옹 헌정 콘서트</dt>
 						<dd>2022.08.03 ~ 2022.08.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_176328_01.908.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_176328_01.634.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이민혁 콘서트]]></title>
