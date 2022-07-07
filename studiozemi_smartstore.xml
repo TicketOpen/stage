@@ -4,17 +4,9 @@
         <title>재미공작소 ─ 네이버 스마트스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 22:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 23:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우리들의 황금시대 2]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4728820535</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4728820535</guid>
-            <pubDate>Fri, 17 Jun 2022 17:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[12월의 책 고양이와 김승일]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/5503218245</link>
@@ -54,6 +46,14 @@
             <pubDate>Fri, 17 Jun 2022 17:25:50 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191112_116/15735579008524sHJM_JPEG/10917735400880486_1979879031.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리들의 황금시대 2]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/4728820535</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/4728820535</guid>
+            <pubDate>Fri, 17 Jun 2022 17:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191112_245/1573556165698KUpb9_JPEG/10919554242488577_1575279506.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
