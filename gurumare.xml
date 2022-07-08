@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Flight0813：나상현씨밴드 편]]></title>
+            <link>https://www.instagram.com/p/CfvZXD6FPB4/</link>
+            <guid>https://www.instagram.com/p/CfvZXD6FPB4/</guid>
+            <pubDate>Fri, 08 Jul 2022 06:31:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CfvZXD6FPB4/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg">
+									</a>
+								</div>
+								<b>Flight0813：나상현씨밴드 편</b>
+								<span>나상현씨밴드</span>
+																<p>2022. 08. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원상하 첫 팬미팅 [너가 멈추지 않으면 ing야]]]></title>
             <link>http://ticket.yes24.com/Perf/42733</link>
@@ -182,22 +198,6 @@
 								<span>커피소년</span>
 																<p>2022. 07. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16543966141654396614553.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE : 최낙타]]></title>
-            <link>https://tickets.interpark.com/goods/22007584</link>
-            <guid>https://tickets.interpark.com/goods/22007584</guid>
-            <pubDate>Thu, 16 Jun 2022 04:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22007584" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16552667551655266755367.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE : 최낙타</b>
-								<span>최낙타</span>
-																<p>2022. 07. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16552667551655266755367.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
