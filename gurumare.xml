@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 11:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 12:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SING SANG SONG：재주소년 with Strings Again]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207064</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207064</guid>
+            <pubDate>Fri, 08 Jul 2022 12:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207064" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16572801741657280174757.jpg">
+									</a>
+								</div>
+								<b>SING SANG SONG：재주소년 with Strings Again</b>
+								<span>재주소년</span>
+																<p>2022. 08. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16572801741657280174757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flight0813：나상현씨밴드 편]]></title>
             <link>https://www.instagram.com/p/CfvZXD6FPB4/</link>
@@ -182,22 +198,6 @@
 								<span>정밀아</span>
 																<p>2022. 07. 03</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16543966851654396685988.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 여름 콘서트 [Mellow Diving]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206948</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206948</guid>
-            <pubDate>Mon, 30 May 2022 08:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206948" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16543966141654396614553.png">
-									</a>
-								</div>
-								<b>2022 여름 콘서트 [Mellow Diving]</b>
-								<span>커피소년</span>
-																<p>2022. 07. 02</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16543966141654396614553.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
