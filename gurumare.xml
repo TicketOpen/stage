@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 06:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 07:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>김재희</span>
 																<p>2022. 07. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
+            <link>https://www.instagram.com/p/Cfn_6MxFfCD/</link>
+            <guid>https://www.instagram.com/p/Cfn_6MxFfCD/</guid>
+            <pubDate>Sat, 09 Jul 2022 07:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Cfn_6MxFfCD/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg">
+									</a>
+								</div>
+								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
+								<span>슈야</span>
+																<p>2022. 07. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정규 3집 PART.01 : MONO 발매 기념 공연]]></title>
@@ -182,22 +198,6 @@
 								<span>데이브레이크,LUCY,백아연,죠지,SOLE</span>
 																<p>2022. 07. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16564864691656486469987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정밀아 정기단독공연 [초여름]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206958</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206958</guid>
-            <pubDate>Fri, 03 Jun 2022 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=206958" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16543966851654396685988.jpg">
-									</a>
-								</div>
-								<b>정밀아 정기단독공연 [초여름]</b>
-								<span>정밀아</span>
-																<p>2022. 07. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16543966851654396685988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
