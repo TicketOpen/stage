@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 02:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1088</guid>
             <pubDate>Thu, 23 Jun 2022 15:29:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14 (목) 19:30]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필통 단독공연]]></title>
@@ -29,7 +29,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1109</guid>
             <pubDate>Sat, 25 Jun 2022 15:24:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.17 (일) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656238558.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599230.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박한빈 앨범 발매 쇼케이스 : Scartch]]></title>
@@ -37,7 +37,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1121</guid>
             <pubDate>Sun, 26 Jun 2022 15:24:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21 (목) 20:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 49 홈존 단독 콘서트]]></title>
@@ -45,7 +45,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1091</guid>
             <pubDate>Thu, 30 Jun 2022 15:28:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690341.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599357.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 49 홈존 단독 콘서트]]></title>
@@ -53,7 +53,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1092</guid>
             <pubDate>Fri, 01 Jul 2022 15:28:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.24 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690369.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찰카기의 썰]]></title>
@@ -69,7 +69,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1093</guid>
             <pubDate>Sun, 03 Jul 2022 15:24:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.30 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656690479.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
