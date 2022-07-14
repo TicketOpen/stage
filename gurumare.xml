@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 02:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[from．Kei]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207096</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207096</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207096" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16577691301657769130595.jpg">
+									</a>
+								</div>
+								<b>from．Kei</b>
+								<span>케이</span>
+																<p>2022. 08. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16577691301657769130595.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SING SANG SONG：재주소년 with Strings Again]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207064</link>
@@ -25,11 +41,11 @@
         </item>
         <item>
             <title><![CDATA[Flight0813：나상현씨밴드 편]]></title>
-            <link>https://www.instagram.com/p/CfvZXD6FPB4/</link>
-            <guid>https://www.instagram.com/p/CfvZXD6FPB4/</guid>
-            <pubDate>Fri, 08 Jul 2022 06:31:04 GMT</pubDate>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207093</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207093</guid>
+            <pubDate>Thu, 14 Jul 2022 04:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CfvZXD6FPB4/" target="_blank">
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207093" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg">
 									</a>
@@ -182,22 +198,6 @@
 								<span>박소은</span>
 																<p>2022. 07. 09 - 2022. 07. 10</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16559426321655942632792.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 쿨FM 일상회복 프로젝트 [조금씩,천천히,너에게]]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLScwKvPWqvSSUp937QPaVrqQjKxtQmoFH4sOeS6pGJe8vtD0Aw/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLScwKvPWqvSSUp937QPaVrqQjKxtQmoFH4sOeS6pGJe8vtD0Aw/viewform</guid>
-            <pubDate>Wed, 29 Jun 2022 07:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://docs.google.com/forms/d/e/1FAIpQLScwKvPWqvSSUp937QPaVrqQjKxtQmoFH4sOeS6pGJe8vtD0Aw/viewform" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16564864691656486469987.jpg">
-									</a>
-								</div>
-								<b>KBS 쿨FM 일상회복 프로젝트 [조금씩,천천히,너에게]</b>
-								<span>데이브레이크,LUCY,백아연,죠지,SOLE</span>
-																<p>2022. 07. 08</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16564864691656486469987.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
