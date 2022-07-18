@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손성훈 단독콘서트 [ROCKSTAR Ep.1]]]></title>
+            <link>https://www.facebook.com/photo/?fbid=5736410439747564&amp;set=a.440854682636526</link>
+            <guid>https://www.facebook.com/photo/?fbid=5736410439747564&amp;set=a.440854682636526</guid>
+            <pubDate>Mon, 18 Jul 2022 08:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.facebook.com/photo/?fbid=5736410439747564&amp;set=a.440854682636526" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16581321811658132181198.jpg">
+									</a>
+								</div>
+								<b>손성훈 단독콘서트 [ROCKSTAR Ep.1]</b>
+								<span>손성훈</span>
+																<p>2022. 08. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16581321811658132181198.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[from．Kei]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207096</link>
@@ -54,6 +70,22 @@
 								<span>나상현씨밴드</span>
 																<p>2022. 08. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 콘서트 [OFFLINE MEETING]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207113</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207113</guid>
+            <pubDate>Mon, 18 Jul 2022 08:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207113" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16581307341658130734307.jpg">
+									</a>
+								</div>
+								<b>위아더나잇 콘서트 [OFFLINE MEETING]</b>
+								<span>위아더나잇</span>
+																<p>2022. 08. 06</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16581307341658130734307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원상하 첫 팬미팅 [너가 멈추지 않으면 ing야]]]></title>
@@ -166,38 +198,6 @@
 								<span>짙은</span>
 																<p>2022. 07. 16 - 2022. 07. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16559501421655950142377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만화페이지 콘서트 [당신의 자리, 우리의 자리]]]></title>
-            <link>https://bit.ly/3HAVv9y</link>
-            <guid>https://bit.ly/3HAVv9y</guid>
-            <pubDate>Mon, 27 Jun 2022 05:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href=" https://bit.ly/3HAVv9y" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16563031731656303173873.jpg">
-									</a>
-								</div>
-								<b>만화페이지 콘서트 [당신의 자리, 우리의 자리]</b>
-								<span>고명원밴드,고윤희</span>
-																<p>2022. 07. 14 - 2022. 07. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16563031731656303173873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정규 앨범 발매 기념 단독 공연 [RECYCLE]]]></title>
-            <link>http://ticket.yes24.com/Perf/42671</link>
-            <guid>http://ticket.yes24.com/Perf/42671</guid>
-            <pubDate>Thu, 23 Jun 2022 02:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/42671" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16559426321655942632792.png">
-									</a>
-								</div>
-								<b>정규 앨범 발매 기념 단독 공연 [RECYCLE]</b>
-								<span>박소은</span>
-																<p>2022. 07. 09 - 2022. 07. 10</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16559426321655942632792.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
