@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cjazit.org/cjazit/book/list</id>
-    <title>CJ문화재단 ─ 공연예매</title>
-    <updated>2022-07-19T08:32:37.283Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CJ문화재단 ─ 공연예매</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 19 Jul 2022 09:34:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브 클럽 데이]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/240</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/240</guid>
+            <pubDate>Tue, 19 Jul 2022 09:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.07.22
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>라이브클럽데이협동조합</dd>
+<dt>출연:</dt>
+<dd>cott, 소수빈</dd>
+</dl>
+<a href="/cjazit/book/view/240" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/er/hi/io175025760cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PEN＿MEETING]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/239</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/239</guid>
+            <pubDate>Tue, 19 Jul 2022 09:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.08.06
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>PENTEN</dd>
+<dt>출연:</dt>
+<dd>PEN</dd>
+</dl>
+<a href="/cjazit/book/view/239" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/uy/gz/ew175025021rp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Whales 단독 공연]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/238</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/238</guid>
+            <pubDate>Tue, 19 Jul 2022 09:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.07.23 ~ 2022.07.24
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>인메이트</dd>
+<dt>출연:</dt>
+<dd>데웨일즈</dd>
+</dl>
+<a href="/cjazit/book/view/238" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/ki/sg/ad175024767fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신인류 단독 콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/237</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/237</guid>
+            <pubDate>Tue, 19 Jul 2022 09:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.08.13
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>마운드미디어 주식회사</dd>
+<dt>출연:</dt>
+<dd>신인류</dd>
+</dl>
+<a href="/cjazit/book/view/237" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/tj/si/gn175024000av.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
