@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-07-20T23:28:24.177Z</updated>
+    <updated>2022-07-21T02:29:33.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[It˙s begun EP.2:김훨x예람x정우-＇WE ARE STILL IN GREEN＇]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2124</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2124"/>
+        <updated>2022-07-07T04:10:07.257Z</updated>
+        <content type="html"><![CDATA[2022.08.14~2022.08.14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSHOWBOX THE COLORS ＃1]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2125</id>
@@ -18,13 +25,6 @@
         <link href="https://www.sangsangmadang.com/show/detail/2115"/>
         <updated>2022-06-30T02:23:46.867Z</updated>
         <content type="html"><![CDATA[2022.07.27~2022.07.27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It˙s begun EP.2:김훨x예람x정우-＇WE ARE STILL IN GREEN＇]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2124</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2124"/>
-        <updated>2022-07-07T04:10:07.257Z</updated>
-        <content type="html"><![CDATA[2022.07.24~2022.07.24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[It˙s begun EP.1:cotoba-＇과거가 되어버린 풍경＇]]></title>
