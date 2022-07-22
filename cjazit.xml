@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 14:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 15:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/uj/ir/us175275242ge.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브 클럽 데이]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/240</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/240</guid>
-            <pubDate>Tue, 19 Jul 2022 09:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.07.22
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>라이브클럽데이협동조합</dd>
-<dt>출연:</dt>
-<dd>cott, 소수빈</dd>
-</dl>
-<a href="/cjazit/book/view/240" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/er/hi/io175025760cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PEN＿MEETING]]></title>
