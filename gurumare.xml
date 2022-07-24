@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 02:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 04:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>재주소년</span>
 																<p>2022. 08. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16572801741657280174757.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구름닮은-라이브 VOL.6]]></title>
+            <link>https://www.instagram.com/p/CgYRDGoFAnz/</link>
+            <guid>https://www.instagram.com/p/CgYRDGoFAnz/</guid>
+            <pubDate>Sun, 24 Jul 2022 03:58:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CgYRDGoFAnz/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16586336371658633637914.jpg">
+									</a>
+								</div>
+								<b>구름닮은-라이브 VOL.6</b>
+								<span>라쿠나,맥거핀</span>
+																<p>2022. 08. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16586336371658633637914.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flight0813：나상현씨밴드 편]]></title>
@@ -182,22 +198,6 @@
 								<span>손혜은</span>
 																<p>2022. 07. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16569951401656995140840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 : 청춘의 밤]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207006</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207006</guid>
-            <pubDate>Wed, 15 Jun 2022 04:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207006" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16552650771655265077538.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌5 : 청춘의 밤</b>
-								<span>다린</span>
-																<p>2022. 07. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16552650771655265077538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
