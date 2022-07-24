@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[유채훈 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22007905</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22007905</guid>
-            <pubDate>Thu, 23 Jun 2022 05:28:50 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176181&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176181&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Jul 2022 15:26:37 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">유채훈 콘서트</dt>
 						<dd>2022.07.23 ~ 2022.07.24</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>

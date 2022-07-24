@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 49 홈존 단독 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1092</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1092</guid>
-            <pubDate>Fri, 01 Jul 2022 15:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.24 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657599365.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[찰카기의 썰]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1082</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 23 Jul 2022 15:26:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.18 (목) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1653714390.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 인디]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1124</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1124</guid>
+            <pubDate>Sun, 24 Jul 2022 15:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656237332.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
