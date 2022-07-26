@@ -4,9 +4,26 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 02:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이키즈 콘서트]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22009541</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22009541</guid>
+            <pubDate>Tue, 26 Jul 2022 02:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">먼데이키즈 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.09.03 ~ 2022.09.04<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22009541" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=177294&amp;EntGoodsCode=22009541"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/07/0400012207_177294_01.205.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[민쩌미]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005188</link>
@@ -205,19 +222,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=168655&amp;EntGoodsCode=21009076"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168655_01.011.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜원 콘서트]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=168802&amp;EntGoodsCode=21009313</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=168802&amp;EntGoodsCode=21009313</guid>
-            <pubDate>Thu, 06 Jan 2022 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">박혜원 콘서트</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2021.10.29 ~ 2021.10.30<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=168802&amp;EntGoodsCode=21009313"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168802_01.231.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
