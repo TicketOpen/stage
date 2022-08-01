@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈; 정지수의 시선]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/243</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/243</guid>
+            <pubDate>Mon, 01 Aug 2022 07:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.08.19
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>정지수 외 8인</dd>
+</dl>
+<a href="/cjazit/book/view/243" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/ys/xr/gm176142153gu.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스토리업쇼츠 섹션2  <튀는 아이>]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/242</link>
