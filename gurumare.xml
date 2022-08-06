@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 04:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 05:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>김나영</span>
 																<p>2022. 08. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16593412681659341268905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다나카 팬미팅 [We Love TANAKA]]]></title>
+            <link>https://tickets.interpark.com/goods/22010124</link>
+            <guid>https://tickets.interpark.com/goods/22010124</guid>
+            <pubDate>Sat, 06 Aug 2022 05:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22010124" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16597627611659762761623.jpg">
+									</a>
+								</div>
+								<b>다나카 팬미팅 [We Love TANAKA]</b>
+								<span>다나카</span>
+																<p>2022. 08. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16597627611659762761623.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손성훈 단독콘서트 [ROCKSTAR Ep.1]]]></title>
@@ -182,22 +198,6 @@
 								<span>김재희</span>
 																<p>2022. 07. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
-            <link>https://www.instagram.com/p/Cfn_6MxFfCD/</link>
-            <guid>https://www.instagram.com/p/Cfn_6MxFfCD/</guid>
-            <pubDate>Sat, 09 Jul 2022 07:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/Cfn_6MxFfCD/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg">
-									</a>
-								</div>
-								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
-								<span>슈야</span>
-																<p>2022. 07. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
