@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 06:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 07:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,22 +86,6 @@
 								<span>리치맨과 그루브나이스</span>
 																<p>2022. 08. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16587504711658750471153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SING SANG SONG：재주소년 with Strings Again]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207064</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207064</guid>
-            <pubDate>Fri, 08 Jul 2022 12:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207064" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16572801741657280174757.jpg">
-									</a>
-								</div>
-								<b>SING SANG SONG：재주소년 with Strings Again</b>
-								<span>재주소년</span>
-																<p>2022. 08. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16572801741657280174757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구름닮은-라이브 VOL.6]]></title>
@@ -198,6 +182,22 @@
 								<span>김재희</span>
 																<p>2022. 07. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
+            <link>https://www.instagram.com/p/Cfn_6MxFfCD/</link>
+            <guid>https://www.instagram.com/p/Cfn_6MxFfCD/</guid>
+            <pubDate>Sat, 06 Aug 2022 07:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Cfn_6MxFfCD/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg">
+									</a>
+								</div>
+								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
+								<span>슈야</span>
+																<p>2022. 07. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
