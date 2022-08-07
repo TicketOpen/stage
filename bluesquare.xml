@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 14:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 15:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[나폴레옹 헌정 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008144</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008144</guid>
-            <pubDate>Mon, 27 Jun 2022 04:11:58 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176328&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176328&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 07 Aug 2022 15:25:08 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">나폴레옹 헌정 콘서트</dt>
 						<dd>2022.08.03 ~ 2022.08.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
