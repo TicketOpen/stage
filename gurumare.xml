@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 02:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
+            <pubDate>Wed, 10 Aug 2022 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207190" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16600930061660093006013.jpg">
+									</a>
+								</div>
+								<b>이영훈 2022 단독공연 〈오늘의 안녕〉</b>
+								<span>이영훈</span>
+																<p>2022. 09. 03 - 2022. 09. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16600930061660093006013.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영 데뷔 10주년 팬미팅 [우리 만나영]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207160</link>
@@ -22,6 +38,22 @@
 								<span>김나영</span>
 																<p>2022. 08. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16593412681659341268905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백형훈 팬미팅 〈인사〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207192</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207192</guid>
+            <pubDate>Wed, 10 Aug 2022 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207192" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16600931691660093169280.jpg">
+									</a>
+								</div>
+								<b>백형훈 팬미팅 〈인사〉</b>
+								<span>백형훈</span>
+																<p>2022. 08. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16600931691660093169280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다나카 팬미팅 [We Love TANAKA]]]></title>
@@ -166,38 +198,6 @@
 								<span>천승호,한세진</span>
 																<p>2022. 07. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16564867471656486747872.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제45회 김재희의 생명존중 콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/22008093</link>
-            <guid>https://tickets.interpark.com/goods/22008093</guid>
-            <pubDate>Mon, 27 Jun 2022 04:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22008093" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg">
-									</a>
-								</div>
-								<b>제45회 김재희의 생명존중 콘서트</b>
-								<span>김재희</span>
-																<p>2022. 07. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16563030181656303018430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
-            <link>https://www.instagram.com/p/Cfn_6MxFfCD/</link>
-            <guid>https://www.instagram.com/p/Cfn_6MxFfCD/</guid>
-            <pubDate>Sat, 06 Aug 2022 07:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/Cfn_6MxFfCD/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg">
-									</a>
-								</div>
-								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
-								<span>슈야</span>
-																<p>2022. 07. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16573502901657350290108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
