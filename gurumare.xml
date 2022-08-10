@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 03:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 04:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,13 +79,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="http://ticket.yes24.com/Perf/42932" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16581321811658132181198.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16601055021660105502144.jpg">
 									</a>
 								</div>
 								<b>손성훈 단독콘서트 [ROCKSTAR Ep.1]</b>
 								<span>손성훈</span>
 																<p>2022. 08. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16581321811658132181198.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16601055021660105502144.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[from．Kei]]></title>
