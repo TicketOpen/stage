@@ -4,9 +4,26 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 04:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 05:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이적 콘서트]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010465</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010465</guid>
+            <pubDate>Tue, 16 Aug 2022 05:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">이적 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.09.16 ~ 2022.09.25<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010465" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=177886&amp;EntGoodsCode=22010465"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/08/0400012208_177886_01.919.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[먼데이키즈 콘서트]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22009541</link>
@@ -205,19 +222,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=170219&amp;EntGoodsCode=21011807"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170219_01.843.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[친정엄마와 2박3일]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=168655&amp;EntGoodsCode=21009076</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=168655&amp;EntGoodsCode=21009076</guid>
-            <pubDate>Thu, 06 Jan 2022 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">친정엄마와 2박3일</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>연극<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2021.11.12 ~ 2021.11.28<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=168655&amp;EntGoodsCode=21009076"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/10/0400012110_168655_01.011.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
