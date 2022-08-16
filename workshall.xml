@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1138</guid>
             <pubDate>Wed, 10 Aug 2022 03:41:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.17 (수) 15:00]]></content:encoded>
-            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638625.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Another Nice Day #31 김수영 / 이설아]]></title>
@@ -21,7 +21,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1101</guid>
             <pubDate>Sat, 23 Jul 2022 15:26:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.18 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138533.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638667.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.12 정예원x은종 콜라보 콘서트]]></title>
@@ -29,7 +29,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1124</guid>
             <pubDate>Sun, 24 Jul 2022 15:26:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138571.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638691.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.13 윤새 단독 콘서트]]></title>
@@ -37,7 +37,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1106</guid>
             <pubDate>Thu, 28 Jul 2022 15:30:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138638.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638714.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특별한 3교시 : K-architecture [한국 정체성 선택하기]]]></title>
@@ -45,7 +45,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1134</guid>
             <pubDate>Sat, 30 Jul 2022 15:27:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.21 (일) 13:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138226.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.14 사공 단독 콘서트]]></title>
@@ -53,7 +53,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1107</guid>
             <pubDate>Thu, 11 Aug 2022 15:27:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.21 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138688.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Another Nice Day #32 소수빈 / 정튠]]></title>
@@ -61,7 +61,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1102</guid>
             <pubDate>Sat, 13 Aug 2022 15:33:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.25 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138744.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638830.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 52 Lacuna(라쿠나) 단독 콘서트]]></title>
@@ -69,7 +69,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1113</guid>
             <pubDate>Sun, 14 Aug 2022 15:31:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660138334.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639063.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
