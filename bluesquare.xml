@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 14:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 15:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[이지 라이프 내한공연]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008204</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008204</guid>
-            <pubDate>Mon, 11 Jul 2022 04:01:08 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176365&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=176365&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 16 Aug 2022 15:29:03 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">이지 라이프 내한공연</dt>
 						<dd>2022.08.16 ~ 2022.08.16</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
