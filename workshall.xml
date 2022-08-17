@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 02:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1138</guid>
             <pubDate>Wed, 10 Aug 2022 03:41:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.17 (수) 15:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638625.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660699028.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Another Nice Day #31 김수영 / 이설아]]></title>
