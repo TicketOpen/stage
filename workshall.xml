@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[디지털 출판산업 활성화를 위한 사업교류회 – 오디오 북 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1138</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1138</guid>
-            <pubDate>Wed, 10 Aug 2022 03:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17 (수) 15:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660699028.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Another Nice Day #31 김수영 / 이설아]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1101</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 14 Aug 2022 15:31:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639063.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 52 Lacuna(라쿠나) 단독 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1114</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1114</guid>
+            <pubDate>Wed, 17 Aug 2022 15:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.27 (토) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639072.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
