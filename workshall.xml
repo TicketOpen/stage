@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 14:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 15:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Another Nice Day #31 김수영 / 이설아]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1101</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1101</guid>
-            <pubDate>Sat, 23 Jul 2022 15:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638667.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.12 정예원x은종 콜라보 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1124</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 17 Aug 2022 15:29:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27 (토) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JazzWorks N04－Twee Promind]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1112</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1112</guid>
+            <pubDate>Thu, 18 Aug 2022 15:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.28 (일) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639110.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
