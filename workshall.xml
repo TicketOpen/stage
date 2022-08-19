@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.12 정예원x은종 콜라보 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1124</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1124</guid>
-            <pubDate>Sun, 24 Jul 2022 15:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638691.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.13 윤새 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1106</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 18 Aug 2022 15:41:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.28 (일) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰카기의 썰]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1129</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1129</guid>
+            <pubDate>Fri, 19 Aug 2022 15:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.31 (수) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656237544.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
