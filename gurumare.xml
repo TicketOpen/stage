@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 10:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 11:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,7 +120,7 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16577691301657769130595.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리치맨과 그루브나이스]]></title>
+            <title><![CDATA[세계블루스대회 결승진출 기념 단독공연]]></title>
             <link>https://tickets.interpark.com/goods/22009496</link>
             <guid>https://tickets.interpark.com/goods/22009496</guid>
             <pubDate>Mon, 25 Jul 2022 12:52:42 GMT</pubDate>
@@ -130,10 +130,26 @@
 										<img src="http://gurumare.co.kr/file_upload/16587504711658750471153.jpg">
 									</a>
 								</div>
-								<b>리치맨과 그루브나이스</b>
+								<b>세계블루스대회 결승진출 기념 단독공연</b>
 								<span>리치맨과 그루브나이스</span>
 																<p>2022. 08. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16587504711658750471153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건강지킴이 이찬원의 팬미팅]]></title>
+            <link>https://www.instagram.com/p/CgBuH1bvZdg/</link>
+            <guid>https://www.instagram.com/p/CgBuH1bvZdg/</guid>
+            <pubDate>Fri, 19 Aug 2022 11:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CgBuH1bvZdg/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16609068511660906851950.jpg">
+									</a>
+								</div>
+								<b>건강지킴이 이찬원의 팬미팅</b>
+								<span>이찬원</span>
+																<p>2022. 08. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16609068511660906851950.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구름닮은-라이브 VOL.6]]></title>
@@ -166,22 +182,6 @@
 								<span>나상현씨밴드</span>
 																<p>2022. 08. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SING SANG SONG：87DANCE 단독 콘서트 [BPM87]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207116</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207116</guid>
-            <pubDate>Mon, 18 Jul 2022 12:55:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207116" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16581461241658146124383.jpg">
-									</a>
-								</div>
-								<b>SING SANG SONG：87DANCE 단독 콘서트 [BPM87]</b>
-								<span>87DANCE</span>
-																<p>2022. 08. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16581461241658146124383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위아더나잇 콘서트 [OFFLINE MEETING]]]></title>
