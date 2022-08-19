@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>이영훈</span>
 																<p>2022. 09. 03 - 2022. 09. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16600930061660093006013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
+            <link>https://www.instagram.com/p/ChbzERHlxK6/</link>
+            <guid>https://www.instagram.com/p/ChbzERHlxK6/</guid>
+            <pubDate>Fri, 19 Aug 2022 09:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/ChbzERHlxK6/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16608985101660898510810.jpg">
+									</a>
+								</div>
+								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
+								<span>복다진</span>
+																<p>2022. 09. 02</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16608985101660898510810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김나영 데뷔 10주년 팬미팅 [우리 만나영]]]></title>
@@ -182,22 +198,6 @@
 								<span>위아더나잇</span>
 																<p>2022. 08. 06</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16581307341658130734307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원상하 첫 팬미팅 [너가 멈추지 않으면 ing야]]]></title>
-            <link>http://ticket.yes24.com/Perf/42733</link>
-            <guid>http://ticket.yes24.com/Perf/42733</guid>
-            <pubDate>Wed, 29 Jun 2022 07:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/42733" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16564867471656486747872.jpg">
-									</a>
-								</div>
-								<b>원상하 첫 팬미팅 [너가 멈추지 않으면 ing야]</b>
-								<span>천승호,한세진</span>
-																<p>2022. 07. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16564867471656486747872.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
