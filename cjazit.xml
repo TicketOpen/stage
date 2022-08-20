@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,54 +54,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/cv/fi/fz176144988vz.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리업쇼츠 섹션2  <튀는 아이>]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/242</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/242</guid>
-            <pubDate>Fri, 22 Jul 2022 07:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.08.20
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CGV압구정</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>윤성호, 김달리 등 </dd>
-</dl>
-<a href="/cjazit/book/view/242" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ed/bk/eq175275916tf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리업쇼츠 섹션 1 <블랙박스>]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/241</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/241</guid>
-            <pubDate>Fri, 22 Jul 2022 07:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.08.20
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CGV압구정</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>이준섭, 임의준, 홍성윤</dd>
-</dl>
-<a href="/cjazit/book/view/241" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/uj/ir/us175275242ge.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
