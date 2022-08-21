@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 08:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 09:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
+            <link>https://booking.naver.com/booking/6/bizes/339623/items/4578281</link>
+            <guid>https://booking.naver.com/booking/6/bizes/339623/items/4578281</guid>
+            <pubDate>Sun, 21 Aug 2022 09:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://booking.naver.com/booking/6/bizes/339623/items/4578281" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16610722821661072282752.jpg">
+									</a>
+								</div>
+								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
+								<span>임세모</span>
+																<p>2022. 09. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16610722821661072282752.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
@@ -25,11 +41,11 @@
         </item>
         <item>
             <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
-            <link>https://www.instagram.com/p/ChbzERHlxK6/</link>
-            <guid>https://www.instagram.com/p/ChbzERHlxK6/</guid>
-            <pubDate>Fri, 19 Aug 2022 09:28:46 GMT</pubDate>
+            <link>https://booking.naver.com/booking/6/bizes/339623/items/4577254</link>
+            <guid>https://booking.naver.com/booking/6/bizes/339623/items/4577254</guid>
+            <pubDate>Sun, 21 Aug 2022 09:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/ChbzERHlxK6/" target="_blank">
+									<a href="https://booking.naver.com/booking/6/bizes/339623/items/4577254" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16608985101660898510810.jpg">
 									</a>
@@ -182,22 +198,6 @@
 								<span>나상현씨밴드</span>
 																<p>2022. 08. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아더나잇 콘서트 [OFFLINE MEETING]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207113</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207113</guid>
-            <pubDate>Mon, 18 Jul 2022 08:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207113" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16581307341658130734307.jpg">
-									</a>
-								</div>
-								<b>위아더나잇 콘서트 [OFFLINE MEETING]</b>
-								<span>위아더나잇</span>
-																<p>2022. 08. 06</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16581307341658130734307.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
