@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 04:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,16 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/08/0400012208_177565_01.521.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[엘리자벳]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008801</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008801</guid>
+            <pubDate>Wed, 13 Jul 2022 23:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">엘리자벳</dt>
+						<dd>2022.08.30 ~ 2022.11.13</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175860_01.747.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[정세운 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008915</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008915</guid>
@@ -46,16 +56,6 @@
 						<dd>2022.08.27 ~ 2022.08.28</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/07/0400012207_176836_01.545.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자벳]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008801</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008801</guid>
-            <pubDate>Wed, 13 Jul 2022 23:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">엘리자벳</dt>
-						<dd>2022.08.25 ~ 2022.11.13</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175860_01.747.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김재환 콘서트]]></title>
