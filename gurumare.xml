@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 02:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[융복합 렉처 아트쇼 [갤럭시 익스프레스]]]></title>
+            <link>https://booking.naver.com/booking/12/bizes/747904</link>
+            <guid>https://booking.naver.com/booking/12/bizes/747904</guid>
+            <pubDate>Wed, 24 Aug 2022 04:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://booking.naver.com/booking/12/bizes/747904" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16613137011661313701094.jpg">
+									</a>
+								</div>
+								<b>융복합 렉처 아트쇼 [갤럭시 익스프레스]</b>
+								<span>정영재,주붐,안우주,뉴튼</span>
+																<p>2022. 09. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16613137011661313701094.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
             <link>https://booking.naver.com/booking/6/bizes/339623/items/4578281</link>
@@ -182,22 +198,6 @@
 								<span>라쿠나,맥거핀</span>
 																<p>2022. 08. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16586336371658633637914.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0813：나상현씨밴드 편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207093</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207093</guid>
-            <pubDate>Thu, 14 Jul 2022 04:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207093" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg">
-									</a>
-								</div>
-								<b>Flight0813：나상현씨밴드 편</b>
-								<span>나상현씨밴드</span>
-																<p>2022. 08. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16572605931657260593762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
