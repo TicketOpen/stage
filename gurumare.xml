@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 09:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 10:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Flight092324: Crackshot]]></title>
+            <link>https://www.instagram.com/p/Chq4IDmFrUm/</link>
+            <guid>https://www.instagram.com/p/Chq4IDmFrUm/</guid>
+            <pubDate>Thu, 25 Aug 2022 10:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Chq4IDmFrUm/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16614208921661420892051.jpg">
+									</a>
+								</div>
+								<b>Flight092324: Crackshot</b>
+								<span>Crackshot</span>
+																<p>2022. 09. 23 - 2022. 09. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16614208921661420892051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[융복합 렉처 아트쇼 [갤럭시 익스프레스]]]></title>
             <link>https://booking.naver.com/booking/12/bizes/747904</link>
@@ -182,22 +198,6 @@
 								<span>이찬원</span>
 																<p>2022. 08. 16</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16609068511660906851950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름닮은-라이브 VOL.6]]></title>
-            <link>https://tickets.interpark.com/goods/22009470</link>
-            <guid>https://tickets.interpark.com/goods/22009470</guid>
-            <pubDate>Wed, 27 Jul 2022 08:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22009470" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16586336371658633637914.jpg">
-									</a>
-								</div>
-								<b>구름닮은-라이브 VOL.6</b>
-								<span>라쿠나,맥거핀</span>
-																<p>2022. 08. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16586336371658633637914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
