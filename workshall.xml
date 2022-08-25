@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 14:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 15:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Another Nice Day #32 소수빈 / 정튠]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1102</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1102</guid>
-            <pubDate>Sat, 13 Aug 2022 15:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660638830.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 52 Lacuna(라쿠나) 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1113</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 21 Aug 2022 15:28:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.04 (일) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660655905.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고싶은 인디 Ep.16 조제 (Josee) 단독 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1126</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1126</guid>
+            <pubDate>Thu, 25 Aug 2022 15:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660655957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
