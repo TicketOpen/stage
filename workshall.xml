@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1129</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1129</guid>
-            <pubDate>Fri, 19 Aug 2022 15:31:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.31 (수) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1656237544.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Another Nice Day #33 그리즐리(Grizzly), 정아로]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1123</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 28 Aug 2022 15:26:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.25 (일) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660655769.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰카기의 썰]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1140</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1140</guid>
+            <pubDate>Wed, 31 Aug 2022 15:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.29 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660656127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
