@@ -4,16 +4,16 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 02:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Flight092324: Crackshot]]></title>
-            <link>https://www.instagram.com/p/Chq4IDmFrUm/</link>
-            <guid>https://www.instagram.com/p/Chq4IDmFrUm/</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207245</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207245</guid>
+            <pubDate>Wed, 31 Aug 2022 07:00:46 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/Chq4IDmFrUm/" target="_blank">
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207245" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16614208921661420892051.jpg">
 									</a>
@@ -22,6 +22,22 @@
 								<span>Crackshot</span>
 																<p>2022. 09. 23 - 2022. 09. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16614208921661420892051.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성리 첫번째 단독 콘서트 [SEONGRI’S LIFE]]]></title>
+            <link>https://tickets.interpark.com/goods/22011475</link>
+            <guid>https://tickets.interpark.com/goods/22011475</guid>
+            <pubDate>Wed, 31 Aug 2022 07:00:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22011475" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16619246971661924697034.jpg">
+									</a>
+								</div>
+								<b>성리 첫번째 단독 콘서트 [SEONGRI’S LIFE]</b>
+								<span>성리</span>
+																<p>2022. 09. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16619246971661924697034.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[융복합 렉처 아트쇼 [갤럭시 익스프레스]]]></title>
@@ -182,22 +198,6 @@
 								<span>리치맨과 그루브나이스</span>
 																<p>2022. 08. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16587504711658750471153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강지킴이 이찬원의 팬미팅]]></title>
-            <link>https://www.instagram.com/p/CgBuH1bvZdg/</link>
-            <guid>https://www.instagram.com/p/CgBuH1bvZdg/</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CgBuH1bvZdg/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16609068511660906851950.jpg">
-									</a>
-								</div>
-								<b>건강지킴이 이찬원의 팬미팅</b>
-								<span>이찬원</span>
-																<p>2022. 08. 16</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16609068511660906851950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
