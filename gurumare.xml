@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올드앤와이즈 콘서트 Vol.2]]></title>
+            <link>https://www.live-at.kr/concerts/630da60bbffcaa1928badf97</link>
+            <guid>https://www.live-at.kr/concerts/630da60bbffcaa1928badf97</guid>
+            <pubDate>Wed, 31 Aug 2022 07:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.live-at.kr/concerts/630da60bbffcaa1928badf97" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16619306501661930650620.jpg">
+									</a>
+								</div>
+								<b>올드앤와이즈 콘서트 Vol.2</b>
+								<span>이정선</span>
+																<p>2022. 09. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16619306501661930650620.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flight092324: Crackshot]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207245</link>
@@ -182,22 +198,6 @@
 								<span>케이</span>
 																<p>2022. 08. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16577691301657769130595.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계블루스대회 결승진출 기념 단독공연]]></title>
-            <link>https://tickets.interpark.com/goods/22009496</link>
-            <guid>https://tickets.interpark.com/goods/22009496</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22009496" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16587504711658750471153.jpg">
-									</a>
-								</div>
-								<b>세계블루스대회 결승진출 기념 단독공연</b>
-								<span>리치맨과 그루브나이스</span>
-																<p>2022. 08. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16587504711658750471153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
