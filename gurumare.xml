@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 02:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우아한의 단독공연 [시간여행]]]></title>
+            <link>https://www.youtube.com/channel/UCpLxMfHVYIH3CuxSEWpvnBA/community?lb=UgkxdyAjND1s-A-tqajzIlTvQy0gFp5wGh1b</link>
+            <guid>https://www.youtube.com/channel/UCpLxMfHVYIH3CuxSEWpvnBA/community?lb=UgkxdyAjND1s-A-tqajzIlTvQy0gFp5wGh1b</guid>
+            <pubDate>Thu, 01 Sep 2022 04:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.youtube.com/channel/UCpLxMfHVYIH3CuxSEWpvnBA/community?lb=UgkxdyAjND1s-A-tqajzIlTvQy0gFp5wGh1b" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16620062491662006249121.jpg">
+									</a>
+								</div>
+								<b>우아한의 단독공연 [시간여행]</b>
+								<span>우아한</span>
+																<p>2022. 09. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16620062491662006249121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올드앤와이즈 콘서트 Vol.2]]></title>
             <link>https://www.live-at.kr/concerts/630da60bbffcaa1928badf97</link>
@@ -88,7 +104,7 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16610722821661072282752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉]]></title>
+            <title><![CDATA[이영훈 2022 단독공연 [오늘의 안녕]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
             <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
@@ -98,7 +114,7 @@
 										<img src="http://gurumare.co.kr/file_upload/16600930061660093006013.jpg">
 									</a>
 								</div>
-								<b>이영훈 2022 단독공연 〈오늘의 안녕〉</b>
+								<b>이영훈 2022 단독공연 [오늘의 안녕]</b>
 								<span>이영훈</span>
 																<p>2022. 09. 03 - 2022. 09. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16600930061660093006013.jpg" length="0" type="image/jpg"/>
@@ -182,22 +198,6 @@
 								<span>다나카</span>
 																<p>2022. 08. 25 - 2022. 08. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16597627611659762761623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손성훈 단독 콘서트 [ROCKSTAR Ep.1]]]></title>
-            <link>http://ticket.yes24.com/Perf/42932</link>
-            <guid>http://ticket.yes24.com/Perf/42932</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/42932" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16601055021660105502144.jpg">
-									</a>
-								</div>
-								<b>손성훈 단독 콘서트 [ROCKSTAR Ep.1]</b>
-								<span>손성훈</span>
-																<p>2022. 08. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16601055021660105502144.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

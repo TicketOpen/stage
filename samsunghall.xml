@@ -4,9 +4,26 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 02:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가면산장 살인사건]]></title>
+            <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011250</link>
+            <guid>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011250</guid>
+            <pubDate>Thu, 01 Sep 2022 04:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">가면산장 살인사건</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>연극<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.10.04 ~ 2022.11.27<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011250" target="_blank">
+												<img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_reserve.gif" alt="예매하기" style="margin-top:15px;" width="86" height="24">
+											</a>
+											
+											<a href="performance_detail.asp?PlayNo=178396&amp;EntGoodsCode=22011250"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/08/0400012208_178396_01.100.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이적 콘서트]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010465</link>
@@ -209,19 +226,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=169832&amp;EntGoodsCode=21011221"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_169832_01.736.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이승환 콘서트]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=170219&amp;EntGoodsCode=21011807</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=170219&amp;EntGoodsCode=21011807</guid>
-            <pubDate>Thu, 06 Jan 2022 17:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">이승환 콘서트</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2021.12.04 ~ 2021.12.12<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=170219&amp;EntGoodsCode=21011807"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/21/11/0400012111_170219_01.843.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
