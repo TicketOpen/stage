@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 14:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 15:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Another Nice Day #33 그리즐리(Grizzly), 정아로]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1123</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1123</guid>
-            <pubDate>Sat, 20 Aug 2022 15:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660639278.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[모달리즘MODALISM]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1083</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 31 Aug 2022 15:27:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.29 (목) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660656127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JAZZ WORKS]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1141</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1141</guid>
+            <pubDate>Thu, 01 Sep 2022 15:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.05 (수) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660799439.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
