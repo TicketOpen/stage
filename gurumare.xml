@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 02:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16608985101660898510810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[틱톡 스테이지 커넥트: 스윗태오]]></title>
+            <link>https://www.tiktok.com/@tiktok_stage/video/7137974527711005954?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7138223861943223809</link>
+            <guid>https://www.tiktok.com/@tiktok_stage/video/7137974527711005954?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7138223861943223809</guid>
+            <pubDate>Thu, 01 Sep 2022 02:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.tiktok.com/@tiktok_stage/video/7137974527711005954?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7138223861943223809" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16619976961661997696701.jpg">
+									</a>
+								</div>
+								<b>틱톡 스테이지 커넥트: 스윗태오</b>
+								<span>강태오</span>
+																<p>2022. 08. 31</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16619976961661997696701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김나영 데뷔 10주년 팬미팅 [우리 만나영]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207160</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207160</guid>
@@ -182,22 +198,6 @@
 								<span>손성훈</span>
 																<p>2022. 08. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16601055021660105502144.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kei 첫 팬미팅 [from.Kei]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207096</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207096</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207096" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16577691301657769130595.jpg">
-									</a>
-								</div>
-								<b>Kei 첫 팬미팅 [from.Kei]</b>
-								<span>케이</span>
-																<p>2022. 08. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16577691301657769130595.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-08-31T23:29:03.483Z</updated>
+    <updated>2022-09-01T02:37:35.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/2151"/>
         <updated>2022-08-25T02:44:01.657Z</updated>
         <content type="html"><![CDATA[2022.09.05~2022.09.05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백아 데뷔 4주년 기념 단독공연 : 우리가 머문 밤Ⅱ]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2157</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2157"/>
+        <updated>2022-09-01T02:36:55.739Z</updated>
+        <content type="html"><![CDATA[2022.09.04~2022.09.04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 : ORIGINAL [더 픽스 1주년 기념 단독 콘서트]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2090"/>
         <updated>2022-06-17T17:25:08.261Z</updated>
         <content type="html"><![CDATA[2022.06.26~2022.06.26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투데이올드스니커즈 싱글 발매 쇼케이스 'ROBOT-REPAIR SHOP']]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2091</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2091"/>
-        <updated>2022-06-17T17:25:08.264Z</updated>
-        <content type="html"><![CDATA[2022.06.24~2022.06.24]]></content>
     </entry>
 </feed>
