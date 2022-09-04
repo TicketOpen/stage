@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 14:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 15:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만 알고싶은 인디 Ep.15 쓰다(Xeuda) 단독 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1115</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1115</guid>
-            <pubDate>Sun, 21 Aug 2022 15:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.04 (일) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660655905.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만 알고싶은 인디 Ep.16 조제 (Josee) 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1126</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 03 Sep 2022 15:26:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.08 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660799659.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이 프로젝트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1116</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1116</guid>
+            <pubDate>Sun, 04 Sep 2022 15:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.10 (월) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1655342479.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
