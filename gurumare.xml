@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목경 공연]]></title>
+            <link>http://ticket.yes24.com/Perf/43343</link>
+            <guid>http://ticket.yes24.com/Perf/43343</guid>
+            <pubDate>Mon, 05 Sep 2022 06:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/43343" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg">
+									</a>
+								</div>
+								<b>김목경 공연</b>
+								<span>김목경 밴드</span>
+																<p>2022. 10. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍석영 대금콘서트 [죽심가]]]></title>
             <link>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</link>
@@ -182,22 +198,6 @@
 								<span>김나영</span>
 																<p>2022. 08. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16593412681659341268905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백형훈 팬미팅 [인사]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207192</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207192</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207192" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16600931691660093169280.jpg">
-									</a>
-								</div>
-								<b>백형훈 팬미팅 [인사]</b>
-								<span>백형훈</span>
-																<p>2022. 08. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16600931691660093169280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
