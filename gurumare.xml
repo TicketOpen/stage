@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16610722821661072282752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[故 김성재 아바타 기자간담회 : Memorial ep.1]]></title>
+            <link>https://www.instagram.com/avadream_official/</link>
+            <guid>https://www.instagram.com/avadream_official/</guid>
+            <pubDate>Wed, 07 Sep 2022 08:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/avadream_official/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16625391191662539119859.jpg">
+									</a>
+								</div>
+								<b>故 김성재 아바타 기자간담회 : Memorial ep.1</b>
+								<span>김성재</span>
+																<p>2022. 09. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16625391191662539119859.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이영훈 단독공연 [오늘의 안녕]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
@@ -182,22 +198,6 @@
 								<span>강태오</span>
 																<p>2022. 08. 31</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16620096041662009604525.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영 데뷔 10주년 팬미팅 [우리 만나영]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207160</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207160</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207160" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16593412681659341268905.jpg">
-									</a>
-								</div>
-								<b> 김나영 데뷔 10주년 팬미팅 [우리 만나영]</b>
-								<span>김나영</span>
-																<p>2022. 08. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16593412681659341268905.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
