@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/nodeul.music</id>
     <title>노들섬 라이브하우스 ─ 링크트리</title>
-    <updated>2022-09-16T11:28:41.721Z</updated>
+    <updated>2022-09-16T12:54:25.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://linktr.ee/nodeul.music</id>
         <link href="https://linktr.ee/nodeul.music"/>
-        <updated>2022-09-16T11:28:09.316Z</updated>
+        <updated>2022-09-16T12:53:52.849Z</updated>
         <content type="html"><![CDATA[<div id="102443783" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA RFhzD"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://linktr.ee/nodeul.music</id>
         <link href="https://linktr.ee/nodeul.music"/>
-        <updated>2022-09-16T11:28:09.316Z</updated>
+        <updated>2022-09-16T12:53:52.860Z</updated>
         <content type="html"><![CDATA[<div id="89482027" class="sc-bdfBwQ Container__StyledHashLink-sc-18baxm8-0 jAmcnV iivxkh"></div><div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1og9kym-0 hBNyQA RFhzD"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ StyledButton-sc-tim4qx-0 ldGKnQ hIpyDz"><p class="sc-hKgILt Button__StyledText-sc-wu9agm-0 cxwgnw bvgKjI">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div>]]></content>
     </entry>
 </feed>
