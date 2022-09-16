@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 23:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 05:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 [순간의 노래]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207289</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207289</guid>
+            <pubDate>Fri, 16 Sep 2022 05:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207289" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16632935261663293526706.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌5 [순간의 노래]</b>
+								<span>밍기뉴</span>
+																<p>2022. 10. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16632935261663293526706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[홍석영 대금콘서트 [죽심가]]]></title>
             <link>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</link>
             <guid>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</guid>
@@ -38,6 +54,22 @@
 								<span>홍석영</span>
 																<p>2022. 10. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16620095341662009534399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송이한 팬콘서트 [밝게 빛나는 너에게]]]></title>
+            <link>https://tickets.interpark.com/goods/22011996</link>
+            <guid>https://tickets.interpark.com/goods/22011996</guid>
+            <pubDate>Fri, 16 Sep 2022 05:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22011996" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16632933251663293325999.jpg">
+									</a>
+								</div>
+								<b>송이한 팬콘서트 [밝게 빛나는 너에게]</b>
+								<span>송이한</span>
+																<p>2022. 10. 02</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16632933251663293325999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한의 단독공연 [시간여행]]]></title>
@@ -166,38 +198,6 @@
 								<span>이영훈</span>
 																<p>2022. 09. 03 - 2022. 09. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16620094971662009497211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[@구름속에커피집] COFFEE.ZIP LIVE]]></title>
-            <link>https://booking.naver.com/booking/6/bizes/339623/items/4577254</link>
-            <guid>https://booking.naver.com/booking/6/bizes/339623/items/4577254</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://booking.naver.com/booking/6/bizes/339623/items/4577254" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16608985101660898510810.jpg">
-									</a>
-								</div>
-								<b>[@구름속에커피집] COFFEE.ZIP LIVE</b>
-								<span>복다진</span>
-																<p>2022. 09. 02</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16608985101660898510810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡 스테이지 커넥트 [스윗태오]]]></title>
-            <link>https://www.tiktok.com/@tiktok_stage/video/7137974527711005954?is_from_webapp=v1&amp;item_id=7137974527711005954&amp;web_id=7138223861943223809</link>
-            <guid>https://www.tiktok.com/@tiktok_stage/video/7137974527711005954?is_from_webapp=v1&amp;item_id=7137974527711005954&amp;web_id=7138223861943223809</guid>
-            <pubDate>Thu, 01 Sep 2022 05:54:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.tiktok.com/@tiktok_stage/video/7137974527711005954?is_from_webapp=v1&amp;item_id=7137974527711005954&amp;web_id=7138223861943223809" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16620096041662009604525.jpg">
-									</a>
-								</div>
-								<b>틱톡 스테이지 커넥트 [스윗태오]</b>
-								<span>강태오</span>
-																<p>2022. 08. 31</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16620096041662009604525.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
