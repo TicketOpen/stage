@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-09-16T05:05:21.925Z</updated>
+    <updated>2022-09-16T06:15:50.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［강아솔 단독 콘서트］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2169</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2169"/>
+        <updated>2022-09-16T06:15:11.277Z</updated>
+        <content type="html"><![CDATA[2022.10.05~2022.10.05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［이준형 단독 콘서트 ‘UTOPIA’］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2168</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2168"/>
+        <updated>2022-09-16T06:15:11.278Z</updated>
+        <content type="html"><![CDATA[2022.10.03~2022.10.03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 순간의 노래［신인류 단독 콘서트］]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2154</id>
@@ -130,19 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2118"/>
         <updated>2022-06-30T04:03:10.979Z</updated>
         <content type="html"><![CDATA[2022.07.01~2022.07.01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 KT&G 상상마당 홍대 음악지원사업]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2117</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2117"/>
-        <updated>2022-06-30T02:23:46.884Z</updated>
-        <content type="html"><![CDATA[2022.07.01~2022.07.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노브레인 스탠딩 단독공연 '미친 듯 놀자']]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2090</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2090"/>
-        <updated>2022-06-17T17:25:08.261Z</updated>
-        <content type="html"><![CDATA[2022.06.26~2022.06.26]]></content>
     </entry>
 </feed>
