@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>김목경 밴드</span>
 																<p>2022. 10. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그림자와 다섯 가지 대화]]></title>
+            <link>https://smartstore.naver.com/connexion-a/products/7121448031</link>
+            <guid>https://smartstore.naver.com/connexion-a/products/7121448031</guid>
+            <pubDate>Fri, 16 Sep 2022 08:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://smartstore.naver.com/connexion-a/products/7121448031" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16633171491663317149052.jpeg">
+									</a>
+								</div>
+								<b>그림자와 다섯 가지 대화</b>
+								<span>이민희,이정선,하동민,이지선,Eliott JDP</span>
+																<p>2022. 10. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16633171491663317149052.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [순간의 노래]]]></title>
@@ -182,22 +198,6 @@
 								<span>김성재</span>
 																<p>2022. 09. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16625391191662539119859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영훈 단독공연 [오늘의 안녕]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207190" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16620094971662009497211.jpg">
-									</a>
-								</div>
-								<b>이영훈 단독공연 [오늘의 안녕]</b>
-								<span>이영훈</span>
-																<p>2022. 09. 03 - 2022. 09. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16620094971662009497211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
