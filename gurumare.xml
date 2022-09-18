@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 06:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
 								<span>송이한</span>
 																<p>2022. 10. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16632933251663293325999.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY EUNBI DAY]]></title>
+            <link>https://twitter.com/KWONEUNBI/status/1570970800248741893</link>
+            <guid>https://twitter.com/KWONEUNBI/status/1570970800248741893</guid>
+            <pubDate>Sun, 18 Sep 2022 06:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://twitter.com/KWONEUNBI/status/1570970800248741893" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16634797621663479762526.jpg">
+									</a>
+								</div>
+								<b>HAPPY EUNBI DAY</b>
+								<span>권은비</span>
+																<p>2022. 09. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16634797621663479762526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우아한의 단독공연 [시간여행]]]></title>
@@ -182,22 +198,6 @@
 								<span>임세모</span>
 																<p>2022. 09. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16610722821661072282752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[故 김성재 아바타 기자간담회 : Memorial ep.1]]></title>
-            <link>https://www.instagram.com/avadream_official/</link>
-            <guid>https://www.instagram.com/avadream_official/</guid>
-            <pubDate>Wed, 07 Sep 2022 08:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/avadream_official/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16625391191662539119859.jpg">
-									</a>
-								</div>
-								<b>故 김성재 아바타 기자간담회 : Memorial ep.1</b>
-								<span>김성재</span>
-																<p>2022. 09. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16625391191662539119859.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
