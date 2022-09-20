@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 15:35:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[JAZZ WORKS N05  Sheila Jordan Masterclass]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1139</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1139</guid>
-            <pubDate>Sun, 28 Aug 2022 15:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.25 (일) 14:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1663322407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 3교시 : 염성진 [YUM] - 새로움을 찾는 법]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1149</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1149</guid>
-            <pubDate>Fri, 16 Sep 2022 10:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.25 (일) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1663322380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1140</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1140</guid>
-            <pubDate>Wed, 31 Aug 2022 15:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.29 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660656127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JAZZ WORKS N06 Espen Eriksen Trio]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1141</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1141</guid>
-            <pubDate>Thu, 01 Sep 2022 15:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.04 (화) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1663322094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독공연]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1146</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1146</guid>
-            <pubDate>Sat, 03 Sep 2022 15:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.08 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660799659.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이 프로젝트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1116</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1116</guid>
-            <pubDate>Fri, 16 Sep 2022 15:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.10 (월) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1655342479.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트 프로젝트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1133</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1133</guid>
-            <pubDate>Sat, 17 Sep 2022 15:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.15 (토) 19:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1657166264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독공연]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1142</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1142</guid>
-            <pubDate>Sun, 18 Sep 2022 15:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.21 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1660799472.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.workshall.co.kr/play/show_list.html</id>
+    <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
+    <updated>2022-09-20T17:35:46.888Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.workshall.co.kr/play/favicon.ico</icon>
+</feed>
