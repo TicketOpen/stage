@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 11:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 12:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>사뮈</span>
 																<p>2022. 10. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16639129671663912967824.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[단독 콘서트 [i cross the sea with you]]]></title>
+            <link>https://www.instagram.com/p/Ci2EhFJpUob/</link>
+            <guid>https://www.instagram.com/p/Ci2EhFJpUob/</guid>
+            <pubDate>Fri, 23 Sep 2022 12:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Ci2EhFJpUob/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16639342501663934250373.jpg">
+									</a>
+								</div>
+								<b>단독 콘서트 [i cross the sea with you]</b>
+								<span>안녕바다</span>
+																<p>2022. 10. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16639342501663934250373.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림자와 다섯 가지 대화]]></title>
@@ -86,6 +102,22 @@
 								<span>홍석영</span>
 																<p>2022. 10. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16620095341662009534399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 TTMIK Meet-up in Seoul]]></title>
+            <link>https://www.youtube.com/channel/UC5r3WHrX4Z7peSYpDlgktGw/community?lb=UgkxmjDYdEoMQ1WIA8SmZgagsVQ0G3WAtoJl</link>
+            <guid>https://www.youtube.com/channel/UC5r3WHrX4Z7peSYpDlgktGw/community?lb=UgkxmjDYdEoMQ1WIA8SmZgagsVQ0G3WAtoJl</guid>
+            <pubDate>Fri, 23 Sep 2022 12:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.youtube.com/channel/UC5r3WHrX4Z7peSYpDlgktGw/community?lb=UgkxmjDYdEoMQ1WIA8SmZgagsVQ0G3WAtoJl" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16639341911663934191040.jpg">
+									</a>
+								</div>
+								<b>2022 TTMIK Meet-up in Seoul</b>
+								<span>Talk To Me In Korean</span>
+																<p>2022. 10. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16639341911663934191040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송이한 팬콘서트 [밝게 빛나는 너에게]]]></title>
@@ -166,38 +198,6 @@
 								<span>Crackshot</span>
 																<p>2022. 09. 23 - 2022. 09. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16614208921661420892051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성리 첫번째 단독 콘서트 [SEONGRI’S LIFE]]]></title>
-            <link>https://tickets.interpark.com/goods/22011475</link>
-            <guid>https://tickets.interpark.com/goods/22011475</guid>
-            <pubDate>Wed, 31 Aug 2022 07:00:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22011475" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16619246971661924697034.jpg">
-									</a>
-								</div>
-								<b>성리 첫번째 단독 콘서트 [SEONGRI’S LIFE]</b>
-								<span>성리</span>
-																<p>2022. 09. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16619246971661924697034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[융복합 렉처 아트쇼 [갤럭시 익스프레스]]]></title>
-            <link>https://booking.naver.com/booking/12/bizes/747904</link>
-            <guid>https://booking.naver.com/booking/12/bizes/747904</guid>
-            <pubDate>Thu, 25 Aug 2022 12:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://booking.naver.com/booking/12/bizes/747904" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16613137011661313701094.jpg">
-									</a>
-								</div>
-								<b>융복합 렉처 아트쇼 [갤럭시 익스프레스]</b>
-								<span>정영재,주붐,안우주,뉴튼</span>
-																<p>2022. 09. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16613137011661313701094.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
