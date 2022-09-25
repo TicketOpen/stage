@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 14:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 15:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/si/fa/lg179246262aj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이유나(J.UNA) 1st Concert]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/247</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/247</guid>
-            <pubDate>Tue, 06 Sep 2022 07:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.09.24 ~ 2022.09.25
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>엠피엠지</dd>
-<dt>출연:</dt>
-<dd>제이유나</dd>
-</dl>
-<a href="/cjazit/book/view/247" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/yt/tn/hi179246018at.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
