@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 03:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 05:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
 								<span>이은지</span>
 																<p>2022. 10. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16645240241664524024644.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAMBADA ONSTAGE 세 번째 [궤도]]]></title>
+            <link>https://blog.naver.com/yahe2008/222874484715</link>
+            <guid>https://blog.naver.com/yahe2008/222874484715</guid>
+            <pubDate>Sat, 01 Oct 2022 05:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/yahe2008/222874484715" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16645979361664597936326.jpg">
+									</a>
+								</div>
+								<b>BAMBADA ONSTAGE 세 번째 [궤도]</b>
+								<span>채안석,전승화,권창욱</span>
+																<p>2022. 10. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16645979361664597936326.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 [순간의 노래]]]></title>
@@ -182,22 +198,6 @@
 								<span>우아한</span>
 																<p>2022. 09. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16620062491662006249121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드앤와이즈 콘서트 Vol.2]]></title>
-            <link>https://www.live-at.kr/concerts/630da60bbffcaa1928badf97</link>
-            <guid>https://www.live-at.kr/concerts/630da60bbffcaa1928badf97</guid>
-            <pubDate>Sun, 25 Sep 2022 13:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.live-at.kr/concerts/630da60bbffcaa1928badf97" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16619306501661930650620.jpg">
-									</a>
-								</div>
-								<b>올드앤와이즈 콘서트 Vol.2</b>
-								<span>이정선</span>
-																<p>2022. 09. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16619306501661930650620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
