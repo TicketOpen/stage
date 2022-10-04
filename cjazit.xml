@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 23:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 02:31:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최예근 단독콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/250</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/250</guid>
+            <pubDate>Tue, 04 Oct 2022 02:29:25 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.10.22
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>팝인코리아</dd>
+<dt>출연:</dt>
+<dd>최예근</dd>
+</dl>
+<a href="/cjazit/book/view/250" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/eg/qm/qg181653552rd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RED C 단독콘서트]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/249</link>
