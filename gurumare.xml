@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 05:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 06:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>김목경 밴드</span>
 																<p>2022. 10. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Film］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207380</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207380</guid>
+            <pubDate>Thu, 06 Oct 2022 06:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207380" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg">
+									</a>
+								</div>
+								<b>잭킹콩 싱글 발매기념 콘서트［Film］</b>
+								<span>잭킹콩</span>
+																<p>2022. 10. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5959 LIVE：사뮈]]></title>
@@ -182,22 +198,6 @@
 								<span>권은비</span>
 																<p>2022. 09. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16634797621663479762526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아한의 단독공연 [시간여행]]]></title>
-            <link>https://www.youtube.com/channel/UCpLxMfHVYIH3CuxSEWpvnBA/community?lb=UgkxdyAjND1s-A-tqajzIlTvQy0gFp5wGh1b</link>
-            <guid>https://www.youtube.com/channel/UCpLxMfHVYIH3CuxSEWpvnBA/community?lb=UgkxdyAjND1s-A-tqajzIlTvQy0gFp5wGh1b</guid>
-            <pubDate>Tue, 04 Oct 2022 11:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.youtube.com/channel/UCpLxMfHVYIH3CuxSEWpvnBA/community?lb=UgkxdyAjND1s-A-tqajzIlTvQy0gFp5wGh1b" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16620062491662006249121.jpg">
-									</a>
-								</div>
-								<b>우아한의 단독공연 [시간여행]</b>
-								<span>우아한</span>
-																<p>2022. 09. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16620062491662006249121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
