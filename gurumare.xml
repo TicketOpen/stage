@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 04:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 05:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,13 +47,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22012893" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16639129671663912967824.png">
+										<img src="http://gurumare.co.kr/file_upload/16652908501665290850615.jpg">
 									</a>
 								</div>
 								<b>5959 LIVE：사뮈</b>
 								<span>사뮈</span>
 																<p>2022. 10. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16639129671663912967824.png" length="0" type="image/png"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16652908501665290850615.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독 콘서트 [i cross the sea with you]]]></title>
@@ -63,13 +63,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22013105" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16639342501663934250373.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16652900171665290017736.jpg">
 									</a>
 								</div>
 								<b>단독 콘서트 [i cross the sea with you]</b>
 								<span>안녕바다</span>
 																<p>2022. 10. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16639342501663934250373.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16652900171665290017736.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림자와 다섯 가지 대화]]></title>
