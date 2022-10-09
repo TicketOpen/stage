@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 02:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 04:31:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16632935261663293526706.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 인문학 토크콘서트 [나를 살리는 마음 레시피]]]></title>
+            <link>http://www.gfsp.or.kr/04_sub/01_sub.html?no=26&amp;bbs_cmd=view&amp;page=1&amp;key=&amp;keyfield=&amp;bbs_code=Site_BBS_1</link>
+            <guid>http://www.gfsp.or.kr/04_sub/01_sub.html?no=26&amp;bbs_cmd=view&amp;page=1&amp;key=&amp;keyfield=&amp;bbs_code=Site_BBS_1</guid>
+            <pubDate>Sun, 09 Oct 2022 04:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://www.gfsp.or.kr/04_sub/01_sub.html?no=26&amp;bbs_cmd=view&amp;page=1&amp;key=&amp;keyfield=&amp;bbs_code=Site_BBS_1" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16652892681665289268586.jpg">
+									</a>
+								</div>
+								<b>2022 인문학 토크콘서트 [나를 살리는 마음 레시피]</b>
+								<span>최현정,조성준,윤직원,디에이드</span>
+																<p>2022. 10. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16652892681665289268586.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[홍석영 대금콘서트 [죽심가]]]></title>
             <link>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</link>
             <guid>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</guid>
@@ -182,22 +198,6 @@
 								<span>송이한</span>
 																<p>2022. 10. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16632933251663293325999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY EUNBI DAY]]></title>
-            <link>https://twitter.com/KWONEUNBI/status/1570970800248741893</link>
-            <guid>https://twitter.com/KWONEUNBI/status/1570970800248741893</guid>
-            <pubDate>Tue, 04 Oct 2022 11:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://twitter.com/KWONEUNBI/status/1570970800248741893" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16634797621663479762526.jpg">
-									</a>
-								</div>
-								<b>HAPPY EUNBI DAY</b>
-								<span>권은비</span>
-																<p>2022. 09. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16634797621663479762526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
