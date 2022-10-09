@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 07:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 08:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,13 +47,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/22012893" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16652908501665290850615.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg">
 									</a>
 								</div>
 								<b>5959 LIVE：사뮈</b>
 								<span>사뮈</span>
 																<p>2022. 10. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16652908501665290850615.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독 콘서트 [i cross the sea with you]]]></title>
