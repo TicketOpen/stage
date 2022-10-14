@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cjazit.org/cjazit/book/list</id>
-    <title>CJ문화재단 ─ 공연예매</title>
-    <updated>2022-10-14T06:18:15.806Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CJ문화재단 ─ 공연예매</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Oct 2022 07:44:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제7회 스토리업 쇼츠 섹션1. 그녀에게]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/253</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/253</guid>
+            <pubDate>Fri, 14 Oct 2022 07:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.10.15
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CGV압구정</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단 </dd>
+<dt>출연:</dt>
+<dd>이화정, 박유진, 오현도, 김윤지 </dd>
+</dl>
+<a href="/cjazit/book/view/253" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/lv/rl/wb182275771sk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[brb. Live in Seoul]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/252</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/252</guid>
+            <pubDate>Fri, 14 Oct 2022 07:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.10.16
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>highjinkxx</dd>
+<dt>출연:</dt>
+<dd>brb.</dd>
+</dl>
+<a href="/cjazit/book/view/252" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/bs/sj/il181654748hh.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[베리코이버니 첫번째 단독콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/251</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/251</guid>
+            <pubDate>Fri, 14 Oct 2022 07:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.10.23
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>베리코이버니</dd>
+<dt>출연:</dt>
+<dd>베리코이버니</dd>
+</dl>
+<a href="/cjazit/book/view/251" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/fv/az/ug181654252cv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최예근 단독콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/250</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/250</guid>
+            <pubDate>Fri, 14 Oct 2022 07:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.10.22
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>팝인코리아</dd>
+<dt>출연:</dt>
+<dd>최예근</dd>
+</dl>
+<a href="/cjazit/book/view/250" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/eg/qm/qg181653552rd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄여름가을겨울 콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/248</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/248</guid>
+            <pubDate>Fri, 14 Oct 2022 07:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.10.15
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>(주)봄여름가을겨울엔터테인먼트</dd>
+<dt>출연:</dt>
+<dd>봄여름가을겨울</dd>
+</dl>
+<a href="/cjazit/book/view/248" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/si/fa/lg179246262aj.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
