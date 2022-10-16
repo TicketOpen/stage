@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 23:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 03:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강허달림 콘서트 [소리, 그녀가 되다]]]></title>
+            <link>https://tickets.interpark.com/goods/22013865</link>
+            <guid>https://tickets.interpark.com/goods/22013865</guid>
+            <pubDate>Sun, 16 Oct 2022 02:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22013865" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg">
+									</a>
+								</div>
+								<b>강허달림 콘서트 [소리, 그녀가 되다]</b>
+								<span>강허달림</span>
+																<p>2022. 11. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flight1113：신인류편]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207408</link>
@@ -182,22 +198,6 @@
 								<span>최현정,조성준,윤직원,디에이드</span>
 																<p>2022. 10. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16652892681665289268586.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍석영 대금콘서트 [죽심가]]]></title>
-            <link>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</link>
-            <guid>http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13</guid>
-            <pubDate>Tue, 04 Oct 2022 11:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://www.jngugak.com/bbs/board.php?bo_table=show_notice&amp;wr_id=13" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16620095341662009534399.jpg">
-									</a>
-								</div>
-								<b>홍석영 대금콘서트 [죽심가]</b>
-								<span>홍석영</span>
-																<p>2022. 10. 09</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16620095341662009534399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
