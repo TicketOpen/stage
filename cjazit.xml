@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 05:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 06:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 스토리업 특강 XTHE CMR]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/254</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/254</guid>
+            <pubDate>Tue, 18 Oct 2022 06:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.11.01
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CGV명동역 씨네라이브러리</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>정지은 편집감독 </dd>
+</dl>
+<a href="/cjazit/book/view/254" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/fw/rm/ks182876997kq.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베리코이버니 첫번째 단독콘서트]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/251</link>
