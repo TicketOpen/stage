@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 05:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 06:43:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,20 +184,20 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16645240241664524024644.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BAMBADA ONSTAGE 세 번째 [궤도]]]></title>
-            <link>https://blog.naver.com/yahe2008/222874484715</link>
-            <guid>https://blog.naver.com/yahe2008/222874484715</guid>
-            <pubDate>Tue, 04 Oct 2022 11:30:40 GMT</pubDate>
+            <title><![CDATA[지우의 생일파티를 지켜츄]]></title>
+            <link>https://www.youtube.com/channel/UChK2DhvPSG3sY0jIYYngVBA/featured</link>
+            <guid>https://www.youtube.com/channel/UChK2DhvPSG3sY0jIYYngVBA/featured</guid>
+            <pubDate>Wed, 26 Oct 2022 06:41:41 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/yahe2008/222874484715" target="_blank">
+									<a href="https://www.youtube.com/channel/UChK2DhvPSG3sY0jIYYngVBA/featured" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16645979361664597936326.jpg">
+										<img src="http://gurumare.co.kr/file_upload/16667649371666764937305.jpg">
 									</a>
 								</div>
-								<b>BAMBADA ONSTAGE 세 번째 [궤도]</b>
-								<span>채안석,전승화,권창욱</span>
-																<p>2022. 10. 16</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16645979361664597936326.jpg" length="0" type="image/jpg"/>
+								<b>지우의 생일파티를 지켜츄</b>
+								<span>츄</span>
+																<p>2022. 10. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16667649371666764937305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
