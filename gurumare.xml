@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 02:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 05:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
 								<span>신인류</span>
 																<p>2022. 11. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현식 추억 콘서트]]></title>
+            <link>https://smartstore.naver.com/livesc/products/7456597491?fbclid=IwAR19YUwf10uJaaX2WwjTsSTWgbqvw4FABIZd7BiLYXoce1pRjz4RqM5mu64</link>
+            <guid>https://smartstore.naver.com/livesc/products/7456597491?fbclid=IwAR19YUwf10uJaaX2WwjTsSTWgbqvw4FABIZd7BiLYXoce1pRjz4RqM5mu64</guid>
+            <pubDate>Thu, 27 Oct 2022 05:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://smartstore.naver.com/livesc/products/7456597491?fbclid=IwAR19YUwf10uJaaX2WwjTsSTWgbqvw4FABIZd7BiLYXoce1pRjz4RqM5mu64" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16668406841666840684251.jpg">
+									</a>
+								</div>
+								<b>김현식 추억 콘서트</b>
+								<span>권인하,김장훈,김종서</span>
+																<p>2022. 11. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16668406841666840684251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김목경 공연]]></title>
@@ -182,22 +198,6 @@
 								<span>이민희,이정선,하동민,이지선,Eliott JDP</span>
 																<p>2022. 10. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16633171491663317149052.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은지 팬미팅 [일촌평]]]></title>
-            <link>http://ticket.yes24.com/Perf/43695</link>
-            <guid>http://ticket.yes24.com/Perf/43695</guid>
-            <pubDate>Wed, 05 Oct 2022 07:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/43695" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16645240241664524024644.jpg">
-									</a>
-								</div>
-								<b>이은지 팬미팅 [일촌평]</b>
-								<span>이은지</span>
-																<p>2022. 10. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16645240241664524024644.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
