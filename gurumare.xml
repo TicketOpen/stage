@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 02:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 04:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,22 +120,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김현식 추억 콘서트]]></title>
-            <link>https://smartstore.naver.com/livesc/products/7456597491?fbclid=IwAR19YUwf10uJaaX2WwjTsSTWgbqvw4FABIZd7BiLYXoce1pRjz4RqM5mu64</link>
-            <guid>https://smartstore.naver.com/livesc/products/7456597491?fbclid=IwAR19YUwf10uJaaX2WwjTsSTWgbqvw4FABIZd7BiLYXoce1pRjz4RqM5mu64</guid>
-            <pubDate>Thu, 27 Oct 2022 05:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://smartstore.naver.com/livesc/products/7456597491?fbclid=IwAR19YUwf10uJaaX2WwjTsSTWgbqvw4FABIZd7BiLYXoce1pRjz4RqM5mu64" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16668406841666840684251.jpg">
-									</a>
-								</div>
-								<b>김현식 추억 콘서트</b>
-								<span>권인하,김장훈,김종서</span>
-																<p>2022. 11. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16668406841666840684251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김목경 공연]]></title>
             <link>http://ticket.yes24.com/Perf/43343</link>
             <guid>http://ticket.yes24.com/Perf/43343</guid>
@@ -198,6 +182,22 @@
 								<span>파르베</span>
 																<p>2022. 10. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독 콘서트 [i cross the sea with you]]]></title>
+            <link>https://tickets.interpark.com/goods/22013105</link>
+            <guid>https://tickets.interpark.com/goods/22013105</guid>
+            <pubDate>Mon, 31 Oct 2022 04:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22013105" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16652900171665290017736.jpg">
+									</a>
+								</div>
+								<b>단독 콘서트 [i cross the sea with you]</b>
+								<span>안녕바다</span>
+																<p>2022. 10. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16652900171665290017736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
