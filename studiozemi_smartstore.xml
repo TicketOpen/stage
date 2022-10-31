@@ -4,9 +4,17 @@
         <title>재미공작소 ─ 네이버 스마트스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 07:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 10:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소스 리스트]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/7491359328</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/7491359328</guid>
+            <pubDate>Mon, 31 Oct 2022 10:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_189/16672012129207HqJM_JPEG/68336992617384049_1973194582.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2020 컬러링컬러링캘린더]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/4758328738</link>
