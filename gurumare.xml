@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 18:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 20:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,164 +40,12 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강허달림 콘서트 [소리, 그녀가 되다]]]></title>
-            <link>https://tickets.interpark.com/goods/22013865</link>
-            <guid>https://tickets.interpark.com/goods/22013865</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <title><![CDATA[2]]></title>
+            <link>http://gurumare.co.kr/show</link>
+            <guid>http://gurumare.co.kr/show</guid>
+            <pubDate>Sat, 05 Nov 2022 20:28:23 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22013865" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg">
-									</a>
-								</div>
-								<b>강허달림 콘서트 [소리, 그녀가 되다]</b>
-								<span>강허달림</span>
-																<p>2022. 11. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 삐리뿌(BBIRIBBOO) 단독콘서트]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/783930</link>
-            <guid>https://booking.naver.com/booking/5/bizes/783930</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://booking.naver.com/booking/5/bizes/783930" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16668561921666856192744.jpg">
-									</a>
-								</div>
-								<b>2022 삐리뿌(BBIRIBBOO) 단독콘서트</b>
-								<span>삐리뿌</span>
-																<p>2022. 11. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16668561921666856192744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG] #3]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207436</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207436</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207436" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16663180601666318060421.jpg">
-									</a>
-								</div>
-								<b>프레젠트프로젝트 [SING SANG SONG] #3</b>
-								<span>이민혁</span>
-																<p>2022. 11. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16663180601666318060421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG] #2]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207447</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207447</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207447" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16663179891666317989353.jpg">
-									</a>
-								</div>
-								<b>프레젠트프로젝트 [SING SANG SONG] #2</b>
-								<span>버둥</span>
-																<p>2022. 11. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16663179891666317989353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight1113：신인류편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207408</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207408</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207408" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg">
-									</a>
-								</div>
-								<b>Flight1113：신인류편</b>
-								<span>신인류</span>
-																<p>2022. 11. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[64ksana]]></title>
-            <link>http://ticket.yes24.com/Perf/43922</link>
-            <guid>http://ticket.yes24.com/Perf/43922</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/43922" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg">
-									</a>
-								</div>
-								<b>64ksana</b>
-								<span>Jundo, Ejo, 원재연</span>
-																<p>2022. 11. 11 - 2022. 11. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목경 공연]]></title>
-            <link>http://ticket.yes24.com/Perf/43343</link>
-            <guid>http://ticket.yes24.com/Perf/43343</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/43343" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg">
-									</a>
-								</div>
-								<b>김목경 공연</b>
-								<span>김목경 밴드</span>
-																<p>2022. 10. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Film］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207380</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207380</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207380" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg">
-									</a>
-								</div>
-								<b>잭킹콩 싱글 발매기념 콘서트［Film］</b>
-								<span>잭킹콩</span>
-																<p>2022. 10. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE：사뮈]]></title>
-            <link>https://tickets.interpark.com/goods/22012893</link>
-            <guid>https://tickets.interpark.com/goods/22012893</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22012893" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE：사뮈</b>
-								<span>사뮈</span>
-																<p>2022. 10. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫번째 정기공연 [SHAPE OF LOVE]]]></title>
-            <link>https://www.instagram.com/p/Cjj9zfWJLdi/</link>
-            <guid>https://www.instagram.com/p/Cjj9zfWJLdi/</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/Cjj9zfWJLdi/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg">
-									</a>
-								</div>
-								<b>첫번째 정기공연 [SHAPE OF LOVE] </b>
-								<span>파르베</span>
-																<p>2022. 10. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg" length="0" type="image/jpg"/>
+									</div>]]></content:encoded>
         </item>
     </channel>
 </rss>
