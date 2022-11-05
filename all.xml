@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 03:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 04:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,198 @@
             <pubDate>Thu, 22 Sep 2022 07:40:38 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 10월 28일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/560/684983433_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왈츠소파레코즈 2022 윈터 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207463</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207463</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207463" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16667698761666769876578.jpg">
+									</a>
+								</div>
+								<b>왈츠소파레코즈 2022 윈터 콘서트</b>
+								<span>허밍어반스테레오, 리소, 밴젝스, 예슬로우</span>
+																<p>2022. 12. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16667698761666769876578.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OuiOui(위위) 연말 공연 [New Ou!] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207471</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207471</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207471" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg">
+									</a>
+								</div>
+								<b>OuiOui(위위) 연말 공연 [New Ou!]</b>
+								<span>OuiOui(위위)</span>
+																<p>2022. 12. 02</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강허달림 콘서트 [소리, 그녀가 되다] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/22013865</link>
+            <guid>https://tickets.interpark.com/goods/22013865</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22013865" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg">
+									</a>
+								</div>
+								<b>강허달림 콘서트 [소리, 그녀가 되다]</b>
+								<span>강허달림</span>
+																<p>2022. 11. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 삐리뿌(BBIRIBBOO) 단독콘서트 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://booking.naver.com/booking/5/bizes/783930</link>
+            <guid>https://booking.naver.com/booking/5/bizes/783930</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://booking.naver.com/booking/5/bizes/783930" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16668561921666856192744.jpg">
+									</a>
+								</div>
+								<b>2022 삐리뿌(BBIRIBBOO) 단독콘서트</b>
+								<span>삐리뿌</span>
+																<p>2022. 11. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16668561921666856192744.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG] #3 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207436</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207436</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207436" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16663180601666318060421.jpg">
+									</a>
+								</div>
+								<b>프레젠트프로젝트 [SING SANG SONG] #3</b>
+								<span>이민혁</span>
+																<p>2022. 11. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16663180601666318060421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG] #2 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207447</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207447</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207447" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16663179891666317989353.jpg">
+									</a>
+								</div>
+								<b>프레젠트프로젝트 [SING SANG SONG] #2</b>
+								<span>버둥</span>
+																<p>2022. 11. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16663179891666317989353.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight1113：신인류편 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207408</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207408</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207408" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg">
+									</a>
+								</div>
+								<b>Flight1113：신인류편</b>
+								<span>신인류</span>
+																<p>2022. 11. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[64ksana (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/43922</link>
+            <guid>http://ticket.yes24.com/Perf/43922</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/43922" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg">
+									</a>
+								</div>
+								<b>64ksana</b>
+								<span>Jundo, Ejo, 원재연</span>
+																<p>2022. 11. 11 - 2022. 11. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김목경 공연 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/43343</link>
+            <guid>http://ticket.yes24.com/Perf/43343</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/43343" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg">
+									</a>
+								</div>
+								<b>김목경 공연</b>
+								<span>김목경 밴드</span>
+																<p>2022. 10. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Film］ (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207380</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207380</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207380" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg">
+									</a>
+								</div>
+								<b>잭킹콩 싱글 발매기념 콘서트［Film］</b>
+								<span>잭킹콩</span>
+																<p>2022. 10. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5959 LIVE：사뮈 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/22012893</link>
+            <guid>https://tickets.interpark.com/goods/22012893</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22012893" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg">
+									</a>
+								</div>
+								<b>5959 LIVE：사뮈</b>
+								<span>사뮈</span>
+																<p>2022. 10. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫번째 정기공연 [SHAPE OF LOVE] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.instagram.com/p/Cjj9zfWJLdi/</link>
+            <guid>https://www.instagram.com/p/Cjj9zfWJLdi/</guid>
+            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/Cjj9zfWJLdi/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg">
+									</a>
+								</div>
+								<b>첫번째 정기공연 [SHAPE OF LOVE] </b>
+								<span>파르베</span>
+																<p>2022. 10. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ABTB 3집 발매공연 (CJ문화재단 ─ 공연예매)]]></title>
@@ -407,182 +599,182 @@
             <title><![CDATA[undefined (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:48 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA YXxfB"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:48 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:35 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA YXxfB"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-nodeul-music " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">라디오 노들(RADIO NODEUL) YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<div id="252454899" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://mobileticket.interpark.com/goods/22013917" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">[곽푸른하늘] 나알디 21 티켓 예매</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<div id="256589201" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://dtryx.com/movie/view.do?cgid=FE8EF4D2-F22D-4802-A39A-D58F23A29C1E&amp;MovieCd=020918" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">[버텨내고 존재하기] 릴레이 콘서트 예매</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<div id="256402962" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://mobileticket.interpark.com/goods/22013148?app_tapbar_state=hide" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">[김재훈] s.w.i.m 티켓 예매</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<div id="243106135" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="http://www.yes24.com/Product/Goods/111418260" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">[곽푸른하늘] 3집 LP 판매 </p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<div id="58790335" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">씨티알싸운드 YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<div id="58790223" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://www.youtube.com/user/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">최고은 YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:40 GMT</pubDate>
             <content:encoded><![CDATA[<div id="115513913" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://www.youtube.com/channel/UCcFD-pGpPlGqmceOUZHHgMw" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">임지원 YOUTUBE</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:52 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:40 GMT</pubDate>
             <content:encoded><![CDATA[<div id="117509433" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA eatlpo"><a href="https://smartstore.naver.com/iamgonne" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-ctrsound " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">최고은 굿즈스토어 'Modest Monster'</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:55 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<div id="72606111" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">프리즘홀 유튜브</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:55 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<div id="76993986" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://www.prismhall.com" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">프리즘홀 공식 홈페이지</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:55 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<div id="72605894" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">프리즘홀 공식 블로그</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:55 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<div id="262358598" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://ticket.melon.com/performance/index.htm?prodId=207448" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">동이혼(DIH)단독콘서트：NOT ENOUGH</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:55 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<div id="262358565" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://ticket.melon.com/performance/index.htm?prodId=207462" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">키라라：그냥하는 단독공연 시즌2-6</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:55 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:45 GMT</pubDate>
             <content:encoded><![CDATA[<div id="254341793" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://ticket.melon.com/performance/index.htm?prodId=207420" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-prismhall " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">Are You Happy? 지소쿠리 x 나의노랑말들</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="245453570" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://unpluggedhongdae.notion.site/643754724fc6431abef5b5e13dc838d2" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">✨공연캘린더✨</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="82041233" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://forms.gle/3cL2AyqY8W46ZFmUA" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">언플러그드 대관 신청</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="250178414" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://forms.gle/Cst9hY2cNvvZ3CuN6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">생일 카페 대관 신청</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="262156001" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://booking.naver.com/booking/12/bizes/715079/items/4684610?preview=0" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">ㅅㅇㅅㅇㅅㅇ:서온,박소은,수은 공연 예매</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="260702944" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd1jYxPRBtmnsiZGHXE4QQe-Z49FS30AyvDFMIGGfA2tLM-lg/viewform?usp=sharing" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">11/6(일) 오후 3시 - 언플위키 vol.4 : 김필선, SAGA</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="262787099" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfVFme0hhBT7Mga_Fnu3hfGqbTQ9FU2Rbc9mxMSnnO3x2VEZg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ bAeJJQ"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno dTdpCP"><img data-testid="LinkThumbnailImage" src="https://d1fdloi71mui9q.cloudfront.net/RlTbUPRxSIOzBLMt4bTD_unnamed.png" alt="" filter="" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj jmuIyW"></div><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">11월 19일(토) [우리는 초원 속에서 영원히]</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="260295401" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://forms.gle/9Z8yD43ukkHH7KTG6" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">11/24(목) 오후 8시 : 이상웅, 최재흠, 솔루션스</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="94691013" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRlfIry6fRdb0tTLOTOxapDlfbeP688llzrFcZu-HWUi1D0w/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">언플러그드 공식 굿즈 주문 신청서</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="90038949" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://docs.google.com/forms/d/e/1FAIpQLSce0bw__otCtzEL8X3fTlt1I7eVKYGOl03z19duyCwgNTWUOA/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">&lt;언플러그드에서 온 편지&gt; 과월호 신청</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Sat, 05 Nov 2022 03:53:59 GMT</pubDate>
+            <pubDate>Sat, 05 Nov 2022 04:38:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="75775598" class="sc-bdfBwQ sc-gWHgXt jAmcnV ikxKmn"></div><div class="sc-kLgntA iHaOcn"><div style="opacity:0;transform:scale(0)" class="sc-hiSbYr XqbgT"><button tabindex="-1" class="sc-jJEJSO laquCT"><svg width="16" height="16" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPWGYb"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.6464 3.85347L11 4.20702L11.7071 3.49992L11.3536 3.14636L8.35355 0.146362H7.64645L4.64645 3.14636L4.29289 3.49992L5 4.20702L5.35355 3.85347L7.5 1.70702V9.49992V9.99992H8.5V9.49992V1.70702L10.6464 3.85347ZM1 5.49994L1.5 4.99994H4V5.99994H2V14.9999H14V5.99994H12V4.99994H14.5L15 5.49994V15.4999L14.5 15.9999H1.5L1 15.4999V5.49994Z" fill="currentColor"></path></svg></button></div><div class="sc-iktFzd gaGeRK" style="left: 0px;"><div data-testid="StyledContainer" class="sc-bdfBwQ sc-hHftDr hBNyQA hlBVNY"><a href="https://youtube.com/user/cafeunplugged1" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-언플러그드-홍대점 " height="auto" class="sc-pFZIQ sc-dIUggk ldGKnQ jKdZjj"><p class="sc-hKgILt sc-iUuytg cxwgnw esdhrP">유튜브 언플러그드_UNPL</p></a></div></div></div>]]></content:encoded>
         </item>
         <item>
