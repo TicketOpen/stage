@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 07:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 08:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>OuiOui(위위)</span>
 																<p>2022. 12. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울오페라단씽어즈]]></title>
+            <link>https://www.instagram.com/p/CkiZFmcgs2P/</link>
+            <guid>https://www.instagram.com/p/CkiZFmcgs2P/</guid>
+            <pubDate>Mon, 07 Nov 2022 08:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CkiZFmcgs2P/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16678084341667808434172.jpg">
+									</a>
+								</div>
+								<b>서울오페라단씽어즈</b>
+								<span>윤예원,신승아,홍지연,이지혜,이예진,아리현,이민규</span>
+																<p>2022. 11. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16678084341667808434172.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강허달림 콘서트 [소리, 그녀가 되다]]]></title>
@@ -182,22 +198,6 @@
 								<span>사뮈</span>
 																<p>2022. 10. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫번째 정기공연 [SHAPE OF LOVE]]]></title>
-            <link>https://www.instagram.com/p/Cjj9zfWJLdi/</link>
-            <guid>https://www.instagram.com/p/Cjj9zfWJLdi/</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/Cjj9zfWJLdi/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg">
-									</a>
-								</div>
-								<b>첫번째 정기공연 [SHAPE OF LOVE] </b>
-								<span>파르베</span>
-																<p>2022. 10. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16655743761665574376439.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
