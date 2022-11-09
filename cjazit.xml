@@ -4,9 +4,57 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 02:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 04:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FRankly：Back to school]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/262</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/262</guid>
+            <pubDate>Wed, 09 Nov 2022 04:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.11.19
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>FRankly</dd>
+<dt>출연:</dt>
+<dd>FRankly</dd>
+</dl>
+<a href="/cjazit/book/view/262" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/la/py/eo184765995gn.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보수동쿨러 콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/261</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/261</guid>
+            <pubDate>Wed, 09 Nov 2022 04:06:34 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.11.13
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>보수동쿨러</dd>
+<dt>출연:</dt>
+<dd>보수동쿨러</dd>
+</dl>
+<a href="/cjazit/book/view/261" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/mi/kx/rg184764966xp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우지원 단독공연]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/260</link>
