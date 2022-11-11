@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 02:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 04:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>OuiOui(위위)</span>
 																<p>2022. 12. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리오 단독 콘서트［Perennial Green］]]></title>
+            <link>https://tickets.interpark.com/goods/22015615</link>
+            <guid>https://tickets.interpark.com/goods/22015615</guid>
+            <pubDate>Fri, 11 Nov 2022 03:58:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22015615" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16681379901668137990430.jpg">
+									</a>
+								</div>
+								<b>리오 단독 콘서트［Perennial Green］</b>
+								<span>리오</span>
+																<p>2022. 12. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16681379901668137990430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울오페라단씽어즈]]></title>
@@ -182,22 +198,6 @@
 								<span>잭킹콩</span>
 																<p>2022. 10. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16650355441665035544898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5959 LIVE：사뮈]]></title>
-            <link>https://tickets.interpark.com/goods/22012893</link>
-            <guid>https://tickets.interpark.com/goods/22012893</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22012893" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg">
-									</a>
-								</div>
-								<b>5959 LIVE：사뮈</b>
-								<span>사뮈</span>
-																<p>2022. 10. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16653030741665303074663.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
