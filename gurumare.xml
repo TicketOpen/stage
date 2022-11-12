@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 05:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 07:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>구원찬,다운,재만</span>
 																<p>2022. 12. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16681419361668141936254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이광조의 작은음악회]]></title>
+            <link>https://tumblbug.com/artbuster</link>
+            <guid>https://tumblbug.com/artbuster</guid>
+            <pubDate>Sat, 12 Nov 2022 07:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tumblbug.com/artbuster" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16682323431668232343349.jpg">
+									</a>
+								</div>
+								<b>이광조의 작은음악회</b>
+								<span>이광조</span>
+																<p>2022. 12. 09</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16682323431668232343349.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앨범발매 쇼케이스 콘서트 [Mood，sunday]]]></title>
@@ -182,22 +198,6 @@
 								<span>Jundo, Ejo, 원재연</span>
 																<p>2022. 11. 11 - 2022. 11. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목경 공연]]></title>
-            <link>http://ticket.yes24.com/Perf/43343</link>
-            <guid>http://ticket.yes24.com/Perf/43343</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/43343" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg">
-									</a>
-								</div>
-								<b>김목경 공연</b>
-								<span>김목경 밴드</span>
-																<p>2022. 10. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16623579371662357937216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
