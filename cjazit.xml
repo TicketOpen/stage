@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 14:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 16:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/la/py/eo184765995gn.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보수동쿨러 콘서트]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/261</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/261</guid>
-            <pubDate>Fri, 11 Nov 2022 02:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.11.13
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>보수동쿨러</dd>
-<dt>출연:</dt>
-<dd>보수동쿨러</dd>
-</dl>
-<a href="/cjazit/book/view/261" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/mi/kx/rg184764966xp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우지원 단독공연]]></title>
