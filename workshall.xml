@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.workshall.co.kr/play/show_list.html</id>
-    <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
-    <updated>2022-11-16T16:45:11.002Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.workshall.co.kr/play/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:34:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JazzWorks N07－Play Ballads]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1158</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1158</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1667387950.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스티x정민 더블콘서트 ‘그둘이 알고싶다’]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1147</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1147</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19 (토) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1666353959.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별한 3교시 : 허창범 작가 & 이비오(양고기) - 《Ai 시대에 환쟁이로 살아남기》]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1173</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1173</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.20 (일) 13:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1667724667.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배인혁 1인 공연 : 나머지 공부]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1167</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1167</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23 (수) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1666351490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰카기의 썰]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1159</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1159</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1667387968.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고싶은 인디 Ep.22 택우 단독 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1130</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1130</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1667387985.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 58 9001(나인티오원) 단독 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1131</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1131</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.26 (토) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668166435.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 58 9001(나인티오원) 단독 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1132</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1132</guid>
+            <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.27 (일) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668166444.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
