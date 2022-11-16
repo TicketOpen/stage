@@ -4,9 +4,105 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 08:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 09:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 엔분의일：Outro]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/266</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/266</guid>
+            <pubDate>Wed, 16 Nov 2022 09:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.12.11
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>슈가레코드</dd>
+<dt>출연:</dt>
+<dd>엔분의 일</dd>
+</dl>
+<a href="/cjazit/book/view/266" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/aq/eu/gp185392948yp.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/265</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/265</guid>
+            <pubDate>Wed, 16 Nov 2022 09:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.12.02
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>곽태풍, SURL, THE SOLUTIONS</dd>
+</dl>
+<a href="/cjazit/book/view/265" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/ae/by/uo185392403if.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[일레인<2>발매기념 단독콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/264</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/264</guid>
+            <pubDate>Wed, 16 Nov 2022 09:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.11.24 ~ 2022.11.25
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>후너스엔터테인먼트</dd>
+<dt>출연:</dt>
+<dd>일레인</dd>
+</dl>
+<a href="/cjazit/book/view/264" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/rc/rd/af185391904rj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카코포니 단독콘서트]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/263</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/263</guid>
+            <pubDate>Wed, 16 Nov 2022 09:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2022.11.25
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>카코포니</dd>
+<dt>출연:</dt>
+<dd>카코포니</dd>
+</dl>
+<a href="/cjazit/book/view/263" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/eg/lv/un184766133nm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FRankly：Back to school]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/262</link>
