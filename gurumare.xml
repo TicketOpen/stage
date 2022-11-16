@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 04:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 05:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>프롬</span>
 																<p>2022. 12. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16681416941668141694544.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주니엘 데뷔 10주년기념 콘서트 [Junniversary]]]></title>
+            <link>https://tickets.interpark.com/goods/22016057</link>
+            <guid>https://tickets.interpark.com/goods/22016057</guid>
+            <pubDate>Wed, 16 Nov 2022 05:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22016057" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16685737211668573721080.jpg">
+									</a>
+								</div>
+								<b>주니엘 데뷔 10주년기념 콘서트 [Junniversary]</b>
+								<span>주니엘</span>
+																<p>2022. 12. 03</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16685737211668573721080.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OuiOui(위위) 연말 공연 [New Ou!]]]></title>
@@ -182,22 +198,6 @@
 								<span>신인류</span>
 																<p>2022. 11. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[64ksana]]></title>
-            <link>http://ticket.yes24.com/Perf/43922</link>
-            <guid>http://ticket.yes24.com/Perf/43922</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/43922" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg">
-									</a>
-								</div>
-								<b>64ksana</b>
-								<span>Jundo, Ejo, 원재연</span>
-																<p>2022. 11. 11 - 2022. 11. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16673756731667375673154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
