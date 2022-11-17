@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1147</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.19 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1666353959.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668664921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특별한 3교시 : 허창범 작가 & 이비오(양고기) - 《Ai 시대에 환쟁이로 살아남기》]]></title>
@@ -29,7 +29,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1173</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.20 (일) 13:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1667724667.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668664564.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배인혁 1인 공연 : 나머지 공부]]></title>
@@ -61,7 +61,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1131</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.26 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668166435.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668664579.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 58 9001(나인티오원) 단독 콘서트]]></title>
@@ -69,7 +69,7 @@
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1132</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.27 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668166444.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668664591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
