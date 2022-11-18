@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 23:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 02:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,13 +19,13 @@
         </item>
         <item>
             <title><![CDATA[국카스텐 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=181755&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=181755&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 17 Nov 2022 02:09:41 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016214</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016214</guid>
+            <pubDate>Fri, 18 Nov 2022 02:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">국카스텐 콘서트</dt>
 						<dd>2022.12.24 ~ 2022.12.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/11/0400012211_181755_01.614.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[물랑루즈]]></title>
