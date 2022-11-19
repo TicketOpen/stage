@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 06:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 07:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PL(피엘) 겨울콘서트 〈FRAME〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207558</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207558</guid>
+            <pubDate>Sat, 19 Nov 2022 07:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207558" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16688403591668840359653.jpg">
+									</a>
+								</div>
+								<b>PL(피엘) 겨울콘서트 〈FRAME〉</b>
+								<span>PL(피엘)</span>
+																<p>2022. 12. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16688403591668840359653.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OUR:OUTRO]]></title>
             <link>https://tickets.interpark.com/goods/22015527</link>
@@ -182,22 +198,6 @@
 								<span>버둥</span>
 																<p>2022. 11. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16663179891666317989353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight1113：신인류편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207408</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207408</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207408" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg">
-									</a>
-								</div>
-								<b>Flight1113：신인류편</b>
-								<span>신인류</span>
-																<p>2022. 11. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16655744701665574470812.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
