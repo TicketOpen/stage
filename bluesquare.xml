@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,9 +79,9 @@
         </item>
         <item>
             <title><![CDATA[로이킴 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22013640</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22013640</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:17 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=179855&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=179855&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 20 Nov 2022 15:26:50 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">로이킴 콘서트</dt>
 						<dd>2022.11.19 ~ 2022.11.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
