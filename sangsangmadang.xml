@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-11-20T23:27:30.433Z</updated>
+    <updated>2022-11-21T02:08:41.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 박소은 연말 단독 공연 <일기：너는 지금 무슨 생각에 잠겨있니>]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2243</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2243"/>
+        <updated>2022-11-21T02:08:00.777Z</updated>
+        <content type="html"><![CDATA[2022.12.24~2022.12.25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김사월 연말 단독 공연 <밖은 너무 추워 나는>]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2242</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2242"/>
+        <updated>2022-11-21T02:08:00.778Z</updated>
+        <content type="html"><![CDATA[2022.12.17~2022.12.18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 이랑 연말 단독 공연 <PRIDE>]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2241</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2241"/>
+        <updated>2022-11-21T02:08:00.778Z</updated>
+        <content type="html"><![CDATA[2022.12.10~2022.12.11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Poles 단독공연 ＇The High Tide Club FOREVER!＇]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2232</id>
@@ -123,26 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2154"/>
         <updated>2022-11-16T17:33:37.513Z</updated>
         <content type="html"><![CDATA[2022.09.26~2022.09.27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5［크리스탈 티 단독 콘서트 ‘Neverland’］]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2155</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2155"/>
-        <updated>2022-11-16T17:33:37.514Z</updated>
-        <content type="html"><![CDATA[2022.09.19~2022.09.19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAYCI YUCCA : THE LAST BOY＇s CONCERT with DJ＆Band]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2148</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2148"/>
-        <updated>2022-11-16T17:33:37.515Z</updated>
-        <content type="html"><![CDATA[2022.09.17~2022.09.30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［박소은 단독 콘서트］]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2150</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2150"/>
-        <updated>2022-11-16T17:33:37.517Z</updated>
-        <content type="html"><![CDATA[2022.09.06~2022.09.06]]></content>
     </entry>
 </feed>
