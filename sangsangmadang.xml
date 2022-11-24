@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-11-24T03:37:57.279Z</updated>
+    <updated>2022-11-24T06:30:13.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 정우의［Frame］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2246</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2246"/>
+        <updated>2022-11-24T06:29:32.380Z</updated>
+        <content type="html"><![CDATA[2022.12.29~2022.12.29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 박소은 연말 단독 공연 <일기：너는 지금 무슨 생각에 잠겨있니>]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2243</id>
@@ -18,6 +25,27 @@
         <link href="https://www.sangsangmadang.com/show/detail/2242"/>
         <updated>2022-11-21T02:08:00.778Z</updated>
         <content type="html"><![CDATA[2022.12.17~2022.12.18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［로우행잉프루츠 단독 콘서트＇My Universe＇］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2248</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2248"/>
+        <updated>2022-11-24T06:29:32.386Z</updated>
+        <content type="html"><![CDATA[2022.12.14~2022.12.14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［맥거핀 단독 콘서트］]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2247</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2247"/>
+        <updated>2022-11-24T06:29:32.386Z</updated>
+        <content type="html"><![CDATA[2022.12.13~2022.12.13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAIR PLAY : Vol.3 어바웃x김새녘]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2245</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2245"/>
+        <updated>2022-11-24T06:29:32.398Z</updated>
+        <content type="html"><![CDATA[2022.12.12~2022.12.12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 이랑 연말 단독 공연 <PRIDE>]]></title>
@@ -116,33 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2170"/>
         <updated>2022-11-16T17:33:37.508Z</updated>
         <content type="html"><![CDATA[2022.10.10~2022.10.10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음투자포럼]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2182</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2182"/>
-        <updated>2022-11-16T17:33:37.509Z</updated>
-        <content type="html"><![CDATA[2022.10.07~2022.10.07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［강아솔 단독 콘서트］]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2169</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2169"/>
-        <updated>2022-11-16T17:33:37.510Z</updated>
-        <content type="html"><![CDATA[2022.10.05~2022.10.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5［이준형 단독 콘서트 ‘UTOPIA’］]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2168</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2168"/>
-        <updated>2022-11-16T17:33:37.512Z</updated>
-        <content type="html"><![CDATA[2022.10.03~2022.10.03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 순간의 노래［신인류 단독 콘서트］]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2154</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2154"/>
-        <updated>2022-11-16T17:33:37.513Z</updated>
-        <content type="html"><![CDATA[2022.09.26~2022.09.27]]></content>
     </entry>
 </feed>
