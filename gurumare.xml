@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 05:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 08:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>문초희</span>
 																<p>2023. 01. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16689373501668937350804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박주원 기타 콘서트 [2022 집시 크리스마스]]]></title>
+            <link>https://tickets.interpark.com/goods/22016550</link>
+            <guid>https://tickets.interpark.com/goods/22016550</guid>
+            <pubDate>Sat, 26 Nov 2022 08:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22016550" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16694455651669445565982.jpg">
+									</a>
+								</div>
+								<b>박주원 기타 콘서트 [2022 집시 크리스마스]</b>
+								<span>박주원</span>
+																<p>2022. 12. 20 - 2022. 12. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16694455651669445565982.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PL(피엘) 겨울콘서트 [FRAME]]]></title>
@@ -54,6 +70,22 @@
 								<span>구원찬,다운,재만</span>
 																<p>2022. 12. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16681419361668141936254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 버둥 연말 단독공연［분신술］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207600</guid>
+            <pubDate>Sat, 26 Nov 2022 08:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207600" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16694446341669444634456.jpg">
+									</a>
+								</div>
+								<b>2022 버둥 연말 단독공연［분신술］</b>
+								<span>버둥</span>
+																<p>2022. 12. 10</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16694446341669444634456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이광조의 작은음악회]]></title>
@@ -166,38 +198,6 @@
 								<span>강허달림</span>
 																<p>2022. 11. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 삐리뿌(BBIRIBBOO) 단독콘서트]]></title>
-            <link>https://booking.naver.com/booking/5/bizes/783930</link>
-            <guid>https://booking.naver.com/booking/5/bizes/783930</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://booking.naver.com/booking/5/bizes/783930" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16668561921666856192744.jpg">
-									</a>
-								</div>
-								<b>2022 삐리뿌(BBIRIBBOO) 단독콘서트</b>
-								<span>삐리뿌</span>
-																<p>2022. 11. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16668561921666856192744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG] #3]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207436</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207436</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207436" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16663180601666318060421.jpg">
-									</a>
-								</div>
-								<b>프레젠트프로젝트 [SING SANG SONG] #3</b>
-								<span>이민혁</span>
-																<p>2022. 11. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16663180601666318060421.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
