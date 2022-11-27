@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 07:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 08:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>PL(피엘)</span>
 																<p>2022. 12. 18</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16688403591668840359653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한사코 음악회 [한 노래로 긴 밤 새울까]]]></title>
+            <link>https://tickets.interpark.com/goods/22016298</link>
+            <guid>https://tickets.interpark.com/goods/22016298</guid>
+            <pubDate>Sun, 27 Nov 2022 08:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22016298" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16695336251669533625264.jpg">
+									</a>
+								</div>
+								<b>한사코 음악회 [한 노래로 긴 밤 새울까]</b>
+								<span>한사코</span>
+																<p>2022. 12. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16695336251669533625264.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OUR:OUTRO]]></title>
@@ -182,22 +198,6 @@
 								<span>윤예원,신승아,홍지연,이지혜,이예진,아리현,이민규</span>
 																<p>2022. 11. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16678084341667808434172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강허달림 콘서트 [소리, 그녀가 되다]]]></title>
-            <link>https://tickets.interpark.com/goods/22013865</link>
-            <guid>https://tickets.interpark.com/goods/22013865</guid>
-            <pubDate>Sat, 05 Nov 2022 21:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22013865" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg">
-									</a>
-								</div>
-								<b>강허달림 콘서트 [소리, 그녀가 되다]</b>
-								<span>강허달림</span>
-																<p>2022. 11. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16658824351665882435262.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
