@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 14:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 16:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[적재 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22014558</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22014558</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:17 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=180530&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=180530&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 27 Nov 2022 16:33:04 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">적재 콘서트</dt>
 						<dd>2022.11.25 ~ 2022.11.27</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
