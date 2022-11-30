@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 10:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 11:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>박주원</span>
 																<p>2022. 12. 20 - 2022. 12. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16694455651669445565982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이승현 라이브 콘서트]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12498</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12498</guid>
+            <pubDate>Wed, 30 Nov 2022 11:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12498" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16698056821669805682751.jpg">
+									</a>
+								</div>
+								<b>2022 이승현 라이브 콘서트</b>
+								<span>이승현</span>
+																<p>2022. 12. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16698056821669805682751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PL(피엘) 겨울콘서트 [FRAME]]]></title>
@@ -182,22 +198,6 @@
 								<span>리오</span>
 																<p>2022. 12. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16681379901668137990430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울오페라단씽어즈]]></title>
-            <link>https://www.instagram.com/p/CkiZFmcgs2P/</link>
-            <guid>https://www.instagram.com/p/CkiZFmcgs2P/</guid>
-            <pubDate>Mon, 07 Nov 2022 08:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CkiZFmcgs2P/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16678084341667808434172.jpg">
-									</a>
-								</div>
-								<b>서울오페라단씽어즈</b>
-								<span>윤예원,신승아,홍지연,이지혜,이예진,아리현,이민규</span>
-																<p>2022. 11. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16678084341667808434172.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
