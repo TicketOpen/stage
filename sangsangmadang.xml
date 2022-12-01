@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-12-01T09:31:04.763Z</updated>
+    <updated>2022-12-01T10:30:24.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -69,6 +69,20 @@
         <content type="html"><![CDATA[2022.12.09~2022.12.09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 백석예술대학교 정기공연 [B.A.U Mix Vol.22]]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2256</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2256"/>
+        <updated>2022-12-01T10:29:45.978Z</updated>
+        <content type="html"><![CDATA[2022.12.07~2022.12.07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 백석예술대학교 [Light in Night] 발매 기념 쇼케이스]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2255</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2255"/>
+        <updated>2022-12-01T10:29:45.980Z</updated>
+        <content type="html"><![CDATA[2022.12.06~2022.12.06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기수 넘버프로젝트 콘서트]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2231</id>
         <link href="https://www.sangsangmadang.com/show/detail/2231"/>
@@ -130,19 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2202"/>
         <updated>2022-11-16T17:33:37.506Z</updated>
         <content type="html"><![CDATA[2022.10.22~2022.10.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 더베인 단독콘서트［파란］－서울]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2171</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2171"/>
-        <updated>2022-11-16T17:33:37.507Z</updated>
-        <content type="html"><![CDATA[2022.10.16~2022.10.16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PPCX 피터팬컴플렉스 콘서트 ‘20’]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2185</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2185"/>
-        <updated>2022-11-16T17:33:37.507Z</updated>
-        <content type="html"><![CDATA[2022.10.15~2022.10.15]]></content>
     </entry>
 </feed>
