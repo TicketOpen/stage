@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 04:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2023.02.22 ~ 2023.02.22</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/11/0400012211_181658_01.113.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[우주소녀 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016439</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016439</guid>
+            <pubDate>Thu, 01 Dec 2022 04:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">우주소녀 콘서트</dt>
+						<dd>2023.01.07 ~ 2023.01.08</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/12/0400012212_182366_01.017.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[씨아이엑스 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2022.10.08 ~ 2022.10.09</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/09/0400012209_179567_01.530.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[엘르 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=178900&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=178900&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">엘르 콘서트</dt>
-						<dd>2022.10.06 ~ 2022.10.06</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/09/0400012209_178900_01.803.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
