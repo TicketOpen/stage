@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 11:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 12:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16682323431668232343349.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KOICA 해외봉사단 설명회 [한 걸음 먼저 만난 이야기]]]></title>
+            <link>https://blog.naver.com/wfk2012/222937203114</link>
+            <guid>https://blog.naver.com/wfk2012/222937203114</guid>
+            <pubDate>Thu, 01 Dec 2022 12:48:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/wfk2012/222937203114" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16698955031669895503017.jpg">
+									</a>
+								</div>
+								<b>KOICA 해외봉사단 설명회 [한 걸음 먼저 만난 이야기]</b>
+								<span>KOICA</span>
+																<p>2022. 12. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16698955031669895503017.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앨범발매 쇼케이스 콘서트 [Mood，sunday]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207522</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207522</guid>
@@ -182,22 +198,6 @@
 								<span>OuiOui(위위)</span>
 																<p>2022. 12. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리오 단독 콘서트［Perennial Green］]]></title>
-            <link>https://tickets.interpark.com/goods/22015615</link>
-            <guid>https://tickets.interpark.com/goods/22015615</guid>
-            <pubDate>Fri, 11 Nov 2022 03:58:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22015615" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16681379901668137990430.jpg">
-									</a>
-								</div>
-								<b>리오 단독 콘서트［Perennial Green］</b>
-								<span>리오</span>
-																<p>2022. 12. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16681379901668137990430.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
