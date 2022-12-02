@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 14:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/aq/eu/gp185392948yp.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/265</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/265</guid>
-            <pubDate>Wed, 16 Nov 2022 09:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.12.02
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>곽태풍, SURL, THE SOLUTIONS</dd>
-</dl>
-<a href="/cjazit/book/view/265" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ae/by/uo185392403if.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위아영 콘서트]]></title>
