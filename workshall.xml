@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 15:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[배인혁 1인 공연 : 나머지 공부]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1174</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1174</guid>
-            <pubDate>Wed, 23 Nov 2022 15:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07 (수) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1667788124.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[문학과지성사 통합시상식]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1156</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 04 Dec 2022 15:24:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.18 (일) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1670309101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드 힐즈 단독공연 “언젠가 지날 이 계절에”]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1180</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1180</guid>
+            <pubDate>Wed, 07 Dec 2022 15:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1669948237.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
