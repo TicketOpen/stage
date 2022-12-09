@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 07:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,38 @@
 								<span>문초희</span>
 																<p>2023. 01. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16689373501668937350804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서예지X전건호 콘서트 [그 겨울이 잠든 거리에서]]]></title>
+            <link>https://tickets.interpark.com/goods/22017141</link>
+            <guid>https://tickets.interpark.com/goods/22017141</guid>
+            <pubDate>Fri, 09 Dec 2022 07:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22017141" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16705684511670568451687.jpg">
+									</a>
+								</div>
+								<b>경서예지X전건호 콘서트 [그 겨울이 잠든 거리에서]</b>
+								<span>경서예지,전건호</span>
+																<p>2023. 01. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16705684511670568451687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 연말 콘서트 [메리 크리스투아!]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207646</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207646</guid>
+            <pubDate>Fri, 09 Dec 2022 07:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207646" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16705683581670568358986.jpg">
+									</a>
+								</div>
+								<b>2022 연말 콘서트 [메리 크리스투아!]</b>
+								<span>세투아</span>
+																<p>2022. 12. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16705683581670568358986.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박주원 기타 콘서트 [2022 집시 크리스마스]]]></title>
@@ -166,38 +198,6 @@
 								<span>프롬</span>
 																<p>2022. 12. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16681416941668141694544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 10주년기념 콘서트 [Junniversary]]]></title>
-            <link>https://tickets.interpark.com/goods/22016057</link>
-            <guid>https://tickets.interpark.com/goods/22016057</guid>
-            <pubDate>Wed, 16 Nov 2022 05:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22016057" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16685737211668573721080.jpg">
-									</a>
-								</div>
-								<b>데뷔 10주년기념 콘서트 [Junniversary]</b>
-								<span>주니엘</span>
-																<p>2022. 12. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16685737211668573721080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OuiOui(위위) 연말 공연 [New Ou!]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207471</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207471</guid>
-            <pubDate>Sat, 05 Nov 2022 04:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207471" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg">
-									</a>
-								</div>
-								<b>OuiOui(위위) 연말 공연 [New Ou!]</b>
-								<span>OuiOui(위위)</span>
-																<p>2022. 12. 02</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16670992881667099288549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
