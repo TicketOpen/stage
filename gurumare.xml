@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 08:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 09:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>경서예지,전건호</span>
 																<p>2023. 01. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16705684511670568451687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 크랙샷 연말 콘서트 [RELOAD]]]></title>
+            <link>https://m.ticketlink.co.kr/product/41613</link>
+            <guid>https://m.ticketlink.co.kr/product/41613</guid>
+            <pubDate>Fri, 09 Dec 2022 09:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://m.ticketlink.co.kr/product/41613" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16705749421670574942745.jpg">
+									</a>
+								</div>
+								<b>2022 크랙샷 연말 콘서트 [RELOAD]</b>
+								<span>크랙샷</span>
+																<p>2022. 12. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16705749421670574942745.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 연말 콘서트 [메리 크리스투아!]]]></title>
@@ -182,22 +198,6 @@
 								<span>KOICA</span>
 																<p>2022. 12. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16698955031669895503017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨범발매 쇼케이스 콘서트 [Mood，sunday]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207522</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207522</guid>
-            <pubDate>Fri, 11 Nov 2022 04:48:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207522" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16681416941668141694544.jpg">
-									</a>
-								</div>
-								<b>앨범발매 쇼케이스 콘서트 [Mood，sunday]</b>
-								<span>프롬</span>
-																<p>2022. 12. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16681416941668141694544.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
