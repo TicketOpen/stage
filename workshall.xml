@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 14:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[싱어송라이터 이민규 EP［Love Playlist］발매 기념 단독콘서트 Love and Songs]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1161</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1161</guid>
-            <pubDate>Sat, 26 Nov 2022 15:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10 (토) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1669367548.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[배인혁 1인 공연 : 나머지 공부]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1175</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 09 Dec 2022 15:21:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.24 (토) 12:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1670292151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 자선 콘서트 'Give Love']]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1179</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1179</guid>
+            <pubDate>Sat, 10 Dec 2022 15:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.24 (토) 17:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1670431215.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
