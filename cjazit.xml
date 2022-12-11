@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>CJ문화재단 ─ 공연예매</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 14:20:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 엔분의일：Outro]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/266</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/266</guid>
-            <pubDate>Wed, 16 Nov 2022 09:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2022.12.11
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>슈가레코드</dd>
-<dt>출연:</dt>
-<dd>엔분의 일</dd>
-</dl>
-<a href="/cjazit/book/view/266" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/aq/eu/gp185392948yp.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cjazit.org/cjazit/book/list</id>
+    <title>CJ문화재단 ─ 공연예매</title>
+    <updated>2022-12-11T16:32:33.862Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
+</feed>
