@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 05:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 07:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,54 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16705749421670574942745.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[누군가의 플레이리스트 [Track. 60 백아x마인드유]]]></title>
+            <link>https://tickets.interpark.com/goods/22017214</link>
+            <guid>https://tickets.interpark.com/goods/22017214</guid>
+            <pubDate>Sun, 11 Dec 2022 07:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/22017214" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16707394241670739424643.jpg">
+									</a>
+								</div>
+								<b>누군가의 플레이리스트 [Track. 60 백아x마인드유]</b>
+								<span>백아, 마인드유</span>
+																<p>2022. 12. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16707394241670739424643.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱펀치의 단독공연 [96번째 로맨틱파티]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207657</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207657</guid>
+            <pubDate>Sun, 11 Dec 2022 07:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207657" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16707402841670740284786.jpg">
+									</a>
+								</div>
+								<b>로맨틱펀치의 단독공연 [96번째 로맨틱파티]</b>
+								<span>로맨틱펀치</span>
+																<p>2022. 12. 24 - 2022. 12. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16707402841670740284786.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로칼하이프리즘스테이지 기부콘서트 [나눔]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207639</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207639</guid>
+            <pubDate>Sun, 11 Dec 2022 07:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207639" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16707402231670740223408.jpg">
+									</a>
+								</div>
+								<b>로칼하이프리즘스테이지 기부콘서트 [나눔]</b>
+								<span>시안, 김소리, 윤달, 듀자매, 정재하, 도연</span>
+																<p>2022. 12. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16707402231670740223408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 연말 콘서트 [메리 크리스투아!]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207646</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207646</guid>
@@ -89,11 +137,11 @@
         </item>
         <item>
             <title><![CDATA[2022 이승현 라이브 콘서트]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12498</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12498</guid>
-            <pubDate>Wed, 30 Nov 2022 11:19:57 GMT</pubDate>
+            <link>http://ticket.yes24.com/Perf/44320</link>
+            <guid>http://ticket.yes24.com/Perf/44320</guid>
+            <pubDate>Sun, 11 Dec 2022 07:22:23 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12498" target="_blank">
+									<a href="http://ticket.yes24.com/Perf/44320" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
 										<img src="http://gurumare.co.kr/file_upload/16698056821669805682751.jpg">
 									</a>
@@ -150,54 +198,6 @@
 								<span>구원찬,다운,재만</span>
 																<p>2022. 12. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16681419361668141936254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 버둥 연말 단독공연［분신술］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207600</guid>
-            <pubDate>Sat, 26 Nov 2022 08:32:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207600" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16694446341669444634456.jpg">
-									</a>
-								</div>
-								<b>2022 버둥 연말 단독공연［분신술］</b>
-								<span>버둥</span>
-																<p>2022. 12. 10</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16694446341669444634456.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이광조의 작은음악회]]></title>
-            <link>https://tumblbug.com/artbuster</link>
-            <guid>https://tumblbug.com/artbuster</guid>
-            <pubDate>Sat, 12 Nov 2022 07:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tumblbug.com/artbuster" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16682323431668232343349.jpg">
-									</a>
-								</div>
-								<b>이광조의 작은음악회</b>
-								<span>이광조</span>
-																<p>2022. 12. 09</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16682323431668232343349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KOICA 해외봉사단 설명회 [한 걸음 먼저 만난 이야기]]]></title>
-            <link>https://blog.naver.com/wfk2012/222937203114</link>
-            <guid>https://blog.naver.com/wfk2012/222937203114</guid>
-            <pubDate>Thu, 01 Dec 2022 12:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/wfk2012/222937203114" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16698955031669895503017.jpg">
-									</a>
-								</div>
-								<b>KOICA 해외봉사단 설명회 [한 걸음 먼저 만난 이야기]</b>
-								<span>KOICA</span>
-																<p>2022. 12. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16698955031669895503017.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
