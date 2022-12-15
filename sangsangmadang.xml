@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2022-12-15T01:54:54.192Z</updated>
+    <updated>2022-12-15T03:28:41.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://www.sangsangmadang.com/show/detail/2243"/>
         <updated>2022-11-21T02:08:00.777Z</updated>
         <content type="html"><![CDATA[2022.12.24~2022.12.25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 THE SOLUTIONS CLUB TOUR ［NAIVE］ ; FINALE - 서울]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2265</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2265"/>
+        <updated>2022-12-15T03:28:00.172Z</updated>
+        <content type="html"><![CDATA[2022.12.23~2022.12.23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 김사월 연말 단독 공연 <밖은 너무 추워 나는>]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2184"/>
         <updated>2022-11-16T17:33:37.496Z</updated>
         <content type="html"><![CDATA[2022.11.06~2022.11.06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 4회 예스사운드 정기공연]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2201</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2201"/>
-        <updated>2022-11-16T17:33:37.497Z</updated>
-        <content type="html"><![CDATA[2022.11.05~2022.11.05]]></content>
     </entry>
 </feed>
