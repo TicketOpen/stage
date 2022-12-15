@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 06:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 07 Dec 2022 06:32:41 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/580/975348601_EAB080EB8298EB8BA4_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화노 단독 콘서트 : 롤링 28주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=589&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=589&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 15 Dec 2022 06:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2022년 01월 26일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/589/1765525090_5BED8FACEC8AA4ED84B05D20012620ED9994EB85B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트：롤링 28주년 기념 공연]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 06 Dec 2022 15:22:50 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2022년 12월 17일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/578/44468670_ED959CED9DACECA095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 단독 콘서트 ‘봄밤에 다시 만나’]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=577&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=577&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Tue, 06 Dec 2022 15:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2022년 12월 31일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/577/74833946_ED9484EBA1AC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
