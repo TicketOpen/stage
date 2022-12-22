@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 04:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 06:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,38 @@
 								<span>문초희</span>
 																<p>2023. 01. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16689373501668937350804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207691</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207691</guid>
+            <pubDate>Thu, 22 Dec 2022 06:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207691" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16716863071671686307060.jpg">
+									</a>
+								</div>
+								<b>프레젠트프로젝트 [SING SANG SONG]</b>
+								<span>팔칠댄스</span>
+																<p>2023. 01. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16716863071671686307060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양지은 팬미팅 [Happy Smile Day]]]></title>
+            <link>http://ticket.yes24.com/Perf/44454</link>
+            <guid>http://ticket.yes24.com/Perf/44454</guid>
+            <pubDate>Thu, 22 Dec 2022 06:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/44454" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16716861681671686168123.jpg">
+									</a>
+								</div>
+								<b>양지은 팬미팅 [Happy Smile Day]</b>
+								<span>양지은</span>
+																<p>2023. 01. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16716861681671686168123.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경서예지X전건호 콘서트 [그 겨울이 잠든 거리에서]]]></title>
@@ -166,38 +198,6 @@
 								<span>이승현</span>
 																<p>2022. 12. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16698056821669805682751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PL(피엘) 겨울콘서트 [FRAME]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207558</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207558</guid>
-            <pubDate>Sat, 19 Nov 2022 07:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207558" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16688403591668840359653.jpg">
-									</a>
-								</div>
-								<b>PL(피엘) 겨울콘서트 [FRAME]</b>
-								<span>PL(피엘)</span>
-																<p>2022. 12. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16688403591668840359653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한사코 음악회 [한 노래로 긴 밤 새울까]]]></title>
-            <link>https://tickets.interpark.com/goods/22016298</link>
-            <guid>https://tickets.interpark.com/goods/22016298</guid>
-            <pubDate>Sun, 27 Nov 2022 08:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/22016298" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16695336251669533625264.jpg">
-									</a>
-								</div>
-								<b>한사코 음악회 [한 노래로 긴 밤 새울까]</b>
-								<span>한사코</span>
-																<p>2022. 12. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16695336251669533625264.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
