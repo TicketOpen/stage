@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 14:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 15:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1177</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1177</guid>
-            <pubDate>Wed, 14 Dec 2022 15:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1668664810.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 장재훈 연말 콘서트 : Guitar List]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1162</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 24 Dec 2022 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.15 (일) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1672243278.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰카기의 썰]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1188</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1188</guid>
+            <pubDate>Thu, 29 Dec 2022 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.26 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1671713455.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
