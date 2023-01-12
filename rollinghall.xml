@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 04:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 29 Dec 2022 15:22:57 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/580/1549313135_EB9DBCEC9DB8EC9785_RGB2028129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행로난 단독 콘서트 : 롤링 28주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=605&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=605&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 12 Jan 2023 05:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 02월 23일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/605/1970338647_5BED8FACEC8AA4ED84B05D20022320ED9689EBA19CEB829C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박소은 단독 콘서트 ‘마지막 문장’：롤링 28주년 기..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 29 Dec 2022 15:22:57 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 02월 03일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/595/1312029762_EB9DBCEC9DB4EBB88CECBBA4EB84A5ED8AB8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스탠딩에그 단독 콘서트 '스탠딩 콘서트' :..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=594&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=594&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 29 Dec 2022 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2023년 02월 04일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/594/70024514_5BED8FACEC8AA4ED84B05D20020420EC8AA4ED83A0EB94A9EC9790EAB7B8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

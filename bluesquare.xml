@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 04:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,26 @@
 						<dd>2023.02.22 ~ 2023.02.22</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/11/0400012211_181658_01.113.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[임시완 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183594&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183594&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Thu, 12 Jan 2023 05:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">임시완 콘서트</dt>
+						<dd>2023.02.11 ~ 2023.02.11</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[남우현 팬미팅]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183637&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183637&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Thu, 12 Jan 2023 05:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">남우현 팬미팅</dt>
+						<dd>2023.02.03 ~ 2023.02.05</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_183637_01.919.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[박진영 콘서트]]></title>
@@ -136,26 +156,6 @@
 						<dd>2022.11.19 ~ 2022.11.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/10/0400012210_179855_01.028.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[조유리 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=180393&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=180393&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">조유리 팬미팅</dt>
-						<dd>2022.11.12 ~ 2022.11.13</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/10/0400012210_180393_01.811.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[데이먼스 이어 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=179931&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=179931&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 16 Nov 2022 17:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">데이먼스 이어 콘서트</dt>
-						<dd>2022.11.05 ~ 2022.11.06</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/10/0400012210_179931_01.835.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
