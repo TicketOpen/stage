@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,16 +36,24 @@
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1189</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1189</guid>
             <pubDate>Sat, 07 Jan 2023 15:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.02 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673030468.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023.02.02 (목) 14:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673937207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Another Nice Day]]></title>
+            <title><![CDATA[Another Nice Day ＃34 - WH3N(웬), 기탁, 김제형]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1220</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1220</guid>
+            <pubDate>Tue, 17 Jan 2023 07:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.02 (목) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673937185.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another Nice Day ＃35 - 백아, Mingginyu(밍기뉴), SUMMER CAKE(썸머케익)]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1190</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1190</guid>
             <pubDate>Sun, 08 Jan 2023 15:25:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.03 (금) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673030512.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673937265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독공연]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 14 Jan 2023 15:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.06 (월) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673172271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seoul Winter Festival]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1214</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1214</guid>
-            <pubDate>Sun, 15 Jan 2023 15:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.07 (화) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673172296.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
