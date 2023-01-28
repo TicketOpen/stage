@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 10:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 13:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1674629559.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seoul Winter Festival]]></title>
+            <title><![CDATA[Seoul Winter Festival 2023 : Deep Mind]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1213</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1213</guid>
             <pubDate>Sat, 14 Jan 2023 15:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.06 (월) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673172271.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1674903324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seoul Winter Festival]]></title>
+            <title><![CDATA[Seoul Winter Festival 2023 : 임미정 트리오]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1214</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1214</guid>
             <pubDate>Thu, 26 Jan 2023 15:22:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.07 (화) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673172296.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1674903463.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
