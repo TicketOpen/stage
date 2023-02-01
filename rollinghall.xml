@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?sub=02</id>
-    <title>롤링홀</title>
-    <updated>2023-02-01T14:23:57.015Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.rollinghall.co.kr/default/mp3/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>롤링홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Feb 2023 15:28:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롤링 28주년 기념 공연 2차 라인업 포스터]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=597&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=597&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 월 일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/597/181867755_EAB080EB8298EB8BA4_RGB2028129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롤링 28주년 기념 공연 2차 라인업 포스터]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=597&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=597&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 월 일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/597/181867755_EAB080EB8298EB8BA4_RGB2028129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롤링 28주년 기념 공연 1차 라인업 포스터]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=580&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=580&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 01월 일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/580/1549313135_EB9DBCEC9DB8EC9785_RGB2028129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스피 단독 콘서트 ‘DAYDREAMING’：롤링 28주년 ..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=616&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=616&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 03월 09일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/616/238992542_ED81ACEBA6ACEC8AA4ED94BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독 콘서트 ‘발현（發顯/apparition）’：..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=615&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=615&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 03월 03일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/615/92557556_5BED8FACEC8AA4ED84B05D20030320EC9EA0EBB984EB8298EC9DB4A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’：롤링 28주년 기념..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=614&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=614&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 03월 04일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/614/1833881743_5BED8FACEC8AA4ED84B05D200304-0520YB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPERNOVA！ ENCORE 너드커넥션 단독 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=612&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=612&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 02월 18일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/612/202255401_EB8488EB939CECBBA4EB84A5EC8598.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로우행잉프루츠 단독 콘서트 ‘RIDE A WAVE’：롤링 2..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=611&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=611&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 03월 02일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/611/1292885628_EBA19CEC9AB0ED9689EC9E89ED9484EBA3A8ECB8A0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPMG WEEK 2023：MPMG MUSIC LIVE - Lacuna(라쿠나), ..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=610&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=610&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 02월 02일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/610/161032435_EC97A0ED94BCEC97A0ECA780EC9C84ED81AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MPMG WEEK 2023：MPMG MUSIC LIVE - SURL(설), 솔루션..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=609&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=609&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 02월 01일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/609/1743038023_EC97A0ED94BCEC97A0ECA780EC9C84ED81AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멍키헤드X갤럭시익스프레스X로큰롤라디오X락킷걸：롤..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=608&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=608&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 03월 01일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/608/1541681002_5BED8FACEC8AA4ED84B05D200301.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들 단독 콘서트 'New Year's Rolli..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=607&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=607&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 02월 25일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/607/1868395301_5BED8FACEC8AA4ED84B05D200225209EC9980EC88ABEC9E90EB93A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HeMeets 단독 콘서트 〈HeMeets：Weird Toy Shop〉]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=606&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=606&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 01 Feb 2023 15:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 02월 05일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/606/420645376_ED9E88EBAFB8ECB8A0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
