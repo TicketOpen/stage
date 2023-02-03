@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 14:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 15:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Another Nice Day ＃35 - 백아, Mingginyu(밍기뉴), SUMMER CAKE(썸머케익)]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1190</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1190</guid>
-            <pubDate>Sun, 08 Jan 2023 15:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.03 (금) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1674629536.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[꽃감이 단독콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1191</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 02 Feb 2023 16:35:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.11 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1674904816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seoul Winter Festival : in [JAZZ WORKS N10] 마리아킴 & 김대호]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1217</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1217</guid>
+            <pubDate>Fri, 03 Feb 2023 15:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.12 (일) 15:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1675039036.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
