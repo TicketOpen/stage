@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 23:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 01:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <content:encoded><![CDATA[<dt class="subject">어썸스테이지 콘서트 2</dt>
 						<dd>2023.02.25 ~ 2023.02.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_184352_01.556.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_184352_01.451.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[막심 므라비차 콘서트]]></title>
