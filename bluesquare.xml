@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 01:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 03:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,7 +25,7 @@
             <content:encoded><![CDATA[<dt class="subject">영웅</dt>
 						<dd>2023.03.17 ~ 2023.05.21</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_184636_01.502.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_184636_01.411.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이광조 콘서트]]></title>
