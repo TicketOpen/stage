@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 09:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
 <a href="/cjazit/book/view/270" class="btn btn--bold item-book no-barba">
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/sl/sb/ui192462108lu.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.cjazit.org/image/schedule/it/gj/bi192651406wc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 심화과정]]></title>
