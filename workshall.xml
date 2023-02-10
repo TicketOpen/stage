@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 14:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 15:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[플랜비 프로젝트 vol.3 [ 선톡 ]]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1218</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1218</guid>
-            <pubDate>Thu, 02 Feb 2023 16:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.10 (금) 19:30]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1675747416.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[ w24 ] 박아론 단독  팬미팅 'P!AARON']]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1192</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 09 Feb 2023 16:35:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.25 (토) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1675771106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고싶은 인디 Ep.24 장희원 X 조소정 콘서트]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1198</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1198</guid>
+            <pubDate>Fri, 10 Feb 2023 15:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.26 (일) 18:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1675771118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
