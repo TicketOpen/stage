@@ -4,7 +4,7 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 05:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 07:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,6 +124,19 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/07/0400012207_177294_01.205.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신]]></title>
+            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=175482&amp;EntGoodsCode=</link>
+            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=175482&amp;EntGoodsCode=</guid>
+            <pubDate>Mon, 13 Feb 2023 07:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">시크릿쥬쥬 별의여신</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>뮤지컬<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.08.20 ~ 2022.08.28<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="performance_detail.asp?PlayNo=175482&amp;EntGoodsCode="><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/06/0400012206_175482_01.853.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[민쩌미]]></title>
             <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=174300&amp;EntGoodsCode=22005188</link>
             <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=174300&amp;EntGoodsCode=22005188</guid>
@@ -213,19 +226,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=173790&amp;EntGoodsCode=22004360"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_173790_01.834.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김문정 콘서트]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=173644&amp;EntGoodsCode=22004111</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=173644&amp;EntGoodsCode=22004111</guid>
-            <pubDate>Sat, 23 Apr 2022 15:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">김문정 콘서트</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>콘서트<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.04.22 ~ 2022.04.24<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=173644&amp;EntGoodsCode=22004111"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/04/0400012204_173644_01.943.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
