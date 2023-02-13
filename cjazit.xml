@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 07:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 08:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,9 +22,9 @@
 </dl>
 <dl class="item-staff">
 <dt>주최:</dt>
-<dd>ioom</dd>
+<dd>TIOOM</dd>
 <dt>출연:</dt>
-<dd>정원미, 김상범, 강재훈, 안성준, 강환수, 송준영</dd>
+<dd>정원미, 김상범, 강재훈, 안상준, 강환수, 송준영</dd>
 </dl>
 <a href="/cjazit/book/view/270" class="btn btn--bold item-book no-barba">
 <span class="btn-text">상세보기</span>
