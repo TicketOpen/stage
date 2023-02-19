@@ -4,9 +4,73 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 04:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 05:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앨범 발매 기념 단독 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207850</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207850</guid>
+            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207850" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16767829471676782947022.jpg">
+									</a>
+								</div>
+								<b>앨범 발매 기념 단독 공연</b>
+								<span>주윤하</span>
+																<p>2023. 03. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16767829471676782947022.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 단독콘서트 [BORN AGAIN]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207873</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207873</guid>
+            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207873" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16767828881676782888018.jpg">
+									</a>
+								</div>
+								<b>W24 단독콘서트 [BORN AGAIN]</b>
+								<span>W24</span>
+																<p>2023. 03. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16767828881676782888018.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JeA x Seoulit CONCERT [너를 축하해]]]></title>
+            <link>http://ticket.yes24.com/Perf/45003</link>
+            <guid>http://ticket.yes24.com/Perf/45003</guid>
+            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/45003" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16767828501676782850337.jpg">
+									</a>
+								</div>
+								<b>JeA x Seoulit CONCERT [너를 축하해]</b>
+								<span>제아, 서울릿</span>
+																<p>2023. 03. 10</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16767828501676782850337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAMBADA ONSTAGE 네 번째 [임계점]]]></title>
+            <link>https://blog.naver.com/yahe2008</link>
+            <guid>https://blog.naver.com/yahe2008</guid>
+            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/yahe2008" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16767828071676782807749.jpg">
+									</a>
+								</div>
+								<b>BAMBADA ONSTAGE 네 번째 [임계점]</b>
+								<span>권창욱, 김다올, 이승행</span>
+																<p>2023. 03. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16767828071676782807749.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정다한 팬미팅&콘서트 [情을 나누는 다한]]]></title>
             <link>https://tickets.interpark.com/goods/23001741</link>
@@ -134,70 +198,6 @@
 								<span>이충주</span>
 																<p>2023. 01. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16747309681674730968352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호(AMHO) 싱글 발매 기념 콘서트 [세션맨]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207728</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207728</guid>
-            <pubDate>Fri, 27 Jan 2023 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207728" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16730573131673057313454.jpg">
-									</a>
-								</div>
-								<b>암호(AMHO) 싱글 발매 기념 콘서트 [세션맨]</b>
-								<span>암호（AMHO）</span>
-																<p>2023. 01. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16730573131673057313454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히읗 첫번째 단독공연 [히읗쇼]]]></title>
-            <link>http://www.ticketlink.co.kr/product/42027</link>
-            <guid>http://www.ticketlink.co.kr/product/42027</guid>
-            <pubDate>Fri, 27 Jan 2023 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://www.ticketlink.co.kr/product/42027" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16730572601673057260347.jpg">
-									</a>
-								</div>
-								<b>히읗 첫번째 단독공연 [히읗쇼]</b>
-								<span>히읗</span>
-																<p>2023. 01. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16730572601673057260347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 트롯꾀꼬리 [문초희노애락]]]></title>
-            <link>https://www.youtube.com/channel/UCrMpIRSzGoDcGj_jq31IOSg/community?lb=UgkxxzF3ZIgpcP5OOjsX9jyudDwwYAbwmBBG</link>
-            <guid>https://www.youtube.com/channel/UCrMpIRSzGoDcGj_jq31IOSg/community?lb=UgkxxzF3ZIgpcP5OOjsX9jyudDwwYAbwmBBG</guid>
-            <pubDate>Fri, 27 Jan 2023 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.youtube.com/channel/UCrMpIRSzGoDcGj_jq31IOSg/community?lb=UgkxxzF3ZIgpcP5OOjsX9jyudDwwYAbwmBBG" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16689373501668937350804.jpg">
-									</a>
-								</div>
-								<b>2023 트롯꾀꼬리 [문초희노애락]</b>
-								<span>문초희</span>
-																<p>2023. 01. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16689373501668937350804.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 [SING SANG SONG]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207691</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207691</guid>
-            <pubDate>Fri, 27 Jan 2023 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207691" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16716863071671686307060.jpg">
-									</a>
-								</div>
-								<b>프레젠트프로젝트 [SING SANG SONG]</b>
-								<span>팔칠댄스</span>
-																<p>2023. 01. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16716863071671686307060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
