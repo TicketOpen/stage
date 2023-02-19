@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[특별한 3교시 : 컬러랑 친해지기 - 박민아 [EZ 님]]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1226</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1226</guid>
-            <pubDate>Mon, 06 Feb 2023 15:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.19 (일) 13:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1675747561.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[찰카기의 썰]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1199</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 12 Feb 2023 15:26:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.10 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1674832950.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1171</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1171</guid>
+            <pubDate>Sun, 19 Feb 2023 15:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.11 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1666580743.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

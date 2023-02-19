@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,30 +78,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/it/gj/bi192651406wc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 심화과정]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/269</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/269</guid>
-            <pubDate>Mon, 06 Feb 2023 06:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.02.18 ~ 2023.02.19
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>MPMG</dd>
-<dt>출연:</dt>
-<dd>나상현씨밴드</dd>
-</dl>
-<a href="/cjazit/book/view/269" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ka/iy/nd192458073ni.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
