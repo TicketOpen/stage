@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 03:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 04:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 						<dd>2023.03.12 ~ 2023.03.12</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_183877_01.511.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[루시 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002418</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002418</guid>
+            <pubDate>Tue, 21 Feb 2023 04:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">루시 콘서트</dt>
+						<dd>2023.03.04 ~ 2023.03.05</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185145_01.954.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어썸스테이지 콘서트 3]]></title>
@@ -146,16 +156,6 @@
 						<dd>2022.12.30 ~ 2022.12.31</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/11/0400012211_181851_01.427.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[국카스텐 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=181755&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=181755&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 21 Feb 2023 01:52:59 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">국카스텐 콘서트</dt>
-						<dd>2022.12.24 ~ 2022.12.25</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/11/0400012211_181755_01.614.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
