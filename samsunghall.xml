@@ -4,9 +4,22 @@
         <title>이화여대 삼성홀 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 23:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 01:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양희준, 김수하 콘서트]]></title>
+            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=185225&amp;EntGoodsCode=</link>
+            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=185225&amp;EntGoodsCode=</guid>
+            <pubDate>Tue, 21 Feb 2023 01:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">양희준, 김수하 콘서트</p>
+											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>뮤지컬<br>
+											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2023.03.31 ~ 2023.04.01<br>
+											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
+											
+											<a href="performance_detail.asp?PlayNo=185225&amp;EntGoodsCode="><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185225_01.604.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[경서 콘서트]]></title>
             <link>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001946</link>
@@ -217,19 +230,6 @@
 											
 											<a href="performance_detail.asp?PlayNo=174703&amp;EntGoodsCode=22005864"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/05/0400012205_174703_01.250.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[현대무용단-탐 제42회 정기공연]]></title>
-            <link>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=175189&amp;EntGoodsCode=22006576</link>
-            <guid>http://samsunghall.interpark.com/performance/performance_detail.asp?PlayNo=175189&amp;EntGoodsCode=22006576</guid>
-            <pubDate>Tue, 07 Jun 2022 15:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p style="font-size:14px; font-weight:bold; padding:1px 0 7px; color:#222;">현대무용단-탐 제42회 정기공연</p>
-											<b style="color:#333;">장르&nbsp;&nbsp;&nbsp;</b>무용<br>
-											<b style="color:#333;">일시&nbsp;&nbsp;&nbsp;</b>2022.06.08 ~ 2022.06.08<br>
-											<b style="color:#333;">장소&nbsp;&nbsp;&nbsp;</b>이화여자대학교 삼성홀<br>	
-											
-											<a href="performance_detail.asp?PlayNo=175189&amp;EntGoodsCode=22006576"><img src="http://ticketimage.interpark.com/TicketImage/samsunghall/btn_detail.gif" alt="상세정보" style="margin-top:15px;" width="86" height="24"></a>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/05/0400012205_175189_01.353.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
