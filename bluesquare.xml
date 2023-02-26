@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 15:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[어썸스테이지 콘서트 3]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001311</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001311</guid>
-            <pubDate>Fri, 03 Feb 2023 09:22:08 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=184329&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=184329&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 26 Feb 2023 15:26:12 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">어썸스테이지 콘서트 3</dt>
 						<dd>2023.02.26 ~ 2023.02.26</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
