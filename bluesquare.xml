@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 01:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 02:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2023.04.09 ~ 2023.04.09</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185386_01.927.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드베리 씨어터]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185378&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185378&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Mon, 27 Feb 2023 02:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">사운드베리 씨어터</dt>
+						<dd>2023.03.25 ~ 2023.03.26</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185378_01.230.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[용준형 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.01.14 ~ 2023.01.15</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/12/0400012212_182582_01.101.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=182366&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=182366&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 08 Jan 2023 15:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">우주소녀 콘서트</dt>
-						<dd>2023.01.07 ~ 2023.01.08</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/12/0400012212_182366_01.017.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
