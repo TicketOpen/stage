@@ -4,14 +4,14 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 05:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 06:31:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[드림 씨어터 내한공연]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185573&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185573&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 28 Feb 2023 06:30:53 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003078</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003078</guid>
+            <pubDate>Thu, 02 Mar 2023 06:29:58 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">드림 씨어터 내한공연</dt>
 						<dd>2023.04.26 ~ 2023.04.26</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
