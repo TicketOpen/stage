@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,16 +16,6 @@
 						<dd>2023.04.26 ~ 2023.04.26</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185573_01.603.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[하트레이스 페스티벌]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002372</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002372</guid>
-            <pubDate>Thu, 23 Feb 2023 06:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">하트레이스 페스티벌</dt>
-						<dd>2023.04.09 ~ 2023.04.09</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185386_01.927.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[사운드베리 시어터]]></title>
@@ -156,6 +146,16 @@
 						<dd>2023.01.28 ~ 2023.01.29</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/12/0400012212_182900_01.852.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[피원하모니 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=182582&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=182582&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Fri, 03 Mar 2023 05:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">피원하모니 콘서트</dt>
+						<dd>2023.01.14 ~ 2023.01.15</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/12/0400012212_182582_01.101.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
