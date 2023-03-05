@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 14:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[그리즐리（Grizzly）Concert：Spring House]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1205</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1205</guid>
-            <pubDate>Sun, 12 Feb 2023 15:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.05 (일) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677678875.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나만 알고싶은 인디 Ep. 25 Woshi(우시) 단독 콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1221</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 04 Mar 2023 16:30:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.19 (일) 18:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677678919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤치위레오 다섯 번째 단독 공연 〈고양이들의 봄 산책〉]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1219</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1219</guid>
+            <pubDate>Sun, 05 Mar 2023 15:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.24 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677678929.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
