@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,9 +29,9 @@
         </item>
         <item>
             <title><![CDATA[뱀뱀 팬미팅]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003393</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003393</guid>
-            <pubDate>Tue, 07 Mar 2023 06:30:17 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003560</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003560</guid>
+            <pubDate>Thu, 09 Mar 2023 08:29:36 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">뱀뱀 팬미팅</dt>
 						<dd>2023.03.28 ~ 2023.03.28</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
