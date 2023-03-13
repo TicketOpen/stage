@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 06:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강형호 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003615</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003615</guid>
+            <pubDate>Mon, 13 Mar 2023 06:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">강형호 콘서트</dt>
+						<dd>2023.04.29 ~ 2023.04.30</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/03/0400012303_185985_01.952.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[드림 씨어터 내한공연]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003078</link>
@@ -146,16 +156,6 @@
 						<dd>2023.02.11 ~ 2023.02.11</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_183594_01.436.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[남우현 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183637&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183637&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 05 Feb 2023 15:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">남우현 팬미팅</dt>
-						<dd>2023.02.03 ~ 2023.02.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_183637_01.919.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
