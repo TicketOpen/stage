@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 04:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 05:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 20 Feb 2023 09:25:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.29 (수) 20:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/JQncZLS7E1ry8HqATkh2VNjlFYbRCOxfGtBavpWeu9gKsUIMD4d30o5ziw6XPm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1440&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20230330</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1440&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20230330</guid>
+            <pubDate>Thu, 16 Mar 2023 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30 (목) 19:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/0i6VOX1BvsKnAMUjda9LofQzr7wEuSRhtTkx3JZFP2eGyHlpqgIYC4W58bcDmN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHOOTING STAR ASIA TOUR IN SEOUL]]></title>
