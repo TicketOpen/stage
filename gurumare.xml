@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 [Our Universe]]]></title>
+            <link>https://ticket.melon.com/search/index.htm?q=%EA%B5%AC%EB%A6%84%EC%95%84%EB%9E%98%EC%86%8C%EA%B7%B9%EC%9E%A5</link>
+            <guid>https://ticket.melon.com/search/index.htm?q=%EA%B5%AC%EB%A6%84%EC%95%84%EB%9E%98%EC%86%8C%EA%B7%B9%EC%9E%A5</guid>
+            <pubDate>Thu, 16 Mar 2023 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/search/index.htm?q=구름아래소극장" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16789364171678936417367.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌6 [Our Universe]</b>
+								<span>맥거핀</span>
+																<p>2023. 04. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16789364171678936417367.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리소 첫번째 단독 콘서트 [pat pat]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207917</link>
@@ -182,22 +198,6 @@
 								<span>모브닝</span>
 																<p>2023. 02. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16747314101674731410535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colorful Stage＃1]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207784</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207784</guid>
-            <pubDate>Fri, 27 Jan 2023 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207784" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16747313671674731367404.jpg">
-									</a>
-								</div>
-								<b>Colorful Stage＃1</b>
-								<span>오왠,406호 프로젝트</span>
-																<p>2023. 02. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16747313671674731367404.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
