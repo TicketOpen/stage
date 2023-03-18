@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 14:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 15:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 Coomo 소극장 공연 : Warm Up]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1202</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1202</guid>
-            <pubDate>Sat, 25 Feb 2023 15:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.18 (토) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677678911.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[특별한 3교시 : 한자, 그 위대한 유산 [이석진 (MB님)]]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1232</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 17 Mar 2023 15:23:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.31 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677678951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1210</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1210</guid>
+            <pubDate>Sat, 18 Mar 2023 15:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.01 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673030360.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
