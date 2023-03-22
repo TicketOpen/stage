@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이지수 10주년 기념 콘서트 [Me, 지수]]]></title>
+            <link>https://tickets.interpark.com/goods/23004166</link>
+            <guid>https://tickets.interpark.com/goods/23004166</guid>
+            <pubDate>Wed, 22 Mar 2023 04:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23004166" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg">
+									</a>
+								</div>
+								<b>이지수 10주년 기념 콘서트 [Me, 지수]</b>
+								<span>이지수</span>
+																<p>2023. 04. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 [Our Universe]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207970</link>
@@ -182,22 +198,6 @@
 								<span>빛과소금</span>
 																<p>2023. 02. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16762517671676251767129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모브닝 콘서트 [점등－The Light Of Hope]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207779</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207779</guid>
-            <pubDate>Fri, 27 Jan 2023 16:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207779" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16747314101674731410535.jpg">
-									</a>
-								</div>
-								<b>모브닝 콘서트 [점등－The Light Of Hope]</b>
-								<span>모브닝</span>
-																<p>2023. 02. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16747314101674731410535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
