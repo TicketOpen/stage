@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 04:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 08 Mar 2023 15:26:12 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/580/370943215_EAB080EB8298EB8BA4_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 단독 콘서트 ‘우리들의 봄’：롤링 28주년 ..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=643&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=643&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 22 Mar 2023 05:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 04월 23일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/643/1570987955_5BED8FACEC8AA4ED84B05D20042320EB84A4EBAFB8EC8B9CEC8AA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤딴딴 단독 콘서트 ‘28청춘’：롤링 28주년 기념 공..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 08 Mar 2023 15:26:12 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 04월 07일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/636/583267959_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마치 첫 단독 콘서트 ‘마치의 무비 나잇’]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=634&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=634&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Wed, 08 Mar 2023 15:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2023년 03월 17일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/634/207096218_EBA788ECB998ED8FACEC8AA4ED84B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
