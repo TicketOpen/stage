@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>이지수</span>
 																<p>2023. 04. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왁스 소극장 콘서트 [왁스의 일기]]]></title>
+            <link>https://tickets.interpark.com/goods/23003988</link>
+            <guid>https://tickets.interpark.com/goods/23003988</guid>
+            <pubDate>Wed, 22 Mar 2023 06:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23003988" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16794652111679465211873.jpg">
+									</a>
+								</div>
+								<b>왁스 소극장 콘서트 [왁스의 일기]</b>
+								<span>왁스</span>
+																<p>2023. 04. 21 - 2023. 04. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16794652111679465211873.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 [Our Universe]]]></title>
@@ -182,22 +198,6 @@
 								<span>정다한</span>
 																<p>2023. 03. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16762518031676251803022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과소금 33주년 ＆ 6집 발매 기념콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/23001978</link>
-            <guid>https://tickets.interpark.com/goods/23001978</guid>
-            <pubDate>Mon, 13 Feb 2023 01:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23001978" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16762517671676251767129.jpg">
-									</a>
-								</div>
-								<b>빛과소금 33주년 ＆ 6집 발매 기념콘서트</b>
-								<span>빛과소금</span>
-																<p>2023. 02. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16762517671676251767129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
