@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 06:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://yes24livehall.com/upload/1vELYMoT6hFSHBc0OsbmVtDJKxXRAUpQg32qPwukfNyWCd8Inje7zG9Za45ilr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sum 41 Live in Seoul (썸 41 내한공연)]]></title>
+            <title><![CDATA[[취소] Sum 41 Live in Seoul (썸 41 내한공연)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1414&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20230328</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1414&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20230328</guid>
             <pubDate>Fri, 10 Feb 2023 01:53:21 GMT</pubDate>
