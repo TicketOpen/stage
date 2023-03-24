@@ -4,17 +4,9 @@
         <title>재미공작소 ─ 네이버 스마트스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 23:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 01:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4729668828</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4729668828</guid>
-            <pubDate>Sun, 06 Nov 2022 05:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_141/1573560229313luqTg_JPEG/10922562873713801_124320880.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[소스 리스트]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/7491359328</link>
@@ -38,6 +30,14 @@
             <pubDate>Sun, 06 Nov 2022 05:25:57 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191119_52/15741572637629QWhj_JPEG/11517098289519576_1034772698.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아마츄어증폭기를위한아마츄어증폭기 2018 재미공작소 라이브 앨범]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/4729668828</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/4729668828</guid>
+            <pubDate>Sun, 06 Nov 2022 05:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191112_141/1573560229313luqTg_JPEG/10922562873713801_124320880.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이고 뮤직 북 EGO MUSIC BOOK]]></title>
