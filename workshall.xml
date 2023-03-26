@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 14:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 15:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Primavera（봄 or 청춘) 헤이린，연음이 오다．]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1207</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1207</guid>
-            <pubDate>Sat, 11 Mar 2023 15:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.26 (일) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679326791.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[찰카기의 썰]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1208</link>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 25 Mar 2023 15:19:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.21 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677137937.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JazzWorks N12－다움쿼텟 Time Out]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1229</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1229</guid>
+            <pubDate>Sun, 26 Mar 2023 15:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23 (일) 15:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679326325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
