@@ -4,14 +4,14 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[시카고 오리지널 내한]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=186763&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=186763&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 29 Mar 2023 02:49:47 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004325</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004325</guid>
+            <pubDate>Wed, 29 Mar 2023 07:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">시카고 오리지널 내한</dt>
 						<dd>2023.05.27 ~ 2023.08.06</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
