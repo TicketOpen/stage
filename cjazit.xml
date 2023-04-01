@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 14:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 15:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,30 +102,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/vw/kt/nl196689807sr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디어클라우드 단독 콘서트]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/278</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/278</guid>
-            <pubDate>Mon, 27 Mar 2023 03:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.04.01
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>엠와이뮤직</dd>
-<dt>출연:</dt>
-<dd>디어클라우드</dd>
-</dl>
-<a href="/cjazit/book/view/278" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/wt/hp/fo196689371uk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
