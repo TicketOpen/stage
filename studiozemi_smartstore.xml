@@ -4,9 +4,17 @@
         <title>재미공작소 ─ 네이버 스마트스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 23:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 01:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이고 뮤직 북 EGO MUSIC BOOK]]></title>
+            <link>https://smartstore.naver.com/studiozemi/products/4728840545</link>
+            <guid>https://smartstore.naver.com/studiozemi/products/4728840545</guid>
+            <pubDate>Sun, 06 Nov 2022 05:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20191112_116/15735579008524sHJM_JPEG/10917735400880486_1979879031.jpg?type=f295_381" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소스 리스트]]></title>
             <link>https://smartstore.naver.com/studiozemi/products/7491359328</link>
@@ -38,14 +46,6 @@
             <pubDate>Sun, 06 Nov 2022 05:25:57 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20191112_141/1573560229313luqTg_JPEG/10922562873713801_124320880.jpg?type=f295_381" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이고 뮤직 북 EGO MUSIC BOOK]]></title>
-            <link>https://smartstore.naver.com/studiozemi/products/4728840545</link>
-            <guid>https://smartstore.naver.com/studiozemi/products/4728840545</guid>
-            <pubDate>Sun, 06 Nov 2022 05:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20191112_116/15735579008524sHJM_JPEG/10917735400880486_1979879031.jpg?type=f295_381" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리들의 황금시대 2]]></title>
