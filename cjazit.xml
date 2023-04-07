@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 14:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 15:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/jz/aa/nf196697437hd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[33회 유재하 음악경연대회 수상자 기념 공연]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/281</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/281</guid>
-            <pubDate>Mon, 27 Mar 2023 06:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.04.07
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>에프터눈레코드</dd>
-<dt>출연:</dt>
-<dd>황다정, 김규리, 이형주, 연정, 범진, 등</dd>
-</dl>
-<a href="/cjazit/book/view/281" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/uu/an/ch196691502rb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사운드힐즈 EP 발매 쇼케이스]]></title>
