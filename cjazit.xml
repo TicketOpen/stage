@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 13:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 15:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/jz/aa/nf196697437hd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드힐즈 EP 발매 쇼케이스]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/280</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/280</guid>
-            <pubDate>Mon, 27 Mar 2023 03:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.04.09
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>온에어홀딩스</dd>
-<dt>출연:</dt>
-<dd>사운드힐즈</dd>
-</dl>
-<a href="/cjazit/book/view/280" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/gh/bz/kl196690106jy.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
