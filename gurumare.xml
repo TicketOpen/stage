@@ -4,9 +4,57 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 23:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 01:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베르테르]]></title>
+            <link>https://tickets.interpark.com/goods/23005095</link>
+            <guid>https://tickets.interpark.com/goods/23005095</guid>
+            <pubDate>Tue, 11 Apr 2023 01:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23005095" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16811733091681173309260.jpg">
+									</a>
+								</div>
+								<b>베르테르</b>
+								<span>기세중,곽나윤,노윤</span>
+																<p>2023. 05. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16811733091681173309260.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAMBADA ONSTAGE 다섯 번째 [필로우 토크]]]></title>
+            <link>https://blog.naver.com/yahe2008</link>
+            <guid>https://blog.naver.com/yahe2008</guid>
+            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/yahe2008" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16811736121681173612324.jpg">
+									</a>
+								</div>
+								<b>BAMBADA ONSTAGE 다섯 번째 [필로우 토크]</b>
+								<span>이민규,신범식,류승곤</span>
+																<p>2023. 05. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16811736121681173612324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현주 팬미팅 [현주의 숲]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208043</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208043</guid>
+            <pubDate>Tue, 11 Apr 2023 01:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208043" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg">
+									</a>
+								</div>
+								<b>이현주 팬미팅 [현주의 숲]</b>
+								<span>이현주</span>
+																<p>2023. 05. 12 - 2023. 05. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이지수 10주년 기념 콘서트 [Me, 지수]]]></title>
             <link>https://tickets.interpark.com/goods/23004166</link>
@@ -150,54 +198,6 @@
 								<span>W24</span>
 																<p>2023. 03. 18</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16767828881676782888018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JeA x Seoulit CONCERT [너를 축하해]]]></title>
-            <link>http://ticket.yes24.com/Perf/45003</link>
-            <guid>http://ticket.yes24.com/Perf/45003</guid>
-            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/45003" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16767828501676782850337.jpg">
-									</a>
-								</div>
-								<b>JeA x Seoulit CONCERT [너를 축하해]</b>
-								<span>제아, 서울릿</span>
-																<p>2023. 03. 10</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16767828501676782850337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAMBADA ONSTAGE 네 번째 [임계점]]]></title>
-            <link>https://blog.naver.com/yahe2008</link>
-            <guid>https://blog.naver.com/yahe2008</guid>
-            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/yahe2008" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16767828071676782807749.jpg">
-									</a>
-								</div>
-								<b>BAMBADA ONSTAGE 네 번째 [임계점]</b>
-								<span>권창욱, 김다올, 이승행</span>
-																<p>2023. 03. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16767828071676782807749.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정다한 팬미팅&콘서트 [情을 나누는 다한]]]></title>
-            <link>https://tickets.interpark.com/goods/23001741</link>
-            <guid>https://tickets.interpark.com/goods/23001741</guid>
-            <pubDate>Mon, 13 Feb 2023 01:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23001741" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16762518031676251803022.jpg">
-									</a>
-								</div>
-								<b>정다한 팬미팅&amp;콘서트 [情을 나누는 다한]</b>
-								<span>정다한</span>
-																<p>2023. 03. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16762518031676251803022.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
