@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 01:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:37:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>기세중,곽나윤,노윤</span>
 																<p>2023. 05. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16811733091681173309260.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유지애 팬미팅 [HAPPY JIAE-DAY]]]></title>
+            <link>https://concertbuff.com/product/yoojeae_1</link>
+            <guid>https://concertbuff.com/product/yoojeae_1</guid>
+            <pubDate>Wed, 12 Apr 2023 02:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://concertbuff.com/product/yoojeae_1" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16812639541681263954504.jpg">
+									</a>
+								</div>
+								<b>유지애 팬미팅 [HAPPY JIAE-DAY]</b>
+								<span>유지애</span>
+																<p>2023. 05. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16812639541681263954504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BAMBADA ONSTAGE 다섯 번째 [필로우 토크]]]></title>
@@ -182,22 +198,6 @@
 								<span>주윤하</span>
 																<p>2023. 03. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16767829471676782947022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[W24 단독콘서트 [BORN AGAIN]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207873</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207873</guid>
-            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207873" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16767828881676782888018.jpg">
-									</a>
-								</div>
-								<b>W24 단독콘서트 [BORN AGAIN]</b>
-								<span>W24</span>
-																<p>2023. 03. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16767828881676782888018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
