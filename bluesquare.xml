@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 04:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 						<dd>2023.05.16 ~ 2023.05.16</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/03/0400012303_186743_01.550.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[드림캐쳐 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005375</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005375</guid>
+            <pubDate>Thu, 13 Apr 2023 05:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">드림캐쳐 팬미팅</dt>
+						<dd>2023.05.05 ~ 2023.05.05</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/04/0400012304_187262_01.516.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[강형호 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.02.25 ~ 2023.02.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_184605_01.607.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[막심 므라비차 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=181658&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=181658&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 22 Feb 2023 15:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">막심 므라비차 콘서트</dt>
-						<dd>2023.02.22 ~ 2023.02.22</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/22/11/0400012211_181658_01.113.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 04:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,28 +48,28 @@
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1673088509.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나만 알고 싶은 인디]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1244</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1244</guid>
+            <pubDate>Thu, 13 Apr 2023 05:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.12 (금) 20:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 인디]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1245</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1245</guid>
+            <pubDate>Thu, 13 Apr 2023 05:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.14 (일) 18:00]]></content:encoded>
+            <enclosure url="http://www.workshall.co.kr/images/no_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[JAZZ WORKS]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1230</link>
             <guid>http://www.workshall.co.kr/play/show_detail.html?no=1230</guid>
             <pubDate>Sat, 01 Apr 2023 15:19:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.21 (일) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1677678978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1241</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1241</guid>
-            <pubDate>Sun, 02 Apr 2023 15:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.25 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679562599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독공연]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1242</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1242</guid>
-            <pubDate>Sun, 09 Apr 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.27 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679562619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
