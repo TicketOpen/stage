@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 02:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>이현주</span>
 																<p>2023. 05. 12 - 2023. 05. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김준서 생일 기념 팬미팅 [스물 세번째 기록]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208076</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208076</guid>
+            <pubDate>Wed, 19 Apr 2023 02:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208076" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg">
+									</a>
+								</div>
+								<b>김준서 생일 기념 팬미팅 [스물 세번째 기록]</b>
+								<span>김준서</span>
+																<p>2023. 05. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이지수 10주년 기념 콘서트 [Me, 지수]]]></title>
@@ -182,22 +198,6 @@
 								<span>정우</span>
 																<p>2023. 03. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16771981671677198167115.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨범 발매 기념 단독 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207850</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207850</guid>
-            <pubDate>Sun, 19 Feb 2023 05:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=207850" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16767829471676782947022.jpg">
-									</a>
-								</div>
-								<b>앨범 발매 기념 단독 공연</b>
-								<span>주윤하</span>
-																<p>2023. 03. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16767829471676782947022.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
