@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 14:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찰카기의 썰]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1225</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1225</guid>
-            <pubDate>Thu, 30 Mar 2023 15:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.27 (목) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1675265107.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[반했나봄 세번째 콘서트 - 이삼공사 : 닿음의 시작]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1212</link>
@@ -70,6 +62,14 @@
             <pubDate>Mon, 24 Apr 2023 02:37:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.25 (목) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679562599.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1242</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1242</guid>
+            <pubDate>Thu, 27 Apr 2023 15:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.27 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679562619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
