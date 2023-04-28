@@ -1,8 +1,203 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gurumare.co.kr/show</id>
-    <title>구름아래소극장 ─ 공연안내</title>
-    <updated>2023-04-28T17:19:37.757Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gurumare.co.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>구름아래소극장 ─ 공연안내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Apr 2023 18:25:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베르테르]]></title>
+            <link>https://tickets.interpark.com/goods/23005095</link>
+            <guid>https://tickets.interpark.com/goods/23005095</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23005095" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16811733091681173309260.jpg">
+									</a>
+								</div>
+								<b>베르테르</b>
+								<span>기세중,곽나윤,노윤</span>
+																<p>2023. 05. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16811733091681173309260.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유지애 2nd Fanmeeting [TO YOO]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208120</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208120</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208120" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16826626211682662621750.jpg">
+									</a>
+								</div>
+								<b>유지애 2nd Fanmeeting [TO YOO]</b>
+								<span>유지애</span>
+																<p>2023. 05. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16826626211682662621750.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mellow Kitchen Day]]></title>
+            <link>https://tickets.interpark.com/goods/23006116</link>
+            <guid>https://tickets.interpark.com/goods/23006116</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23006116" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16826627731682662773802.jpg">
+									</a>
+								</div>
+								<b>Mellow Kitchen Day</b>
+								<span>멜로우키친</span>
+																<p>2023. 05. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16826627731682662773802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAMBADA ONSTAGE 다섯 번째 [필로우 토크]]]></title>
+            <link>https://blog.naver.com/yahe2008</link>
+            <guid>https://blog.naver.com/yahe2008</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/yahe2008" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16811736121681173612324.jpg">
+									</a>
+								</div>
+								<b>BAMBADA ONSTAGE 다섯 번째 [필로우 토크]</b>
+								<span>이민규,신범식,류승곤</span>
+																<p>2023. 05. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16811736121681173612324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현주 팬미팅 [현주의 숲]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208043</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208043</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208043" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg">
+									</a>
+								</div>
+								<b>이현주 팬미팅 [현주의 숲]</b>
+								<span>이현주</span>
+																<p>2023. 05. 12 - 2023. 05. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김준서 생일 기념 팬미팅 [스물 세번째 기록]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208076</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208076</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208076" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg">
+									</a>
+								</div>
+								<b>김준서 생일 기념 팬미팅 [스물 세번째 기록]</b>
+								<span>김준서</span>
+																<p>2023. 05. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지수 10주년 기념 콘서트 [Me, 지수]]]></title>
+            <link>https://tickets.interpark.com/goods/23004166</link>
+            <guid>https://tickets.interpark.com/goods/23004166</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23004166" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg">
+									</a>
+								</div>
+								<b>이지수 10주년 기념 콘서트 [Me, 지수]</b>
+								<span>이지수</span>
+																<p>2023. 04. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왁스 소극장 콘서트 [왁스의 일기]]]></title>
+            <link>https://tickets.interpark.com/goods/23003988</link>
+            <guid>https://tickets.interpark.com/goods/23003988</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23003988" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16794652111679465211873.jpg">
+									</a>
+								</div>
+								<b>왁스 소극장 콘서트 [왁스의 일기]</b>
+								<span>왁스</span>
+																<p>2023. 04. 21 - 2023. 04. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16794652111679465211873.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 [Our Universe]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207970</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207970</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207970" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16789364171678936417367.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌6 [Our Universe]</b>
+								<span>맥거핀</span>
+																<p>2023. 04. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16789364171678936417367.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리소 첫번째 단독 콘서트 [pat pat]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207917</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207917</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207917" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16784274561678427456314.jpg">
+									</a>
+								</div>
+								<b>리소 첫번째 단독 콘서트 [pat pat]</b>
+								<span>리소</span>
+																<p>2023. 04. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16784274561678427456314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 [순간의 노래]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207913</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207913</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=207913" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16784273611678427361064.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌6 [순간의 노래]</b>
+								<span>위수</span>
+																<p>2023. 04. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16784273611678427361064.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성리＆장송호 오리지날 라이브 [어서옵쑈]]]></title>
+            <link>https://tickets.interpark.com/goods/23003332</link>
+            <guid>https://tickets.interpark.com/goods/23003332</guid>
+            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23003332" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16784275231678427523679.jpg">
+									</a>
+								</div>
+								<b>성리＆장송호 오리지날 라이브 [어서옵쑈]</b>
+								<span>성리,장송호</span>
+																<p>2023. 04. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16784275231678427523679.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
