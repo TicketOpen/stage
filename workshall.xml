@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 14:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 15:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[반했나봄 세번째 콘서트 - 이삼공사 : 닿음의 시작]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1212</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1212</guid>
-            <pubDate>Fri, 31 Mar 2023 15:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.29 (토) 17:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1682261849.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[베니 그린 마스터클래스]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1246</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 27 Apr 2023 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.27 (토) 00:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679562619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별한 3교시]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1248</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1248</guid>
+            <pubDate>Sat, 29 Apr 2023 15:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.28 (일) 13:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1682262288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
