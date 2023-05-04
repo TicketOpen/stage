@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 03:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 04:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/580/370943215_EAB080EB8298EB8BA4_RGB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더픽스 단독 콘서트 “I WANT IT ALL！”：롤링 28주..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=667&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=667&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 04 May 2023 04:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 06월 06일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/667/158351180_5BED8FACEC8AA4ED84B05D20060620EB8D94ED94BDEC8AA4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강승원의 노후대책 ‘여름’：롤링 28주년 기념 공연]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=666&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=666&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 21 Apr 2023 05:19:22 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 06월 17일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/661/779893482_5BED8FACEC8AA4ED84B05D200616-1720EB9494EC96B4ED81B4EB9DBCEC9AB0EB939C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디어클라우드 단독 콘서트：롤링 28주년 기념 공연]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=660&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=660&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Fri, 21 Apr 2023 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2023년 06월 16일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/660/1805152677_5BED8FACEC8AA4ED84B05D200616-1720EB9494EC96B4ED81B4EB9DBCEC9AB0EB939C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
