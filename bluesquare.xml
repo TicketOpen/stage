@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 14:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 15:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[드림캐쳐 팬미팅]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005375</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005375</guid>
-            <pubDate>Thu, 13 Apr 2023 05:19:52 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187262&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187262&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Fri, 05 May 2023 15:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">드림캐쳐 팬미팅</dt>
 						<dd>2023.05.05 ~ 2023.05.05</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
