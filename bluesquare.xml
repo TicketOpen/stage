@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 04:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김종국 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006541</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006541</guid>
+            <pubDate>Wed, 10 May 2023 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">김종국 콘서트</dt>
+						<dd>2023.07.15 ~ 2023.07.16</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/05/0400012305_188171_01.010.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이펙스 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006422</link>
@@ -146,16 +156,6 @@
 						<dd>2023.03.17 ~ 2023.05.21</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_184636_01.411.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이광조 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183877&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=183877&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 12 Mar 2023 15:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">이광조 콘서트</dt>
-						<dd>2023.03.12 ~ 2023.03.12</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/01/0400012301_183877_01.511.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
