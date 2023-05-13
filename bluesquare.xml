@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 14:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,9 +89,9 @@
         </item>
         <item>
             <title><![CDATA[원더랜드 시어터]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005644</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005644</guid>
-            <pubDate>Wed, 19 Apr 2023 05:31:33 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187460&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187460&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 13 May 2023 15:19:17 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">원더랜드 시어터</dt>
 						<dd>2023.05.06 ~ 2023.05.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>

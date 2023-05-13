@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 14:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,30 +30,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/az/iz/oh199196394ya.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[튠업스테이지_ Jclef 앨범발매기념 쇼케이스]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/286</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/286</guid>
-            <pubDate>Wed, 12 Apr 2023 07:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.05.13
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>제이클레프</dd>
-</dl>
-<a href="/cjazit/book/view/286" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/iq/lp/sx198085489gb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
