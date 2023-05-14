@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 14:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 16:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만 알고싶은 인디 Ep．29 김민성 단독 콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1245</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1245</guid>
-            <pubDate>Thu, 13 Apr 2023 05:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.14 (일) 18:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1683818115.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[OFF THE LIVE01 : 에니그마타 X 이진협 트리오]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1253</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 12 May 2023 15:19:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.02 (금) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1682262405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1235</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1235</guid>
+            <pubDate>Sun, 14 May 2023 16:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.03 (토) 00:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679326595.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
