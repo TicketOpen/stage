@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 23:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 01:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,9 +19,9 @@
         </item>
         <item>
             <title><![CDATA[윤하 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=188359&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=188359&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Fri, 12 May 2023 01:41:02 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006767</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006767</guid>
+            <pubDate>Tue, 16 May 2023 01:41:34 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">윤하 팬미팅</dt>
 						<dd>2023.06.17 ~ 2023.06.18</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
