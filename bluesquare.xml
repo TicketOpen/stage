@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 04:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2023.07.15 ~ 2023.07.16</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/05/0400012305_188171_01.010.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[베리베리 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007357</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007357</guid>
+            <pubDate>Thu, 25 May 2023 05:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">베리베리 콘서트</dt>
+						<dd>2023.06.24 ~ 2023.06.25</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/05/0400012305_188839_01.117.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤하 팬미팅]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.03.28 ~ 2023.03.28</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/03/0400012303_185811_01.341.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[사운드베리 시어터]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185378&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185378&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 26 Mar 2023 15:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">사운드베리 시어터</dt>
-						<dd>2023.03.25 ~ 2023.03.26</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185378_01.230.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
