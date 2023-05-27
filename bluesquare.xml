@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 14:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 16:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,9 +79,9 @@
         </item>
         <item>
             <title><![CDATA[숙행 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004649</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004649</guid>
-            <pubDate>Thu, 06 Apr 2023 01:29:05 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=186702&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=186702&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 27 May 2023 16:24:56 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">숙행 콘서트</dt>
 						<dd>2023.05.27 ~ 2023.05.27</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
