@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 06:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 07:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2023.07.15 ~ 2023.07.16</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/05/0400012305_188171_01.010.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[검정치마 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008019</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008019</guid>
+            <pubDate>Wed, 07 Jun 2023 07:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">검정치마 콘서트</dt>
+						<dd>2023.07.07 ~ 2023.07.09</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_189376_01.801.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[양다일 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.04.29 ~ 2023.04.30</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/03/0400012303_185985_01.952.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[드림 씨어터 내한공연]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185573&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=185573&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 26 Apr 2023 15:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">드림 씨어터 내한공연</dt>
-						<dd>2023.04.25 ~ 2023.04.26</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/02/0400012302_185573_01.205.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
