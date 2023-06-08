@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 05:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 06:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투가이즈쇼]]></title>
+            <link>http://ticket.yes24.com/Perf/46201</link>
+            <guid>http://ticket.yes24.com/Perf/46201</guid>
+            <pubDate>Thu, 08 Jun 2023 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/46201" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼</b>
+								<span> 정민, 주민진</span>
+																<p>2023. 07. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JUMP IN－TO－THE UNIVERSE]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208196</link>
@@ -182,22 +198,6 @@
 								<span>김준서</span>
 																<p>2023. 05. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지수 10주년 기념 콘서트 [Me, 지수]]]></title>
-            <link>https://tickets.interpark.com/goods/23004166</link>
-            <guid>https://tickets.interpark.com/goods/23004166</guid>
-            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23004166" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg">
-									</a>
-								</div>
-								<b>이지수 10주년 기념 콘서트 [Me, 지수]</b>
-								<span>이지수</span>
-																<p>2023. 04. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16794569281679456928678.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
