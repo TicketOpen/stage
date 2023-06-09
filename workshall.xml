@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 14:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나만 알고싶은 인디 Ep．30 프랭클리（Frankly）단독콘서트]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1237</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1237</guid>
-            <pubDate>Sun, 21 May 2023 15:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.09 (금) 20:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1685866735.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track．64 맥거핀（MGFF）단독콘서트]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1238</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 04 Jun 2023 15:18:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.29 (목) 20:00]]></content:encoded>
             <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1679562704.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기획공연]]></title>
+            <link>http://www.workshall.co.kr/play/show_detail.html?no=1254</link>
+            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1254</guid>
+            <pubDate>Fri, 09 Jun 2023 15:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.30 (금) 20:00]]></content:encoded>
+            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1683467244.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
