@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 03:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 03:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span> 정민, 주민진</span>
 																<p>2023. 07. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[왜 지속가능한 디지털 공동체인가] 북콘서트]]></title>
+            <link>https://www.yes24.com/24/AuthorFile/Author/198579</link>
+            <guid>https://www.yes24.com/24/AuthorFile/Author/198579</guid>
+            <pubDate>Mon, 12 Jun 2023 03:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.yes24.com/24/AuthorFile/Author/198579" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16865390681686539068578.jpg">
+									</a>
+								</div>
+								<b>[왜 지속가능한 디지털 공동체인가] 북콘서트</b>
+								<span>현광일</span>
+																<p>2023. 07. 09</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16865390681686539068578.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUMP IN－TO－THE UNIVERSE]]></title>
@@ -182,22 +198,6 @@
 								<span>이현주</span>
 																<p>2023. 05. 12 - 2023. 05. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준서 생일 기념 팬미팅 [스물 세번째 기록]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208076</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208076</guid>
-            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208076" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg">
-									</a>
-								</div>
-								<b>김준서 생일 기념 팬미팅 [스물 세번째 기록]</b>
-								<span>김준서</span>
-																<p>2023. 05. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16818633361681863336532.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
