@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 08:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span> 정민, 주민진</span>
 																<p>2023. 07. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커피소년 여름 콘서트 [Mellow Diving]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208365</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208365</guid>
+            <pubDate>Mon, 12 Jun 2023 08:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208365" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16865570781686557078001.jpg">
+									</a>
+								</div>
+								<b>커피소년 여름 콘서트 [Mellow Diving]</b>
+								<span>커피소년</span>
+																<p>2023. 07. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16865570781686557078001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[왜 지속가능한 디지털 공동체인가] 북콘서트]]></title>
@@ -182,22 +198,6 @@
 								<span>이민규,신범식,류승곤</span>
 																<p>2023. 05. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16811736121681173612324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이현주 팬미팅 [현주의 숲]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208043</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208043</guid>
-            <pubDate>Fri, 28 Apr 2023 18:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208043" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg">
-									</a>
-								</div>
-								<b>이현주 팬미팅 [현주의 숲]</b>
-								<span>이현주</span>
-																<p>2023. 05. 12 - 2023. 05. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16811732451681173245819.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
