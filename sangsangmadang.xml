@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sangsangmadang.com/show/HD</id>
     <title>상상마당 ─ 공연정보</title>
-    <updated>2023-06-18T23:21:37.132Z</updated>
+    <updated>2023-06-19T01:50:42.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.sangsangmadang.com/show/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 신인류 쇼케이스〈ANGLE〉]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2383</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2383"/>
+        <updated>2023-06-19T01:50:01.020Z</updated>
+        <content type="html"><![CDATA[2023.07.09~2023.07.09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAIR PLAY : Vol.6 로우행잉프루츠X오아!]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2381</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2381"/>
+        <updated>2023-06-19T01:50:01.023Z</updated>
+        <content type="html"><![CDATA[2023.07.07~2023.07.07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 크라잉넛 전국투어 <전국너트자랑> 서울]]></title>
         <id>https://www.sangsangmadang.com/show/detail/2363</id>
         <link href="https://www.sangsangmadang.com/show/detail/2363"/>
         <updated>2023-05-18T02:36:50.538Z</updated>
         <content type="html"><![CDATA[2023.06.23~2023.06.24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오프더메뉴 단독콘서트：Silhouette]]></title>
+        <id>https://www.sangsangmadang.com/show/detail/2382</id>
+        <link href="https://www.sangsangmadang.com/show/detail/2382"/>
+        <updated>2023-06-19T01:50:01.024Z</updated>
+        <content type="html"><![CDATA[2023.06.17~2023.06.17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PAIR PLAY : Vol.5 진동욱X이고도]]></title>
@@ -123,26 +144,5 @@
         <link href="https://www.sangsangmadang.com/show/detail/2318"/>
         <updated>2023-03-15T01:45:08.595Z</updated>
         <content type="html"><![CDATA[2023.03.15~2023.04.28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tokyo honey trap (도쿄허니트랩) 내한공연]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2305</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2305"/>
-        <updated>2023-02-23T09:23:11.414Z</updated>
-        <content type="html"><![CDATA[2023.03.05~2023.03.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joob A 단독콘서트 [The Last Cold Snap 2]]]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2304</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2304"/>
-        <updated>2023-02-23T09:23:11.414Z</updated>
-        <content type="html"><![CDATA[2023.02.25~2023.02.25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lacuna (라쿠나) 투어 콘서트 '마차']]></title>
-        <id>https://www.sangsangmadang.com/show/detail/2282</id>
-        <link href="https://www.sangsangmadang.com/show/detail/2282"/>
-        <updated>2023-01-25T01:44:20.392Z</updated>
-        <content type="html"><![CDATA[2023.02.18~2023.02.19]]></content>
     </entry>
 </feed>
