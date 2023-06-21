@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 05:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현상 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008785</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008785</guid>
+            <pubDate>Wed, 21 Jun 2023 06:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">하현상 콘서트</dt>
+						<dd>2023.08.05 ~ 2023.08.06</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_190018_01.412.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이제훈 팬미팅]]></title>
             <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=189830&amp;m_menu=performance&amp;s_menu=info</link>
@@ -146,16 +156,6 @@
 						<dd>2023.05.06 ~ 2023.05.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/04/0400012304_187460_01.142.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[드림캐쳐 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187262&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187262&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Fri, 05 May 2023 15:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">드림캐쳐 팬미팅</dt>
-						<dd>2023.05.05 ~ 2023.05.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/04/0400012304_187262_01.516.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
