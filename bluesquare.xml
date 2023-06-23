@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 08:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 09:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2023.08.19 ~ 2023.11.19</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_190036_01.045.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[레베카]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008837</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008837</guid>
+            <pubDate>Fri, 23 Jun 2023 09:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">레베카</dt>
+						<dd>2023.08.19 ~ 2023.11.19</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_190141_01.059.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[하현상 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.05.27 ~ 2023.05.27</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/03/0400012303_186702_01.054.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아론 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187648&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=187648&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 21 May 2023 15:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">아론 팬미팅</dt>
-						<dd>2023.05.20 ~ 2023.05.21</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/04/0400012304_187648_01.917.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
