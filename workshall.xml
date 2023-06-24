@@ -4,17 +4,9 @@
         <title>폼텍웍스홀 ─ 공연안내 ─ 예정공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 14:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 15:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[숨결: SUM vol.1]]></title>
-            <link>http://www.workshall.co.kr/play/show_detail.html?no=1251</link>
-            <guid>http://www.workshall.co.kr/play/show_detail.html?no=1251</guid>
-            <pubDate>Fri, 02 Jun 2023 15:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.24 (토) 00:00]]></content:encoded>
-            <enclosure url="http://img.formtec.co.kr/formtecworks/list/listimg1_1685866930.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[JAZZ WORKS]]></title>
             <link>http://www.workshall.co.kr/play/show_detail.html?no=1252</link>
