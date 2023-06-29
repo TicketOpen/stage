@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 23:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 03:35:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span> 정민, 주민진</span>
 																<p>2023. 07. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김수영 Fan Meet-Up [Spoiler Day]]]></title>
+            <link>https://tickets.interpark.com/goods/23008999</link>
+            <guid>https://tickets.interpark.com/goods/23008999</guid>
+            <pubDate>Thu, 29 Jun 2023 03:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23008999" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16879996981687999698752.jpg">
+									</a>
+								</div>
+								<b>김수영 Fan Meet-Up [Spoiler Day]</b>
+								<span>김수영</span>
+																<p>2023. 07. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16879996981687999698752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자화상]]></title>
@@ -182,22 +198,6 @@
 								<span>김준서</span>
 																<p>2023. 06. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16839470901683947090679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘길＆모세 [언제나 입춘대길]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208220</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208220</guid>
-            <pubDate>Sat, 13 May 2023 03:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208220" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16839471781683947178763.jpg">
-									</a>
-								</div>
-								<b>춘길＆모세 [언제나 입춘대길]</b>
-								<span>모세, 춘길</span>
-																<p>2023. 06. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16839471781683947178763.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
