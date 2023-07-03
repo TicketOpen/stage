@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 06:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 08:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>정동하</span>
 																<p>2023. 07. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16875913581687591358954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 3집 [아무도 모르게] 발매기념 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208427</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208427</guid>
+            <pubDate>Mon, 03 Jul 2023 08:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208427" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16883702601688370260091.jpg">
+									</a>
+								</div>
+								<b>정규 3집 [아무도 모르게] 발매기념 콘서트</b>
+								<span>전진희</span>
+																<p>2023. 07. 28 - 2023. 07. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16883702601688370260091.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투가이즈쇼]]></title>
@@ -182,22 +198,6 @@
 								<span>안예은</span>
 																<p>2023. 06. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16839470441683947044949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 [Our Universe]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208214</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208214</guid>
-            <pubDate>Sat, 13 May 2023 03:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208214" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16839470901683947090679.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌6 [Our Universe]</b>
-								<span>김준서</span>
-																<p>2023. 06. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16839470901683947090679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
