@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>CJ문화재단 ─ 공연예매</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 14:20:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[튠업 스테이지: Music Oasis]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/291</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/291</guid>
-            <pubDate>Fri, 23 Jun 2023 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.07.08
-</dd>
-<dt class="a11y">장소</dt>
- <dd>노들섬 라이브하우스</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>유라, 윤지영</dd>
-</dl>
-<a href="/cjazit/book/view/291" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/js/mb/wu204312369aq.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cjazit.org/cjazit/book/list</id>
+    <title>CJ문화재단 ─ 공연예매</title>
+    <updated>2023-07-08T15:21:52.582Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
+</feed>
