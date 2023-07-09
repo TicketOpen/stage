@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 14:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 15:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,9 +79,9 @@
         </item>
         <item>
             <title><![CDATA[검정치마 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008019</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008019</guid>
-            <pubDate>Wed, 07 Jun 2023 07:20:31 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=189376&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=189376&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 09 Jul 2023 15:25:29 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">검정치마 콘서트</dt>
 						<dd>2023.07.07 ~ 2023.07.09</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
