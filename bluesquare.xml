@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 02:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 03:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,9 +19,9 @@
         </item>
         <item>
             <title><![CDATA[데이브레이크 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190591&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190591&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 06 Jul 2023 06:31:00 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009411</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009411</guid>
+            <pubDate>Mon, 10 Jul 2023 03:34:39 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">데이브레이크 콘서트</dt>
 						<dd>2023.08.12 ~ 2023.08.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
