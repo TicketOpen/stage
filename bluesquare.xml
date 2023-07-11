@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 04:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 05:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<dt class="subject">레미제라블</dt>
 						<dd>2023.11.30 ~ 2024.03.10</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190722_01.112.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190722_01.837.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[씨아이엑스 팬미팅]]></title>
