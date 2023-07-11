@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 23:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 01:54:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떼창의 민족]]></title>
+            <link>https://tickets.interpark.com/goods/23009190</link>
+            <guid>https://tickets.interpark.com/goods/23009190</guid>
+            <pubDate>Tue, 11 Jul 2023 01:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23009190" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16890367851689036785925.jpg">
+									</a>
+								</div>
+								<b>떼창의 민족</b>
+								<span>이승환밴드</span>
+																<p>2023. 08. 12 - 2023. 08. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16890367851689036785925.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 정동하 팬미팅 [우리 잠시 쉬었다 갈까요? : 동하의 화원]]]></title>
             <link>http://ticket.yes24.com/Perf/46282</link>
@@ -182,22 +198,6 @@
 								<span>pigfrog, Xin Seha, TENGGER</span>
 																<p>2023. 06. 18</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16869963561686996356752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안예은 상영회 〈成長〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208205</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208205</guid>
-            <pubDate>Sat, 13 May 2023 03:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208205" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16839470441683947044949.jpg">
-									</a>
-								</div>
-								<b>안예은 상영회 〈成長〉</b>
-								<span>안예은</span>
-																<p>2023. 06. 11</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16839470441683947044949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
