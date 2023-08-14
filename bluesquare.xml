@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 06:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2023.11.30 ~ 2024.03.10</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190722_01.837.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[탁재훈 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191615&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191615&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Mon, 14 Aug 2023 06:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">탁재훈 콘서트</dt>
+						<dd>2023.09.16 ~ 2023.09.17</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_191615_01.928.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[스탠드업 어셈블]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.07.07 ~ 2023.07.09</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_189376_01.801.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[양다일 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=188785&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=188785&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 02 Jul 2023 15:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">양다일 콘서트</dt>
-						<dd>2023.07.01 ~ 2023.07.02</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/05/0400012305_188785_01.507.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
