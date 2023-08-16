@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,9 +19,9 @@
         </item>
         <item>
             <title><![CDATA[탁재훈 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191615&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191615&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 14 Aug 2023 06:26:22 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010797</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010797</guid>
+            <pubDate>Wed, 16 Aug 2023 08:25:49 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">탁재훈 콘서트</dt>
 						<dd>2023.09.16 ~ 2023.09.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
