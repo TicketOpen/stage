@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 07:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 08:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,54 @@
             <pubDate>Wed, 23 Aug 2023 15:22:36 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 09월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/693/457097261_ED9988ED8E98EC9DB4ECA780_w24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 서울 콘서트 <나에게 그대만이> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/46942</link>
+            <guid>http://ticket.yes24.com/Perf/46942</guid>
+            <pubDate>Thu, 24 Aug 2023 08:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/46942" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16928621451692862145274.jpg">
+									</a>
+								</div>
+								<b>2023 서울 콘서트 &lt;나에게 그대만이&gt;</b>
+								<span>유해준</span>
+																<p>2023. 10. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16928621451692862145274.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이올리니스트 탁보늬 콘서트 <별을 쫓는 아이> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/23012061</link>
+            <guid>https://tickets.interpark.com/goods/23012061</guid>
+            <pubDate>Thu, 24 Aug 2023 08:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23012061" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16928618441692861844855.jpg">
+									</a>
+								</div>
+								<b>바이올리니스트 탁보늬 콘서트 &lt;별을 쫓는 아이&gt;</b>
+								<span>탁보늬</span>
+																<p>2023. 10. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16928618441692861844855.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강재수&장송호 오리지날 라이브 <어서옵쑈> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/23011842</link>
+            <guid>https://tickets.interpark.com/goods/23011842</guid>
+            <pubDate>Thu, 24 Aug 2023 08:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23011842" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16928616331692861633592.jpg">
+									</a>
+								</div>
+								<b>강재수&amp;장송호 오리지날 라이브 &lt;어서옵쑈&gt;</b>
+								<span>강재수, 장송호</span>
+																<p>2023. 09. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16928616331692861633592.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강아솔 X 주윤하 <우리 다시 만날 때> (구름아래소극장 ─ 공연안내)]]></title>
@@ -254,54 +302,6 @@
 								<span>최우진</span>
 																<p>2023. 08. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16892092161689209216518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 정동하 팬미팅 [우리 잠시 쉬었다 갈까요? : 동하의 화원] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.yes24.com/Perf/46282</link>
-            <guid>http://ticket.yes24.com/Perf/46282</guid>
-            <pubDate>Sat, 24 Jun 2023 08:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/46282" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16875913581687591358954.jpg">
-									</a>
-								</div>
-								<b>2023 정동하 팬미팅 [우리 잠시 쉬었다 갈까요? : 동하의 화원]</b>
-								<span>정동하</span>
-																<p>2023. 07. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16875913581687591358954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정규 3집 [아무도 모르게] 발매기념 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208427</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208427</guid>
-            <pubDate>Mon, 03 Jul 2023 08:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208427" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16883702601688370260091.jpg">
-									</a>
-								</div>
-								<b>정규 3집 [아무도 모르게] 발매기념 콘서트</b>
-								<span>전진희</span>
-																<p>2023. 07. 28 - 2023. 07. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16883702601688370260091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투가이즈쇼 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.yes24.com/Perf/46201</link>
-            <guid>http://ticket.yes24.com/Perf/46201</guid>
-            <pubDate>Thu, 08 Jun 2023 06:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/46201" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg">
-									</a>
-								</div>
-								<b>투가이즈쇼</b>
-								<span> 정민, 주민진</span>
-																<p>2023. 07. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16862045531686204553600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 FTISLAND LIVE ‘HEY DAY’ (예스24 라이브홀)]]></title>
@@ -757,197 +757,204 @@
             <title><![CDATA[undefined (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:49 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI krKVHR group"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:49 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:49 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI krKVHR group"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-nodeul-music " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">라디오 노들(RADIO NODEUL) YOUTUBE</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:53 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:53 GMT</pubDate>
             <content:encoded><![CDATA[<div id="318717692" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF EZSye cedFSI group"><a href="https://tickets.interpark.com/goods/23009625" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ eQPpGO group" aria-describedby="profile-ctrsound " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO dgVnpq bhdLno jUdyrs"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/FlKizk8QCmTvakaTjBt6_IMG_1072.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj hURgPx"></div><p class="sc-hKgILt sc-kIeTtH gXKGT gNHlwO">[EARS-UP season2 -vol.1 최고은밴드 w/ 모어 ] 예매하기</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:53 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:53 GMT</pubDate>
             <content:encoded><![CDATA[<div id="315962352" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF EZSye cedFSI group"><a href="https://m.ticket.melon.com/public/index.html#performance.index?prodId=208425" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ eQPpGO group" aria-describedby="profile-ctrsound " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO dgVnpq bhdLno jUdyrs"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/bcN0SzBQqCC1QBQcyUvy_IMG_0939.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj hURgPx"></div><p class="sc-hKgILt sc-kIeTtH gXKGT gNHlwO">[곽푸른하늘] It’s begun 예매하기</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:53 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:53 GMT</pubDate>
             <content:encoded><![CDATA[<div id="58790335" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF EZSye cedFSI group"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ eQPpGO group" aria-describedby="profile-ctrsound " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO dgVnpq bhdLno jUdyrs"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/tZ6rIRqQJc3yYQ7pPTZg_%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8-%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7-1.jpg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj hURgPx"></div><p class="sc-hKgILt sc-kIeTtH gXKGT gNHlwO">씨티알싸운드 YOUTUBE</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="76993986" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://kamimusic.com/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">프리즘홀 공식 홈페이지</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="72606111" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">프리즘홀 유튜브</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="72605894" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://blog.naver.com/prismhall2012" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">프리즘홀 공식 블로그</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="323333913" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208581" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">워킹애프터유 : 중요한건 꺾이지 않는 마음 투어 파이널</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="320966254" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208500" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">빅토르스몰스키 Live in Seoul</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="320966191" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208502" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">ZARDONIC in Seoul</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="320966111" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208518" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">친구가되자! vol.1 : 전기뱀장어 x 전자양</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="320965993" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208504" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">2023 오핑 단독 콘서트 [Birthday Harlem]</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:19:58 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[<div id="320965736" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208442" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-prismhall " height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">Analog Dawn (왑띠, 아시안글로우, 브로큰티스)</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="245453570" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://unpluggedhongdae.notion.site/bdd881ba7e354f7fb9127216e5d83636?v=8310804bbe044d14b0fc08730b8ff3b3" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">✨공연 일정표 PERFORMANCE CALENDAR✨</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="82041233" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdzrrG-0O6PZXtXDShUaH4YcEJwC79h0EZ_hUkSmlT7Mt8Wtg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">언플러그드 대관 신청(2023ver)</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="237867009" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/84TizrFpt7FUXa2z5" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c668SLrfQHWYUyopTaDd_%EB%84%A4%EC%9D%B4%EB%B2%84%20%ED%91%9C%EC%A7%80%EC%9A%A9.png" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">언플러그드 '오픈 스테이지' 참가 신청서</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="325064574" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/ozxiccBra3tfF23u6" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/aaf9ea20-42c1-46bb-a8d1-8a619ecf4cfa_------0823.png" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">정기공연 - 08/23(수) 오후 8시 : 한로이, 이재경</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="324347898" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/65d3AiugXbuDsUs86" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/ff206a33-aee8-4709-a0d8-a160caebffc7_IMG-3852.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">정기공연 - 8/24(목) 오후 8시 : New Moon, Crocus, 정우진</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="324831338" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/3fXZwyAwF4A2LCyr5" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/fa8887db-608f-44b5-a4b4-e4a31e02ea0c_IMG-4180.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 8/25(금) 오후 8시 : 초록바다, Joymin, HADA</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="322677571" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/nJ98AGo4UorMpTLL8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/xAmvz65xSG2w8t2gUPp8_230826%20WE!%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5.png" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 8/26(토) 오후 3시 : 명현, 심가원, 이상웅</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="326565893" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://ticket.melon.com/performance/index.htm?prodId=208641" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/cedb9447-385b-4de4-8bbe-16b863225f11_KakaoTalk-20230816-153938804.png" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 8/27(일) 오후 5시 : 술이 된 노래들 vol.9 '날씨 맑음'</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="324622743" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/LLAGZjzprJio5bXx8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">[부산 오방가르드 공연] 8/27(일) 오후 7시 : 시너가렛, 시인을 위하여</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="326083120" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/o6PzWqcQevN3Y6CJ8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c2adc12c-8417-4145-8e6d-5e8eb11a198d_IMG-4175.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">정기공연 - 8/31(목) 오후 8시 : 김서현, 녹, 몽(夢)</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="326058732" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/hriRvBLwfL64G5R68" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ bmtVxo group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 9/1(금) 오후 8시 : 이채도, 옛그리움, 김이불</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="327040100" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/FdKzPdptQoMtB7jj9" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/26afad50-2158-4ce3-a60b-fa876744bcd5_IMG-4277.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 9/3(일) 오후 7시 : 조아람, 루이드</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="326837591" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/xDc82wi79xqNCnX8A" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/1bc2994e-ed66-4d22-b20c-051a68a4904d_image.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">오픈스테이지 #12 - 9/7(목) 오후 8시 : betti blue, ESKM, felt</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 07:20:03 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<div id="327514582" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/vB3eYKTb8YZZbN65A" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/7853b08c-43e8-44f5-a821-2f6fa3e8329f_IMG-4315.jpeg" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 9/8 (금) 오후 8시 : 듀디쉬, 파파더캅, 펜텐</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Thu, 24 Aug 2023 08:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="327739978" class="sc-bdfBwQ sc-jUEnpm jAmcnV cCSKON"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-idOhPF glfyiI gdcaWU group"><a href="https://forms.gle/vhHs58m7gy3Xfhce8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-bkzZxe ldGKnQ cZzyuA group" aria-describedby="profile-언플러그드-홍대점 header-281265539" height="auto"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-aemoO fEQWLI bhdLno ithSFO"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/e4c8a6db-d962-4231-b3f4-cf5c7e6bc563_0909--.png" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-jONnTn gLxBPj jfNdCZ"></div><p class="sc-hKgILt sc-kIeTtH cxwgnw gNHlwO">기획공연 - 09/09(토) 오후 7시 : 김라프,N@di,이나리</p></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
     </channel>
 </rss>
