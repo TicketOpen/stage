@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 03:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 04:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/701/711884597_EBAEA4ECBD98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙홀 8.15 단독공연]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=700&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=700&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Wed, 23 Aug 2023 15:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2023년 08월 15일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/700/700527130_EBB894EB9E99ED9980.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정석훈 단독 콘서트 : KOON'S CLOUD 2.0]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=699&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=699&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
@@ -78,14 +70,6 @@
             <pubDate>Wed, 23 Aug 2023 15:22:36 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 09월 10일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/698/565530319_33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카디（KARDI）INSIDE OUT CLUB TOUR SEOUL ROLLINGHAL..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=697&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=697&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Wed, 23 Aug 2023 15:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2023년 08월 04일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/697/1670047089_22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ABOUT (어바웃) 단독 콘서트 'SUMMERTIME SADNES..]]></title>
@@ -110,6 +94,22 @@
             <pubDate>Wed, 23 Aug 2023 15:22:36 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 09월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/693/457097261_ED9988ED8E98EC9DB4ECA780_w24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[락킷걸 첫 단독 콘서트 : never stop rock]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=692&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=692&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Sat, 26 Aug 2023 04:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 09월 17일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/692/704912537_EB9DBDED82B7EAB1B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안다영 단독 콘서트 'sweet and awful social cl..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=691&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=691&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Sat, 26 Aug 2023 04:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2023년 08월 26일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/691/529742809_EC9588EB8BA4EC9881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
