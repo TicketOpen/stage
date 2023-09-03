@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 14:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 15:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[차지연 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009739</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009739</guid>
-            <pubDate>Fri, 14 Jul 2023 03:34:53 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190969&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190969&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 03 Sep 2023 15:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">차지연 콘서트</dt>
 						<dd>2023.09.02 ~ 2023.09.03</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
