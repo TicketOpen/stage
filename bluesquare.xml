@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 03:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 04:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,7 +25,7 @@
             <content:encoded><![CDATA[<dt class="subject">권은비 콘서트</dt>
 						<dd>2023.10.07 ~ 2023.10.08</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_193009_01.735.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_193009_01.340.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[더뉴식스 콘서트]]></title>
