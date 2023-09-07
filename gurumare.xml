@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 04:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 05:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>탁보늬</span>
 																<p>2023. 10. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16928618441692861844855.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신명근 1st Concert]]></title>
+            <link>https://www.ticketlink.co.kr/product/45382</link>
+            <guid>https://www.ticketlink.co.kr/product/45382</guid>
+            <pubDate>Thu, 07 Sep 2023 05:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ticketlink.co.kr/product/45382" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16940626571694062657127.jpg">
+									</a>
+								</div>
+								<b>신명근 1st Concert</b>
+								<span>신명근</span>
+																<p>2023. 10. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16940626571694062657127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨이홈 두번째 앨범 발매 콘서트 <우리가 드리는 이야기>]]></title>
@@ -182,22 +198,6 @@
 								<span>은가은</span>
 																<p>2023. 08. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16919164881691916488758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2F 1st Fan Concert [2F Only]]]></title>
-            <link>https://tickets.interpark.com/goods/23009667</link>
-            <guid>https://tickets.interpark.com/goods/23009667</guid>
-            <pubDate>Thu, 13 Jul 2023 02:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23009667" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16892092941689209294995.jpg">
-									</a>
-								</div>
-								<b>2F 1st Fan Concert [2F Only]</b>
-								<span>2F</span>
-																<p>2023. 08. 14 - 2023. 08. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16892092941689209294995.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
