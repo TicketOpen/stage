@@ -1,8 +1,161 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.bluesquare.kr/Goods/AllPerformanceList.asp?m_menu=performance&amp;s_menu=all</id>
-    <title>블루스퀘어 ─ 공연안내</title>
-    <updated>2023-09-11T23:22:28.277Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.bluesquare.kr/Goods/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블루스퀘어 ─ 공연안내</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 12 Sep 2023 01:20:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레미제라블]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012526</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012526</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">레미제라블</dt>
+						<dd>2023.11.30 ~ 2024.03.10</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190722_01.837.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[임현식 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012831</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012831</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">임현식 콘서트</dt>
+						<dd>2023.10.14 ~ 2023.10.15</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_193332_01.618.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[권은비 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012452</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012452</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">권은비 콘서트</dt>
+						<dd>2023.10.07 ~ 2023.10.08</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_193009_01.340.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[더뉴식스 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012429</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012429</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">더뉴식스 콘서트</dt>
+						<dd>2023.10.03 ~ 2023.10.03</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_192980_01.415.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김세정 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011617</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011617</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">김세정 콘서트</dt>
+						<dd>2023.09.23 ~ 2023.09.24</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_192303_01.759.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[탁재훈 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010797</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010797</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">탁재훈 콘서트</dt>
+						<dd>2023.09.16 ~ 2023.09.17</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_191615_01.928.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[스탠드업 어셈블]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191999&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191999&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">스탠드업 어셈블</dt>
+						<dd>2023.09.10 ~ 2023.09.10</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_191999_01.848.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최수영 팬미팅]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191776&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191776&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">최수영 팬미팅</dt>
+						<dd>2023.09.09 ~ 2023.09.09</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_191776_01.000.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[차지연 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190969&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190969&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">차지연 콘서트</dt>
+						<dd>2023.09.02 ~ 2023.09.03</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190969_01.944.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[검정치마 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191848&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=191848&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">검정치마 콘서트</dt>
+						<dd>2023.08.25 ~ 2023.08.27</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_191848_01.007.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[레베카]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008837</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008837</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">레베카</dt>
+						<dd>2023.08.19 ~ 2023.11.19</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_190036_01.204.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[씨아이엑스 팬미팅]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190611&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190611&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">씨아이엑스 팬미팅</dt>
+						<dd>2023.08.19 ~ 2023.08.20</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190611_01.508.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190591&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190591&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">데이브레이크 콘서트</dt>
+						<dd>2023.08.12 ~ 2023.08.13</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190591_01.611.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[하현상 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190018&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190018&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">하현상 콘서트</dt>
+						<dd>2023.08.05 ~ 2023.08.06</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_190018_01.412.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[권진아 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190146&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190146&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 12 Sep 2023 01:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">권진아 콘서트</dt>
+						<dd>2023.07.29 ~ 2023.07.30</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/06/0400012306_190146_01.541.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
