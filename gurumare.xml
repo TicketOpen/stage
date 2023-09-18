@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 08:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>양진석</span>
 																<p>2023. 11. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16935447501693544750358.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이한철 가을콘서트 '단풍 보러 갑니다' - 서울]]></title>
+            <link>https://tickets.interpark.com/goods/23013396</link>
+            <guid>https://tickets.interpark.com/goods/23013396</guid>
+            <pubDate>Mon, 18 Sep 2023 09:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23013396" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16950271291695027129304.jpg">
+									</a>
+								</div>
+								<b>이한철 가을콘서트 '단풍 보러 갑니다' - 서울</b>
+								<span>이한철</span>
+																<p>2023. 10. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16950271291695027129304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투가이즈쇼 10월]]></title>
@@ -182,22 +198,6 @@
 								<span>강아솔, 주윤하</span>
 																<p>2023. 09. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16917263331691726333096.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WEi 팬사인회]]></title>
-            <link>https://www.instagram.com/p/Cwupyq-PLJe/?img_index=1</link>
-            <guid>https://www.instagram.com/p/Cwupyq-PLJe/?img_index=1</guid>
-            <pubDate>Sat, 09 Sep 2023 07:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/Cwupyq-PLJe/?img_index=1" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16942426321694242632746.jpg">
-									</a>
-								</div>
-								<b>WEi 팬사인회</b>
-								<span>WEi (위아이)</span>
-																<p>2023. 09. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16942426321694242632746.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
