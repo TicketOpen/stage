@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 06:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 07:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,22 +88,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/16928618441692861844855.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신명근 1st Concert]]></title>
-            <link>https://www.ticketlink.co.kr/product/45382</link>
-            <guid>https://www.ticketlink.co.kr/product/45382</guid>
-            <pubDate>Thu, 07 Sep 2023 05:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.ticketlink.co.kr/product/45382" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16940626571694062657127.jpg">
-									</a>
-								</div>
-								<b>신명근 1st Concert</b>
-								<span>신명근</span>
-																<p>2023. 10. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16940626571694062657127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김경욱 팬미팅]]></title>
             <link>https://tickets.interpark.com/goods/23012604</link>
             <guid>https://tickets.interpark.com/goods/23012604</guid>
@@ -166,6 +150,22 @@
 								<span>강재수, 장송호</span>
 																<p>2023. 09. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16928616331692861633592.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers 팬사인회]]></title>
+            <link>https://xikers.kr/community/board/645c93a108d9a165eaf75703/post/64fc2aadec6d76724a6c3865</link>
+            <guid>https://xikers.kr/community/board/645c93a108d9a165eaf75703/post/64fc2aadec6d76724a6c3865</guid>
+            <pubDate>Mon, 18 Sep 2023 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://xikers.kr/community/board/645c93a108d9a165eaf75703/post/64fc2aadec6d76724a6c3865" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16950203501695020350467.jpg">
+									</a>
+								</div>
+								<b>xikers 팬사인회</b>
+								<span>xikers(싸이커스)</span>
+																<p>2023. 09. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16950203501695020350467.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강아솔 X 주윤하 <우리 다시 만날 때>]]></title>
