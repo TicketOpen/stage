@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 02:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 03:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,7 +43,7 @@
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012831</guid>
             <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">임현식 콘서트</dt>
-						<dd>2023.10.14 ~ 2023.10.15</dd>
+						<dd>2023.10.13 ~ 2023.10.15</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_193332_01.631.gif" length="0" type="image/gif"/>
         </item>
