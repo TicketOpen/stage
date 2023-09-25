@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>이한철</span>
 																<p>2023. 10. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16950271291695027129304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DREAM WALKER ＃3：해서웨이]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208797</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208797</guid>
+            <pubDate>Mon, 25 Sep 2023 03:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208797" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16956088511695608851898.jpg">
+									</a>
+								</div>
+								<b>DREAM WALKER ＃3：해서웨이</b>
+								<span>해서웨이</span>
+																<p>2023. 10. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16956088511695608851898.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투가이즈쇼 10월]]></title>
@@ -182,22 +198,6 @@
 								<span>강재수, 장송호</span>
 																<p>2023. 09. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16928616331692861633592.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[xikers 팬사인회]]></title>
-            <link>https://xikers.kr/community/board/645c93a108d9a165eaf75703/post/64fc2aadec6d76724a6c3865</link>
-            <guid>https://xikers.kr/community/board/645c93a108d9a165eaf75703/post/64fc2aadec6d76724a6c3865</guid>
-            <pubDate>Mon, 18 Sep 2023 07:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://xikers.kr/community/board/645c93a108d9a165eaf75703/post/64fc2aadec6d76724a6c3865" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16950203501695020350467.jpg">
-									</a>
-								</div>
-								<b>xikers 팬사인회</b>
-								<span>xikers(싸이커스)</span>
-																<p>2023. 09. 16</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16950203501695020350467.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
