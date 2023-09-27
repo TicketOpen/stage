@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 02:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 03:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,16 +26,6 @@
 						<dd>2023.11.24 ~ 2023.11.26</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_193449_01.419.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[하동균 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013831</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013831</guid>
-            <pubDate>Tue, 26 Sep 2023 01:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
-						<dd>2023.11.04 ~ 2023.11.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_194085_01.405.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[피원하모니 팬미팅]]></title>
@@ -156,6 +146,16 @@
 						<dd>2023.08.19 ~ 2023.08.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190611_01.508.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크 콘서트]]></title>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190591&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=190591&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Wed, 27 Sep 2023 03:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">데이브레이크 콘서트</dt>
+						<dd>2023.08.12 ~ 2023.08.13</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190591_01.611.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
