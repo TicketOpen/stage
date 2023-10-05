@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <content:encoded><![CDATA[<dt class="subject">키드밀리 콘서트</dt>
 						<dd>2023.10.28 ~ 2023.10.29</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_194024_01.531.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_194024_01.434.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[피원하모니 팬미팅]]></title>
