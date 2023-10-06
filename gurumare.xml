@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 11:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 12:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>정민, 주민진 (게스트 김지철)</span>
 																<p>2023. 10. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16942405621694240562097.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THE 팬미팅]]></title>
+            <link>https://tickets.interpark.com/goods/23013811</link>
+            <guid>https://tickets.interpark.com/goods/23013811</guid>
+            <pubDate>Fri, 06 Oct 2023 12:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23013811" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16965956211696595621541.jpg">
+									</a>
+								</div>
+								<b>THE 팬미팅</b>
+								<span>면상들</span>
+																<p>2023. 10. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16965956211696595621541.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고정순 그림책 콘서트 <사랑을 믿는 당신에게>]]></title>
@@ -182,22 +198,6 @@
 								<span>정민, 주민진 (게스트 유성재,이진혁)</span>
 																<p>2023. 09. 18</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16942404281694240428263.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강재수&장송호 오리지날 라이브 <어서옵쑈>]]></title>
-            <link>https://tickets.interpark.com/goods/23011842</link>
-            <guid>https://tickets.interpark.com/goods/23011842</guid>
-            <pubDate>Thu, 24 Aug 2023 08:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23011842" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16928616331692861633592.jpg">
-									</a>
-								</div>
-								<b>강재수&amp;장송호 오리지날 라이브 &lt;어서옵쑈&gt;</b>
-								<span>강재수, 장송호</span>
-																<p>2023. 09. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16928616331692861633592.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
