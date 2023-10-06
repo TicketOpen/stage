@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 12:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 13:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노이만 콘서트：THE SYMPONIZE]]></title>
+            <link>https://tickets.interpark.com/goods/23014167</link>
+            <guid>https://tickets.interpark.com/goods/23014167</guid>
+            <pubDate>Fri, 06 Oct 2023 13:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23014167" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16965958841696595884147.jpg">
+									</a>
+								</div>
+								<b>노이만 콘서트：THE SYMPONIZE</b>
+								<span>권병호, KoN, 멜로우키친, 2KM, 장하은</span>
+																<p>2023. 11. 09</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16965958841696595884147.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양진석 7집 발매기념 단독 콘서트]]></title>
             <link>https://tickets.interpark.com/goods/23012354</link>
@@ -182,22 +198,6 @@
 								<span>웨이홈</span>
 																<p>2023. 09. 22 - 2023. 09. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16935445941693544594251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투가이즈쇼 9월]]></title>
-            <link>http://ticket.yes24.com/Perf/46206</link>
-            <guid>http://ticket.yes24.com/Perf/46206</guid>
-            <pubDate>Sat, 09 Sep 2023 06:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/46206" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16942404281694240428263.jpg">
-									</a>
-								</div>
-								<b>투가이즈쇼 9월</b>
-								<span>정민, 주민진 (게스트 유성재,이진혁)</span>
-																<p>2023. 09. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16942404281694240428263.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
