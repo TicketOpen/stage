@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 10:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 11:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>해서웨이</span>
 																<p>2023. 10. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16956088511695608851898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극단 소년 제1회 팬미팅 [AFTER PARTY]]]></title>
+            <link>https://www.instagram.com/p/CyFB_l7IJ3S/</link>
+            <guid>https://www.instagram.com/p/CyFB_l7IJ3S/</guid>
+            <pubDate>Sun, 08 Oct 2023 11:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/CyFB_l7IJ3S/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16967635701696763570087.jpg">
+									</a>
+								</div>
+								<b>극단 소년 제1회 팬미팅 [AFTER PARTY]</b>
+								<span>극단 소년</span>
+																<p>2023. 10. 24 - 2023. 10. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16967635701696763570087.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투가이즈쇼 10월]]></title>
@@ -182,22 +198,6 @@
 								<span>김경욱</span>
 																<p>2023. 09. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16942429121694242912022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이홈 두번째 앨범 발매 콘서트 <우리가 드리는 이야기>]]></title>
-            <link>https://tickets.interpark.com/goods/23012283</link>
-            <guid>https://tickets.interpark.com/goods/23012283</guid>
-            <pubDate>Fri, 01 Sep 2023 05:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23012283" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16935445941693544594251.jpg">
-									</a>
-								</div>
-								<b>웨이홈 두번째 앨범 발매 콘서트 &lt;우리가 드리는 이야기&gt;</b>
-								<span>웨이홈</span>
-																<p>2023. 09. 22 - 2023. 09. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16935445941693544594251.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
