@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 15:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[권은비 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012452</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012452</guid>
-            <pubDate>Tue, 12 Sep 2023 01:18:54 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=193009&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=193009&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 08 Oct 2023 15:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">권은비 콘서트</dt>
 						<dd>2023.10.07 ~ 2023.10.08</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
