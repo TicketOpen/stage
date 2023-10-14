@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,30 +102,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/cb/oy/ur213705242rf.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MIGHT GET LOUD VOL．1]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/315</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/315</guid>
-            <pubDate>Mon, 18 Sep 2023 09:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.10.14
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>MIGHT GET LOUD</dd>
-<dt>출연:</dt>
-<dd>김바다, 해리빅버튼, 브로큰발렌타인</dd>
-</dl>
-<a href="/cjazit/book/view/315" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/jw/pn/uc211830015py.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
