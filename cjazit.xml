@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 05:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 06:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[jerd 1st Concert]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/320</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/320</guid>
+            <pubDate>Mon, 16 Oct 2023 06:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2023.11.12
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>jerd</dd>
+<dt>출연:</dt>
+<dd>jerd</dd>
+</dl>
+<a href="/cjazit/book/view/320" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/da/ts/oh214237970mv.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2023 CJ X 버클리 뮤직 콘서트]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/319</link>
