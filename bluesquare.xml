@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 23:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 01:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
             <content:encoded><![CDATA[<dt class="subject">김필 콘서트</dt>
 						<dd>2023.11.18 ~ 2023.11.19</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_194727_01.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_194727_01.208.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[실리카겔 콘서트]]></title>
