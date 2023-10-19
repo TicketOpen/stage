@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 14:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 15:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,30 +102,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/gp/ej/ns213705523wg.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME GIFT!]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/316</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/316</guid>
-            <pubDate>Tue, 10 Oct 2023 02:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.10.19
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>록스타뮤직</dd>
-<dt>출연:</dt>
-<dd>기프트</dd>
-</dl>
-<a href="/cjazit/book/view/316" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/cb/oy/ur213705242rf.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
