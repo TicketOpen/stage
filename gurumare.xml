@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 04:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 05:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피성중데이]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208918#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208918#skip_nav</guid>
+            <pubDate>Sat, 21 Oct 2023 05:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208918#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16978644841697864484391.jpg">
+									</a>
+								</div>
+								<b>해피성중데이</b>
+								<span>팀24 멤버 '곤'</span>
+																<p>2023. 11. 11</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16978644841697864484391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노이만 콘서트：THE SYMPONIZE]]></title>
             <link>https://tickets.interpark.com/goods/23014167</link>
@@ -22,6 +38,22 @@
 								<span>권병호, KoN, 멜로우키친, 2KM, 장하은</span>
 																<p>2023. 11. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16965958841696595884147.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 1집 〈러브레터〉 발매 기념 단독 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208890</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208890</guid>
+            <pubDate>Sat, 21 Oct 2023 05:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208890" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16978646631697864663220.jpg">
+									</a>
+								</div>
+								<b>정규 1집 〈러브레터〉 발매 기념 단독 공연</b>
+								<span>김마리</span>
+																<p>2023. 11. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16978646631697864663220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양진석 7집 발매기념 단독 콘서트]]></title>
@@ -166,38 +198,6 @@
 								<span>탁보늬</span>
 																<p>2023. 10. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16928618441692861844855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이홈 두번째 앨범 발매 콘서트 〈우리가 드리는 이야기〉]]></title>
-            <link>https://tickets.interpark.com/goods/23012283</link>
-            <guid>https://tickets.interpark.com/goods/23012283</guid>
-            <pubDate>Fri, 01 Sep 2023 05:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23012283" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16950398381695039838557.jpg">
-									</a>
-								</div>
-								<b>웨이홈 두번째 앨범 발매 콘서트 〈우리가 드리는 이야기〉</b>
-								<span>웨이홈</span>
-																<p>2023. 10. 06</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16950398381695039838557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경욱 팬미팅]]></title>
-            <link>https://tickets.interpark.com/goods/23012604</link>
-            <guid>https://tickets.interpark.com/goods/23012604</guid>
-            <pubDate>Sat, 09 Sep 2023 07:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23012604" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16942429121694242912022.jpg">
-									</a>
-								</div>
-								<b>김경욱 팬미팅</b>
-								<span>김경욱</span>
-																<p>2023. 09. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16942429121694242912022.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
