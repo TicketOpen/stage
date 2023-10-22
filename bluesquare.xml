@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 15:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[피원하모니 팬미팅]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013146</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013146</guid>
-            <pubDate>Tue, 19 Sep 2023 01:19:43 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=193557&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=193557&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 22 Oct 2023 15:20:46 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">피원하모니 팬미팅</dt>
 						<dd>2023.10.21 ~ 2023.10.22</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>

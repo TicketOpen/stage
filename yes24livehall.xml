@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 15:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[YESUNG SOLO CONCERT - Unfading Sense]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1552&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20231022</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1552&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20231022</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.22 (일) 16:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/mkKrs1qpIUtz2MF9D7wYCPaOcdy6SAeTv508LuGJjQHl4ZoENWxiX3BVRbhgnf.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Lukas Graham Live in Seoul (루카스 그레이엄 내한공연)]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1555&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20231024</link>
