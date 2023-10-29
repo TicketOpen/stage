@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 14:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 15:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[키드밀리 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013754</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013754</guid>
-            <pubDate>Wed, 04 Oct 2023 02:26:19 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194024&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194024&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 29 Oct 2023 15:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">키드밀리 콘서트</dt>
 						<dd>2023.10.28 ~ 2023.10.29</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
