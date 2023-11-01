@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 09:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,38 @@
 								<span>1415</span>
 																<p>2023. 11. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16983757261698375726978.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 단독 공연 with 이능룡 〈제비 학 육구〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208981</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208981</guid>
+            <pubDate>Wed, 01 Nov 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=208981" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16988275141698827514036.jpg">
+									</a>
+								</div>
+								<b>신해경 단독 공연 with 이능룡 〈제비 학 육구〉</b>
+								<span>신해경</span>
+																<p>2023. 11. 25 - 2023. 11. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16988275141698827514036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발걸음의 지우 두 번째 공연 ‘Crescendo No.2’]]></title>
+            <link>https://tickets.interpark.com/goods/23015971</link>
+            <guid>https://tickets.interpark.com/goods/23015971</guid>
+            <pubDate>Wed, 01 Nov 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23015971" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16988272861698827286942.jpg">
+									</a>
+								</div>
+								<b>발걸음의 지우 두 번째 공연 ‘Crescendo No.2’</b>
+								<span>지우</span>
+																<p>2023. 11. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16988272861698827286942.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 번째 팬콘서트 <해피성중데이>]]></title>
@@ -166,38 +198,6 @@
 								<span>면상들</span>
 																<p>2023. 10. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16965956211696595621541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고정순 그림책 콘서트 <사랑을 믿는 당신에게>]]></title>
-            <link>https://blog.naver.com/cjstlsdo/223209397031</link>
-            <guid>https://blog.naver.com/cjstlsdo/223209397031</guid>
-            <pubDate>Wed, 13 Sep 2023 08:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/cjstlsdo/223209397031" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16945921351694592135493.jpg">
-									</a>
-								</div>
-								<b>고정순 그림책 콘서트 &lt;사랑을 믿는 당신에게&gt;</b>
-								<span>고정순 작가 (with.고명원밴드)</span>
-																<p>2023. 10. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16945921351694592135493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 서울 콘서트 <나에게 그대만이>]]></title>
-            <link>http://ticket.yes24.com/Perf/46942</link>
-            <guid>http://ticket.yes24.com/Perf/46942</guid>
-            <pubDate>Thu, 24 Aug 2023 08:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/46942" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16928621451692862145274.jpg">
-									</a>
-								</div>
-								<b>2023 서울 콘서트 &lt;나에게 그대만이&gt;</b>
-								<span>유해준</span>
-																<p>2023. 10. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16928621451692862145274.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
