@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 14:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 16:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,9 +79,9 @@
         </item>
         <item>
             <title><![CDATA[하동균 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013831</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013831</guid>
-            <pubDate>Wed, 27 Sep 2023 05:18:41 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194085&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194085&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 05 Nov 2023 16:27:45 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
 						<dd>2023.11.04 ~ 2023.11.05</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
