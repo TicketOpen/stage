@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 06:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 07:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2023〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209020</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209020</guid>
+            <pubDate>Wed, 08 Nov 2023 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209020" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16994248961699424896069.jpg">
+									</a>
+								</div>
+								<b>윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2023〉</b>
+								<span>윤딴딴</span>
+																<p>2023. 12. 09 - 2023. 12. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16994248961699424896069.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진민호 단독콘서트 ‘LOVE LOVE’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209004</link>
@@ -182,22 +198,6 @@
 								<span>정민, 주민진 (게스트 김지철)</span>
 																<p>2023. 10. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16942405621694240562097.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE 팬미팅]]></title>
-            <link>https://tickets.interpark.com/goods/23013811</link>
-            <guid>https://tickets.interpark.com/goods/23013811</guid>
-            <pubDate>Fri, 06 Oct 2023 12:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23013811" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16965956211696595621541.jpg">
-									</a>
-								</div>
-								<b>THE 팬미팅</b>
-								<span>면상들</span>
-																<p>2023. 10. 22</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16965956211696595621541.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
