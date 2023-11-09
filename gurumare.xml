@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 07:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 08:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>신해경</span>
 																<p>2023. 11. 25 - 2023. 11. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16988275141698827514036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAMBADA ONSTAGE 여섯 번째 [PAYBACK]]]></title>
+            <link>https://blog.naver.com/yahe2008/223240282014</link>
+            <guid>https://blog.naver.com/yahe2008/223240282014</guid>
+            <pubDate>Thu, 09 Nov 2023 08:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/yahe2008/223240282014" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16995154901699515490725.jpg">
+									</a>
+								</div>
+								<b>BAMBADA ONSTAGE 여섯 번째 [PAYBACK]</b>
+								<span>윤동기, 전승화, MC 박주광</span>
+																<p>2023. 11. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16995154901699515490725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 번째 팬콘서트 <해피성중데이>]]></title>
@@ -182,22 +198,6 @@
 								<span>극단 소년</span>
 																<p>2023. 10. 24 - 2023. 10. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16979468621697946862620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투가이즈쇼 10월]]></title>
-            <link>http://ticket.yes24.com/Perf/46207</link>
-            <guid>http://ticket.yes24.com/Perf/46207</guid>
-            <pubDate>Sat, 09 Sep 2023 07:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/46207" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16942405621694240562097.jpg">
-									</a>
-								</div>
-								<b>투가이즈쇼 10월</b>
-								<span>정민, 주민진 (게스트 김지철)</span>
-																<p>2023. 10. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16942405621694240562097.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
