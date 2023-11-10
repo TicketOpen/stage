@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허밍어반스테레오 크리스마스이브 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209036</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209036</guid>
+            <pubDate>Fri, 10 Nov 2023 09:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209036" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16996011311699601131661.jpg">
+									</a>
+								</div>
+								<b>허밍어반스테레오 크리스마스이브 콘서트</b>
+								<span>허밍어반스테레오 with Risso(리소), BNJX(밴젝스)</span>
+																<p>2023. 12. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16996011311699601131661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2023〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209020</link>
@@ -182,22 +198,6 @@
 								<span>해서웨이</span>
 																<p>2023. 10. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16956088511695608851898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극단 소년 제1회 팬미팅 [AFTER PARTY]]]></title>
-            <link>https://www.instagram.com/p/CyFB_l7IJ3S/</link>
-            <guid>https://www.instagram.com/p/CyFB_l7IJ3S/</guid>
-            <pubDate>Sun, 08 Oct 2023 11:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/CyFB_l7IJ3S/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16979468621697946862620.jpg">
-									</a>
-								</div>
-								<b>극단 소년 제1회 팬미팅 [AFTER PARTY]</b>
-								<span>극단 소년</span>
-																<p>2023. 10. 24 - 2023. 10. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16979468621697946862620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
