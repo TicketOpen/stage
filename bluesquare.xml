@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 23:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 01:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김창완밴드X크라잉넛 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016653</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016653</guid>
+            <pubDate>Mon, 13 Nov 2023 01:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">김창완밴드X크라잉넛 콘서트</dt>
+						<dd>2023.12.13 ~ 2023.12.13</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_195910_01.018.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[콜드 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016001</link>
@@ -146,16 +156,6 @@
 						<dd>2023.10.03 ~ 2023.10.03</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_192980_01.415.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김세정 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=192303&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=192303&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 06 Nov 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">김세정 콘서트</dt>
-						<dd>2023.09.23 ~ 2023.09.24</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/08/0400012308_192303_01.759.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
