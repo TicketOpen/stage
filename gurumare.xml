@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 06:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 07:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>진민호</span>
 																<p>2023. 12. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16994140431699414043189.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[g0nny 단독콘서트 〈Blanket〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209057</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209057</guid>
+            <pubDate>Tue, 14 Nov 2023 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209057" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/16999448451699944845650.jpg">
+									</a>
+								</div>
+								<b>g0nny 단독콘서트 〈Blanket〉</b>
+								<span>g0nny(거니)</span>
+																<p>2023. 12. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/16999448451699944845650.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래 [1415 단독 콘서트]]]></title>
@@ -182,22 +198,6 @@
 								<span>이한철</span>
 																<p>2023. 10. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16950271291695027129304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAM WALKER ＃3：해서웨이]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208797</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208797</guid>
-            <pubDate>Mon, 25 Sep 2023 03:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208797" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16956088511695608851898.jpg">
-									</a>
-								</div>
-								<b>DREAM WALKER ＃3：해서웨이</b>
-								<span>해서웨이</span>
-																<p>2023. 10. 28</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16956088511695608851898.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
