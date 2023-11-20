@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 23:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 01:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤아 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017036</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017036</guid>
+            <pubDate>Mon, 20 Nov 2023 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">윤아 팬미팅</dt>
+						<dd>2024.01.06 ~ 2024.01.07</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_196275_01.922.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[적재 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016540</link>
@@ -146,16 +156,6 @@
 						<dd>2023.10.17 ~ 2023.10.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_194229_01.809.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[임현식 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=193332&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=193332&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 06 Nov 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">임현식 콘서트</dt>
-						<dd>2023.10.13 ~ 2023.10.15</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_193332_01.631.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
