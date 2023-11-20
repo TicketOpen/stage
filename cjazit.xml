@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[off the menu views from 2023]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/328</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/328</guid>
+            <pubDate>Mon, 20 Nov 2023 10:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2023.12.02
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>off the menu</dd>
+<dt>출연:</dt>
+<dd>off the menu</dd>
+</dl>
+<a href="/cjazit/book/view/328" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/zl/rf/oa216995879sj.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리베로시스(Liberosis）단독 콘서트]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/324</link>
