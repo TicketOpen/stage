@@ -4,9 +4,57 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["FRankly I.. Am Free!" 쇼케이스]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/330</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/330</guid>
+            <pubDate>Tue, 21 Nov 2023 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2023.12.09
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>FRankly</dd>
+<dt>출연:</dt>
+<dd>FRankly</dd>
+</dl>
+<a href="/cjazit/book/view/330" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/oo/gg/fo217339893yp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌면 우리의 노래가 세상을 구할지 몰라]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/329</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/329</guid>
+            <pubDate>Tue, 21 Nov 2023 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2023.12.03
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>모스크바서핑클럽</dd>
+<dt>출연:</dt>
+<dd>모스크바서핑클럽</dd>
+</dl>
+<a href="/cjazit/book/view/329" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/fj/mc/xt217338742bp.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[off the menu views from 2023]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/328</link>
