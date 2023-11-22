@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 08:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2024.01.06 ~ 2024.01.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_196275_01.922.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이성윤 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017221</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017221</guid>
+            <pubDate>Wed, 22 Nov 2023 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">이성윤 콘서트</dt>
+						<dd>2023.12.29 ~ 2023.12.31</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_196442_01.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[적재 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.10.21 ~ 2023.10.22</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_193557_01.758.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[선미 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194229&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194229&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 06 Nov 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">선미 콘서트</dt>
-						<dd>2023.10.17 ~ 2023.10.17</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_194229_01.809.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
