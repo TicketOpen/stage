@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 07:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 08:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬배우 이해준 첫 번째 팬미팅 <곁-해>]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209147</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209147</guid>
+            <pubDate>Thu, 23 Nov 2023 08:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209147" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17007254721700725472382.jpg">
+									</a>
+								</div>
+								<b>뮤지컬배우 이해준 첫 번째 팬미팅 &lt;곁-해&gt;</b>
+								<span>이해준</span>
+																<p>2023. 12. 31</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17007254721700725472382.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해서웨이(Hathaw9y) 2023 연말공연：LOVESSENTIAL]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209089</link>
@@ -182,22 +198,6 @@
 								<span>팀24 멤버 '곤'</span>
 																<p>2023. 11. 11</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16978644841697864484391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노이만 콘서트：THE SYMPONIZE]]></title>
-            <link>https://tickets.interpark.com/goods/23014167</link>
-            <guid>https://tickets.interpark.com/goods/23014167</guid>
-            <pubDate>Fri, 06 Oct 2023 13:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23014167" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16965958841696595884147.jpg">
-									</a>
-								</div>
-								<b>노이만 콘서트：THE SYMPONIZE</b>
-								<span>권병호, KoN, 멜로우키친, 2KM, 장하은</span>
-																<p>2023. 11. 09</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16965958841696595884147.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
