@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 06:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 07:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>허밍어반스테레오 with Risso(리소), BNJX(밴젝스)</span>
 																<p>2023. 12. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16996011311699601131661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 권나무 연말콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209170</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209170</guid>
+            <pubDate>Fri, 01 Dec 2023 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209170" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17014128701701412870291.jpg">
+									</a>
+								</div>
+								<b>2023 권나무 연말콘서트</b>
+								<span>권나무</span>
+																<p>2023. 12. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17014128701701412870291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모브닝 단독 콘서트 〈잠 못 이루는 밤〉]]></title>
@@ -182,22 +198,6 @@
 								<span>g0nny(거니)</span>
 																<p>2023. 12. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16999448451699944845650.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래 [1415 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208949#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208949#skip_nav</guid>
-            <pubDate>Fri, 27 Oct 2023 03:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=208949#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16983757261698375726978.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌6 순간의 노래 [1415 단독 콘서트]</b>
-								<span>1415</span>
-																<p>2023. 11. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16983757261698375726978.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
