@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 11:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 12:39:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17009692081700969208672.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 한다 콘서트 HANDA CONCERT #3. 감사 한다]]></title>
+            <link>http://ticket.yes24.com/Perf/47935</link>
+            <guid>http://ticket.yes24.com/Perf/47935</guid>
+            <pubDate>Fri, 01 Dec 2023 12:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/47935" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17014320151701432015572.jpg">
+									</a>
+								</div>
+								<b>2023 한다 콘서트 HANDA CONCERT #3. 감사 한다</b>
+								<span>원종환,엄태형,최미소,정우연,김민강,금조</span>
+																<p>2023. 12. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17014320151701432015572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2023〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209020</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209020</guid>
@@ -182,22 +198,6 @@
 								<span>진민호</span>
 																<p>2023. 12. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16994140431699414043189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[g0nny 단독콘서트 〈Blanket〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209057</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209057</guid>
-            <pubDate>Tue, 14 Nov 2023 07:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209057" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/16999448451699944845650.jpg">
-									</a>
-								</div>
-								<b>g0nny 단독콘서트 〈Blanket〉</b>
-								<span>g0nny(거니)</span>
-																<p>2023. 12. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/16999448451699944845650.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
