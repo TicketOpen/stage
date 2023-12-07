@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 04:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 04 Dec 2023 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/746/1276742889_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피에타 단독 콘서트 ‘열상’：롤링 29주년 기념 공연]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=749&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=749&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 07 Dec 2023 04:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 01월 05일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/749/1166099922_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[yebit 2024 NEW YEAR’S CONCERT：롤링 29주년 기념 ..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 04 Dec 2023 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2023년 12월 31일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/737/1283358565_ECA095EC849DED9B88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미드나잇 먼치스（Midnight Munchies）1st Label Conc..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=736&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=736&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Mon, 04 Dec 2023 15:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2023년 11월 26일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/736/1587333575_EBAFB8EB939CEB8298EBB08BEBA8BCECB998EC8AA4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
