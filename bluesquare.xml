@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 23:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 01:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,9 +29,9 @@
         </item>
         <item>
             <title><![CDATA[이승윤 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017221</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017221</guid>
-            <pubDate>Wed, 22 Nov 2023 09:20:15 GMT</pubDate>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017339</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017339</guid>
+            <pubDate>Thu, 07 Dec 2023 01:23:52 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">이승윤 콘서트</dt>
 						<dd>2023.12.29 ~ 2023.12.31</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
