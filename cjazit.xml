@@ -4,9 +4,81 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 01:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 02:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rainbow Diary]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/337</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/337</guid>
+            <pubDate>Thu, 07 Dec 2023 02:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.01.13
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>(주)루비레코드</dd>
+<dt>출연:</dt>
+<dd>레인보우 노트</dd>
+</dl>
+<a href="/cjazit/book/view/337" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/oo/xb/iw218718214jg.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[범진의 범클]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/336</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/336</guid>
+            <pubDate>Thu, 07 Dec 2023 02:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2023.12.24
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>JMG</dd>
+<dt>출연:</dt>
+<dd>범진</dd>
+</dl>
+<a href="/cjazit/book/view/336" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/cy/px/nt218717840br.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M3MI]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/335</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/335</guid>
+            <pubDate>Thu, 07 Dec 2023 02:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2023.12.22
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>위트</dd>
+<dt>출연:</dt>
+<dd>MEMI</dd>
+</dl>
+<a href="/cjazit/book/view/335" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/dm/zt/xd218717301xg.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 프렐류드 Real Jazz Concert]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/334</link>
@@ -174,30 +246,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/sp/gh/ca216742277te.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alice in 'tokki' land]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/322</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/322</guid>
-            <pubDate>Mon, 13 Nov 2023 02:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2023.12.08
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>(주)루비레코드</dd>
-<dt>출연:</dt>
-<dd>우예린</dd>
-</dl>
-<a href="/cjazit/book/view/322" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/yi/ld/ky216642737uu.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
