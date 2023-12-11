@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 07:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 08:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,10 +25,10 @@
         </item>
         <item>
             <title><![CDATA[Macaroni Empitsu 내한공연]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1597&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240202</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1597&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240202</guid>
-            <pubDate>Thu, 07 Dec 2023 02:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.02 (금) 19:00]]></content:encoded>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1597&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240203</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1597&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240203</guid>
+            <pubDate>Mon, 11 Dec 2023 08:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03 (토) 19:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/Kb9Zw5iWNLzoaG0FT8ACv7g3kHDrysmOd2JxtcqSlXhYPf1MQj6puIVRUenBE4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
