@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 03:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 04:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 17 Nov 2023 08:23:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.09 (토) 18:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/04PaNup368Io2UJSDKwb5lnCsOXzQtYE1xirk7BFHqZAmdeVchyjRMfTGL9vWg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1599&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240328</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1599&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240328</guid>
+            <pubDate>Tue, 12 Dec 2023 04:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.28 (목) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/XamP9N5x0crtihBqdMynwKJSQgvfkE1ej3IYLuHbWO4s62CATG8lzDV7ZUpoRF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
