@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 11:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 12:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>이라희밴드</span>
 																<p>2024. 01. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17023837931702383793487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예찬종과 동행_네 번째 이야기 <우리, 그리고 여행>]]></title>
+            <link>https://cafe.daum.net/YECHANJONG</link>
+            <guid>https://cafe.daum.net/YECHANJONG</guid>
+            <pubDate>Wed, 13 Dec 2023 12:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://cafe.daum.net/YECHANJONG" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17024700881702470088950.jpg">
+									</a>
+								</div>
+								<b>예찬종과 동행_네 번째 이야기 &lt;우리, 그리고 여행&gt;</b>
+								<span>김찬종</span>
+																<p>2024. 01. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17024700881702470088950.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬배우 이해준 첫 번째 팬미팅 <곁-해>]]></title>
@@ -182,22 +198,6 @@
 								<span>카리나 네뷸라</span>
 																<p>2023. 12. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17009692081700969208672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 한다 콘서트 HANDA CONCERT #3. 감사 한다]]></title>
-            <link>http://ticket.yes24.com/Perf/47935</link>
-            <guid>http://ticket.yes24.com/Perf/47935</guid>
-            <pubDate>Fri, 01 Dec 2023 12:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/47935" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17014320151701432015572.jpg">
-									</a>
-								</div>
-								<b>2023 한다 콘서트 HANDA CONCERT #3. 감사 한다</b>
-								<span>원종환,엄태형,최미소,정우연,김민강,금조</span>
-																<p>2023. 12. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17014320151701432015572.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
