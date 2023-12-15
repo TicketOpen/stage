@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 04:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 05:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김재중 팬 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23018254</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23018254</guid>
+            <pubDate>Fri, 15 Dec 2023 05:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">김재중 팬 콘서트</dt>
+						<dd>2024.01.20 ~ 2024.01.21</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/12/0400012312_197312_01.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[터치드 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017712</link>
@@ -146,16 +156,6 @@
 						<dd>2023.11.10 ~ 2023.11.12</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_194531_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[하동균 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194085&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=194085&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 06 Nov 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">하동균 콘서트</dt>
-						<dd>2023.11.04 ~ 2023.11.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/09/0400012309_194085_01.405.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
