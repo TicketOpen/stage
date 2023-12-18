@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 08:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 09:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>이라희밴드</span>
 																<p>2024. 01. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17023837931702383793487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 케인TV 팬미팅 '케인인님 만나줘요!']]></title>
+            <link>https://ctee.kr/projects/kanetv2024</link>
+            <guid>https://ctee.kr/projects/kanetv2024</guid>
+            <pubDate>Mon, 18 Dec 2023 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ctee.kr/projects/kanetv2024" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17028904691702890469259.jpg">
+									</a>
+								</div>
+								<b>2024 케인TV 팬미팅 '케인인님 만나줘요!'</b>
+								<span>케인</span>
+																<p>2024. 01. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17028904691702890469259.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예찬종과 동행_네 번째 이야기 <우리, 그리고 여행>]]></title>
@@ -182,22 +198,6 @@
 								<span>김목경</span>
 																<p>2023. 12. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17003039761700303976400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카리나 네뷸라 크리스마스 콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/23017173</link>
-            <guid>https://tickets.interpark.com/goods/23017173</guid>
-            <pubDate>Sun, 26 Nov 2023 04:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/23017173" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17009692081700969208672.jpg">
-									</a>
-								</div>
-								<b>카리나 네뷸라 크리스마스 콘서트</b>
-								<span>카리나 네뷸라</span>
-																<p>2023. 12. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17009692081700969208672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
