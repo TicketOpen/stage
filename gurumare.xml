@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 04:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 05:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>이라희밴드</span>
 																<p>2024. 01. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17023837931702383793487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리(Grizzly) Concert：Winter House]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209250#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209250#skip_nav</guid>
+            <pubDate>Wed, 20 Dec 2023 05:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209250#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17030472821703047282895.jpg">
+									</a>
+								</div>
+								<b>그리즐리(Grizzly) Concert：Winter House</b>
+								<span>그리즐리(Grizzly)</span>
+																<p>2024. 01. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17030472821703047282895.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 케인TV 팬미팅 '케인인님 만나줘요!']]></title>
@@ -182,22 +198,6 @@
 								<span>모브닝</span>
 																<p>2023. 12. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17003035221700303522733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목경 LIVE with BLUES MEN]]></title>
-            <link>http://ticket.yes24.com/Perf/47629</link>
-            <guid>http://ticket.yes24.com/Perf/47629</guid>
-            <pubDate>Sat, 18 Nov 2023 11:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/47629" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17003039761700303976400.jpg">
-									</a>
-								</div>
-								<b>김목경 LIVE with BLUES MEN</b>
-								<span>김목경</span>
-																<p>2023. 12. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17003039761700303976400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
