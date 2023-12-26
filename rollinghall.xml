@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 04:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 05:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 04 Dec 2023 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/746/1276742889_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시온 단독 콘서트 'Out of the Box' : 롤링..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=758&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=758&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 26 Dec 2023 05:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 02월 01일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/758/1119998371_EC8B9CEC98A8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MY AUNT MARY "DRIFT" - 롤링 29주년 기념 ..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 06 Dec 2023 06:25:04 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 01월 12일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/748/1858093897_EC9888EBB99B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬주 싱글 발매 기념 콘서트 ‘Fireplace for Your Wi..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=747&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=747&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Tue, 05 Dec 2023 05:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2024년 01월 04일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/747/316907427_ECB0ACECA3BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
