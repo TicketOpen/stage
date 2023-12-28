@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 01:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 02:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,9 +13,9 @@
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23018254</guid>
             <pubDate>Fri, 15 Dec 2023 05:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">김재중 팬 콘서트</dt>
-						<dd>2024.01.20 ~ 2024.01.21</dd>
+						<dd>2024.01.19 ~ 2024.01.21</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/12/0400012312_197312_01.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/12/0400012312_197312_01.637.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[터치드 콘서트]]></title>
