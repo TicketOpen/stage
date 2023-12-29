@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 11:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 12:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 영소 단독콘서트 “U”]]></title>
+            <link>https://tickets.interpark.com/goods/23018607</link>
+            <guid>https://tickets.interpark.com/goods/23018607</guid>
+            <pubDate>Fri, 29 Dec 2023 12:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/23018607" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17038509201703850920721.jpg">
+									</a>
+								</div>
+								<b>2024 영소 단독콘서트 “U”</b>
+								<span>김영소</span>
+																<p>2024. 01. 26 - 2024. 01. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17038509201703850920721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[당신의 봄이 오네요] 앨범발매기념 서울 콘서트]]></title>
             <link>https://m.cafe.daum.net/leelaahee/AwjX/166?</link>
@@ -22,6 +38,22 @@
 								<span>이라희밴드</span>
 																<p>2024. 01. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17023837931702383793487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 한다 콘서트 HANDA CONCERT #3. 감사 한다]]></title>
+            <link>http://ticket.yes24.com/Perf/47946</link>
+            <guid>http://ticket.yes24.com/Perf/47946</guid>
+            <pubDate>Fri, 29 Dec 2023 12:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/47946" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17038512691703851269649.jpg">
+									</a>
+								</div>
+								<b>2024 한다 콘서트 HANDA CONCERT #3. 감사 한다</b>
+								<span>유성재,노희찬,이진혁,반예찬,도해,손광혁</span>
+																<p>2024. 01. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17038512691703851269649.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리즐리(Grizzly) Concert：Winter House]]></title>
@@ -166,38 +198,6 @@
 								<span>허밍어반스테레오 with Risso(리소), BNJX(밴젝스)</span>
 																<p>2023. 12. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/16996011311699601131661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 권나무 연말콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209170</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209170</guid>
-            <pubDate>Fri, 01 Dec 2023 07:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209170" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17014128701701412870291.jpg">
-									</a>
-								</div>
-								<b>2023 권나무 연말콘서트</b>
-								<span>권나무</span>
-																<p>2023. 12. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17014128701701412870291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모브닝 단독 콘서트 〈잠 못 이루는 밤〉]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8078</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8078</guid>
-            <pubDate>Sat, 18 Nov 2023 11:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/csoon/detail.htm?csoonId=8078" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17003035221700303522733.jpg">
-									</a>
-								</div>
-								<b>모브닝 단독 콘서트 〈잠 못 이루는 밤〉</b>
-								<span>모브닝</span>
-																<p>2023. 12. 22</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17003035221700303522733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
