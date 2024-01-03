@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 07:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 08:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 14 Dec 2023 02:30:47 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.13 (토) 18:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/jWOVAxuRcwGUCenMgmJ6FIKSpyqYL1f7oNTl95zbEd4a0XtkD2PrQviB8Z3Hsh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 조형균 콘서트 ＜홈그라운드＞]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1618&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240122</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1618&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240122</guid>
+            <pubDate>Wed, 03 Jan 2024 08:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.22 (월) 19:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/QTC5yo0SwHXLgPMbckl4GUrzVamIj7Z3Yd6fiK8eJhEspuxRWBA2qNDnOtF9v1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Macaroni Empitsu 내한공연]]></title>
