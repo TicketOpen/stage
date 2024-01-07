@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 14:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[윤아 팬미팅]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017036</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017036</guid>
-            <pubDate>Mon, 20 Nov 2023 01:24:00 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=196275&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=196275&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 07 Jan 2024 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">윤아 팬미팅</dt>
 						<dd>2024.01.06 ~ 2024.01.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
