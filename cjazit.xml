@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 14:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/it/wv/lr220638926ga.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rainbow Diary]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/337</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/337</guid>
-            <pubDate>Thu, 07 Dec 2023 02:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.01.13
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>(주)루비레코드</dd>
-<dt>출연:</dt>
-<dd>레인보우 노트</dd>
-</dl>
-<a href="/cjazit/book/view/337" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/oo/xb/iw218718214jg.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
