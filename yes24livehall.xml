@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 02:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 12 Dec 2023 04:23:43 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.28 (목) 20:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/XamP9N5x0crtihBqdMynwKJSQgvfkE1ej3IYLuHbWO4s62CATG8lzDV7ZUpoRF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1620&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240413</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1620&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240413</guid>
+            <pubDate>Thu, 18 Jan 2024 03:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.13 (토) 15:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/MYf4ABOWudkQKG78vaUc5Srw6Imo92CReFJptx3ghzl1qDnNiZ0VsjyXELHTPb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
