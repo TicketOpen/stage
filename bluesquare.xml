@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 14:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[김재중 팬 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23018254</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23018254</guid>
-            <pubDate>Fri, 15 Dec 2023 05:19:39 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197312&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197312&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 21 Jan 2024 15:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">김재중 팬 콘서트</dt>
 						<dd>2024.01.19 ~ 2024.01.21</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
