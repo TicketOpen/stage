@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 규현 아시아 투어 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000707</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000707</guid>
+            <pubDate>Fri, 26 Jan 2024 06:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2024 규현 아시아 투어 콘서트</dt>
+						<dd>2024.03.08 ~ 2024.03.10</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_198152_01.358.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[휘인 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000291</link>
@@ -146,16 +156,6 @@
 						<dd>2023.12.02 ~ 2023.12.02</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_195344_01.726.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레미제라블]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012526</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012526</guid>
-            <pubDate>Mon, 06 Nov 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">레미제라블</dt>
-						<dd>2023.11.30 ~ 2024.03.10</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/07/0400012307_190722_01.837.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
