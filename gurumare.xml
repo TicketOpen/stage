@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 08:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 09:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제1회 숲의향연_響然 : 자연의 소리]]></title>
+            <link>https://cafe.daum.net/nanjinoeul/r1LD/8</link>
+            <guid>https://cafe.daum.net/nanjinoeul/r1LD/8</guid>
+            <pubDate>Sat, 27 Jan 2024 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://cafe.daum.net/nanjinoeul/r1LD/8" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17063468281706346828407.jpg">
+									</a>
+								</div>
+								<b>제1회 숲의향연_響然 : 자연의 소리</b>
+								<span>노을공원시민모임</span>
+																<p>2024. 02. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17063468281706346828407.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VROMANCE 1ST CONCERT [VROMANCE의 작업실 : #처음]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209364</link>
@@ -182,22 +198,6 @@
 								<span>그리즐리(Grizzly)</span>
 																<p>2024. 01. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17030472821703047282895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 케인TV 팬미팅 '케인인님 만나줘요!']]></title>
-            <link>https://ctee.kr/projects/kanetv2024</link>
-            <guid>https://ctee.kr/projects/kanetv2024</guid>
-            <pubDate>Mon, 18 Dec 2023 09:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ctee.kr/projects/kanetv2024" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17028904691702890469259.jpg">
-									</a>
-								</div>
-								<b>2024 케인TV 팬미팅 '케인인님 만나줘요!'</b>
-								<span>케인</span>
-																<p>2024. 01. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17028904691702890469259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
