@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 06:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 07:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VROMANCE 1ST CONCERT [VROMANCE의 작업실 : #처음]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209364</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209364</guid>
+            <pubDate>Sat, 27 Jan 2024 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209364" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17063389461706338946319.jpg">
+									</a>
+								</div>
+								<b>VROMANCE 1ST CONCERT [VROMANCE의 작업실 : #처음]</b>
+								<span>VROMANCE(브로맨스)</span>
+																<p>2024. 02. 17 - 2024. 02. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17063389461706338946319.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MPMG WEEK 2024 : BLUE LABEL - 권순관]]></title>
             <link>https://tickets.interpark.com/goods/24000167</link>
@@ -182,22 +198,6 @@
 								<span>케인</span>
 																<p>2024. 01. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17028904691702890469259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예찬종과 동행_네 번째 이야기 <우리, 그리고 여행>]]></title>
-            <link>https://cafe.daum.net/YECHANJONG</link>
-            <guid>https://cafe.daum.net/YECHANJONG</guid>
-            <pubDate>Wed, 13 Dec 2023 12:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://cafe.daum.net/YECHANJONG" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17024700881702470088950.jpg">
-									</a>
-								</div>
-								<b>예찬종과 동행_네 번째 이야기 &lt;우리, 그리고 여행&gt;</b>
-								<span>김찬종</span>
-																<p>2024. 01. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17024700881702470088950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
