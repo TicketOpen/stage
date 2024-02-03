@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 15:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Macaroni Empitsu 내한공연]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1597&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240203</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1597&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240203</guid>
-            <pubDate>Mon, 11 Dec 2023 08:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.03 (토) 19:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/Kb9Zw5iWNLzoaG0FT8ACv7g3kHDrysmOd2JxtcqSlXhYPf1MQj6puIVRUenBE4.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 더 로즈(The Rose) DAWN TO DUSK TOUR - SEOUL]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1598&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240204</link>

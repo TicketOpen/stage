@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 14:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 15:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[2024 tripleS Authentic]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000083</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000083</guid>
-            <pubDate>Thu, 04 Jan 2024 05:19:51 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197694&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197694&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 03 Feb 2024 15:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 tripleS Authentic</dt>
 						<dd>2024.02.03 ~ 2024.02.03</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
