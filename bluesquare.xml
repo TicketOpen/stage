@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 14:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 15:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[2024 B-day PARTY - JOHNNY＆JUNGWOO]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001360</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001360</guid>
-            <pubDate>Thu, 01 Feb 2024 02:28:17 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199009&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199009&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Wed, 07 Feb 2024 15:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 B-day PARTY - JOHNNY＆JUNGWOO</dt>
 						<dd>2024.02.07 ~ 2024.02.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
