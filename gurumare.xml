@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 07:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
 								<span>정우</span>
 																<p>2024. 02. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO, DREAM 투드림 공연]]></title>
+            <link>https://smartstore.naver.com/firstticket_/products/9924327267</link>
+            <guid>https://smartstore.naver.com/firstticket_/products/9924327267</guid>
+            <pubDate>Wed, 14 Feb 2024 07:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://smartstore.naver.com/firstticket_/products/9924327267" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg">
+									</a>
+								</div>
+								<b>TO, DREAM 투드림 공연</b>
+								<span>이동길, 김소정 (Guest.김장훈)</span>
+																<p>2024. 02. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제1회 숲의향연_響然 : 자연의 소리]]></title>
@@ -182,22 +198,6 @@
 								<span>알레프</span>
 																<p>2024. 02. 03 - 2024. 02. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17050408701705040870234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사내뷰공업 첫 팬미팅 : Behind the Green]]></title>
-            <link>https://www.youtube.com/channel/UCeS6R89S32mSOxTNoEqrN7g/community?lb=Ugkx7jTD5Rv-Yvk_iZZI__okm-db8uaiPoo0</link>
-            <guid>https://www.youtube.com/channel/UCeS6R89S32mSOxTNoEqrN7g/community?lb=Ugkx7jTD5Rv-Yvk_iZZI__okm-db8uaiPoo0</guid>
-            <pubDate>Fri, 12 Jan 2024 06:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.youtube.com/channel/UCeS6R89S32mSOxTNoEqrN7g/community?lb=Ugkx7jTD5Rv-Yvk_iZZI__okm-db8uaiPoo0" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17066004611706600461116.jpg">
-									</a>
-								</div>
-								<b>사내뷰공업 첫 팬미팅 : Behind the Green</b>
-								<span>사내뷰공업</span>
-																<p>2024. 02. 02</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17066004611706600461116.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
