@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 07:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BAMBADA ONSTAGE 일곱 번째 [모두에게 친절한 너는 왜]]]></title>
+            <link>https://blog.naver.com/yahe2008/223342926194</link>
+            <guid>https://blog.naver.com/yahe2008/223342926194</guid>
+            <pubDate>Thu, 15 Feb 2024 08:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/yahe2008/223342926194" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17079839211707983921718.jpg">
+									</a>
+								</div>
+								<b>BAMBADA ONSTAGE 일곱 번째 [모두에게 친절한 너는 왜]</b>
+								<span>최현수, 이우리 (MC 김동현)</span>
+																<p>2024. 03. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17079839211707983921718.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초승 단독 콘서트 [vase : 아끼는 꽃병을 내어드립니다]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209438</link>
@@ -182,22 +198,6 @@
 								<span>유다빈밴드</span>
 																<p>2024. 02. 06</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17050410351705041035051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알레프 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209296</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209296</guid>
-            <pubDate>Fri, 12 Jan 2024 07:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209296" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17050408701705040870234.jpg">
-									</a>
-								</div>
-								<b>알레프 단독 콘서트 <colors></colors></b>
-								<span>알레프</span>
-																<p>2024. 02. 03 - 2024. 02. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17050408701705040870234.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
