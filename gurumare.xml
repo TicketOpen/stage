@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 01:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,7 +35,7 @@
 									</a>
 								</div>
 								<b>The first onstage of Backstage Social Club</b>
-								<span>Backstage Social Club</span>
+								<span>NINE LIMBS, C3M, Backstage Social Club</span>
 																<p>2024. 03. 03</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17079863481707986348940.jpg" length="0" type="image/jpg"/>
         </item>
@@ -136,6 +136,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김장훈X블루코크와인 콘서트 “경원대영문과”]]></title>
+            <link>https://tickets.interpark.com/goods/24002143</link>
+            <guid>https://tickets.interpark.com/goods/24002143</guid>
+            <pubDate>Fri, 16 Feb 2024 01:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24002143" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17080434941708043494126.jpg">
+									</a>
+								</div>
+								<b>김장훈X블루코크와인 콘서트 “경원대영문과”</b>
+								<span>김장훈, 블루코크와인</span>
+																<p>2024. 02. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17080434941708043494126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제1회 숲의향연_響然 : 자연의 소리]]></title>
             <link>https://cafe.daum.net/nanjinoeul/r1LD/15</link>
             <guid>https://cafe.daum.net/nanjinoeul/r1LD/15</guid>
@@ -182,22 +198,6 @@
 								<span>웃자고 하는 소리</span>
 																<p>2024. 02. 16</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17065924861706592486512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MPMG WEEK 2024 : BLUE LABEL - 권순관]]></title>
-            <link>https://tickets.interpark.com/goods/24000167</link>
-            <guid>https://tickets.interpark.com/goods/24000167</guid>
-            <pubDate>Fri, 12 Jan 2024 07:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24000167" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17050411231705041123287.jpg">
-									</a>
-								</div>
-								<b>MPMG WEEK 2024 : BLUE LABEL - 권순관</b>
-								<span>권순관</span>
-																<p>2024. 02. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17050411231705041123287.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
