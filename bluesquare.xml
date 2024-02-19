@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 23:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 01:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손호영 팬 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002293</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002293</guid>
+            <pubDate>Mon, 19 Feb 2024 01:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">손호영 팬 콘서트</dt>
+						<dd>2024.03.23 ~ 2024.03.24</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199537_01.320.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[대성 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001456</link>
@@ -146,16 +156,6 @@
 						<dd>2023.12.13 ~ 2023.12.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_195910_01.018.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[콜드 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=195378&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=195378&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 10 Dec 2023 15:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">콜드 콘서트 </dt>
-						<dd>2023.12.09 ~ 2023.12.10</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/10/0400012310_195378_01.809.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
