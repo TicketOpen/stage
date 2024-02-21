@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 06:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 07:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 17 Nov 2023 08:23:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.09 (토) 18:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/04PaNup368Io2UJSDKwb5lnCsOXzQtYE1xirk7BFHqZAmdeVchyjRMfTGL9vWg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KIM MYUNGSOO BIRTHDAY PARTY ‘Every day, L+ovely day’]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1640&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240310</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1640&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240310</guid>
+            <pubDate>Wed, 21 Feb 2024 07:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.10 (일) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/vxbJQgrT32hylRousXIz8iVEMmODcNW6jPG1YnUk4tLA5FKS0fBdZ7pawCq9eH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 2am Concert ＂One Take＂]]></title>
