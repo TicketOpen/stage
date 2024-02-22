@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 11:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 12:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 15 Feb 2024 15:18:39 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/746/1276742889_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연예, 하자!]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=790&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=790&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Thu, 22 Feb 2024 12:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 02월 28일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/790/346737681_EC82ACEC9DB4ECA68820ED8FBC20EBB3B5EC82AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 15 Feb 2024 15:18:39 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 03월 03일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/782/1398936363_EAB980EBA788EBA6AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monday Off With Bluesy 단독 콘서트 "Midnight ..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=781&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=781&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 15 Feb 2024 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2024년 03월 14일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/781/2110607346_EBA8BCEB8DB0EC9DB4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
