@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 04:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 05:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>최현수, 이우리 (MC 김동현)</span>
 																<p>2024. 03. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17079839211707983921718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이병찬 소극장 콘서트 [MY COSMOS]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209533#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209533#skip_nav</guid>
+            <pubDate>Fri, 23 Feb 2024 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209533#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17086625441708662544663.jpg">
+									</a>
+								</div>
+								<b>이병찬 소극장 콘서트 [MY COSMOS]</b>
+								<span>이병</span>
+																<p>2024. 03. 08 - 2024. 03. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17086625441708662544663.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The first onstage of Backstage Social Club]]></title>
@@ -182,22 +198,6 @@
 								<span>노을공원시민모임</span>
 																<p>2024. 02. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17066928551706692855475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VROMANCE 1ST CONCERT [VROMANCE의 작업실 : #처음]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209364</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209364</guid>
-            <pubDate>Sat, 27 Jan 2024 07:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209364" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17063389461706338946319.jpg">
-									</a>
-								</div>
-								<b>VROMANCE 1ST CONCERT [VROMANCE의 작업실 : #처음]</b>
-								<span>VROMANCE(브로맨스)</span>
-																<p>2024. 02. 17 - 2024. 02. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17063389461706338946319.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
