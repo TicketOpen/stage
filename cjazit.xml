@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 15:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/gk/sh/qn224699927cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제63회 라이브 클럽 데이]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/343</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/343</guid>
-            <pubDate>Wed, 14 Feb 2024 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.02.23
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>라이브클럽 협동조합</dd>
-<dt>출연:</dt>
-<dd>기프트, 아이디얼스</dd>
-</dl>
-<a href="/cjazit/book/view/343" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/dw/do/af224699323ez.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
