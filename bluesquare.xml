@@ -4,18 +4,18 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 04:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 05:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[쏜애플 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002804</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002804</guid>
-            <pubDate>Thu, 29 Feb 2024 01:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">쏜애플 콘서트</dt>
-						<dd>2024.03.29 ~ 2024.03.31</dd>
+            <title><![CDATA[씨아이엑스(CIX) 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003180</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003180</guid>
+            <pubDate>Mon, 04 Mar 2024 05:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">씨아이엑스(CIX) 콘서트</dt>
+						<dd>2024.04.06 ~ 2024.04.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199906_01.425.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_200162_01.347.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[일 테노레]]></title>
@@ -26,6 +26,16 @@
 						<dd>2024.03.29 ~ 2024.05.19</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199881_01.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002804</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002804</guid>
+            <pubDate>Thu, 29 Feb 2024 01:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">쏜애플 콘서트</dt>
+						<dd>2024.03.29 ~ 2024.03.31</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199906_01.425.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[손호영 팬 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2023.12.29 ~ 2023.12.31</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/12/0400012312_197113_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[적재 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=195808&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=195808&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 25 Dec 2023 15:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">적재 콘서트</dt>
-						<dd>2023.12.22 ~ 2023.12.25</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_195808_01.532.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
