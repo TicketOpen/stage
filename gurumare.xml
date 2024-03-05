@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 08:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다니엘 호 내한공연]]></title>
+            <link>https://tickets.interpark.com/goods/24002979</link>
+            <guid>https://tickets.interpark.com/goods/24002979</guid>
+            <pubDate>Tue, 05 Mar 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24002979" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17096277271709627727115.jpg">
+									</a>
+								</div>
+								<b>다니엘 호 내한공연</b>
+								<span>다니엘 호</span>
+																<p>2024. 04. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17096277271709627727115.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하동근 1st 팬콘서트 <꽃피는 봄, 동근해 봄>]]></title>
             <link>https://tickets.interpark.com/goods/24002491</link>
@@ -182,22 +198,6 @@
 								<span>김장훈, 블루코크와인</span>
 																<p>2024. 02. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17080434941708043494126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제1회 숲의향연_響然 : 자연의 소리]]></title>
-            <link>https://cafe.daum.net/nanjinoeul/r1LD/15</link>
-            <guid>https://cafe.daum.net/nanjinoeul/r1LD/15</guid>
-            <pubDate>Wed, 31 Jan 2024 10:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://cafe.daum.net/nanjinoeul/r1LD/15" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17066928551706692855475.jpg">
-									</a>
-								</div>
-								<b>제1회 숲의향연_響然 : 자연의 소리</b>
-								<span>노을공원시민모임</span>
-																<p>2024. 02. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17066928551706692855475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
