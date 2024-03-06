@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 07:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 08:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,12 +56,28 @@
             <enclosure url="https://yes24livehall.com/upload/XamP9N5x0crtihBqdMynwKJSQgvfkE1ej3IYLuHbWO4s62CATG8lzDV7ZUpoRF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1654&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240330</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1654&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240330</guid>
+            <pubDate>Wed, 06 Mar 2024 08:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.30 (토) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/xjCgocBtDrO0e2JGY5Hmysn9ihLMTUfk3QAWlKP8Vp1XE76vdab4zqFSuNwIZR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1620&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240413</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1620&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240413</guid>
             <pubDate>Thu, 18 Jan 2024 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 (토) 15:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/MYf4ABOWudkQKG78vaUc5Srw6Imo92CReFJptx3ghzl1qDnNiZ0VsjyXELHTPb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boys Like Girls Live in Seoul]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1653&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240430</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1653&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240430</guid>
+            <pubDate>Wed, 06 Mar 2024 08:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.30 (화) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/l5D4uoWVOvYgd0kBSnaHRIyFibGzhXPCjM8rNcKtJmLf7QeA3162sq9xTUEwpZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Asia Tour 2024 ‘Culture’ in Seoul]]></title>
