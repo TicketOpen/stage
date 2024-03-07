@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 14:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 15:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[파슬스 내한공연 (PARCELS LIVE IN SEOUL)]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1565&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240307</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1565&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240307</guid>
-            <pubDate>Tue, 24 Oct 2023 09:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.07 (목) 20:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/lLWKdHP51eTiEzuSwRG2CvNXrB6UfZJ7o4ambIqDt0pcsjVhQOk39A8ygFYMxn.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 슬래쉬(Slash) 내한공연 THE RIVER IS RISING TOUR]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1571&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240309</link>
