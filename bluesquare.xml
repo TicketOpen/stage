@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 08:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 09:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넬 콘서트 'NELL’S SEASON']]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003298</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003298</guid>
+            <pubDate>Thu, 07 Mar 2024 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">넬 콘서트 'NELL’S SEASON' </dt>
+						<dd>2024.04.19 ~ 2024.04.21</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/03/0400012403_200241_01.329.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[씨아이엑스(CIX) 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003180</link>
@@ -136,16 +146,6 @@
 						<dd>2024.01.06 ~ 2024.01.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_196275_01.922.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=196442&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=196442&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 06 Mar 2024 16:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">이승윤 콘서트</dt>
-						<dd>2023.12.29 ~ 2023.12.31</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/23/11/0400012311_196442_01.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이승윤 콘서트(선예매)]]></title>
