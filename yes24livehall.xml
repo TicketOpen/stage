@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 01:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 02:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://yes24livehall.com/upload/GH5XSZq0Jxz8PeT7lLWmKF3hpQ1C6yViUYERoO2kbjADBcrdt9IuNMfvawg4sn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 Winter OF Dream (윈터 오에프 드림)]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1657&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240324</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1657&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240324</guid>
+            <pubDate>Mon, 11 Mar 2024 02:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.24 (일) 17:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/TxoQqbafIwuFMn5V4m8GC3JP0clRHiOts2dUEXevyBpzZNjK1gAkYr7DW6h9SL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1599&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240328</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1599&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240328</guid>
@@ -40,12 +48,28 @@
             <enclosure url="https://yes24livehall.com/upload/xjCgocBtDrO0e2JGY5Hmysn9ihLMTUfk3QAWlKP8Vp1XE76vdab4zqFSuNwIZR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[749번째 고백 - My love, My destiny]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1656&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240407</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1656&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240407</guid>
+            <pubDate>Mon, 11 Mar 2024 02:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.07 (일) 15:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/3HLBCKYbTqdmn2DhzaANyfZW7jVM0o4tXIJvgQFc61U9iSOuwsrEPxkRGpel58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LOUD BRIDGE FESTIVAL SEOUL 2024]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1620&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240413</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1620&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240413</guid>
             <pubDate>Thu, 18 Jan 2024 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 (토) 15:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/MYf4ABOWudkQKG78vaUc5Srw6Imo92CReFJptx3ghzl1qDnNiZ0VsjyXELHTPb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mae Muller Live in Korea]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1655&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240423</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1655&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240423</guid>
+            <pubDate>Mon, 11 Mar 2024 02:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.23 (화) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/a3bMKxIksqpolU8y2GPD7vF16YfWuHNi0SOCcXQZd9hzB4Tem5nJjRtwVrEALg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boys Like Girls Live in Seoul]]></title>
