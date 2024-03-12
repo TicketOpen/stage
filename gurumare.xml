@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 04:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>다니엘 호</span>
 																<p>2024. 04. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17096277271709627727115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 임정현 단독콘서트 <음악일기>]]></title>
+            <link>https://tickets.interpark.com/goods/24003393</link>
+            <guid>https://tickets.interpark.com/goods/24003393</guid>
+            <pubDate>Tue, 12 Mar 2024 05:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24003393" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17102201521710220152397.jpg">
+									</a>
+								</div>
+								<b>2024 임정현 단독콘서트 &lt;음악일기&gt;</b>
+								<span>임정현</span>
+																<p>2024. 04. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17102201521710220152397.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하동근 1st 팬콘서트 <꽃피는 봄, 동근해 봄>]]></title>
@@ -182,22 +198,6 @@
 								<span>정우</span>
 																<p>2024. 02. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TO, DREAM 투드림 공연]]></title>
-            <link>https://smartstore.naver.com/firstticket_/products/9924327267</link>
-            <guid>https://smartstore.naver.com/firstticket_/products/9924327267</guid>
-            <pubDate>Wed, 14 Feb 2024 07:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://smartstore.naver.com/firstticket_/products/9924327267" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg">
-									</a>
-								</div>
-								<b>TO, DREAM 투드림 공연</b>
-								<span>이동길, 김소정 (Guest.김장훈)</span>
-																<p>2024. 02. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
