@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 01:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 02:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>하동근</span>
 																<p>2024. 04. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17084745391708474539382.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동현 첫번째 콘서트 <나의 노래>]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209597#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209597#skip_nav</guid>
+            <pubDate>Wed, 13 Mar 2024 02:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209597#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17102939491710293949113.jpg">
+									</a>
+								</div>
+								<b>김동현 첫번째 콘서트 &lt;나의 노래&gt;</b>
+								<span>김동현</span>
+																<p>2024. 03. 29 - 2024. 03. 31</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17102939491710293949113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[fade in 낭독극 - MEGAPOLIS]]></title>
@@ -182,22 +198,6 @@
 								<span>몬트(M.O.N.T)</span>
 																<p>2024. 02. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17077852081707785208961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 My Universe [정우 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209445</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209445</guid>
-            <pubDate>Wed, 31 Jan 2024 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209445" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌7 My Universe [정우 단독 콘서트]</b>
-								<span>정우</span>
-																<p>2024. 02. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
