@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 04:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 05:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -633,628 +633,289 @@
             <title><![CDATA[undefined (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI wkqLJ group" type="CLASSIC"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 예스24 티켓</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;"><meta itemprop="name" content="노들섬 2주년"><meta itemprop="description" content=""><div class="hidden"><h3>예스24 티켓</h3><h3>노들섬 2주년</h3></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="102443783" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI wkqLJ group" type="CLASSIC"><a href="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="http://m.ticket.yes24.com/event/PromotionInfo.aspx?id=3213&amp;&amp;"><meta itemprop="name" content="노들섬 2주년 기획공연         <The Wonder Weeks> 예매하기"><meta itemprop="description" content=""><div class="hidden"><h3>노들섬 2주년 기획공연         &lt;The Wonder Weeks&gt; 예매하기</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (노들섬 라이브하우스 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:39 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:27 GMT</pubDate>
             <content:encoded><![CDATA[<div id="89482027" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI wkqLJ group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-nodeul-music " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">라디오 노들(RADIO NODEUL) YOUTUBE</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 라디오 노들(RADIO NODEUL) YOUTUBE</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://www.youtube.com/channel/UCeR5CnHd643mIVNIzI4IlaA"><meta itemprop="name" content="라디오 노들(RADIO NODEUL) YOUTUBE"><meta itemprop="description" content=""><div class="hidden"><h3>라디오 노들(RADIO NODEUL) YOUTUBE</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:42 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<div id="357491626" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW HIMVr hHgZXB group" type="CLASSIC"><a href="https://booking.naver.com/booking/6/bizes/164868/items/5595261/?tab=book" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ dkgIhC group" aria-describedby="profile-ctrsound " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe dgVnpq bhdLno lOvuB"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/712ab1a3-99d0-424a-a2d9-7c7ae34db2df_-----------2024-01-16------3.02.39.png?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj busAAG"></div><p class="sc-hKgILt sc-jUEnpm gXKGT fmxDzY">김일두 &amp; The life three 2월 3일 재즈콘서트</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:42 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<div id="353482806" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW HIMVr hHgZXB group" type="CLASSIC"><a href="https://www.melon.com/musicstory/inform.htm?mstorySeq=14482&amp;startIndex=0&amp;musicToday=Y" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ dkgIhC group" aria-describedby="profile-ctrsound " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe dgVnpq bhdLno lOvuB"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/eb8d75f7-ad39-42e2-a6a9-ab3163c89a5c_1e7bf7ad-df63-4d6c-8934-078ef09c8b83-optimize.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj busAAG"></div><p class="sc-hKgILt sc-jUEnpm gXKGT fmxDzY">EARS-UP 시즌 2, '우리는 좀 더 유심히 듣게 된다' Vol.3~5 멜론 매거진 살펴보기</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (씨티알사운드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:42 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<div id="58790335" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW HIMVr hHgZXB group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCAKRBt4CV5hEZ1t01clBtgA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ dkgIhC group" aria-describedby="profile-ctrsound " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe dgVnpq bhdLno lOvuB"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/tZ6rIRqQJc3yYQ7pPTZg_%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8-%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7-1.jpg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj busAAG"></div><p class="sc-hKgILt sc-jUEnpm gXKGT fmxDzY">씨티알싸운드YOUTUBE</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="76993986" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://kamimusic.com/" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">프리즘홀 공식 홈페이지</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="72606111" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://www.youtube.com/channel/UCsABU4ULxv11zcgtabE3Ckw" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">프리즘홀 유튜브</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="368898188" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://ticket.melon.com/performance/index.htm?prodId=209558" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">티카콘(TIKACON) : 블루파프리카</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="367085193" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://ticket.melon.com/performance/index.htm?prodId=209541" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">DRINK DANCE AND LOVE ALL : 효도앤베이스 X 까데호</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="367085138" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://ticket.melon.com/performance/index.htm?prodId=209523" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c48eb225-55ff-4ba0-9db5-3c8b68aee7e2_81c0ff67-50b2-4f58-88fe-7e7d0f0f0cc2-202402191804009dbdec65-cce1-4026-a283-f5c7c2053108.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">티카콘(TIKACON) : 다양성</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="347356112" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://www.melon.com/musicstory/informView.htm?mstorySeq=14353" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/bc11430b-904d-4cf1-b6f6-4150293ab732_583d8525-6aa0-4c80-bc2f-d28159db049b-optimize.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">[A.D. 10] 멜론매거진 웹</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (프리즘홀 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:46 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<div id="347356181" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="http://into.melon.com/magazinelanding?type=ZA&amp;id=14353" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-prismhall " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">[A.D. 10] 멜론매거진 모바일</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<div id="245453570" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://unpluggedhongdae.notion.site/bdd881ba7e354f7fb9127216e5d83636?v=8310804bbe044d14b0fc08730b8ff3b3" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">✨공연 일정표 PERFORMANCE CALENDAR✨</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: ✨공연 일정표 PERFORMANCE CALENDAR✨</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://unpluggedhongdae.notion.site/bdd881ba7e354f7fb9127216e5d83636?v=8310804bbe044d14b0fc08730b8ff3b3"><meta itemprop="name" content="✨공연 일정표 PERFORMANCE CALENDAR✨"><meta itemprop="description" content=""><div class="hidden"><h3>✨공연 일정표 PERFORMANCE CALENDAR✨</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="82041233" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdzrrG-0O6PZXtXDShUaH4YcEJwC79h0EZ_hUkSmlT7Mt8Wtg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">언플러그드 대관 신청(2023ver)</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 언플러그드 대관 신청(2023ver)</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://docs.google.com/forms/d/e/1FAIpQLSdzrrG-0O6PZXtXDShUaH4YcEJwC79h0EZ_hUkSmlT7Mt8Wtg/viewform?usp=sf_link"><meta itemprop="name" content="언플러그드 대관 신청(2023ver)"><meta itemprop="description" content=""><div class="hidden"><h3>언플러그드 대관 신청(2023ver)</h3></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="82041233" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdzrrG-0O6PZXtXDShUaH4YcEJwC79h0EZ_hUkSmlT7Mt8Wtg/viewform?usp=sf_link" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ bexQHg group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">언플러그드 대관 신청(2023ver)</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 2024언플러그드 대관신청(2024ver)</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://docs.google.com/forms/d/e/1FAIpQLSdzrrG-0O6PZXtXDShUaH4YcEJwC79h0EZ_hUkSmlT7Mt8Wtg/viewform?usp=sf_link"><meta itemprop="name" content="2024언플러그드 대관신청(2024ver)"><meta itemprop="description" content="언플러그드에 관심을 갖고 대관신청을 해주셔서 진심으로 감사합니다.
+순서에 따라 구글폼 작성해주시면 확인 후 연락드리겠습니다.
+
+언플러그드 홍대점
+- 주소 : 서울 마포구 와우산로33길 26 1층
+(사진)  (가격표)  (장비리스트)
+
+*12월은 대관 극 성수기로 별도의 (가격표)가 적용됩니다.
+
+언플러그드 별관
+- 주소 : 서울특별시 마포구 서교동 328-12
+(사진)  (가격표)  (장비리스트) 
+
+*12월은 대관 극 성수기로 별도의 (가격표)가 적용됩니다.
+
+* 문의담당 : 전준수 매니저(010-8792-9943)"><div class="hidden"><h3>2024언플러그드 대관신청(2024ver)</h3><p>언플러그드에 관심을 갖고 대관신청을 해주셔서 진심으로 감사합니다.
+순서에 따라 구글폼 작성해주시면 확인 후 연락드리겠습니다.
+
+언플러그드 홍대점
+- 주소 : 서울 마포구 와우산로33길 26 1층
+(사진)  (가격표)  (장비리스트)
+
+*12월은 대관 극 성수기로 별도의 (가격표)가 적용됩니다.
+
+언플러그드 별관
+- 주소 : 서울특별시 마포구 서교동 328-12
+(사진)  (가격표)  (장비리스트) 
+
+*12월은 대관 극 성수기로 별도의 (가격표)가 적용됩니다.
+
+* 문의담당 : 전준수 매니저(010-8792-9943)</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="362568561" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/1UjDHcaLfCQ7sQuBA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/ea9dad5c-c63c-40fa-8f1c-5a9a575ed2ce_4--------------------11.png?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">24년 4월 언플러그드 홍대 오픈마이크 신청</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 24년 4월 언플러그드 홍대 오픈마이크 신청</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/1UjDHcaLfCQ7sQuBA"><meta itemprop="name" content="24년 4월 언플러그드 홍대 오픈마이크 신청"><meta itemprop="description" content=""><div class="hidden"><h3>24년 4월 언플러그드 홍대 오픈마이크 신청</h3></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="362568561" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/1UjDHcaLfCQ7sQuBA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/ea9dad5c-c63c-40fa-8f1c-5a9a575ed2ce_4--------------------11.png?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">24년 4월 언플러그드 홍대 오픈마이크 신청</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 24년 4월 언플러그드 홍대 오픈마이크 신청</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/1UjDHcaLfCQ7sQuBA"><meta itemprop="name" content="24년 4월 언플러그드 홍대 오픈마이크 신청"><meta itemprop="description" content="2024년 4월에 진행될 오픈 마이크 참가 신청서입니다.
+참여를 원하는 뮤지션 분들은 아래의 사항을 꼼꼼히 읽고 제출해 주세요.
+공연의 활성화를 위해 참여자분들의 지인 초대 및 적극적인 홍보를 부탁드립니다.  
+
+🎵 모집기간
+- 3/6(수)~3/12(화) 밤 12시까지
+
+🎵  공연일시
+4월 1, 15, 22, 29일 월요일 오후 8시 중 하루
+(신청 인원 및 언플러그드 일정에 따라 공연날이 정해지게 됩니다.)
+
+🎵  공연장소
+- 카페 언플러그드 홍대점 지하 공연장
+(서울 마포구 서교동 326-18 1층 언플러그드)
+
+🎵  진행방식
+- 공연 순서는 임의로 정해드리며 15분씩 (세팅시간 제외) 공연시간이 주어집니다.
+- 저녁 6시부터 도착하신 순서대로 10분 정도의 리허설이 진행됩니다.
+- 유튜브를 통해 스트리밍이 동시에 진행됩니다.
+* 송출 채널 : 언플러그드 유튜브 계정 (https://www.youtube.com/user/cafeunplugged1)
+
+🎵  참가비
+- 기본 참가비 1만원, 추가인원당 5000원씩 추가
+ex) 1인 1만원/ 2인 1.5만원/ 3인 2만원 / 4인 2.5만원
+
+🎵  신청 유의사항
+1) 자작곡 위주의 공연이 가능하신 뮤지션분들의 신청을 기다립니다.
+2) 악기가 포함된 구성으로 부탁드리겠습니다. 악기 없이 MR만 사용하는 구성은 지양합니다.
+3) 모집 마감 후 4일 내로 선정되신 뮤지션에게 연락을 드리며, 공연 날짜에 대한 추가 논의가 진행될 예정입니다.
+4) 공연진행 확정된 분들에게만 개별 연락을 드립니다. 전화 문의 혹은 인스타그램 DM 문의는 자제 부탁드립니다.
+
+*기타 문의: 인스타그램 @jinse_bb DM"><div class="hidden"><h3>24년 4월 언플러그드 홍대 오픈마이크 신청</h3><p>2024년 4월에 진행될 오픈 마이크 참가 신청서입니다.
+참여를 원하는 뮤지션 분들은 아래의 사항을 꼼꼼히 읽고 제출해 주세요.
+공연의 활성화를 위해 참여자분들의 지인 초대 및 적극적인 홍보를 부탁드립니다.  
+
+🎵 모집기간
+- 3/6(수)~3/12(화) 밤 12시까지
+
+🎵  공연일시
+4월 1, 15, 22, 29일 월요일 오후 8시 중 하루
+(신청 인원 및 언플러그드 일정에 따라 공연날이 정해지게 됩니다.)
+
+🎵  공연장소
+- 카페 언플러그드 홍대점 지하 공연장
+(서울 마포구 서교동 326-18 1층 언플러그드)
+
+🎵  진행방식
+- 공연 순서는 임의로 정해드리며 15분씩 (세팅시간 제외) 공연시간이 주어집니다.
+- 저녁 6시부터 도착하신 순서대로 10분 정도의 리허설이 진행됩니다.
+- 유튜브를 통해 스트리밍이 동시에 진행됩니다.
+* 송출 채널 : 언플러그드 유튜브 계정 (https://www.youtube.com/user/cafeunplugged1)
+
+🎵  참가비
+- 기본 참가비 1만원, 추가인원당 5000원씩 추가
+ex) 1인 1만원/ 2인 1.5만원/ 3인 2만원 / 4인 2.5만원
+
+🎵  신청 유의사항
+1) 자작곡 위주의 공연이 가능하신 뮤지션분들의 신청을 기다립니다.
+2) 악기가 포함된 구성으로 부탁드리겠습니다. 악기 없이 MR만 사용하는 구성은 지양합니다.
+3) 모집 마감 후 4일 내로 선정되신 뮤지션에게 연락을 드리며, 공연 날짜에 대한 추가 논의가 진행될 예정입니다.
+4) 공연진행 확정된 분들에게만 개별 연락을 드립니다. 전화 문의 혹은 인스타그램 DM 문의는 자제 부탁드립니다.
+
+*기타 문의: 인스타그램 @jinse_bb DM</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="237867009" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/NpZt4s1wpZFuzdo8A" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/3d635ee3-c9b3-4373-80ef-212f008c6cb4_2024-------------------01.png?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">언플러그드 '오픈 스테이지' 참가 신청서</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 언플러그드 '오픈 스테이지' 참가 신청서</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/NpZt4s1wpZFuzdo8A"><meta itemprop="name" content="언플러그드 '오픈 스테이지' 참가 신청서"><meta itemprop="description" content=""><div class="hidden"><h3>언플러그드 '오픈 스테이지' 참가 신청서</h3></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="237867009" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/NpZt4s1wpZFuzdo8A" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/3d635ee3-c9b3-4373-80ef-212f008c6cb4_2024-------------------01.png?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">언플러그드 '오픈 스테이지' 참가 신청서</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: Google Forms: Sign-in</title><desc>Access Google Forms with a personal Google account or Google Workspace account (for business use).</desc><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/NpZt4s1wpZFuzdo8A"><meta itemprop="name" content="Google Forms: Sign-in"><meta itemprop="description" content="Access Google Forms with a personal Google account or Google Workspace account (for business use)."><div class="hidden"><h3>Google Forms: Sign-in</h3><p>Access Google Forms with a personal Google account or Google Workspace account (for business use).</p></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="366831442" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/47pjpmkEked5UV6AA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/5d35d455-a9a2-4e9d-8c02-be2d967c3bbe_IMG-1720.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/47pjpmkEked5UV6AA"><meta itemprop="name" content="기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리"><meta itemprop="description" content="‼‼ 예매오픈 : 2024년 2월 26일 월요일 오후 7시‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 3월 14일 목요일 오후 8시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 15,000원 / 현매 : 20,000원
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 예매확인 문자가 발송됩니다.
-
-* 예매마감 : 3월 13일 오후 5시
-(전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-8792-9943로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/11 오후 5시 이전 : 전액 환불
-3/11 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/13 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 7시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 7시 40분
-- 입장 순서 : 선착순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  90분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-8792-9943 혹은 인스타그램 @0503h 로 해주세요!"><div class="hidden"><h3>기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리</h3><p>‼‼ 예매오픈 : 2024년 2월 26일 월요일 오후 7시‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 3월 14일 목요일 오후 8시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 15,000원 / 현매 : 20,000원
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 예매확인 문자가 발송됩니다.
-
-* 예매마감 : 3월 13일 오후 5시
-(전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-8792-9943로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/11 오후 5시 이전 : 전액 환불
-3/11 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/13 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 7시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 7시 40분
-- 입장 순서 : 선착순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  90분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-8792-9943 혹은 인스타그램 @0503h 로 해주세요!</p></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="366831442" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/47pjpmkEked5UV6AA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/5d35d455-a9a2-4e9d-8c02-be2d967c3bbe_IMG-1720.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/47pjpmkEked5UV6AA"><meta itemprop="name" content="기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 03/14(목) 오후 8시 : 임한빈, 지혜리</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<div id="368344801" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/X3F5f7tWJ7iSzwU78" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c9ea4916-21a0-417b-9501-663856556639_IMG-1865.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 03/15(금) 오후8시 : 박만조, 서림, 황성월</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 03/15(금) 오후8시 : 박만조, 서림, 황성월</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/X3F5f7tWJ7iSzwU78"><meta itemprop="name" content="기획공연 - 03/15(금) 오후8시 : 박만조, 서림, 황성월"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 03/15(금) 오후8시 : 박만조, 서림, 황성월</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="366870204" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/dG6izw1Tzx4gaAXi8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/2c99403d-56df-44fb-aa84-b82ddfece88e_IMG-1722.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/dG6izw1Tzx4gaAXi8"><meta itemprop="name" content="기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime"><meta itemprop="description" content="‼‼ 예매오픈 : 2024년 2월 26일 월요일 오후 7시 ‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 3월 16일 토요일 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 30,000원 / 현매 : 33,000원
-- 예매오픈 : 2024년 2월 26일 월요일 오후 7시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-
-* 예매마감 : 3월 15일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3541-6825로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/13 오후 5시 이전 : 전액 환불
-3/13 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/15 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  110분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3541-6825 혹은 인스타그램 @whizzieey로 해주세요!"><div class="hidden"><h3>기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime</h3><p>‼‼ 예매오픈 : 2024년 2월 26일 월요일 오후 7시 ‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 3월 16일 토요일 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 30,000원 / 현매 : 33,000원
-- 예매오픈 : 2024년 2월 26일 월요일 오후 7시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-
-* 예매마감 : 3월 15일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3541-6825로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/13 오후 5시 이전 : 전액 환불
-3/13 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/15 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  110분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3541-6825 혹은 인스타그램 @whizzieey로 해주세요!</p></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="366870204" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/dG6izw1Tzx4gaAXi8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/2c99403d-56df-44fb-aa84-b82ddfece88e_IMG-1722.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/dG6izw1Tzx4gaAXi8"><meta itemprop="name" content="기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 3/16(토) 오후 7시 : Confined White, Workwear, Night of Lifetime</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="368041060" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/pSGFFYV1GupsSKqw6" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/8a369797-ec0c-44a5-adc6-afda50ff6bd2_IMG-1846.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/pSGFFYV1GupsSKqw6"><meta itemprop="name" content="기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)"><meta itemprop="description" content="📍일시
-2024년 3월 17일 일요일 오후 3시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 30,000원 / 현매 : 33,000원
-
-* 예매오픈 : 2024년 3월 1일 금요일 오후 7시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 관람공지 문자가 발송됩니다.
-
-* 예매마감 : 3월 16일 오후 5시
-(전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3735-7412로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/14 오후 5시 이전 : 전액 환불
-3/14 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/16 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 2시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 2시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  110분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3735-7412 혹은 인스타그램 @52dolz 로 해주세요!"><div class="hidden"><h3>기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)</h3><p>📍일시
-2024년 3월 17일 일요일 오후 3시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 30,000원 / 현매 : 33,000원
-
-* 예매오픈 : 2024년 3월 1일 금요일 오후 7시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 관람공지 문자가 발송됩니다.
-
-* 예매마감 : 3월 16일 오후 5시
-(전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3735-7412로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/14 오후 5시 이전 : 전액 환불
-3/14 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/16 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 2시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 2시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  110분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3735-7412 혹은 인스타그램 @52dolz 로 해주세요!</p></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="368041060" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/pSGFFYV1GupsSKqw6" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/8a369797-ec0c-44a5-adc6-afda50ff6bd2_IMG-1846.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/pSGFFYV1GupsSKqw6"><meta itemprop="name" content="기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 3/17(일) 오후 3시 : 박준영(초록바다), 김규도(김규도밴드), 이영(우물)</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="367303081" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/jj1e1K2AsA5aT3LA7" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c05163d1-5d1d-4276-b7ad-6f1f0a06c333_IMG-1812.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/jj1e1K2AsA5aT3LA7"><meta itemprop="name" content="기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune"><meta itemprop="description" content="‼‼ 예매오픈 : 2024년 2월 28일 수요일 오후 7시 ‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 3월 17일 (일) 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 22,000원 / 현매 : 25,000원
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 관람공지 문자가 발송됩니다.
-
-* 예매마감 : 3월 16일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3541-6825로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/14 오후 5시 이전 : 전액 환불
-3/14 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/16 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 공연장 도착 선착순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 : 110분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3541-6825 혹은 인스타그램 @whizzieey 로 해주세요!"><div class="hidden"><h3>기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune</h3><p>‼‼ 예매오픈 : 2024년 2월 28일 수요일 오후 7시 ‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 3월 17일 (일) 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 22,000원 / 현매 : 25,000원
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 관람공지 문자가 발송됩니다.
-
-* 예매마감 : 3월 16일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3541-6825로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/14 오후 5시 이전 : 전액 환불
-3/14 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/16 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 공연장 도착 선착순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 : 110분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3541-6825 혹은 인스타그램 @whizzieey 로 해주세요!</p></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="367303081" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/jj1e1K2AsA5aT3LA7" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c05163d1-5d1d-4276-b7ad-6f1f0a06c333_IMG-1812.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/jj1e1K2AsA5aT3LA7"><meta itemprop="name" content="기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 3/17(일) 오후 7시 - 이고요, 이영원, Bebelune</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="369636792" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/cEQR5EQnbywaNunZ8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/6a3af9f9-d639-4fe0-b88c-d7b40a54da76_IMG-1945.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/cEQR5EQnbywaNunZ8"><meta itemprop="name" content="정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아"><meta itemprop="description" content="* 예매오픈 : 2024년 3월 6일 수요일 오후 8시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 03월 20일 수요일 오후 8시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 20,000원 / 현매 : 22,000원
-
-* 예매오픈 : 2024년 3월 6일 수요일 오후 8시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 확인 문자가 발송됩니다.
-
-* 예매마감 : 3월 19일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-8792-9943로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/17 오후 5시 이전 : 전액환불
-3/17 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/19 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 7시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 7시 40분
-- 입장 순서 : 선착순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-8792-9943 혹은 인스타그램 @0503h 로 해주세요!"><div class="hidden"><h3>정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아</h3><p>* 예매오픈 : 2024년 3월 6일 수요일 오후 8시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 03월 20일 수요일 오후 8시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 20,000원 / 현매 : 22,000원
-
-* 예매오픈 : 2024년 3월 6일 수요일 오후 8시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 확인 문자가 발송됩니다.
-
-* 예매마감 : 3월 19일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-8792-9943로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/17 오후 5시 이전 : 전액환불
-3/17 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/19 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 7시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 7시 40분
-- 입장 순서 : 선착순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-8792-9943 혹은 인스타그램 @0503h 로 해주세요!</p></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="369636792" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/cEQR5EQnbywaNunZ8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/6a3af9f9-d639-4fe0-b88c-d7b40a54da76_IMG-1945.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/cEQR5EQnbywaNunZ8"><meta itemprop="name" content="정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아"><meta itemprop="description" content=""><div class="hidden"><h3>정기공연 - 03/20(수) 오후 8시 윤형준, 문재균, 강진아</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<div id="370693073" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/4VAszZofq89o4c1h7" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/4245a978-4fbe-4aa9-a854-62c701c99b29_IMG-2060.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">정기공연 - 3/21(목) 오후 8시 : 퀜치, 삼월생, 유신</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 정기공연 - 3/21(목) 오후 8시 : 퀜치, 삼월생, 유신</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/4VAszZofq89o4c1h7"><meta itemprop="name" content="정기공연 - 3/21(목) 오후 8시 : 퀜치, 삼월생, 유신"><meta itemprop="description" content=""><div class="hidden"><h3>정기공연 - 3/21(목) 오후 8시 : 퀜치, 삼월생, 유신</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="369347399" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/E9Z48LpnrC3pj1nHA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c0d6328a-b522-4850-b263-987088559f34_IMG-1923.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연  - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 &lt;PIT-A-PAT&gt; - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/E9Z48LpnrC3pj1nHA"><meta itemprop="name" content="기획공연 <PIT-A-PAT> - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음"><meta itemprop="description" content="/ 일시
-2024년 3월 22일 금요일 오후 8시
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="369347399" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/E9Z48LpnrC3pj1nHA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c0d6328a-b522-4850-b263-987088559f34_IMG-1923.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연  - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연  - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/E9Z48LpnrC3pj1nHA"><meta itemprop="name" content="기획공연  - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연  - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음</h3></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="370702465" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/NUEBSAaJtFYdCeKs8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c2973abb-abb9-4e5e-85ea-3d5caf065ed7_IMG-2065.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/NUEBSAaJtFYdCeKs8"><meta itemprop="name" content="정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE"><meta itemprop="description" content=""><div class="hidden"><h3>정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE</h3></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="369616610" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/YhGf3xKNu2PWxMPaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/066fee1c-45f4-4f5c-8a01-ec4638e11460_IMG-1939.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/YhGf3xKNu2PWxMPaA"><meta itemprop="name" content="기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향</h3></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
+            <link>https://TicketOpen.github.io/stage/all.xml</link>
+            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="369354519" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/BEbf94paw3xda4C39" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/bb94451d-ade3-449e-9c0c-0a1b40189fc5_IMG-1926.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연  - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 &lt;NO:LIMIT&gt; - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/BEbf94paw3xda4C39"><meta itemprop="name" content="기획공연 <NO:LIMIT> - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗"><meta itemprop="description" content="/ 일시
+2024년 3월 24일 일요일 오후 7시
 
 / 공연 장소
 언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
 (별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
 
-/ 예매 : 25,000원 / 현매 : 28,000원
+/ 예매 : 30,000원 / 현매 : 33,000원
 
 [공연관람 공지사항]
 * 티켓배부, 입장대기, 현장판매 : 6시 20분
@@ -1279,27 +940,27 @@
 -개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
 -작성 구글폼 및 입금 확인 후 순차적으로 예매안내문자가 발송됩니다.
 
-* 예매마감 : 3월 21일 오후 5시
+* 예매마감 : 3월 23일 오후 5시
 (전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
 
 * 예매 취소 문의는 010-2300-9664로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/18 오후 5시 이전 : 전액 환불
-3/20 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/21 오후 5시 이후 : 환불 불가
+3/20 오후 5시 이전 : 전액 환불
+3/22 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
+3/23 오후 5시 이후 : 환불 불가
 
 * 코로나19 확진의 경우 예매자 본인에 한해서 양성판정 받은 증빙자료를 제출해주시면 전액 환불됩니다.
 -
 [코로나 방역 관련 공지사항]
 발열(37.5도 이상), 기침, 인후통 등 전염병에 대한 우려 증상이 있는 관객은 입장이 금지됩니다.
 -
-이 외 궁금하신 점이나 공연 관련 문의는 010-2300-9664 혹은 인스타그램 @yexnxhxng_ 로 해주세요!"><div class="hidden"><h3>기획공연 &lt;PIT-A-PAT&gt; - 3월 22일 (금) 오후 8시 : 난파란, 적란운, 잔음</h3><p>/ 일시
-2024년 3월 22일 금요일 오후 8시
+이 외 궁금하신 점이나 공연 관련 문의는 010-2300-9664 혹은 인스타그램 @yexnxhxng_ 로 해주세요!"><div class="hidden"><h3>기획공연 &lt;NO:LIMIT&gt; - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗</h3><p>/ 일시
+2024년 3월 24일 일요일 오후 7시
 
 / 공연 장소
 언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
 (별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
 
-/ 예매 : 25,000원 / 현매 : 28,000원
+/ 예매 : 30,000원 / 현매 : 33,000원
 
 [공연관람 공지사항]
 * 티켓배부, 입장대기, 현장판매 : 6시 20분
@@ -1324,13 +985,13 @@
 -개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
 -작성 구글폼 및 입금 확인 후 순차적으로 예매안내문자가 발송됩니다.
 
-* 예매마감 : 3월 21일 오후 5시
+* 예매마감 : 3월 23일 오후 5시
 (전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
 
 * 예매 취소 문의는 010-2300-9664로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/18 오후 5시 이전 : 전액 환불
-3/20 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/21 오후 5시 이후 : 환불 불가
+3/20 오후 5시 이전 : 전액 환불
+3/22 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
+3/23 오후 5시 이후 : 환불 불가
 
 * 코로나19 확진의 경우 예매자 본인에 한해서 양성판정 받은 증빙자료를 제출해주시면 전액 환불됩니다.
 -
@@ -1343,323 +1004,118 @@
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="370702465" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/NUEBSAaJtFYdCeKs8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/c2973abb-abb9-4e5e-85ea-3d5caf065ed7_IMG-2065.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/NUEBSAaJtFYdCeKs8"><meta itemprop="name" content="정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE"><meta itemprop="description" content="예매 시작 - 2024년 3월 11일 월요일 오후 8시
-해당 일시 전 작성된 폼은 무효처리 됩니다.
--------------------------------------------------
-
-📍일시
-2024년 3월 23일 토요일 오후 3시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 22,000원 / 현매 : 25,000원
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 관람공지 문자가 발송됩니다.
-
-* 예매마감 : 2024년 3월 22일 오후 5시
-- 전체 좌석수 : 50석 (※ 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-9218-5249로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-공지문자 발송 이전 : 전액 환불
-3/20 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/22 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 2시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 :  2시 40분
-- 입장 순서 : 당일 입장대기순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 : 100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-9218-5249 혹은 인스타그램 @philipppss 로 해주세요!"><div class="hidden"><h3>정기공연 - 03/23(토) 오후3시 : 구, 어경민, YIPPEE</h3><p>예매 시작 - 2024년 3월 11일 월요일 오후 8시
-해당 일시 전 작성된 폼은 무효처리 됩니다.
--------------------------------------------------
-
-📍일시
-2024년 3월 23일 토요일 오후 3시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 22,000원 / 현매 : 25,000원
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 관람공지 문자가 발송됩니다.
-
-* 예매마감 : 2024년 3월 22일 오후 5시
-- 전체 좌석수 : 50석 (※ 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-9218-5249로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-공지문자 발송 이전 : 전액 환불
-3/20 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/22 오후 5시 이후 : 환불 불가
-- 코로나19 확진의 경우 예매자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 2시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 :  2시 40분
-- 입장 순서 : 당일 입장대기순
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 : 100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-9218-5249 혹은 인스타그램 @philipppss 로 해주세요!</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
-            <link>https://TicketOpen.github.io/stage/all.xml</link>
-            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="369616610" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/YhGf3xKNu2PWxMPaA" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/066fee1c-45f4-4f5c-8a01-ec4638e11460_IMG-1939.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/YhGf3xKNu2PWxMPaA"><meta itemprop="name" content="기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향"><meta itemprop="description" content="‼‼ 예매오픈 : 2024년 03월 11일 월요일 오후 7시‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 03월 23일 일요일 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 33,000원 / 현매 : 35,000원
-- 예매오픈 : 2024년 03월 11일 월요일 오후 7시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-
-* 예매마감 : 03월 22일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-5811-0844로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-03/21 오후 5시 이전 : 전액 환불
-03/21 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-03/22 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-5811-0844 혹은 인스타그램 @_on_mygrind 로 해주세요!"><div class="hidden"><h3>기획공연 - 03/23(토) 오후 7시 : 시너가렛X모스힐X향</h3><p>‼‼ 예매오픈 : 2024년 03월 11일 월요일 오후 7시‼‼
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-
-📍일시
-2024년 03월 23일 일요일 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 33,000원 / 현매 : 35,000원
-- 예매오픈 : 2024년 03월 11일 월요일 오후 7시
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-
-* 예매마감 : 03월 22일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-5811-0844로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-03/21 오후 5시 이전 : 전액 환불
-03/21 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-03/22 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-5811-0844 혹은 인스타그램 @_on_mygrind 로 해주세요!</p></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
-            <link>https://TicketOpen.github.io/stage/all.xml</link>
-            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="369354519" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/BEbf94paw3xda4C39" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/bb94451d-ade3-449e-9c0c-0a1b40189fc5_IMG-1926.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연  - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연  - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/BEbf94paw3xda4C39"><meta itemprop="name" content="기획공연  - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연  - 3월 24일 (일) 오후 7시 : 김규도 밴드, 서정, 히읗</h3></div></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
-            <link>https://TicketOpen.github.io/stage/all.xml</link>
-            <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<div id="369053454" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/292ifTdaRsz32YXZ8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/5d35864e-e263-4b52-b2cc-91bfd0e7f960_IMG-1904.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/28(목) 오후 8시-The Riff, 유인원, can't be blue</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/28(목) 오후 8시-The Riff, 유인원, can't be blue</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/292ifTdaRsz32YXZ8"><meta itemprop="name" content="기획공연 - 3/28(목) 오후 8시-The Riff, 유인원, can't be blue"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 3/28(목) 오후 8시-The Riff, 유인원, can't be blue</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="370457668" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/6TTS2HFcKJUVHWpB6" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/37348ff5-c431-4439-a0dc-98b02ace80a3_IMG-2045.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/6TTS2HFcKJUVHWpB6"><meta itemprop="name" content="기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑"><meta itemprop="description" content="‼‼ 예매오픈 : 2024년 3월 13일 수요일 오후 7시‼‼
-예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다
-
-📍일시
-2024년 3월 31일 일요일 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 25,000원 / 현매 : 28,000원
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-
-* 예매마감 : 3월 30일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3843-6458로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/28 오후 5시 이전 : 전액 환불
-3/28 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/30 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3843-6458 혹은 인스타그램 @ddu.xa 로 해주세요!"><div class="hidden"><h3>기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑</h3><p>‼‼ 예매오픈 : 2024년 3월 13일 수요일 오후 7시‼‼
-예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다
-
-📍일시
-2024년 3월 31일 일요일 오후 7시
-
-📍공연장소
-언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
-(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
-
-📍예매, 취소, 환불 관련 공지사항
-* 티켓가격 : 25,000원 / 현매 : 28,000원
-- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
-- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
-- 1회 예매에 1인당 4매까지 허용됩니다.
-- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
-- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
-- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
-
-* 예매마감 : 3월 30일 오후 5시
-(전체 좌석수 : 50석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
-
-* 환불규정
-- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
-취소 및 환불 문의는 010-3843-6458로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
-3/28 오후 5시 이전 : 전액 환불
-3/28 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
-3/30 오후 5시 이후 : 환불 불가
--  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
-
-📍공연관람 공지사항
-* 티켓배부, 입장대기, 현장판매 : 6시 20분
-- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
-
-* 공연 입장 : 6시 40분
-- 입장 순서 : 입장번호순(구글폼 작성 기준)
-- 공연입장시간 이후 입장번호는 무효입니다.
-- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
-
-* 안내사항
-- 전체 좌석제, 자유석
-- 러닝타임 :  100분 (예정)
-- 관람 중 카페음료 취식 O
-- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
-- 공연 시작 후 입장은 중간멘트 때 가능합니다.
-- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
-- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
-
-이 외 궁금하신 점이나 공연 관련 문의는 010-3843-6458 혹은 인스타그램 @ddu.xa 로 해주세요!</p></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="370457668" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/6TTS2HFcKJUVHWpB6" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/37348ff5-c431-4439-a0dc-98b02ace80a3_IMG-2045.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/6TTS2HFcKJUVHWpB6"><meta itemprop="name" content="기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 3/31(일) 오후 7시 : 임예송, 기묘말, 김늑</h3></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (카페 언플러그드 ─ 링크트리)]]></title>
             <link>https://TicketOpen.github.io/stage/all.xml</link>
             <guid>https://TicketOpen.github.io/stage/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="370697982" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/brK6CHNdsy1jJERC8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/f2cce87f-b897-462e-a28b-9036a67508eb_IMG-2064.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 04/05(금) 오후 7시 30분 : 김광호, 김희소, 전찬빈</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 04/05(금) 오후 7시 30분 : 김광호, 김희소, 전찬빈</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/brK6CHNdsy1jJERC8"><meta itemprop="name" content="기획공연 - 04/05(금) 오후 7시 30분 : 김광호, 김희소, 전찬빈"><meta itemprop="description" content=""><div class="hidden"><h3>기획공연 - 04/05(금) 오후 7시 30분 : 김광호, 김희소, 전찬빈</h3></div></div>]]></content:encoded>
+            <pubDate>Thu, 14 Mar 2024 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="370697982" class="sc-bdfBwQ sc-kIeTtH jAmcnV cnxSGb"></div><div data-testid="StyledContainer" class="sc-bdfBwQ sc-dmlrTW glfyiI SwlwE group" type="CLASSIC"><a href="https://forms.gle/brK6CHNdsy1jJERC8" target="_blank" rel="noopener" data-testid="LinkButton" class="sc-pFZIQ sc-hHftDr ldGKnQ hFOoJE group" aria-describedby="profile-언플러그드-홍대점 " height="auto"><div class="w-full h-full"><div data-testid="LinkThumbnail" class="sc-bdfBwQ sc-gsTCUz sc-bkzZxe fEQWLI bhdLno ikQTwb"><img data-testid="LinkThumbnailImage" src="https://ugc.production.linktr.ee/f2cce87f-b897-462e-a28b-9036a67508eb_IMG-2064.jpeg?io=true&amp;size=thumbnail-stack-v1_0" alt="" filter="" loading="lazy" crossorigin="" class="sc-iBPRYJ sc-idOhPF gLxBPj gLKoXC"></div><p class="sc-hKgILt sc-jUEnpm cxwgnw fmxDzY">기획공연 - 04/05(금) 오후 7시 30분 : 김광호, 김희소, 전찬빈</p></div></a><button aria-label="Share link" class="flex absolute h-[40px] w-[40px] items-center justify-center lg:hidden lg:group-hover:flex rounded-xl hover:bg-black/10 transition z-[1] top-0 bottom-0 my-auto mx-0 right-[6px] sm:right-xs"><svg width="16" height="16" viewBox="0 0 16 16" class=""><title>Read more: 기획공연 - 04/05(금) 오후 8시 : 김광호, 김희소, 전찬빈</title><path fill="currentColor" stroke="currentColor" d="M12.6661 7.33348C12.2979 7.33348 11.9994 7.63195 11.9994 8.00014C11.9994 8.36833 12.2979 8.66681 12.6661 8.66681C13.0343 8.66681 13.3328 8.36833 13.3328 8.00014C13.3328 7.63195 13.0343 7.33348 12.6661 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M8.00057 7.33348C7.63238 7.33348 7.3339 7.63195 7.3339 8.00014C7.3339 8.36833 7.63238 8.66681 8.00057 8.66681C8.36876 8.66681 8.66724 8.36833 8.66724 8.00014C8.66724 7.63195 8.36876 7.33348 8.00057 7.33348Z"></path><path fill="currentColor" stroke="currentColor" d="M3.33333 7.33348C2.96514 7.33348 2.66667 7.63195 2.66667 8.00014C2.66667 8.36833 2.96514 8.66681 3.33333 8.66681C3.70152 8.66681 4 8.36833 4 8.00014C4 7.63195 3.70152 7.33348 3.33333 7.33348Z"></path></svg></button><meta itemprop="url" content="https://forms.gle/brK6CHNdsy1jJERC8"><meta itemprop="name" content="기획공연 - 04/05(금) 오후 8시 : 김광호, 김희소, 전찬빈"><meta itemprop="description" content="‼‼ 예매오픈 : 2024년 03월 11일 월요일 오후 08시‼‼
+- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
+
+📍일시
+2024년 4월 5일 목요일 오후 7시
+
+📍공연장소
+언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
+(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
+
+📍예매, 취소, 환불 관련 공지사항
+* 티켓가격 : 30,000원 / 현매 : 40,000원
+- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
+- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
+- 1회 예매에 1인당 4매까지 허용됩니다.
+- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
+- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
+- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
+
+* 예매마감 : 4월 4일 오후 5시
+(전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
+
+* 환불규정
+- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
+취소 및 환불 문의는 010-8792-9943로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
+4/2 오후 5시 이전 : 전액 환불
+4/2 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
+4/4 오후 5시 이후 : 환불 불가
+-  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
+
+📍공연관람 공지사항
+* 티켓배부, 입장대기, 현장판매 : 7시 20분
+- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
+
+* 공연 입장 : 7시 40분
+- 입장 순서 : 입장번호순(구글폼 작성 기준)
+- 공연입장시간 이후 입장번호는 무효입니다.
+- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
+
+* 안내사항
+- 전체 좌석제, 자유석
+- 러닝타임 :  100분 (예정)
+- 관람 중 카페음료 취식 O
+- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
+- 공연 시작 후 입장은 중간멘트 때 가능합니다.
+- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
+- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
+
+이 외 궁금하신 점이나 공연 관련 문의는 010-8792-9943 혹은 인스타그램 @0503h 로 해주세요!"><div class="hidden"><h3>기획공연 - 04/05(금) 오후 8시 : 김광호, 김희소, 전찬빈</h3><p>‼‼ 예매오픈 : 2024년 03월 11일 월요일 오후 08시‼‼
+- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
+
+📍일시
+2024년 4월 5일 목요일 오후 7시
+
+📍공연장소
+언플러그드 지하 1층 스튜디오 @서울 마포구 와우산로33길 26
+(별도의 주차공간이 없습니다. 근처 공용주차장 이용 부탁드립니다.)
+
+📍예매, 취소, 환불 관련 공지사항
+* 티켓가격 : 30,000원 / 현매 : 40,000원
+- 예매오픈 일시 이전 제출된 예매내역은 무효처리됩니다.
+- 예매확정 및 입장번호 부여는 예매폼에 기록된 시간을 기준으로 합니다.
+- 1회 예매에 1인당 4매까지 허용됩니다.
+- 개인정보를 반드시 정확하게 입력해주세요. 오작성될 경우 예매안내 연락이 어려울 수 있습니다.
+- 구글폼 내용 및 입금 확인 후 순차적으로 입장번호 및 관람공지 문자가 발송됩니다.
+- 동일내역으로 다회 예매폼 입력 시 마지막으로 입력된 순서로 입장번호가 배정됩니다.
+
+* 예매마감 : 4월 4일 오후 5시
+(전체 좌석수 : 60석 / 잔여석은 공연장 입구에서 현장구매 가능합니다.)
+
+* 환불규정
+- 불가피한 사정으로 인해 공연관람이 어려우실 경우 취소보다는 다른 관객에게 양도를 하는 방향으로 부탁드립니다.
+취소 및 환불 문의는 010-8792-9943로 공연명, 성함, 계좌번호를 보내주시면 순차적으로 처리해드리겠습니다.
+4/2 오후 5시 이전 : 전액 환불
+4/2 오후 5시 이후 : 취소수수료 2000원 제외 전액환불
+4/4 오후 5시 이후 : 환불 불가
+-  국가가 인정하는 격리가 필요한 전염병 감염의 경우 당사자 본인에 한해서 병원진단 증빙자료를 제출해주시면 전액 환불됩니다.
+
+📍공연관람 공지사항
+* 티켓배부, 입장대기, 현장판매 : 7시 20분
+- 지하공연장 입구에서 예매자 성함과 전화번호 뒷자리 확인 후 입장권을 전달드립니다.
+
+* 공연 입장 : 7시 40분
+- 입장 순서 : 입장번호순(구글폼 작성 기준)
+- 공연입장시간 이후 입장번호는 무효입니다.
+- 현장판매 입장번호는 예매관객 뒷 번호로 배정됩니다.
+
+* 안내사항
+- 전체 좌석제, 자유석
+- 러닝타임 :  100분 (예정)
+- 관람 중 카페음료 취식 O
+- 카메라 촬영 및 녹화 O (플래시 X, 삼각대는 다른관객 방해되지 않도록 부탁드립니다.)
+- 공연 시작 후 입장은 중간멘트 때 가능합니다.
+- 정해진 인터미션 시간이 없습니다. 팀별 셋체인지가 완료되면 바로 공연이 시작됩니다.
+- 음료할인권이 포함된 티켓의 경우 공연 당일에 한해 사용 가능합니다.
+
+이 외 궁금하신 점이나 공연 관련 문의는 010-8792-9943 혹은 인스타그램 @0503h 로 해주세요!</p></div></div>]]></content:encoded>
         </item>
     </channel>
 </rss>
