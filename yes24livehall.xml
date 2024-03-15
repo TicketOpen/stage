@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 07:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 08:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://yes24livehall.com/upload/9kecJUMfyonuCHiFAW56lBqSstdDjINRVP4GTb2OgXrw7YhQ0aEz813ZxvKLpm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JUSTJERK ACADEMY SHOWCASE 2024]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1660&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240406</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1660&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240406</guid>
+            <pubDate>Fri, 15 Mar 2024 08:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06 (토) 17:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/FnVybNot9SYjzwWUlcJAMmde1sq08LiugZTvrDRhQ26PBap35fIkGxEOCK4HX7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[749번째 고백 - My love, My destiny]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1656&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240407</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1656&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240407</guid>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 31 Jan 2024 08:22:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12 (일) 18:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/nJoEFrOqGXusKQgReYbVMtAZjIaUNpmB5981ywHL2vDxSTfd73h0zl6kcCW4Pi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZUTOMAYO INTENSE IN SEOUL, KOREA]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1658&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240615</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1658&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240615</guid>
-            <pubDate>Fri, 15 Mar 2024 04:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.15 (토) 19:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/8gWeZMK9dJRY4nE52kF1LV6f3lqmQBjDrGzoabPCIhT0pUcNyAwSsXHtuO7ixv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
