@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 14:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 15:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 2am Concert ＂One Take＂]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1639&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240317</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1639&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240317</guid>
-            <pubDate>Sat, 16 Mar 2024 15:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.17 (일) 17:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/1YVu9v2wIPGUQKLrmklsWC7cBgN4jfHtFR5TXnyqJD6ZMpdOxiE3heAa0z8Sob.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 시우민 생일 팬미팅 〈FROZEN TIME〉]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1641&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240323</link>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 31 Jan 2024 08:22:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12 (일) 18:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/nJoEFrOqGXusKQgReYbVMtAZjIaUNpmB5981ywHL2vDxSTfd73h0zl6kcCW4Pi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ZUTOMAYO INTENSE IN SEOUL, KOREA]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1658&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240615</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1658&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240615</guid>
+            <pubDate>Sun, 17 Mar 2024 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.15 (토) 19:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/8gWeZMK9dJRY4nE52kF1LV6f3lqmQBjDrGzoabPCIhT0pUcNyAwSsXHtuO7ixv.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
