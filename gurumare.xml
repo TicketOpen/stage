@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 06:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 07:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,38 +70,6 @@
 								<span>김동현</span>
 																<p>2024. 03. 29 - 2024. 03. 31</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17102939491710293949113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[fade in 낭독극 - MEGAPOLIS]]></title>
-            <link>https://smartstore.naver.com/layerstore_/category/ALL?cp=1</link>
-            <guid>https://smartstore.naver.com/layerstore_/category/ALL?cp=1</guid>
-            <pubDate>Wed, 06 Mar 2024 06:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://smartstore.naver.com/layerstore_/category/ALL?cp=1" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17097033601709703360797.jpg">
-									</a>
-								</div>
-								<b>fade in 낭독극 - MEGAPOLIS</b>
-								<span>박요한,박민기,최승훈,민승우,가빈,박주광,정의택,신나리</span>
-																<p>2024. 03. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17097033601709703360797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAMBADA ONSTAGE 일곱 번째 [모두에게 친절한 너는 왜]]]></title>
-            <link>https://blog.naver.com/yahe2008/223342926194</link>
-            <guid>https://blog.naver.com/yahe2008/223342926194</guid>
-            <pubDate>Thu, 15 Feb 2024 08:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/yahe2008/223342926194" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17079839211707983921718.jpg">
-									</a>
-								</div>
-								<b>BAMBADA ONSTAGE 일곱 번째 [모두에게 친절한 너는 왜]</b>
-								<span>최현수, 이우리 (MC 김동현)</span>
-																<p>2024. 03. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17079839211707983921718.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이병찬 소극장 콘서트 [MY COSMOS]]]></title>
@@ -198,6 +166,38 @@
 								<span>몬트(M.O.N.T)</span>
 																<p>2024. 02. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17077852081707785208961.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe [정우 단독 콘서트]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209445</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209445</guid>
+            <pubDate>Mon, 18 Mar 2024 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209445" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌7 My Universe [정우 단독 콘서트]</b>
+								<span>정우</span>
+																<p>2024. 02. 26</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO, DREAM 투드림 공연]]></title>
+            <link>https://smartstore.naver.com/firstticket_/products/9924327267</link>
+            <guid>https://smartstore.naver.com/firstticket_/products/9924327267</guid>
+            <pubDate>Mon, 18 Mar 2024 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://smartstore.naver.com/firstticket_/products/9924327267" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg">
+									</a>
+								</div>
+								<b>TO, DREAM 투드림 공연</b>
+								<span>이동길, 김소정 (Guest.김장훈)</span>
+																<p>2024. 02. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17078942011707894201208.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
