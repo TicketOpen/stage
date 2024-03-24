@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[손호영 팬 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002293</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002293</guid>
-            <pubDate>Wed, 06 Mar 2024 16:25:03 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199537&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199537&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 24 Mar 2024 15:18:24 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">손호영 팬 콘서트</dt>
 						<dd>2024.03.23 ~ 2024.03.24</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
