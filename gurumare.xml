@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 07:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 08:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</guid>
+            <pubDate>Mon, 25 Mar 2024 08:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17113524081711352408945.jpg">
+									</a>
+								</div>
+								<b>2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념)</b>
+								<span>고재근</span>
+																<p>2024. 04. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17113524081711352408945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다니엘 호 내한공연]]></title>
             <link>https://tickets.interpark.com/goods/24002979</link>
@@ -182,22 +198,6 @@
 								<span>몬트(M.O.N.T)</span>
 																<p>2024. 02. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17077852081707785208961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 My Universe [정우 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209445</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209445</guid>
-            <pubDate>Mon, 18 Mar 2024 07:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209445" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌7 My Universe [정우 단독 콘서트]</b>
-								<span>정우</span>
-																<p>2024. 02. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17067616921706761692801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
