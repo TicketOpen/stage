@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 14:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 15:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CHRISTIAN KURIA LIVE IN SEOUL]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1599&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240328</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1599&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240328</guid>
-            <pubDate>Tue, 12 Dec 2023 04:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.28 (목) 20:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/XamP9N5x0crtihBqdMynwKJSQgvfkE1ej3IYLuHbWO4s62CATG8lzDV7ZUpoRF.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[BOBBY ZERO GRAVITY IN SEOUL]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1654&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240330</link>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 17 Mar 2024 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.15 (토) 19:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/8gWeZMK9dJRY4nE52kF1LV6f3lqmQBjDrGzoabPCIhT0pUcNyAwSsXHtuO7ixv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1663&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240619</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1663&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240619</guid>
+            <pubDate>Thu, 28 Mar 2024 15:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19 (수) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/dYlVaJCIo1nu5ObhRtfkZSrN4x7PpFT69W2qgQcszeA3myj8iK0GLUEMvBwXDH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
