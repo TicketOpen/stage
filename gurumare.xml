@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 23:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 01:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VROMANCE 1ST CONCERT ENCORE [VROMANCE의 작업실:#처음]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209663#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209663#skip_nav</guid>
+            <pubDate>Thu, 28 Mar 2024 01:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209663#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17115862041711586204488.jpg">
+									</a>
+								</div>
+								<b>VROMANCE 1ST CONCERT ENCORE [VROMANCE의 작업실:#처음]</b>
+								<span>VROMANCE(브로맨스)</span>
+																<p>2024. 04. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17115862041711586204488.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</link>
@@ -182,22 +198,6 @@
 								<span>노래로물들다</span>
 																<p>2024. 02. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17067615861706761586934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬트(M.O.N.T) 팬 쇼케이스 [IDGAF]]]></title>
-            <link>https://tickets.interpark.com/goods/24001907</link>
-            <guid>https://tickets.interpark.com/goods/24001907</guid>
-            <pubDate>Tue, 13 Feb 2024 01:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24001907" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17077852081707785208961.jpg">
-									</a>
-								</div>
-								<b>몬트(M.O.N.T) 팬 쇼케이스 [IDGAF]</b>
-								<span>몬트(M.O.N.T)</span>
-																<p>2024. 02. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17077852081707785208961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
