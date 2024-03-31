@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>CJ문화재단 ─ 공연예매</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:17:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이준형 스탠딩 단독공연：Spring Up!]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/349</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/349</guid>
-            <pubDate>Mon, 11 Mar 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.03.31
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>이준형</dd>
-<dt>출연:</dt>
-<dd>이준형</dd>
-</dl>
-<a href="/cjazit/book/view/349" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ap/hh/ae226943554qo.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cjazit.org/cjazit/book/list</id>
+    <title>CJ문화재단 ─ 공연예매</title>
+    <updated>2024-03-31T15:19:48.536Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
+</feed>
