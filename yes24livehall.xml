@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 04:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 05:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 18 Jan 2024 03:21:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.13 (토) 15:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/MYf4ABOWudkQKG78vaUc5Srw6Imo92CReFJptx3ghzl1qDnNiZ0VsjyXELHTPb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.0〉]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1664&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240419</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1664&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240419</guid>
+            <pubDate>Mon, 01 Apr 2024 05:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19 (금) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/zMPOkwrg67ni3fC9TyaWD8KSpQovHN4jEV0cYA5GJdXqLt12ushRbIeUFmBZxl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mae Muller Live in Korea]]></title>
