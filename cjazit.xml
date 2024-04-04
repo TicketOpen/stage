@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cjazit.org/cjazit/book/list</id>
-    <title>CJ문화재단 ─ 공연예매</title>
-    <updated>2024-04-03T23:20:15.678Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CJ문화재단 ─ 공연예매</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 04 Apr 2024 01:21:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화노 단독 콘서트 ‘Who＇s Next’]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/352</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/352</guid>
+            <pubDate>Thu, 04 Apr 2024 01:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.04.17
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>(주)엔터크라우드</dd>
+<dt>출연:</dt>
+<dd>밴드 화노</dd>
+</dl>
+<a href="/cjazit/book/view/352" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/gs/fi/gu228996905rv.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[We]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/351</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/351</guid>
+            <pubDate>Thu, 04 Apr 2024 01:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.04.06
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>곽태풍/creespy</dd>
+<dt>출연:</dt>
+<dd>곽태풍, creespy</dd>
+</dl>
+<a href="/cjazit/book/view/351" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/gp/gw/nz228996663pr.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSHROOM HOUSE：SYNC]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/350</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/350</guid>
+            <pubDate>Thu, 04 Apr 2024 01:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.04.13
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>HYPNOSIS THERAPY</dd>
+<dt>출연:</dt>
+<dd>HYPNOSIS THERAPY, Y2K92</dd>
+</dl>
+<a href="/cjazit/book/view/350" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/gk/xu/hk228996390ve.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
