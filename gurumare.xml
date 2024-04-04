@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 01:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 02:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 <노사이드(No Side)> 콘서트]]></title>
+            <link>https://tickets.interpark.com/goods/24005174</link>
+            <guid>https://tickets.interpark.com/goods/24005174</guid>
+            <pubDate>Thu, 04 Apr 2024 02:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24005174" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17121959471712195947554.jpg">
+									</a>
+								</div>
+								<b>2024 &lt;노사이드(No Side)&gt; 콘서트</b>
+								<span>임준혁, 임상현, 이광석, 황인혁</span>
+																<p>2024. 05. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17121959471712195947554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VROMANCE 1ST CONCERT ENCORE [VROMANCE의 작업실:#처음]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209663#skip_nav</link>
@@ -79,13 +95,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/24004295" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17109157501710915750069.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17121956561712195656170.jpg">
 									</a>
 								</div>
 								<b>2024 시소 단독 콘서트 [HOME PARTY]</b>
 								<span>시소</span>
-																<p>2024. 04. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17109157501710915750069.jpg" length="0" type="image/jpg"/>
+																<p>2024. 04. 12 - 2024. 04. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17121956561712195656170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하동근 1st 팬콘서트 <꽃피는 봄, 동근해 봄>]]></title>
@@ -182,22 +198,6 @@
 								<span>정홍일</span>
 																<p>2024. 03. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17072044101707204410732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래로물들다 10주년 기념콘서트]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLSfjlDJDat7F8Hmh2tqS7rm8z4GJOeohz_DO92Kd3Yk6iGwvfg/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLSfjlDJDat7F8Hmh2tqS7rm8z4GJOeohz_DO92Kd3Yk6iGwvfg/viewform</guid>
-            <pubDate>Thu, 01 Feb 2024 05:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://docs.google.com/forms/d/e/1FAIpQLSfjlDJDat7F8Hmh2tqS7rm8z4GJOeohz_DO92Kd3Yk6iGwvfg/viewform" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17067615861706761586934.jpg">
-									</a>
-								</div>
-								<b>노래로물들다 10주년 기념콘서트 </b>
-								<span>노래로물들다</span>
-																<p>2024. 02. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17067615861706761586934.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

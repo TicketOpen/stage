@@ -4,9 +4,57 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 01:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 02:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정지수의 시선 II :[Who am I]]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/354</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/354</guid>
+            <pubDate>Thu, 04 Apr 2024 02:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.04.19
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>정지수</dd>
+<dt>출연:</dt>
+<dd>정지수, 김영후, 서수진, 이수정</dd>
+</dl>
+<a href="/cjazit/book/view/354" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/tc/fr/pv228997494er.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：청춘，Fantasy]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/353</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/353</guid>
+            <pubDate>Thu, 04 Apr 2024 02:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.04.20
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>밴드 기프트</dd>
+<dt>출연:</dt>
+<dd>밴드 기프트</dd>
+</dl>
+<a href="/cjazit/book/view/353" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/hz/fp/fe228997168jh.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화노 단독 콘서트 ‘Who＇s Next’]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/352</link>
