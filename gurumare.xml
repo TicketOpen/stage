@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 04:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 05:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17115862041711586204488.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</guid>
-            <pubDate>Mon, 25 Mar 2024 08:25:05 GMT</pubDate>
+            <title><![CDATA[2024 CHA WOONG KI FANMEETING [HAPPY WOONGKI DAY-!]]]></title>
+            <link>https://www.everlineshop.com/goods/goods_view.php?goodsNo=1000007827</link>
+            <guid>https://www.everlineshop.com/goods/goods_view.php?goodsNo=1000007827</guid>
+            <pubDate>Thu, 11 Apr 2024 05:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204" target="_blank">
+									<a href="https://www.everlineshop.com/goods/goods_view.php?goodsNo=1000007827" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17113524081711352408945.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17128123271712812327244.jpg">
 									</a>
 								</div>
-								<b>2024 Y2K 고재근 단독 콘서트 (데뷔 25주년 기념)</b>
-								<span>고재근</span>
-																<p>2024. 04. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17113524081711352408945.jpg" length="0" type="image/jpg"/>
+								<b>2024 CHA WOONG KI FANMEETING [HAPPY WOONGKI DAY-!]</b>
+								<span>차웅기</span>
+																<p>2024. 04. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17128123271712812327244.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다니엘 호 내한공연]]></title>
