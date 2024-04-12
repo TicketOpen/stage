@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 06:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 07:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>임준혁, 임상현, 이광석, 황인혁</span>
 																<p>2024. 05. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17121959471712195947554.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 [김마리 단독 콘서트 “해피마리데이”]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209740</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209740</guid>
+            <pubDate>Fri, 12 Apr 2024 07:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209740" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17129032711712903271688.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌7 [김마리 단독 콘서트 “해피마리데이”]</b>
+								<span>김마리</span>
+																<p>2024. 05. 06</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17129032711712903271688.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VROMANCE 1ST CONCERT ENCORE [VROMANCE의 작업실:#처음]]]></title>
@@ -182,22 +198,6 @@
 								<span>초승</span>
 																<p>2024. 03. 02</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17067617871706761787032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정홍일 팬미팅 [두 번째 이야기 : 고백]]]></title>
-            <link>http://ticket.yes24.com/Perf/48629</link>
-            <guid>http://ticket.yes24.com/Perf/48629</guid>
-            <pubDate>Mon, 05 Feb 2024 02:29:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/48629" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17072044101707204410732.jpg">
-									</a>
-								</div>
-								<b>정홍일 팬미팅 [두 번째 이야기 : 고백]</b>
-								<span>정홍일</span>
-																<p>2024. 03. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17072044101707204410732.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
