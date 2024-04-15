@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 03:53:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>김마리</span>
 																<p>2024. 05. 06</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17129032711712903271688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DONGHYUN FANMEETING 〈DDD: A Day’s Dream Diary〉]]></title>
+            <link>https://tickets.interpark.com/goods/24005411</link>
+            <guid>https://tickets.interpark.com/goods/24005411</guid>
+            <pubDate>Mon, 15 Apr 2024 03:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24005411" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17131445921713144592750.jpg">
+									</a>
+								</div>
+								<b>2024 DONGHYUN FANMEETING 〈DDD: A Day’s Dream Diary〉</b>
+								<span>동현 </span>
+																<p>2024. 05. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17131445921713144592750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VROMANCE 1ST CONCERT ENCORE [VROMANCE의 작업실:#처음]]]></title>
@@ -182,22 +198,6 @@
 								<span>NINE LIMBS, C3M, Backstage Social Club</span>
 																<p>2024. 03. 03</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17079863481707986348940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초승 단독 콘서트 [vase : 아끼는 꽃병을 내어드립니다]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209438</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209438</guid>
-            <pubDate>Tue, 30 Jan 2024 06:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209438" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17067617871706761787032.jpg">
-									</a>
-								</div>
-								<b>초승 단독 콘서트 [vase : 아끼는 꽃병을 내어드립니다]</b>
-								<span>초승</span>
-																<p>2024. 03. 02</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17067617871706761787032.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
