@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 01:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 02:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>VROMANCE(브로맨스)</span>
 																<p>2024. 04. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17115862041711586204488.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극지토크콘서트 “빙산의 일각: 극지 연구 20년, 지구의 끝에서 미래를 말하다”]]></title>
+            <link>https://blog.naver.com/kopriblog/223416329631</link>
+            <guid>https://blog.naver.com/kopriblog/223416329631</guid>
+            <pubDate>Thu, 18 Apr 2024 02:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://blog.naver.com/kopriblog/223416329631" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17134069241713406924999.jpg">
+									</a>
+								</div>
+								<b>극지토크콘서트 “빙산의 일각: 극지 연구 20년, 지구의 끝에서 미래를 말하다”</b>
+								<span>문경수 탐험가, 김금희 작가, 전성준 대장, 김민철 박사, 강도형 해양수산부장관</span>
+																<p>2024. 04. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17134069241713406924999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 CHA WOONG KI FANMEETING [HAPPY WOONGKI DAY-!]]]></title>
@@ -182,22 +198,6 @@
 								<span>이병찬</span>
 																<p>2024. 03. 08 - 2024. 03. 17</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17086625441708662544663.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The first onstage of Backstage Social Club]]></title>
-            <link>http://gurumare.co.kr/show</link>
-            <guid>http://gurumare.co.kr/show</guid>
-            <pubDate>Thu, 15 Feb 2024 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://gurumare.co.kr/show" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17079863481707986348940.jpg">
-									</a>
-								</div>
-								<b>The first onstage of Backstage Social Club</b>
-								<span>NINE LIMBS, C3M, Backstage Social Club</span>
-																<p>2024. 03. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17079863481707986348940.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
