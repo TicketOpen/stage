@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 03:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 04:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>우석 (펜타곤)</span>
 																<p>2024. 05. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17140282371714028237846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손예지 단독 공연 <항해>]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209816#none</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209816#none</guid>
+            <pubDate>Mon, 29 Apr 2024 04:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209816#none" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17143636661714363666298.jpg">
+									</a>
+								</div>
+								<b>손예지 단독 공연 &lt;항해&gt;</b>
+								<span>손예지</span>
+																<p>2024. 05. 17 - 2024. 05. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17143636661714363666298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤 [예빛 단독 콘서트]]]></title>
@@ -104,6 +120,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17137486921713748692593.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박상민 미니앨범 발매기념 쇼케이스&콘서트]]></title>
+            <link>https://www.instagram.com/p/C5sQDb2vyqt/</link>
+            <guid>https://www.instagram.com/p/C5sQDb2vyqt/</guid>
+            <pubDate>Mon, 29 Apr 2024 04:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/C5sQDb2vyqt/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17143630691714363069652.jpg">
+									</a>
+								</div>
+								<b>박상민 미니앨범 발매기념 쇼케이스&amp;콘서트</b>
+								<span>박상민</span>
+																<p>2024. 05. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17143630691714363069652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌7 [김마리 단독 콘서트 “해피마리데이”]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209740</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209740</guid>
@@ -166,38 +198,6 @@
 								<span>VROMANCE(브로맨스)</span>
 																<p>2024. 04. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17115862041711586204488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극지토크콘서트 “빙산의 일각: 극지 연구 20년, 지구의 끝에서 미래를 말하다”]]></title>
-            <link>https://blog.naver.com/kopriblog/223416329631</link>
-            <guid>https://blog.naver.com/kopriblog/223416329631</guid>
-            <pubDate>Thu, 18 Apr 2024 02:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://blog.naver.com/kopriblog/223416329631" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17134069241713406924999.jpg">
-									</a>
-								</div>
-								<b>극지토크콘서트 “빙산의 일각: 극지 연구 20년, 지구의 끝에서 미래를 말하다”</b>
-								<span>문경수 탐험가, 김금희 작가, 전성준 대장, 김민철 박사, 강도형 해양수산부장관</span>
-																<p>2024. 04. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17134069241713406924999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 CHA WOONG KI FANMEETING [HAPPY WOONGKI DAY-!]]]></title>
-            <link>https://www.everlineshop.com/goods/goods_view.php?goodsNo=1000007827</link>
-            <guid>https://www.everlineshop.com/goods/goods_view.php?goodsNo=1000007827</guid>
-            <pubDate>Thu, 11 Apr 2024 05:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.everlineshop.com/goods/goods_view.php?goodsNo=1000007827" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17128123271712812327244.jpg">
-									</a>
-								</div>
-								<b>2024 CHA WOONG KI FANMEETING [HAPPY WOONGKI DAY-!]</b>
-								<span>차웅기</span>
-																<p>2024. 04. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17128123271712812327244.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
