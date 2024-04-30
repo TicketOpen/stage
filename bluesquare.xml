@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 03:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 04:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임한별 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006258</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006258</guid>
+            <pubDate>Tue, 30 Apr 2024 04:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">임한별 콘서트 </dt>
+						<dd>2024.06.15 ~ 2024.06.16</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202367_01.840.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[유브이(UV) 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24005473</link>
@@ -146,16 +156,6 @@
 						<dd>2024.02.17 ~ 2024.02.18</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_197883_01.820.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 B-day PARTY - JOHNNY＆JUNGWOO]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199009&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199009&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 06 Mar 2024 16:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">2024 B-day PARTY - JOHNNY＆JUNGWOO</dt>
-						<dd>2024.02.07 ~ 2024.02.07</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199009_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
