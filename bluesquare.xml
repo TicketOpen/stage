@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 04:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 05:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 						<dd>2024.06.05 ~ 2024.08.25</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202155_01.501.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[육성재 개인전]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006213</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006213</guid>
+            <pubDate>Tue, 30 Apr 2024 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">육성재 개인전</dt>
+						<dd>2024.05.18 ~ 2024.05.19</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202333_01.723.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김나영 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.02.24 ~ 2024.02.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_197982_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이영지 아시아 투어 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197883&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197883&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 06 Mar 2024 16:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">이영지 아시아 투어 콘서트</dt>
-						<dd>2024.02.17 ~ 2024.02.18</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_197883_01.820.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
