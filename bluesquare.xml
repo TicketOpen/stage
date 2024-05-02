@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 						<dd>2024.06.05 ~ 2024.08.25</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202155_01.501.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[싸이커스 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24005830</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24005830</guid>
+            <pubDate>Thu, 02 May 2024 01:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">싸이커스 팬미팅</dt>
+						<dd>2024.05.25 ~ 2024.05.26</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202057_01.937.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[육성재 개인전]]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.03.08 ~ 2024.03.10</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_198152_01.358.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[휘인 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197982&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=197982&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Wed, 06 Mar 2024 16:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">휘인 콘서트</dt>
-						<dd>2024.02.24 ~ 2024.02.25</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_197982_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
