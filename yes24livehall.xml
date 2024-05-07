@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 06:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 07:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 03 May 2024 07:18:22 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.25 (토) 17:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/AnHtPWIZoU0i8B7RLehOj5zgEyD3SqfcaQxXF1bCs2u4vTrVMlKkYp6wmd9NGJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.1〉]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1693&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240531</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1693&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240531</guid>
+            <pubDate>Tue, 07 May 2024 07:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.31 (금) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/4KybC5rutI6X1nvYDZSTzof0EkseWcRLag3QGVhiHq2wNlxAjMpmOU7P8JB9dF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 N.Flying LIVE ‘HIDE-OUT’]]></title>
