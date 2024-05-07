@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 10:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 11:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>우석 (펜타곤)</span>
 																<p>2024. 05. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17140282371714028237846.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[eldon 1st concert ‘Can we be friends?’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209842</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209842</guid>
+            <pubDate>Tue, 07 May 2024 11:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209842" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17150802951715080295463.jpg">
+									</a>
+								</div>
+								<b>eldon 1st concert ‘Can we be friends?’</b>
+								<span>eldon</span>
+																<p>2024. 05. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17150802951715080295463.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손예지 단독 공연 <항해>]]></title>
@@ -182,22 +198,6 @@
 								<span>김마리</span>
 																<p>2024. 05. 06</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17129032711712903271688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LEE SUHYUN 2024 BIRTHDAY FANMEETING 『504호』]]></title>
-            <link>https://weverse.io/akmu/media/4-161270731</link>
-            <guid>https://weverse.io/akmu/media/4-161270731</guid>
-            <pubDate>Thu, 25 Apr 2024 07:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://weverse.io/akmu/media/4-161270731" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17140285381714028538535.jpg">
-									</a>
-								</div>
-								<b>LEE SUHYUN 2024 BIRTHDAY FANMEETING 『504호』</b>
-								<span>이수현 (AKMU)</span>
-																<p>2024. 05. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17140285381714028538535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
