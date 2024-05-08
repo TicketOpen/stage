@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 05:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 06:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 						<dd>2024.06.05 ~ 2024.08.25</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202155_01.501.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[솔라(Solar) 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006562</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006562</guid>
+            <pubDate>Wed, 08 May 2024 06:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">솔라(Solar) 콘서트 </dt>
+						<dd>2024.06.01 ~ 2024.06.02</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_202600_01.352.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[싸이커스 팬미팅]]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.03.16 ~ 2024.03.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199181_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 규현 아시아 투어 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=198152&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=198152&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 10 Mar 2024 15:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">2024 규현 아시아 투어 콘서트</dt>
-						<dd>2024.03.08 ~ 2024.03.10</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/01/0400012401_198152_01.358.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
