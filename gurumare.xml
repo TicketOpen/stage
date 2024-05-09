@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 05:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 06:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>밴드 날다</span>
 																<p>2024. 06. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17141076991714107699500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[QUAD CORTEX DEEP-DIVE TRAINING SESSION]]></title>
+            <link>http://www.musiciansclub.co.kr/product/single.html?product_no=1968&amp;cate_no=146&amp;display_group=1</link>
+            <guid>http://www.musiciansclub.co.kr/product/single.html?product_no=1968&amp;cate_no=146&amp;display_group=1</guid>
+            <pubDate>Thu, 09 May 2024 06:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://www.musiciansclub.co.kr/product/single.html?product_no=1968&amp;cate_no=146&amp;display_group=1" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17152327881715232788252.jpg">
+									</a>
+								</div>
+								<b>QUAD CORTEX DEEP-DIVE TRAINING SESSION</b>
+								<span>Rabea Massaad, Max Tylor</span>
+																<p>2024. 06. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17152327881715232788252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김장훈 여름콘서트 숲묘들다]]></title>
@@ -182,22 +198,6 @@
 								<span>박상민</span>
 																<p>2024. 05. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17143630691714363069652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 [김마리 단독 콘서트 “해피마리데이”]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209740</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209740</guid>
-            <pubDate>Fri, 12 Apr 2024 07:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209740" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17129032711712903271688.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌7 [김마리 단독 콘서트 “해피마리데이”]</b>
-								<span>김마리</span>
-																<p>2024. 05. 06</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17129032711712903271688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
