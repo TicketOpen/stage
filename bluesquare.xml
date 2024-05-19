@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 14:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2024 15:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[육성재 개인전]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006213</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006213</guid>
-            <pubDate>Tue, 30 Apr 2024 05:19:32 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=202333&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=202333&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 19 May 2024 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">육성재 개인전</dt>
 						<dd>2024.05.18 ~ 2024.05.19</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
@@ -129,9 +129,9 @@
         </item>
         <item>
             <title><![CDATA[일 테노레]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002523</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002523</guid>
-            <pubDate>Wed, 06 Mar 2024 16:25:03 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199881&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199881&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 19 May 2024 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">일 테노레</dt>
 						<dd>2024.03.29 ~ 2024.05.19</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
