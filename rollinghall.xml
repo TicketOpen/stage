@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 05:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 06:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/746/1276742889_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Omoinotake Live in Seoul]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=830&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=830&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Sun, 26 May 2024 06:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 09월 28일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/830/1922775945_Omoinotake20Live20in20Seoul.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[WORLD WIDE FAM vol.1]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=829&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=829&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 17 May 2024 10:20:49 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 06월 02일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/824/715447855_EC98A4ED9488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VerseDay 2024]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=822&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=822&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Fri, 17 May 2024 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2024년 06월 01일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/822/72602524_EC82ACEC9DB4ECA68820ED8FBC20EBB3B5EC82AC1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
