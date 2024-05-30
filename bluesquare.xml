@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 06:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 07:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,14 +28,14 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_203475_01.911.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[임한별 콘서트]]></title>
+            <title><![CDATA[임한별 별(別) 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006258</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006258</guid>
             <pubDate>Tue, 30 Apr 2024 04:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">임한별 콘서트 </dt>
+            <content:encoded><![CDATA[<dt class="subject">임한별 별(別) 콘서트 </dt>
 						<dd>2024.06.15 ~ 2024.06.16</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202367_01.840.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202367_01.235.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유브이(UV) 콘서트]]></title>
