@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 03:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 04:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>다섯손가락</span>
 																<p>2024. 07. 06 - 2024. 07. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17168853171716885317997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1st Single Album [REVIVAL] FANSHOWCASE]]></title>
+            <link>https://sound-wave.co.kr/article/event-notice/1/42266/</link>
+            <guid>https://sound-wave.co.kr/article/event-notice/1/42266/</guid>
+            <pubDate>Thu, 30 May 2024 04:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://sound-wave.co.kr/article/event-notice/1/42266/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17170419521717041952635.jpg">
+									</a>
+								</div>
+								<b>1st Single Album [REVIVAL] FANSHOWCASE</b>
+								<span>프림로즈(PRIMROSE)</span>
+																<p>2024. 06. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17170419521717041952635.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김경호 FAN MEETING ＆ FANSIGN EVENT]]></title>
@@ -182,22 +198,6 @@
 								<span>임준혁, 임상현, 이광석, 황인혁</span>
 																<p>2024. 05. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17121959471712195947554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 CHOI DANIEL Fan Meeting in SEOUL [Long time no see]]]></title>
-            <link>https://tickets.interpark.com/goods/24005822</link>
-            <guid>https://tickets.interpark.com/goods/24005822</guid>
-            <pubDate>Mon, 22 Apr 2024 01:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24005822" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17137486921713748692593.jpg">
-									</a>
-								</div>
-								<b>2024 CHOI DANIEL Fan Meeting in SEOUL [Long time no see]</b>
-								<span>최다니엘</span>
-																<p>2024. 05. 11</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17137486921713748692593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
