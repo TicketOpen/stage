@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 07:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 08:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,38 @@
 								<span>다섯손가락</span>
 																<p>2024. 07. 06 - 2024. 07. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17168853171716885317997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김판수 노래傳 “키다리 아저씨”]]></title>
+            <link>https://gildongmu21.com/forum/view/284719</link>
+            <guid>https://gildongmu21.com/forum/view/284719</guid>
+            <pubDate>Fri, 31 May 2024 08:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://gildongmu21.com/forum/view/284719" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17171413981717141398575.jpg">
+									</a>
+								</div>
+								<b>김판수 노래傳 “키다리 아저씨”</b>
+								<span>김판수</span>
+																<p>2024. 07. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17171413981717141398575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박준하(JUNHA PARK) 단독 콘서트 〈한여름 밤의 꿈〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209953</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209953</guid>
+            <pubDate>Fri, 31 May 2024 08:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=209953" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17171437511717143751125.jpg">
+									</a>
+								</div>
+								<b>박준하(JUNHA PARK) 단독 콘서트 〈한여름 밤의 꿈〉</b>
+								<span>박준하(JUNHA PARK)</span>
+																<p>2024. 06. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17171437511717143751125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1st Single Album [REVIVAL] FANSHOWCASE]]></title>
@@ -166,38 +198,6 @@
 								<span>예빛</span>
 																<p>2024. 05. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17134286321713428632607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<긴 찰나> 서진실 단독 콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/24006557</link>
-            <guid>https://tickets.interpark.com/goods/24006557</guid>
-            <pubDate>Sun, 05 May 2024 04:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24006557" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17141075551714107555355.jpg">
-									</a>
-								</div>
-								<b>&lt;긴 찰나&gt; 서진실 단독 콘서트 </b>
-								<span>서진실 외</span>
-																<p>2024. 05. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17141075551714107555355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 <노사이드(No Side)> 콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/24005174</link>
-            <guid>https://tickets.interpark.com/goods/24005174</guid>
-            <pubDate>Thu, 04 Apr 2024 02:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24005174" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17121959471712195947554.jpg">
-									</a>
-								</div>
-								<b>2024 &lt;노사이드(No Side)&gt; 콘서트</b>
-								<span>임준혁, 임상현, 이광석, 황인혁</span>
-																<p>2024. 05. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17121959471712195947554.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
