@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 01:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤하 소극장 콘서트]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007846</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007846</guid>
+            <pubDate>Mon, 03 Jun 2024 01:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">윤하 소극장 콘서트</dt>
+						<dd>2024.07.03 ~ 2024.07.14</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_203652_01.635.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[FT아일랜드 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006451</link>
@@ -136,16 +146,6 @@
 						<dd>2024.04.06 ~ 2024.04.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_200162_01.347.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[일 테노레]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199881&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=199881&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 19 May 2024 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">일 테노레</dt>
-						<dd>2024.03.29 ~ 2024.05.19</dd>
-						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/02/0400012402_199881_01.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트]]></title>
