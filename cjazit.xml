@@ -4,9 +4,57 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 23:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 01:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[튠업스테이지 [튠업 25기 선정기념 공연 ＃03]]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/358</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/358</guid>
+            <pubDate>Mon, 10 Jun 2024 01:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.06.21
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>김뜻돌, 다섯</dd>
+</dl>
+<a href="/cjazit/book/view/358" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/qr/ur/vw234785677ag.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튠업스테이지 [튠업 25기 선정기념 공연 ＃02]]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/357</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/357</guid>
+            <pubDate>Mon, 10 Jun 2024 01:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.06.20
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>CJ문화재단</dd>
+<dt>출연:</dt>
+<dd>blah, 마치</dd>
+</dl>
+<a href="/cjazit/book/view/357" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/ge/ma/on234785244ts.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[튠업스테이지 [튠업 25기 선정기념 공연 ＃01]]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/356</link>
