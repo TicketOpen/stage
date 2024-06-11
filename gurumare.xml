@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 05:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 06:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투가이즈쇼 #2. GENERATION]]></title>
+            <link>http://ticket.yes24.com/Perf/49981</link>
+            <guid>http://ticket.yes24.com/Perf/49981</guid>
+            <pubDate>Tue, 11 Jun 2024 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/49981" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17180859391718085939766.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼 #2. GENERATION</b>
+								<span>최호승, 기세중</span>
+																<p>2024. 07. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17180859391718085939766.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다섯손가락 2024 콘서트 ‘다시, 함께’]]></title>
             <link>https://tickets.interpark.com/goods/24007400</link>
@@ -182,22 +198,6 @@
 								<span>eldon</span>
 																<p>2024. 05. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17150802951715080295463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손예지 단독 공연 <항해>]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209816#none</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209816#none</guid>
-            <pubDate>Mon, 29 Apr 2024 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209816#none" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17143636661714363666298.jpg">
-									</a>
-								</div>
-								<b>손예지 단독 공연 &lt;항해&gt;</b>
-								<span>손예지</span>
-																<p>2024. 05. 17 - 2024. 05. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17143636661714363666298.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
