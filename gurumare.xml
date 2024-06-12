@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 03:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 04:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>다섯손가락</span>
 																<p>2024. 07. 06 - 2024. 07. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17168853171716885317997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아론 마샬 X 닉 존스턴 라이브 클리닉]]></title>
+            <link>http://www.musiciansclub.co.kr/product/single.html?product_no=2023&amp;cate_no=146&amp;display_group=1</link>
+            <guid>http://www.musiciansclub.co.kr/product/single.html?product_no=2023&amp;cate_no=146&amp;display_group=1</guid>
+            <pubDate>Wed, 12 Jun 2024 04:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://www.musiciansclub.co.kr/product/single.html?product_no=2023&amp;cate_no=146&amp;display_group=1" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17181654281718165428461.jpg">
+									</a>
+								</div>
+								<b>아론 마샬 X 닉 존스턴 라이브 클리닉</b>
+								<span>Aaron Marshall, Nick Johnston</span>
+																<p>2024. 07. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17181654281718165428461.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김판수 노래傳 “키다리 아저씨”]]></title>
@@ -182,22 +198,6 @@
 								<span>우석 (펜타곤)</span>
 																<p>2024. 05. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17140282371714028237846.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[eldon 1st concert ‘Can we be friends?’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209842</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209842</guid>
-            <pubDate>Tue, 07 May 2024 11:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209842" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17150802951715080295463.jpg">
-									</a>
-								</div>
-								<b>eldon 1st concert ‘Can we be friends?’</b>
-								<span>eldon</span>
-																<p>2024. 05. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17150802951715080295463.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
