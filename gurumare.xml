@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 01:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 02:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>김판수</span>
 																<p>2024. 07. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17171413981717141398575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트로이카 오리지날 라이브쑈〈어서옵쑈〉]]></title>
+            <link>https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51649&amp;groupno=51649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51649&amp;groupno=51649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 13 Jun 2024 02:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51649&amp;groupno=51649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17182441891718244189379.jpg">
+									</a>
+								</div>
+								<b>트로이카 오리지날 라이브쑈〈어서옵쑈〉</b>
+								<span>트로이카(강태풍&amp;장송호&amp;강재수)</span>
+																<p>2024. 06. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17182441891718244189379.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박준하(JUNHA PARK) 단독 콘서트 〈한여름 밤의 꿈〉]]></title>
@@ -182,22 +198,6 @@
 								<span>김장훈</span>
 																<p>2024. 05. 31 - 2024. 06. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17150611851715061185159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0526：우석 편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209785</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209785</guid>
-            <pubDate>Thu, 25 Apr 2024 07:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209785" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17140282371714028237846.jpg">
-									</a>
-								</div>
-								<b>Flight0526：우석 편</b>
-								<span>우석 (펜타곤)</span>
-																<p>2024. 05. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17140282371714028237846.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
