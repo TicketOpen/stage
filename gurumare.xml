@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 05:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>춘길&amp;모세</span>
 																<p>2024. 07. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17187726151718772615613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유토(JUTO) 음감회 〈MY UTOPIA〉]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1262</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1262</guid>
+            <pubDate>Wed, 19 Jun 2024 06:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.wemakeprice.com/opennotice/1262" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17187762611718776261369.jpg">
+									</a>
+								</div>
+								<b>유토(JUTO) 음감회 〈MY UTOPIA〉</b>
+								<span>유토(JUTO)</span>
+																<p>2024. 07. 12</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17187762611718776261369.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투가이즈쇼 #2. GENERATION]]></title>
@@ -182,22 +198,6 @@
 								<span>김경호</span>
 																<p>2024. 06. 06</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17148932191714893219917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<번 쩍> 날다 단독 콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/24006953</link>
-            <guid>https://tickets.interpark.com/goods/24006953</guid>
-            <pubDate>Mon, 20 May 2024 08:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24006953" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17141076991714107699500.jpg">
-									</a>
-								</div>
-								<b>&lt;번 쩍&gt; 날다 단독 콘서트</b>
-								<span>밴드 날다</span>
-																<p>2024. 06. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17141076991714107699500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
