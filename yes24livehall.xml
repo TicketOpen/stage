@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 14:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 15:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아타라시이 각코!(ATARASHII GAKKO!) 첫 내한공연]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1663&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240619</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1663&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240619</guid>
-            <pubDate>Thu, 28 Mar 2024 15:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19 (수) 20:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/dYlVaJCIo1nu5ObhRtfkZSrN4x7PpFT69W2qgQcszeA3myj8iK0GLUEMvBwXDH.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 한요한 First Love Concert]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1700&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240622</link>

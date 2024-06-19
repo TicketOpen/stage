@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 14:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 15:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/ge/ma/on234785244ts.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[튠업스테이지 [튠업 25기 선정기념 공연 ＃01]]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/356</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/356</guid>
-            <pubDate>Sun, 09 Jun 2024 06:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.06.19
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>CJ문화재단</dd>
-<dt>출연:</dt>
-<dd>향, 터치드</dd>
-</dl>
-<a href="/cjazit/book/view/356" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/mw/zi/pj234714847uu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
