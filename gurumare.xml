@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 04:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 05:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>송지호</span>
 																<p>2024. 07. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17186955861718695586389.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 소극장 공연 ‘발라드콘서트로트’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210028#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210028#skip_nav</guid>
+            <pubDate>Wed, 19 Jun 2024 05:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210028#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17187726151718772615613.jpg">
+									</a>
+								</div>
+								<b>2024 소극장 공연 ‘발라드콘서트로트’</b>
+								<span>춘길&amp;모세</span>
+																<p>2024. 07. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17187726151718772615613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투가이즈쇼 #2. GENERATION]]></title>
@@ -182,22 +198,6 @@
 								<span>밴드 날다</span>
 																<p>2024. 06. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17141076991714107699500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[QUAD CORTEX DEEP-DIVE TRAINING SESSION]]></title>
-            <link>http://www.musiciansclub.co.kr/product/single.html?product_no=1968&amp;cate_no=146&amp;display_group=1</link>
-            <guid>http://www.musiciansclub.co.kr/product/single.html?product_no=1968&amp;cate_no=146&amp;display_group=1</guid>
-            <pubDate>Thu, 09 May 2024 06:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://www.musiciansclub.co.kr/product/single.html?product_no=1968&amp;cate_no=146&amp;display_group=1" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17152327881715232788252.jpg">
-									</a>
-								</div>
-								<b>QUAD CORTEX DEEP-DIVE TRAINING SESSION</b>
-								<span>Rabea Massaad, Max Tylor</span>
-																<p>2024. 06. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17152327881715232788252.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
