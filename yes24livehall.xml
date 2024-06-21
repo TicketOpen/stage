@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 01:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 02:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://yes24livehall.com/upload/1SZmjueC8McR4Wwyg2dbLlQONiGk7zVIKqYhBHpPfr3JtvXo65nETAUsDF0xa9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맨스티어 단독공연 AK!]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1711&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240714</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1711&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240714</guid>
+            <pubDate>Fri, 21 Jun 2024 02:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.14 (일) 19:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/y4UsnIzNEMpj91BVrl0AmxT3aRhZwS2fXH5LgqvtOcYkG67obeuDdFQWKiCJ8P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[imase 1st Asia Tour ＂Shiki＂]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1670&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240716</link>
             <guid>https://yes24livehall.com/ko/show/detail.php?id=1670&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240716</guid>
             <pubDate>Thu, 25 Apr 2024 02:29:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.16 (화) 18:30]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/bmHqrYfAMVzu5p2og9LkxPCNJned0y7E63GhBslZ1cKOI84XwQDaRvWiTtjUFS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 VANNER 1ST ENCORE CONCERT [THE FLAG：A TO V] IN SEOUL]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1712&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240727</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1712&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240727</guid>
+            <pubDate>Fri, 21 Jun 2024 02:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27 (토) 18:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/5y1vxGapThlBbwcAos3QZd7URP6X0YqeOkSCfnD2ziFINWuEjLMVtgJrK84H9m.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EMOTIONAL ORANGES LIVE IN SEOUL 이모셔널 오렌지스 내한 공연]]></title>
