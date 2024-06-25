@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 04:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 25 Apr 2024 02:29:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.16 (화) 18:30]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/bmHqrYfAMVzu5p2og9LkxPCNJned0y7E63GhBslZ1cKOI84XwQDaRvWiTtjUFS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WOOAH FAN CONCERT [WOOAH - LAND]]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1715&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240720</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1715&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240720</guid>
+            <pubDate>Tue, 25 Jun 2024 05:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.20 (토) 14:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/hYSoQ45gX2eyZGmiP9j1RTxBOau03pDfNKAHM7qrwzLlJkcvdbUVE6WtsnIF8C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 VANNER 1ST ENCORE CONCERT [THE FLAG：A TO V] IN SEOUL]]></title>
