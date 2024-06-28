@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 03:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 04:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
 								<span>정승익</span>
 																<p>2024. 07. 25 - 2024. 07. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17187875721718787572779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송지호 첫 번째 팬미팅 〈Becoming〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210020</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210020</guid>
-            <pubDate>Tue, 18 Jun 2024 08:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210020" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17186955861718695586389.jpg">
-									</a>
-								</div>
-								<b>송지호 첫 번째 팬미팅 〈Becoming〉</b>
-								<span>송지호</span>
-																<p>2024. 07. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17186955861718695586389.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 소극장 공연 ‘발라드콘서트로트’]]></title>
@@ -198,6 +182,22 @@
 								<span>기프트(GIFT), Monday Off With Bluesy, 레인보우 노트</span>
 																<p>2024. 06. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17174942811717494281527.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1st Single Album [REVIVAL] FANSHOWCASE]]></title>
+            <link>https://sound-wave.co.kr/article/event-notice/1/42266/</link>
+            <guid>https://sound-wave.co.kr/article/event-notice/1/42266/</guid>
+            <pubDate>Fri, 28 Jun 2024 04:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://sound-wave.co.kr/article/event-notice/1/42266/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17170419521717041952635.jpg">
+									</a>
+								</div>
+								<b>1st Single Album [REVIVAL] FANSHOWCASE</b>
+								<span>프림로즈(PRIMROSE)</span>
+																<p>2024. 06. 17</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17170419521717041952635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
