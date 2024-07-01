@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 23:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 01:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최재훈 30주년 팬미팅&사인회]]></title>
+            <link>https://m.cafe.daum.net/stajh/3qrk/206?</link>
+            <guid>https://m.cafe.daum.net/stajh/3qrk/206?</guid>
+            <pubDate>Mon, 01 Jul 2024 01:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://m.cafe.daum.net/stajh/3qrk/206?" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17197968011719796801248.jpg">
+									</a>
+								</div>
+								<b>최재훈 30주년 팬미팅&amp;사인회</b>
+								<span>최재훈</span>
+																<p>2024. 08. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17197968011719796801248.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울런xEBS 여름방학 오프라인 특강]]></title>
             <link>https://slearn.seoul.go.kr/notice/14685</link>
@@ -182,22 +198,6 @@
 								<span>기프트(GIFT), Monday Off With Bluesy, 레인보우 노트</span>
 																<p>2024. 06. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17174942811717494281527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1st Single Album [REVIVAL] FANSHOWCASE]]></title>
-            <link>https://sound-wave.co.kr/article/event-notice/1/42266/</link>
-            <guid>https://sound-wave.co.kr/article/event-notice/1/42266/</guid>
-            <pubDate>Fri, 28 Jun 2024 04:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://sound-wave.co.kr/article/event-notice/1/42266/" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17170419521717041952635.jpg">
-									</a>
-								</div>
-								<b>1st Single Album [REVIVAL] FANSHOWCASE</b>
-								<span>프림로즈(PRIMROSE)</span>
-																<p>2024. 06. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17170419521717041952635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
