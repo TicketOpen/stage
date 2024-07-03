@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 23:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 01:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장우영 팬미팅]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009383</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009383</guid>
+            <pubDate>Wed, 03 Jul 2024 01:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">장우영 팬미팅 </dt>
+						<dd>2024.08.03 ~ 2024.08.04</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/06/0400012406_204903_01.734.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[FANTASY BOYS 1ST FANMEETING 〈Summer in the Fantasy〉]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24008468</link>
@@ -146,16 +156,6 @@
 						<dd>2024.04.19 ~ 2024.04.21</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/03/0400012403_200241_01.329.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김수영 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=201039&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=201039&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">김수영 콘서트</dt>
-						<dd>2024.04.13 ~ 2024.04.14</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/03/0400012403_201039_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
