@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 06:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>정승익</span>
 																<p>2024. 07. 25 - 2024. 07. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17187875721718787572779.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 정동하 팬미팅 "우리 잠시 쉬었다 갈까요?"]]></title>
+            <link>https://tickets.interpark.com/goods/24009457?</link>
+            <guid>https://tickets.interpark.com/goods/24009457?</guid>
+            <pubDate>Wed, 03 Jul 2024 06:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24009457?" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17199853431719985343288.jpg">
+									</a>
+								</div>
+								<b>2024 정동하 팬미팅 "우리 잠시 쉬었다 갈까요?"</b>
+								<span>정동하</span>
+																<p>2024. 07. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17199853431719985343288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 소극장 공연 ‘발라드콘서트로트’]]></title>
@@ -182,22 +198,6 @@
 								<span>박준하(JUNHA PARK)</span>
 																<p>2024. 06. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17171437511717143751125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마른하늘에 날벼樂]]></title>
-            <link>https://www.seoularts.ac.kr/web/cop/bbsWeb/selectBoardDetail.do?bbsId=BBSMSTR_000000000652&amp;nttId=235254&amp;nttIds=0&amp;searchYear=&amp;pageIndex=1&amp;mblDn=&amp;nttYear=&amp;searchCnd=&amp;searchWrd=&amp;temp=</link>
-            <guid>https://www.seoularts.ac.kr/web/cop/bbsWeb/selectBoardDetail.do?bbsId=BBSMSTR_000000000652&amp;nttId=235254&amp;nttIds=0&amp;searchYear=&amp;pageIndex=1&amp;mblDn=&amp;nttYear=&amp;searchCnd=&amp;searchWrd=&amp;temp=</guid>
-            <pubDate>Tue, 04 Jun 2024 10:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.seoularts.ac.kr/web/cop/bbsWeb/selectBoardDetail.do?bbsId=BBSMSTR_000000000652&amp;nttId=235254&amp;nttIds=0&amp;searchYear=&amp;pageIndex=1&amp;mblDn=&amp;nttYear=&amp;searchCnd=&amp;searchWrd=&amp;temp=" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17174942811717494281527.jpg">
-									</a>
-								</div>
-								<b>마른하늘에 날벼樂</b>
-								<span>기프트(GIFT), Monday Off With Bluesy, 레인보우 노트</span>
-																<p>2024. 06. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17174942811717494281527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
