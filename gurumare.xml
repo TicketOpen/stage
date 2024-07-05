@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 23:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 01:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>최재훈</span>
 																<p>2024. 08. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17197968011719796801248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Fanmeeting [DELIGHT：여름비]]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9009</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9009</guid>
+            <pubDate>Fri, 05 Jul 2024 01:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/csoon/detail.htm?csoonId=9009" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17201392601720139260166.jpg">
+									</a>
+								</div>
+								<b>2024 Fanmeeting [DELIGHT：여름비]</b>
+								<span>유지애</span>
+																<p>2024. 07. 27</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17201392601720139260166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울런xEBS 여름방학 오프라인 특강]]></title>
@@ -182,22 +198,6 @@
 								<span>트로이카(강태풍&amp;장송호&amp;강재수)</span>
 																<p>2024. 06. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17182441891718244189379.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박준하(JUNHA PARK) 단독 콘서트 〈한여름 밤의 꿈〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209953</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209953</guid>
-            <pubDate>Fri, 31 May 2024 08:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=209953" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17171437511717143751125.jpg">
-									</a>
-								</div>
-								<b>박준하(JUNHA PARK) 단독 콘서트 〈한여름 밤의 꿈〉</b>
-								<span>박준하(JUNHA PARK)</span>
-																<p>2024. 06. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17171437511717143751125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
