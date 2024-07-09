@@ -4,9 +4,33 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 01:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 02:39:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CEREAL NO.01]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/363</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/363</guid>
+            <pubDate>Tue, 09 Jul 2024 02:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.07.21
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>OCOT</dd>
+<dt>출연:</dt>
+<dd>최엘비, 쿤디판다</dd>
+</dl>
+<a href="/cjazit/book/view/363" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/mh/pp/ug237295717od.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TAEB2 - CINEMA]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/362</link>
