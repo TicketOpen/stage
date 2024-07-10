@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 07:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 08:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
 								<span>정승익</span>
 																<p>2024. 07. 25 - 2024. 07. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17187875721718787572779.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신성 생일축하 팬미팅]]></title>
+            <link>https://cafe.daum.net/shinsengpen</link>
+            <guid>https://cafe.daum.net/shinsengpen</guid>
+            <pubDate>Wed, 10 Jul 2024 08:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://cafe.daum.net/shinsengpen" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17205990641720599064617.jpg">
+									</a>
+								</div>
+								<b>신성 생일축하 팬미팅</b>
+								<span>신성</span>
+																<p>2024. 07. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17205990641720599064617.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 정동하 팬미팅 "우리 잠시 쉬었다 갈까요?"]]></title>
@@ -182,22 +198,6 @@
 								<span>다섯손가락</span>
 																<p>2024. 07. 06 - 2024. 07. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17168853171716885317997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아론 마샬 X 닉 존스턴 라이브 클리닉]]></title>
-            <link>http://www.musiciansclub.co.kr/product/single.html?product_no=2023&amp;cate_no=146&amp;display_group=1</link>
-            <guid>http://www.musiciansclub.co.kr/product/single.html?product_no=2023&amp;cate_no=146&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jun 2024 04:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://www.musiciansclub.co.kr/product/single.html?product_no=2023&amp;cate_no=146&amp;display_group=1" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17181654281718165428461.jpg">
-									</a>
-								</div>
-								<b>아론 마샬 X 닉 존스턴 라이브 클리닉</b>
-								<span>Aaron Marshall, Nick Johnston</span>
-																<p>2024. 07. 05</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17181654281718165428461.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
