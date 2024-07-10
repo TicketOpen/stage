@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 08:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 09:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>최재훈</span>
 																<p>2024. 08. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17197968011719796801248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2nd FAN CONCERT <2F ONLY-SEASON 2>]]></title>
+            <link>https://tickets.interpark.com/goods/24009710</link>
+            <guid>https://tickets.interpark.com/goods/24009710</guid>
+            <pubDate>Wed, 10 Jul 2024 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24009710" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17206006611720600661870.jpg">
+									</a>
+								</div>
+								<b>2nd FAN CONCERT &lt;2F ONLY-SEASON 2&gt;</b>
+								<span>2F(신용재, 김원주)</span>
+																<p>2024. 08. 17 - 2024. 08. 18</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17206006611720600661870.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 ‘FIND OUT!’]]></title>
@@ -182,22 +198,6 @@
 								<span>최호승, 기세중</span>
 																<p>2024. 07. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17180859391718085939766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다섯손가락 2024 콘서트 ‘다시, 함께’]]></title>
-            <link>https://tickets.interpark.com/goods/24007400</link>
-            <guid>https://tickets.interpark.com/goods/24007400</guid>
-            <pubDate>Tue, 28 May 2024 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24007400" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17168853171716885317997.jpg">
-									</a>
-								</div>
-								<b>다섯손가락 2024 콘서트 ‘다시, 함께’</b>
-								<span>다섯손가락</span>
-																<p>2024. 07. 06 - 2024. 07. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17168853171716885317997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
