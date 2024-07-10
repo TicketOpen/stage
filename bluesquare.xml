@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 06:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 07:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,16 @@
 						<dd>2024.07.20 ~ 2024.07.21</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/06/0400012406_204065_01.013.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[킹키부츠 - 2024 PRICE＆SON STAFF 모집]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009949</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009949</guid>
+            <pubDate>Wed, 10 Jul 2024 07:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">킹키부츠 - 2024 PRICE＆SON STAFF 모집</dt>
+						<dd>2024.07.11 ~ 2024.07.14</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205438_01.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤하 소극장 콘서트]]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.05.04 ~ 2024.05.05</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/03/0400012403_201343_01.522.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김재환 팬 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=201131&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=201131&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">김재환 팬 콘서트</dt>
-						<dd>2024.04.27 ~ 2024.04.27</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/03/0400012403_201131_01.746.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
