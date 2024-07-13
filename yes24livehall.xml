@@ -4,17 +4,9 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 14:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 15:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Live ＆ Music Festival]]></title>
-            <link>https://yes24livehall.com/ko/show/detail.php?id=1694&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240713</link>
-            <guid>https://yes24livehall.com/ko/show/detail.php?id=1694&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240713</guid>
-            <pubDate>Thu, 16 May 2024 02:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13 (토) 14:00]]></content:encoded>
-            <enclosure url="https://yes24livehall.com/upload/1SZmjueC8McR4Wwyg2dbLlQONiGk7zVIKqYhBHpPfr3JtvXo65nETAUsDF0xa9.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[맨스티어 단독공연 AK!]]></title>
             <link>https://yes24livehall.com/ko/show/detail.php?id=1711&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240714</link>
