@@ -4,33 +4,9 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 14:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 15:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TAEB2 - CINEMA]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/362</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/362</guid>
-            <pubDate>Tue, 25 Jun 2024 10:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.07.14
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>태비</dd>
-<dt>출연:</dt>
-<dd>태비</dd>
-</dl>
-<a href="/cjazit/book/view/362" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/gb/nz/ek236112899ux.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[CEREAL NO.01]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/363</link>

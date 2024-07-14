@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jul 2024 14:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 15:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[킹키부츠 - 2024 PRICE＆SON STAFF 모집]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009949</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009949</guid>
-            <pubDate>Wed, 10 Jul 2024 07:21:55 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=205438&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=205438&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 14 Jul 2024 15:31:00 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">킹키부츠 - 2024 PRICE＆SON STAFF 모집</dt>
 						<dd>2024.07.11 ~ 2024.07.14</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[윤하 소극장 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007846</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007846</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:56 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=203652&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=203652&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 14 Jul 2024 15:31:00 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">윤하 소극장 콘서트</dt>
 						<dd>2024.07.03 ~ 2024.07.14</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
