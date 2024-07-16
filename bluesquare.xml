@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 01:39:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 02:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹키부츠]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010223</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010223</guid>
+            <pubDate>Tue, 16 Jul 2024 02:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">킹키부츠</dt>
+						<dd>2024.09.07 ~ 2024.11.10</dd>
+						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205678_01.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[PITTA 강형호 앙코르 콘서트]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009822</link>
@@ -146,16 +156,6 @@
 						<dd>2024.05.18 ~ 2024.05.19</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202333_01.723.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=201343&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=201343&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">김나영 콘서트</dt>
-						<dd>2024.05.04 ~ 2024.05.05</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/03/0400012403_201343_01.522.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
