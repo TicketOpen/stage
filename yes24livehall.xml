@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 07:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 08:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 31 May 2024 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13 (금) 20:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/kSPRlwdjWMBOYUbAHz3GygJILTFmh2t0cisXDCuN1f94K7ervZ5Eaq86pnVoQx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1738&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20241025</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1738&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20241025</guid>
+            <pubDate>Wed, 17 Jul 2024 08:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25 (금) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/qmYxsGIfTPUQN8Hwgja5LBXybphu1v4O2RW9M7KAZck3neiF0dDzVCSrJEolt6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Novelbright Live Tour 2024 Circus in Seoul]]></title>
