@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 01:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 02:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<dt class="subject">킹키부츠</dt>
 						<dd>2024.09.07 ~ 2024.11.10</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205678_01.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205678_01.954.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[PITTA 강형호 앙코르 콘서트]]></title>
