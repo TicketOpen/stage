@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 01:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 02:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 						<dd>2024.08.24 ~ 2024.08.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205240_01.903.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 유채훈 단독 콘서트 〈Sfumato〉]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010300</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010300</guid>
+            <pubDate>Fri, 26 Jul 2024 02:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2024 유채훈 단독 콘서트 〈Sfumato〉</dt>
+						<dd>2024.08.10 ~ 2024.08.11</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205652_01.800.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[장우영 팬미팅]]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.06.01 ~ 2024.06.02</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_202600_01.352.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이커스 팬미팅]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=202057&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=202057&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">싸이커스 팬미팅</dt>
-						<dd>2024.05.25 ~ 2024.05.26</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202057_01.956.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
