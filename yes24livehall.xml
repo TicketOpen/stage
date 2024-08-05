@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 06:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 07:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 31 May 2024 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.28 (수) 20:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/HMY3rmf4zxwXLvskEbNlKuoGitZ7TAVOBRe0h65cSQDqC8ypIj1P2WFUJg9nda.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024.URBAN SUMMER LIFE VOL.14]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1744&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240901</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1744&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20240901</guid>
+            <pubDate>Mon, 05 Aug 2024 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.01 (일) 17:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/ZgF2fDXL4vIpWsVhnE10KrdHezCa8mO3tQwqycU5B7xSNbTMPJRkGj96ouiAYl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[eaJ Live in Seoul ＂when the rain stopped following me＂]]></title>
