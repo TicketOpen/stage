@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 08:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 09:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>최재훈</span>
 																<p>2024. 08. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17206586061720658606211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흑백영화처럼]]></title>
+            <link>https://tickets.interpark.com/goods/24011205</link>
+            <guid>https://tickets.interpark.com/goods/24011205</guid>
+            <pubDate>Tue, 06 Aug 2024 09:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24011205" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17229339631722933963051.jpg">
+									</a>
+								</div>
+								<b>흑백영화처럼</b>
+								<span>이승환</span>
+																<p>2024. 08. 21 - 2024. 08. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17229339631722933963051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2nd FAN CONCERT <2F ONLY-SEASON 2>]]></title>
@@ -182,22 +198,6 @@
 								<span>춘길&amp;모세</span>
 																<p>2024. 07. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17187726151718772615613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김꽃 10주년 기념 공연 [나의 정원으로 와요]]]></title>
-            <link>https://tickets.interpark.com/goods/24008900</link>
-            <guid>https://tickets.interpark.com/goods/24008900</guid>
-            <pubDate>Fri, 21 Jun 2024 06:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24008900" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17189494021718949402405.jpg">
-									</a>
-								</div>
-								<b>김꽃 10주년 기념 공연 [나의 정원으로 와요]</b>
-								<span>김꽃</span>
-																<p>2024. 07. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17189494021718949402405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
