@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 23:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 01:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2024.09.07 ~ 2024.11.10</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/07/0400012407_205678_01.954.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CHANYEOL LIVE TOUR - 서울]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011174</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011174</guid>
+            <pubDate>Tue, 06 Aug 2024 01:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2024 CHANYEOL LIVE TOUR - 서울</dt>
+						<dd>2024.09.06 ~ 2024.09.07</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/08/0400012408_206545_01.536.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 스테이씨 팬미팅]]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.06.05 ~ 2024.08.25</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/04/0400012404_202155_01.501.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[솔라(Solar) 콘서트]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=202600&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=202600&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">솔라(Solar) 콘서트 </dt>
-						<dd>2024.06.01 ~ 2024.06.02</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_202600_01.352.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
