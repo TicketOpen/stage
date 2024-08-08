@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 04:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 05:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[fade in: 낭독회] MEGAPOLIS]]></title>
+            <link>https://m.smartstore.naver.com/layerstore_/products/10690803729</link>
+            <guid>https://m.smartstore.naver.com/layerstore_/products/10690803729</guid>
+            <pubDate>Thu, 08 Aug 2024 05:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://m.smartstore.naver.com/layerstore_/products/10690803729" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17230922411723092241301.jpg">
+									</a>
+								</div>
+								<b>[fade in: 낭독회] MEGAPOLIS</b>
+								<span>박요한, 박민기, 민승우, 박주광, 신나리, 오로아, 정의택, 최승훈</span>
+																<p>2024. 08. 31</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17230922411723092241301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투가이즈쇼 #2. GENERATION]]></title>
             <link>http://ticket.yes24.com/Perf/49981</link>
@@ -182,22 +198,6 @@
 								<span>정동하</span>
 																<p>2024. 07. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17199853431719985343288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 소극장 공연 ‘발라드콘서트로트’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210028#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210028#skip_nav</guid>
-            <pubDate>Wed, 19 Jun 2024 05:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210028#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17187726151718772615613.jpg">
-									</a>
-								</div>
-								<b>2024 소극장 공연 ‘발라드콘서트로트’</b>
-								<span>춘길&amp;모세</span>
-																<p>2024. 07. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17187726151718772615613.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
