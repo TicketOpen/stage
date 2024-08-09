@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 05:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 06:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>최재훈</span>
 																<p>2024. 08. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17206586061720658606211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전진희 10주년 기념 단독 콘서트 <영원 속에서> -앵콜]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210239</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210239</guid>
+            <pubDate>Fri, 09 Aug 2024 06:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210239" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17231827571723182757654.jpg">
+									</a>
+								</div>
+								<b>전진희 10주년 기념 단독 콘서트 &lt;영원 속에서&gt; -앵콜</b>
+								<span>전진희</span>
+																<p>2024. 08. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17231827571723182757654.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흑백영화처럼]]></title>
@@ -182,22 +198,6 @@
 								<span>신성</span>
 																<p>2024. 07. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17205990641720599064617.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 정동하 팬미팅 "우리 잠시 쉬었다 갈까요?"]]></title>
-            <link>https://tickets.interpark.com/goods/24009457?</link>
-            <guid>https://tickets.interpark.com/goods/24009457?</guid>
-            <pubDate>Wed, 03 Jul 2024 06:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24009457?" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17199853431719985343288.jpg">
-									</a>
-								</div>
-								<b>2024 정동하 팬미팅 "우리 잠시 쉬었다 갈까요?"</b>
-								<span>정동하</span>
-																<p>2024. 07. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17199853431719985343288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
