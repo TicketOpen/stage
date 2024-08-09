@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 06:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 07:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Back To The Old School 2 (백투더 올드스쿨 2)]]></title>
+            <link>https://www.ticketlink.co.kr/product/51458</link>
+            <guid>https://www.ticketlink.co.kr/product/51458</guid>
+            <pubDate>Fri, 09 Aug 2024 07:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ticketlink.co.kr/product/51458" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17231855851723185585299.jpg">
+									</a>
+								</div>
+								<b>Back To The Old School 2 (백투더 올드스쿨 2)</b>
+								<span>MC 스나이퍼</span>
+																<p>2024. 09. 06 - 2024. 09. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17231855851723185585299.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[fade in: 낭독회] MEGAPOLIS]]></title>
             <link>https://m.smartstore.naver.com/layerstore_/products/10690803729</link>
@@ -182,22 +198,6 @@
 								<span>정승익</span>
 																<p>2024. 07. 25 - 2024. 07. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17187875721718787572779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신성 생일축하 팬미팅]]></title>
-            <link>https://cafe.daum.net/shinsengpen</link>
-            <guid>https://cafe.daum.net/shinsengpen</guid>
-            <pubDate>Wed, 10 Jul 2024 08:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://cafe.daum.net/shinsengpen" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17205990641720599064617.jpg">
-									</a>
-								</div>
-								<b>신성 생일축하 팬미팅</b>
-								<span>신성</span>
-																<p>2024. 07. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17205990641720599064617.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
