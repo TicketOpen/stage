@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 04:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 05:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>MC 스나이퍼</span>
 																<p>2024. 09. 06 - 2024. 09. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17231855851723185585299.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 임지수 단독 콘서트 is it love]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210244</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210244</guid>
+            <pubDate>Tue, 13 Aug 2024 05:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210244" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17235262971723526297234.jpg">
+									</a>
+								</div>
+								<b>2024 임지수 단독 콘서트 is it love</b>
+								<span>임지수</span>
+																<p>2024. 09. 01</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17235262971723526297234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[fade in: 낭독회] MEGAPOLIS]]></title>
@@ -182,22 +198,6 @@
 								<span>유지애</span>
 																<p>2024. 07. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17201392601720139260166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울런xEBS 여름방학 오프라인 특강]]></title>
-            <link>https://slearn.seoul.go.kr/notice/14685</link>
-            <guid>https://slearn.seoul.go.kr/notice/14685</guid>
-            <pubDate>Wed, 19 Jun 2024 09:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://slearn.seoul.go.kr/notice/14685" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17187875721718787572779.jpg">
-									</a>
-								</div>
-								<b>서울런xEBS 여름방학 오프라인 특강</b>
-								<span>정승익</span>
-																<p>2024. 07. 25 - 2024. 07. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17187875721718787572779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
