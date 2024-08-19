@@ -4,7 +4,7 @@
         <title>예스24 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 01:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 02:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 15 Jul 2024 06:32:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.26 (토) 19:00]]></content:encoded>
             <enclosure url="https://yes24livehall.com/upload/EPCvs7RfVHumaw4zgLK2Dynxk8T5ZQtJG90WeNobFqdSAOjlUMBicrIX3p16hY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pale Waves Live in Korea 2024]]></title>
+            <link>https://yes24livehall.com/ko/show/detail.php?id=1751&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20241212</link>
+            <guid>https://yes24livehall.com/ko/show/detail.php?id=1751&amp;P=1&amp;search_obj=&amp;search_str=&amp;type=1&amp;perform_date=20241212</guid>
+            <pubDate>Mon, 19 Aug 2024 02:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.12 (목) 20:00]]></content:encoded>
+            <enclosure url="https://yes24livehall.com/upload/AiYZmahzBH36UpIneDxVCR9lwJ7OcXNrLj1voTy0Pgf4E2kWdtqFs58KQbMGSu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
