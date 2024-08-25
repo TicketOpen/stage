@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 14:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Aug 2024 15:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[PITTA 강형호 앙코르 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009822</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009822</guid>
-            <pubDate>Mon, 12 Aug 2024 18:30:43 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=205240&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=205240&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 25 Aug 2024 15:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">PITTA 강형호 앙코르 콘서트</dt>
 						<dd>2024.08.24 ~ 2024.08.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
