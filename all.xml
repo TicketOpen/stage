@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 14:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 15:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,9 +393,9 @@
         </item>
         <item>
             <title><![CDATA[2024 CHANYEOL LIVE TOUR - 서울 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011174</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011174</guid>
-            <pubDate>Mon, 12 Aug 2024 18:30:43 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=206545&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=206545&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 07 Sep 2024 15:23:22 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 CHANYEOL LIVE TOUR - 서울</dt>
 						<dd>2024.09.06 ~ 2024.09.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
