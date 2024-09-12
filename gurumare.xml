@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 11:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 12:46:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17255020971725502097263.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 시티보이_로그 팬미팅 [CITYBOY House Party]]]></title>
+            <link>http://ticket.yes24.com/Perf/50981</link>
+            <guid>http://ticket.yes24.com/Perf/50981</guid>
+            <pubDate>Thu, 12 Sep 2024 12:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/50981" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17261439991726143999241.jpg">
+									</a>
+								</div>
+								<b>2024 시티보이_로그 팬미팅 [CITYBOY House Party]</b>
+								<span>이지한, 재준, 황윤제, 임정규, 이동섭</span>
+																<p>2024. 09. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17261439991726143999241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 임수향 팬미팅 〈Hyangnight〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210296</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210296</guid>
@@ -70,6 +86,22 @@
 								<span>최호승, 기세중 (게스트. 안영수)</span>
 																<p>2024. 09. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17255021901725502190001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KWON EUNBI BIRTHDAY PARTY]]></title>
+            <link>https://weverse.io/kwoneunbi/notice/22288?hl=ko</link>
+            <guid>https://weverse.io/kwoneunbi/notice/22288?hl=ko</guid>
+            <pubDate>Thu, 12 Sep 2024 12:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://weverse.io/kwoneunbi/notice/22288?hl=ko" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17261437801726143780182.jpg">
+									</a>
+								</div>
+								<b>2024 KWON EUNBI BIRTHDAY PARTY</b>
+								<span>권은비</span>
+																<p>2024. 09. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17261437801726143780182.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러빔(LUVIM) 1st concert <하나님의 열심>]]></title>
@@ -166,38 +198,6 @@
 								<span>서성혁</span>
 																<p>2024. 08. 25</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17224881171722488117979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최재훈 30주년 팬미팅&사인회]]></title>
-            <link>https://m.cafe.daum.net/stajh/3qrk/206?</link>
-            <guid>https://m.cafe.daum.net/stajh/3qrk/206?</guid>
-            <pubDate>Mon, 01 Jul 2024 01:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://m.cafe.daum.net/stajh/3qrk/206?" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17206586061720658606211.jpg">
-									</a>
-								</div>
-								<b>최재훈 30주년 팬미팅&amp;사인회</b>
-								<span>최재훈</span>
-																<p>2024. 08. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17206586061720658606211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희 10주년 기념 단독 콘서트 <영원 속에서> -앵콜]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210239</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210239</guid>
-            <pubDate>Fri, 09 Aug 2024 06:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210239" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17231827571723182757654.jpg">
-									</a>
-								</div>
-								<b>전진희 10주년 기념 단독 콘서트 &lt;영원 속에서&gt; -앵콜</b>
-								<span>전진희</span>
-																<p>2024. 08. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17231827571723182757654.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
