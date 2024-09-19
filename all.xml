@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 05:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 06:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,22 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/865/1465059842_EC8AA4ED82B5EC9EAD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤 [이민혁 단독 콘서트] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210403</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210403</guid>
+            <pubDate>Thu, 19 Sep 2024 06:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210403" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17267238551726723855676.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌7 청춘의 밤 [이민혁 단독 콘서트]</b>
+								<span>이민혁</span>
+																<p>2024. 10. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17267238551726723855676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박장현 첫 단독 콘서트 <첫 장> (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210377</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210377</guid>
@@ -126,6 +142,22 @@
 								<span>박장현</span>
 																<p>2024. 10. 12</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17260304021726030402674.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투가이즈쇼 #2. GENERATION (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/49981</link>
+            <guid>http://ticket.yes24.com/Perf/49981</guid>
+            <pubDate>Tue, 11 Jun 2024 06:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/49981" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17267247121726724712008.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼 #2. GENERATION</b>
+								<span>최호승, 기세중 (게스트. 원종환,선한국)</span>
+																<p>2024. 10. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17267247121726724712008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 [SAAY 가을 소극장 콘서트 “CLOUD 9”] (구름아래소극장 ─ 공연안내)]]></title>
@@ -272,38 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17230922411723092241301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[투가이즈쇼 #2. GENERATION (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.yes24.com/Perf/49981</link>
-            <guid>http://ticket.yes24.com/Perf/49981</guid>
-            <pubDate>Tue, 11 Jun 2024 06:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/49981" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17204972411720497241365.jpg">
-									</a>
-								</div>
-								<b>투가이즈쇼 #2. GENERATION</b>
-								<span>최호승, 기세중 (게스트. 최정원,김환희)</span>
-																<p>2024. 08. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17204972411720497241365.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 서성혁 팬미팅 [별똥별] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/24010988</link>
-            <guid>https://tickets.interpark.com/goods/24010988</guid>
-            <pubDate>Thu, 01 Aug 2024 05:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24010988" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17224881171722488117979.jpg">
-									</a>
-								</div>
-								<b>2024 서성혁 팬미팅 [별똥별]</b>
-								<span>서성혁</span>
-																<p>2024. 08. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17224881171722488117979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[마무리 (CJ문화재단 ─ 공연예매)]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/368</link>
             <guid>https://www.cjazit.org/cjazit/book/view/368</guid>
@@ -336,6 +336,16 @@
 						<dd>2024.10.19 ~ 2024.09.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208340_01.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 더 발룬티어스(THE VOLUNTEERS) 앙코르 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013401</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013401</guid>
+            <pubDate>Thu, 19 Sep 2024 06:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2024 더 발룬티어스(THE VOLUNTEERS) 앙코르 콘서트</dt>
+						<dd>2024.10.12 ~ 2024.10.13</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208182_01.704.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤산하 팬콘서트 'Dusk Till Dawn' (블루스퀘어 ─ 공연안내)]]></title>
@@ -466,16 +476,6 @@
 						<dd>2024.07.03 ~ 2024.07.14</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_203652_01.635.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[FT아일랜드 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=203082&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=203082&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 12 Sep 2024 06:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">FT아일랜드 콘서트 </dt>
-						<dd>2024.06.29 ~ 2024.06.30</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/05/0400012405_203082_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
