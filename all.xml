@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 03:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 04:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,22 @@
 								<span>이민혁</span>
 																<p>2024. 10. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17267238551726723855676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수잔 단독 콘서트 ALIVE 'Find your 알!' (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210399</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210399</guid>
+            <pubDate>Fri, 20 Sep 2024 04:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210399" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17268062741726806274542.jpg">
+									</a>
+								</div>
+								<b>수잔 단독 콘서트 ALIVE 'Find your 알!'</b>
+								<span>수잔</span>
+																<p>2024. 10. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17268062741726806274542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박장현 첫 단독 콘서트 <첫 장> (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>임지수</span>
 																<p>2024. 09. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17235262971723526297234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[fade in: 낭독회] MEGAPOLIS (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://m.smartstore.naver.com/layerstore_/products/10690803729</link>
-            <guid>https://m.smartstore.naver.com/layerstore_/products/10690803729</guid>
-            <pubDate>Thu, 08 Aug 2024 05:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://m.smartstore.naver.com/layerstore_/products/10690803729" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17230922411723092241301.jpg">
-									</a>
-								</div>
-								<b>[fade in: 낭독회] MEGAPOLIS</b>
-								<span>박요한, 박민기, 민승우, 박주광, 신나리, 오로아, 정의택, 최승훈</span>
-																<p>2024. 08. 31</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17230922411723092241301.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마무리 (CJ문화재단 ─ 공연예매)]]></title>
