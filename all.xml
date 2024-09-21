@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 14:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 15:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,30 +302,6 @@
 								<span>MC 스나이퍼</span>
 																<p>2024. 09. 06 - 2024. 09. 07</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17231855851723185585299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마무리 (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/368</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/368</guid>
-            <pubDate>Mon, 26 Aug 2024 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.09.21
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>유어썸머</dd>
-<dt>출연:</dt>
-<dd>아마도이자람밴드</dd>
-</dl>
-<a href="/cjazit/book/view/368" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/en/sn/sp241466908qq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 죠지 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
