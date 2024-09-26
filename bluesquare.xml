@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 23:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 01:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<dt class="subject">2024 마술사 유호진 콘서트 '오푸스' </dt>
 						<dd>2024.11.02 ~ 2024.11.03</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208662_01.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208662_01.344.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 죠지 콘서트]]></title>
