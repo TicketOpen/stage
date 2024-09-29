@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 14:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 15:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[너드 커넥션(NERD CONNECTION) 콘서트 'And yet, We still']]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011574</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011574</guid>
-            <pubDate>Thu, 26 Sep 2024 18:31:24 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=206676&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=206676&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 29 Sep 2024 15:24:51 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">너드 커넥션(NERD CONNECTION) 콘서트 'And yet, We still'</dt>
 						<dd>2024.09.27 ~ 2024.09.29</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
