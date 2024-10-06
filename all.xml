@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 14:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 15:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -355,9 +355,9 @@
         </item>
         <item>
             <title><![CDATA[윤산하 팬콘서트 'Dusk Till Dawn' (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012456</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012456</guid>
-            <pubDate>Thu, 26 Sep 2024 18:31:24 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=207384&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=207384&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 06 Oct 2024 15:24:01 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">윤산하 팬콘서트 'Dusk Till Dawn' </dt>
 						<dd>2024.10.05 ~ 2024.10.06</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
