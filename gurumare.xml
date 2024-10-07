@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 11:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 12:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병찬 가을 소극장 공연 ‘ENCHANT’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210463</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210463</guid>
+            <pubDate>Mon, 07 Oct 2024 12:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210463" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17283008591728300859518.jpg">
+									</a>
+								</div>
+								<b>이병찬 가을 소극장 공연 ‘ENCHANT’</b>
+								<span>이병찬</span>
+																<p>2024. 11. 01 - 2024. 11. 10</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17283008591728300859518.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실감오페라 : LA TRAVIATA]]></title>
             <link>https://www.ticketlink.co.kr/product/52284</link>
@@ -182,22 +198,6 @@
 								<span>SAAY</span>
 																<p>2024. 10. 03</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17255020971725502097263.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 시티보이_로그 팬미팅 [CITYBOY House Party]]]></title>
-            <link>http://ticket.yes24.com/Perf/50981</link>
-            <guid>http://ticket.yes24.com/Perf/50981</guid>
-            <pubDate>Thu, 12 Sep 2024 12:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/50981" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17261439991726143999241.jpg">
-									</a>
-								</div>
-								<b>2024 시티보이_로그 팬미팅 [CITYBOY House Party]</b>
-								<span>이지한, 재준, 황윤제, 임정규, 이동섭</span>
-																<p>2024. 09. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17261439991726143999241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
