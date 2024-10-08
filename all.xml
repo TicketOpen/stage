@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 07:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 08:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,30 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17255020971725502097263.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ghostly Kisses Live in Seoul (CJ문화재단 ─ 공연예매)]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/370</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/370</guid>
+            <pubDate>Tue, 08 Oct 2024 08:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.10.09
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>HIGHJINKX</dd>
+<dt>출연:</dt>
+<dd>고스틀리 키시스</dd>
+</dl>
+<a href="/cjazit/book/view/370" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/xw/oi/fp245178221ke.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지킬앤하이드 - 20주년 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013928</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013928</guid>
@@ -312,6 +336,16 @@
 						<dd>2024.11.29 ~ 2025.05.18</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208781_01.814.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[페더 엘리아스(Peder Elias) 내한공연 'LOVE IN SEOUL' (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014458</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014458</guid>
+            <pubDate>Tue, 08 Oct 2024 08:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">페더 엘리아스(Peder Elias) 내한공연 'LOVE IN SEOUL'</dt>
+						<dd>2024.11.16 ~ 2024.11.16</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_208983_01.416.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 안효섭 팬미팅 'I WANT TO SAY ( )' (블루스퀘어 ─ 공연안내)]]></title>
@@ -442,16 +476,6 @@
 						<dd>2024.08.03 ~ 2024.08.04</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/06/0400012406_204903_01.734.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[FANTASY BOYS 1ST FANMEETING 〈Summer in the Fantasy〉 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=204337&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=204337&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 26 Sep 2024 18:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">FANTASY BOYS 1ST FANMEETING 〈Summer in the Fantasy〉</dt>
-						<dd>2024.07.27 ~ 2024.07.27</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/06/0400012406_204337_01.742.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
