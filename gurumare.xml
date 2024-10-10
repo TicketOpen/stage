@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 03:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 04:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 이준형 단독콘서트 [인디가수 이준형]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210485#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210485#skip_nav</guid>
+            <pubDate>Thu, 10 Oct 2024 04:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210485#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17285342021728534202934.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌7 이준형 단독콘서트 [인디가수 이준형]</b>
+								<span>이준형</span>
+																<p>2024. 11. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17285342021728534202934.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이병찬 가을 소극장 공연 ‘ENCHANT’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210463</link>
@@ -182,22 +198,6 @@
 								<span>숏박스</span>
 																<p>2024. 10. 05</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17277427941727742794206.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 [SAAY 가을 소극장 콘서트 “CLOUD 9”]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210342</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210342</guid>
-            <pubDate>Thu, 05 Sep 2024 02:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210342" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17255020971725502097263.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌7 [SAAY 가을 소극장 콘서트 “CLOUD 9”]</b>
-								<span>SAAY</span>
-																<p>2024. 10. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17255020971725502097263.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
