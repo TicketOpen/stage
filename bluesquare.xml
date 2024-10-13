@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 14:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 15:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,9 +69,9 @@
         </item>
         <item>
             <title><![CDATA[2024 더 발룬티어스(THE VOLUNTEERS) 앙코르 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013401</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013401</guid>
-            <pubDate>Thu, 26 Sep 2024 18:31:24 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208182&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208182&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 13 Oct 2024 15:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 더 발룬티어스(THE VOLUNTEERS) 앙코르 콘서트</dt>
 						<dd>2024.10.12 ~ 2024.10.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
