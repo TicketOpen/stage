@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 05:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 06:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/746/1276742889_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[손을모아 단독 콘서트 : WISH, HOPES, DESIRE]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=880&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=880&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 15 Oct 2024 06:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 11월 21일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/880/2019392295_EC8690EC9D84EBAAA8EC9584.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이오늘 두 번째 미니앨범 발매 기념 공연 ‘사량’]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=879&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=879&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 20 Sep 2024 05:23:01 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 10월 24일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/873/1387393393_EBB984EAB3B5ECA095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YB Concert <Curtain call>]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=872&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=872&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 19 Sep 2024 08:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2024년 10월 10일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/872/2113744973_YB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
