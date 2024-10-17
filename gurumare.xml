@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 23:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 01:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17286312591728631259811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고정순 문장콘서트 ’당신이라는 희망‘]]></title>
+            <link>https://docs.google.com/forms/d/e/1FAIpQLScoLjqWPBWE6q8_n-x02dcTJHj6hWntX9ODxkIS0_14o9HQhw/viewform</link>
+            <guid>https://docs.google.com/forms/d/e/1FAIpQLScoLjqWPBWE6q8_n-x02dcTJHj6hWntX9ODxkIS0_14o9HQhw/viewform</guid>
+            <pubDate>Thu, 17 Oct 2024 01:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://docs.google.com/forms/d/e/1FAIpQLScoLjqWPBWE6q8_n-x02dcTJHj6hWntX9ODxkIS0_14o9HQhw/viewform" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17291243511729124351534.jpg">
+									</a>
+								</div>
+								<b>고정순 문장콘서트 ’당신이라는 희망‘</b>
+								<span>고정순, 고명원밴드</span>
+																<p>2024. 11. 22</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17291243511729124351534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 AGAIN 한동근 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210519#skip_nav</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210519#skip_nav</guid>
@@ -31,13 +47,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=210519#skip_nav" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17290398141729039814489.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17291245311729124531550.jpg">
 									</a>
 								</div>
 								<b>2024 AGAIN 한동근 콘서트</b>
 								<span>한동근</span>
 																<p>2024. 11. 16 - 2024. 11. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17290398141729039814489.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17291245311729124531550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 이준형 단독콘서트 [인디가수 이준형]]]></title>
@@ -63,13 +79,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=210463" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17290404561729040456155.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17291244801729124480038.jpg">
 									</a>
 								</div>
 								<b>이병찬 가을 소극장 공연 ‘ENCHANT’</b>
 								<span>이병찬</span>
 																<p>2024. 11. 01 - 2024. 11. 10</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17290404561729040456155.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17291244801729124480038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께학교 특강#7 <내 아이의 첫 사회생활, 부모가 알아야 할 학교 폭력>]]></title>
@@ -95,13 +111,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://www.youtube.com/channel/UCuLg96BWDRN8R920G1ecblw/community?lb=UgkxSb2mSNsw46QuEYEX_YWAMACyOVYps21b" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17290403061729040306140.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17291244211729124421705.jpg">
 									</a>
 								</div>
 								<b>새옴 첫 팬밋업 &lt;안녕, 코기단! 옴새왔새옴&gt;</b>
 								<span>새옴</span>
 																<p>2024. 10. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17290403061729040306140.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17291244211729124421705.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실감오페라 : LA TRAVIATA]]></title>
@@ -182,22 +198,6 @@
 								<span>수잔</span>
 																<p>2024. 10. 13</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17268062741726806274542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박장현 첫 단독 콘서트 <첫 장>]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210377</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210377</guid>
-            <pubDate>Wed, 11 Sep 2024 05:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210377" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17260304021726030402674.jpg">
-									</a>
-								</div>
-								<b>박장현 첫 단독 콘서트 &lt;첫 장&gt;</b>
-								<span>박장현</span>
-																<p>2024. 10. 12</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17260304021726030402674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
