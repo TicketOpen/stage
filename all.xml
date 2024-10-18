@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 08:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 09:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17291245311729124531550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.ticketlink.co.kr/product/52285</link>
+            <guid>https://www.ticketlink.co.kr/product/52285</guid>
+            <pubDate>Fri, 18 Oct 2024 09:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ticketlink.co.kr/product/52285" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17292417941729241794947.jpg">
+									</a>
+								</div>
+								<b>[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타</b>
+								<span>심규연, 장주훈, 고전도, 김혜은</span>
+																<p>2024. 11. 07</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17292417941729241794947.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌7 이준형 단독콘서트 [인디가수 이준형] (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210485#skip_nav</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210485#skip_nav</guid>
@@ -286,22 +302,6 @@
 								<span>이민혁</span>
 																<p>2024. 10. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17267238551726723855676.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수잔 단독 콘서트 ALIVE 'Find your 알!' (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210399</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210399</guid>
-            <pubDate>Fri, 20 Sep 2024 04:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210399" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17268062741726806274542.jpg">
-									</a>
-								</div>
-								<b>수잔 단독 콘서트 ALIVE 'Find your 알!'</b>
-								<span>수잔</span>
-																<p>2024. 10. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17268062741726806274542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지킬앤하이드 - 20주년 (블루스퀘어 ─ 공연안내)]]></title>
