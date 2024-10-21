@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 05:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 06:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>다이애나</span>
 																<p>2024. 11. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17286312591728631259811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 손예지 단독 공연 [HOME]]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9481</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9481</guid>
+            <pubDate>Mon, 21 Oct 2024 06:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/csoon/detail.htm?csoonId=9481" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17294895551729489555639.jpg">
+									</a>
+								</div>
+								<b>싱어송라이터 손예지 단독 공연 [HOME]</b>
+								<span>손예지</span>
+																<p>2024. 11. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17294895551729489555639.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고정순 문장콘서트 ’당신이라는 희망‘]]></title>
@@ -182,22 +198,6 @@
 								<span>김종서</span>
 																<p>2024. 10. 19 - 2024. 10. 20</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17277433161727743316318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤 [이민혁 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210403</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210403</guid>
-            <pubDate>Thu, 19 Sep 2024 06:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210403" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17267238551726723855676.jpg">
-									</a>
-								</div>
-								<b>먼데이프로젝트 시즌7 청춘의 밤 [이민혁 단독 콘서트]</b>
-								<span>이민혁</span>
-																<p>2024. 10. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17267238551726723855676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
