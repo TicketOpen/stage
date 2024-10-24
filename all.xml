@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 23:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 01:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,30 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/th/et/db246290830eu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난기류에 대처하는 법 (CJ문화재단 ─ 공연예매)]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/374</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/374</guid>
+            <pubDate>Thu, 24 Oct 2024 01:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.11.09 ~ 2024.11.10
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>김마리</dd>
+<dt>출연:</dt>
+<dd>김마리</dd>
+</dl>
+<a href="/cjazit/book/view/374" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/et/sv/pr246536503tu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사비나앤드론즈 단독 콘서트［Lasha] (CJ문화재단 ─ 공연예매)]]></title>
