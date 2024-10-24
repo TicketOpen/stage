@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 03:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 04:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,38 @@
             <pubDate>Thu, 17 Oct 2024 15:25:22 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 10월 24일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/873/1387393393_EBB984EAB3B5ECA095.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김목경 송년 콘서트 LIVE ON FRIDAY NIGHT (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/51406</link>
+            <guid>http://ticket.yes24.com/Perf/51406</guid>
+            <pubDate>Thu, 24 Oct 2024 04:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/51406" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17297427771729742777199.jpg">
+									</a>
+								</div>
+								<b>김목경 송년 콘서트 LIVE ON FRIDAY NIGHT</b>
+								<span>김목경</span>
+																<p>2024. 12. 13</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17297427771729742777199.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작곡가 한혜신 콘서트 <그대들 덕분에> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.ticketlink.co.kr/product/52800</link>
+            <guid>https://www.ticketlink.co.kr/product/52800</guid>
+            <pubDate>Thu, 24 Oct 2024 04:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ticketlink.co.kr/product/52800" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg">
+									</a>
+								</div>
+								<b>작곡가 한혜신 콘서트 &lt;그대들 덕분에&gt;</b>
+								<span>남민우, 박정원, 오유민, 이진우, 이태은, 조성태, 현석준, 홍승안</span>
+																<p>2024. 12. 09</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DIANA CONCERT 「白黒漫画」 흑백만화 (구름아래소극장 ─ 공연안내)]]></title>
@@ -270,38 +302,6 @@
 								<span>심규연, 장주훈, 고전도, 김혜은</span>
 																<p>2024. 10. 26</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17268065781726806578331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈디바 유사랑 정규 2집 발매기념 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.yes24.com/Perf/51210</link>
-            <guid>http://ticket.yes24.com/Perf/51210</guid>
-            <pubDate>Fri, 11 Oct 2024 08:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/51210" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17277435111727743511673.jpg">
-									</a>
-								</div>
-								<b>재즈디바 유사랑 정규 2집 발매기념 콘서트</b>
-								<span>유사랑</span>
-																<p>2024. 10. 24</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17277435111727743511673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김종서 매진 감사 앵콜콘서트 <모두의 김종서> (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/24013881?</link>
-            <guid>https://tickets.interpark.com/goods/24013881?</guid>
-            <pubDate>Tue, 01 Oct 2024 01:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24013881?" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17277433161727743316318.jpg">
-									</a>
-								</div>
-								<b>김종서 매진 감사 앵콜콘서트 &lt;모두의 김종서&gt;</b>
-								<span>김종서</span>
-																<p>2024. 10. 19 - 2024. 10. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17277433161727743316318.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제69회 라이브 클럽 데이 (CJ문화재단 ─ 공연예매)]]></title>
