@@ -4,33 +4,9 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 14:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 15:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제69회 라이브 클럽 데이]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/373</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/373</guid>
-            <pubDate>Mon, 21 Oct 2024 06:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.10.25
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>라이브클럽 협동조합</dd>
-<dt>출연:</dt>
-<dd>남메아리, 정미조</dd>
-</dl>
-<a href="/cjazit/book/view/373" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ix/pk/yn246293061pt.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 CJ X 버클리 뮤직 콘서트]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/371</link>
