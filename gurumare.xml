@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 23:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 01:53:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
 								<span>남민우, 박정원, 오유민, 이진우, 이태은, 조성태, 현석준, 홍승안</span>
 																<p>2024. 12. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이미스터메모리 EP 발매기념 공연 “행복해져랏!”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav</guid>
+            <pubDate>Tue, 29 Oct 2024 01:51:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg">
+									</a>
+								</div>
+								<b>하이미스터메모리 EP 발매기념 공연 “행복해져랏!”</b>
+								<span>하이미스터메모리</span>
+																<p>2024. 11. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DIANA CONCERT 「白黒漫画」 흑백만화]]></title>
@@ -182,22 +198,6 @@
 								<span>새옴</span>
 																<p>2024. 10. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17291244211729124421705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실감오페라 : LA TRAVIATA]]></title>
-            <link>https://www.ticketlink.co.kr/product/52284</link>
-            <guid>https://www.ticketlink.co.kr/product/52284</guid>
-            <pubDate>Fri, 04 Oct 2024 05:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.ticketlink.co.kr/product/52284" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17268065781726806578331.jpg">
-									</a>
-								</div>
-								<b>실감오페라 : LA TRAVIATA</b>
-								<span>심규연, 장주훈, 고전도, 김혜은</span>
-																<p>2024. 10. 26</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17268065781726806578331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
