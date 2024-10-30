@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 01:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 02:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17291245311729124531550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[프림로즈(PRIMROSE) - 미니 3집 [Steal Heart] SHOWCASE]]></title>
+            <link>https://dearmymuse.com/product/1114-%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4-%ED%94%84%EB%A6%BC%EB%A1%9C%EC%A6%88primrose-%EB%AF%B8%EB%8B%88-3%EC%A7%91-steal-heart/3906/category/253/display/1/#none</link>
+            <guid>https://dearmymuse.com/product/1114-%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4-%ED%94%84%EB%A6%BC%EB%A1%9C%EC%A6%88primrose-%EB%AF%B8%EB%8B%88-3%EC%A7%91-steal-heart/3906/category/253/display/1/#none</guid>
+            <pubDate>Wed, 30 Oct 2024 02:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://dearmymuse.com/product/1114-%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4-%ED%94%84%EB%A6%BC%EB%A1%9C%EC%A6%88primrose-%EB%AF%B8%EB%8B%88-3%EC%A7%91-steal-heart/3906/category/253/display/1/#none" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17302560451730256045639.jpg">
+									</a>
+								</div>
+								<b>프림로즈(PRIMROSE) - 미니 3집 [Steal Heart] SHOWCASE</b>
+								<span>프림로즈</span>
+																<p>2024. 11. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17302560451730256045639.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타]]></title>
             <link>https://www.ticketlink.co.kr/product/52285</link>
             <guid>https://www.ticketlink.co.kr/product/52285</guid>
@@ -182,22 +198,6 @@
 								<span>아동청소년문제연구소 김승혜 소장</span>
 																<p>2024. 10. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17290409491729040949701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새옴 첫 팬밋업 <안녕, 코기단! 옴새왔새옴>]]></title>
-            <link>https://www.youtube.com/channel/UCuLg96BWDRN8R920G1ecblw/community?lb=UgkxSb2mSNsw46QuEYEX_YWAMACyOVYps21b</link>
-            <guid>https://www.youtube.com/channel/UCuLg96BWDRN8R920G1ecblw/community?lb=UgkxSb2mSNsw46QuEYEX_YWAMACyOVYps21b</guid>
-            <pubDate>Wed, 16 Oct 2024 01:50:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.youtube.com/channel/UCuLg96BWDRN8R920G1ecblw/community?lb=UgkxSb2mSNsw46QuEYEX_YWAMACyOVYps21b" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17291244211729124421705.jpg">
-									</a>
-								</div>
-								<b>새옴 첫 팬밋업 &lt;안녕, 코기단! 옴새왔새옴&gt;</b>
-								<span>새옴</span>
-																<p>2024. 10. 27</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17291244211729124421705.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
