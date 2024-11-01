@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 09:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 10:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,28 +56,28 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/746/1276742889_EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[초승 단독 콘서트 : Winter Vacation]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=891&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=891&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 01 Nov 2024 10:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 11월 30일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/891/1453396037_ECB488EC8AB9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 : Mr. Education 2]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=890&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=890&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 01 Nov 2024 10:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2024년 12월 01일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/890/739023845_EBA7A5EAB1B0ED9580.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[브로큰발렌타인 단독 콘서트 : Standing in my stage]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=889&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=889&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
             <pubDate>Fri, 01 Nov 2024 04:28:08 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 12월 08일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/889/1792380339_EBB88CEBA19CED81B0EBB09CEBA08CED8380EC9DB8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<맥거핀 단독 콘서트 : Mr. Education 2>]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=888&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=888&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 31 Oct 2024 05:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2024년 12월 01일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/888/291830562_5BED8FACEC8AA4ED84B05D20120120EBA7A5EAB1B0ED9580.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<초승 단독 콘서트 : Winter Vacation>]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=887&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=887&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Wed, 30 Oct 2024 10:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2024년 11월 30일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/887/100652140_5BED8FACEC8AA4ED84B05D20113020ECB488EC8AB9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로우행잉프루츠 단독 콘서트 : PASSION OF VARIOUS TY..]]></title>
