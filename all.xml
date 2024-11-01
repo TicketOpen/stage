@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 23:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 01:59:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[락이 빛나는 밤에 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/24015853</link>
+            <guid>https://tickets.interpark.com/goods/24015853</guid>
+            <pubDate>Fri, 01 Nov 2024 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24015853" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17304216141730421614802.jpg">
+									</a>
+								</div>
+								<b>락이 빛나는 밤에</b>
+								<span>김경현</span>
+																<p>2024. 11. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17304216141730421614802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이미스터메모리 EP 발매기념 공연 “행복해져랏!” (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav</guid>
@@ -158,6 +174,22 @@
 								<span>하이미스터메모리</span>
 																<p>2024. 11. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투가이즈쇼 [#2. GENERATION] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/51512</link>
+            <guid>http://ticket.yes24.com/Perf/51512</guid>
+            <pubDate>Fri, 01 Nov 2024 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/51512" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17304217751730421775609.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼 [#2. GENERATION]</b>
+								<span>최호승, 기세중 (게스트. 이범재,조환지)</span>
+																<p>2024. 11. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17304217751730421775609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DIANA CONCERT 「白黒漫画」 흑백만화 (구름아래소극장 ─ 공연안내)]]></title>
@@ -183,13 +215,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=210534" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17294895551729489555639.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17304220601730422060574.jpg">
 									</a>
 								</div>
 								<b>싱어송라이터 손예지 단독 공연 [HOME]</b>
 								<span>손예지</span>
 																<p>2024. 11. 23</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17294895551729489555639.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17304220601730422060574.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고정순 문장콘서트 ’당신이라는 희망‘ (구름아래소극장 ─ 공연안내)]]></title>
@@ -215,13 +247,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=210519#skip_nav" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17291245311729124531550.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17304219851730421985757.jpg">
 									</a>
 								</div>
 								<b>2024 AGAIN 한동근 콘서트</b>
 								<span>한동근</span>
 																<p>2024. 11. 16 - 2024. 11. 17</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17291245311729124531550.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17304219851730421985757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프림로즈(PRIMROSE) - 미니 3집 [Steal Heart] SHOWCASE (구름아래소극장 ─ 공연안내)]]></title>
@@ -270,38 +302,6 @@
 								<span>이준형</span>
 																<p>2024. 11. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17285342021728534202934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이병찬 가을 소극장 공연 ‘ENCHANT’ (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210463</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210463</guid>
-            <pubDate>Mon, 07 Oct 2024 12:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210463" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17291244801729124480038.jpg">
-									</a>
-								</div>
-								<b>이병찬 가을 소극장 공연 ‘ENCHANT’</b>
-								<span>이병찬</span>
-																<p>2024. 11. 01 - 2024. 11. 10</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17291244801729124480038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께학교 특강#7 <내 아이의 첫 사회생활, 부모가 알아야 할 학교 폭력> (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.togetherschool.go.kr/playGround/playNotice/detailView?pstId=46004&amp;?srchType=TITLE&amp;pageNum=1</link>
-            <guid>https://www.togetherschool.go.kr/playGround/playNotice/detailView?pstId=46004&amp;?srchType=TITLE&amp;pageNum=1</guid>
-            <pubDate>Wed, 16 Oct 2024 01:50:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.togetherschool.go.kr/playGround/playNotice/detailView?pstId=46004&amp;?srchType=TITLE&amp;pageNum=1" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17290409491729040949701.jpg">
-									</a>
-								</div>
-								<b>함께학교 특강#7 &lt;내 아이의 첫 사회생활, 부모가 알아야 할 학교 폭력&gt;</b>
-								<span>아동청소년문제연구소 김승혜 소장</span>
-																<p>2024. 10. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17290409491729040949701.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 CJ X 버클리 뮤직 콘서트 (CJ문화재단 ─ 공연예매)]]></title>
