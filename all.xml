@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 03:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 04:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Sat, 26 Oct 2024 08:27:18 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2024년 11월 29일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/883/122442901_1129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서예지X전건호 콘서트 “The Colors” (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/24016022</link>
+            <guid>https://tickets.interpark.com/goods/24016022</guid>
+            <pubDate>Wed, 06 Nov 2024 04:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24016022" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg">
+									</a>
+								</div>
+								<b>경서예지X전건호 콘서트 “The Colors”</b>
+								<span>경서예지, 전건호</span>
+																<p>2024. 12. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김목경 송년 콘서트 LIVE ON FRIDAY NIGHT (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>프림로즈</span>
 																<p>2024. 11. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17302560451730256045639.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.ticketlink.co.kr/product/52285</link>
-            <guid>https://www.ticketlink.co.kr/product/52285</guid>
-            <pubDate>Fri, 18 Oct 2024 09:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.ticketlink.co.kr/product/52285" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17292417941729241794947.jpg">
-									</a>
-								</div>
-								<b>[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타</b>
-								<span>심규연, 장주훈, 고전도, 김혜은</span>
-																<p>2024. 11. 07</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17292417941729241794947.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[난기류에 대처하는 법 (CJ문화재단 ─ 공연예매)]]></title>
