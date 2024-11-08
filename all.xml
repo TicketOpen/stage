@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 07:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 08:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,6 +352,16 @@
             <enclosure url="https://www.cjazit.org/image/schedule/bv/px/gh246292067ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[존 카메론 미첼 내한 공연 ［John Cameron Mitchell @ X-mas］ (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016208</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016208</guid>
+            <pubDate>Fri, 08 Nov 2024 08:29:28 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">존 카메론 미첼 내한 공연 ［John Cameron Mitchell @ X-mas］</dt>
+						<dd>2024.12.24 ~ 2024.12.25</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/11/0400012411_210369_01.457.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 Wave to Earth 단독공연 'play with earth! Seoul' (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015393</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015393</guid>
@@ -490,16 +500,6 @@
 						<dd>2024.10.12 ~ 2024.10.13</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208182_01.704.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[윤산하 팬콘서트 'Dusk Till Dawn' (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=207384&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=207384&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 06 Oct 2024 15:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">윤산하 팬콘서트 'Dusk Till Dawn' </dt>
-						<dd>2024.10.05 ~ 2024.10.06</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/08/0400012408_207384_01.306.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
