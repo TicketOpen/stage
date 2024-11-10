@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 14:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 15:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -109,9 +109,9 @@
         </item>
         <item>
             <title><![CDATA[2024 안효섭 팬미팅 'I WANT TO SAY ( )']]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013883</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013883</guid>
-            <pubDate>Mon, 30 Sep 2024 08:32:55 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208907&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208907&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 10 Nov 2024 15:23:05 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 안효섭 팬미팅 'I WANT TO SAY ( )'</dt>
 						<dd>2024.11.09 ~ 2024.11.10</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
