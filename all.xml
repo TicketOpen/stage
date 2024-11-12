@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 08:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 09:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,6 +338,16 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/NoImage.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 소수빈 연말 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016386</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016386</guid>
+            <pubDate>Tue, 12 Nov 2024 09:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2024 소수빈 연말 콘서트</dt>
+						<dd>2024.12.28 ~ 2024.12.29</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/11/0400012411_210495_01.439.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[존 카메론 미첼 내한 공연 ［John Cameron Mitchell @ X-mas］ (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016208</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016208</guid>
@@ -466,16 +476,6 @@
 						<dd>2024.10.26 ~ 2024.10.26</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_209519_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 죠지 콘서트 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208340&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208340&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Thu, 26 Sep 2024 18:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">2024 죠지 콘서트</dt>
-						<dd>2024.10.19 ~ 2024.09.20</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208340_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
