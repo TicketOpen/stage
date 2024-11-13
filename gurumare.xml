@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 08:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 09:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>남민우, 박정원, 오유민, 이진우, 이태은, 조성태, 현석준, 홍승안</span>
 																<p>2024. 12. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이슨 리 Winter Concert : The Christmas Song]]></title>
+            <link>https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;no=53395</link>
+            <guid>https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;no=53395</guid>
+            <pubDate>Wed, 13 Nov 2024 09:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;no=53395" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg">
+									</a>
+								</div>
+								<b>제이슨 리 Winter Concert : The Christmas Song</b>
+								<span>제이슨 리(Jason Lee)</span>
+																<p>2024. 12. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이승환 콘서트 [흑백영화처럼]]]></title>
@@ -182,22 +198,6 @@
 								<span>손예지</span>
 																<p>2024. 11. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17304220601730422060574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고정순 문장콘서트 ’당신이라는 희망‘]]></title>
-            <link>https://docs.google.com/forms/d/e/1FAIpQLScoLjqWPBWE6q8_n-x02dcTJHj6hWntX9ODxkIS0_14o9HQhw/viewform</link>
-            <guid>https://docs.google.com/forms/d/e/1FAIpQLScoLjqWPBWE6q8_n-x02dcTJHj6hWntX9ODxkIS0_14o9HQhw/viewform</guid>
-            <pubDate>Thu, 17 Oct 2024 01:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://docs.google.com/forms/d/e/1FAIpQLScoLjqWPBWE6q8_n-x02dcTJHj6hWntX9ODxkIS0_14o9HQhw/viewform" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17291243511729124351534.jpg">
-									</a>
-								</div>
-								<b>고정순 문장콘서트 ’당신이라는 희망‘</b>
-								<span>고정순, 고명원밴드</span>
-																<p>2024. 11. 22</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17291243511729124351534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
