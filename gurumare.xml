@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 07:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 08:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>위아더나잇</span>
 																<p>2024. 12. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17316433191731643319285.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밍기뉴 단독 콘서트 〈All About ZEZE〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210688</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210688</guid>
+            <pubDate>Fri, 15 Nov 2024 08:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210688" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17316555571731655557047.jpg">
+									</a>
+								</div>
+								<b>밍기뉴 단독 콘서트 〈All About ZEZE〉</b>
+								<span>밍기뉴</span>
+																<p>2024. 12. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17316555571731655557047.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김목경 송년 콘서트 LIVE ON FRIDAY NIGHT]]></title>
@@ -182,22 +198,6 @@
 								<span>하이미스터메모리</span>
 																<p>2024. 11. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투가이즈쇼 [#2. GENERATION]]]></title>
-            <link>http://ticket.yes24.com/Perf/51512</link>
-            <guid>http://ticket.yes24.com/Perf/51512</guid>
-            <pubDate>Fri, 01 Nov 2024 01:57:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/51512" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17304217751730421775609.jpg">
-									</a>
-								</div>
-								<b>투가이즈쇼 [#2. GENERATION]</b>
-								<span>최호승, 기세중 (게스트. 이범재,조환지)</span>
-																<p>2024. 11. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17304217751730421775609.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
