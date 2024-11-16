@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 14:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 15:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,30 +304,6 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사비나앤드론즈 단독 콘서트［Lasha] (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/372</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/372</guid>
-            <pubDate>Mon, 21 Oct 2024 06:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.11.16
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>사비나앤드론즈</dd>
-<dt>출연:</dt>
-<dd>사비나앤드론즈</dd>
-</dl>
-<a href="/cjazit/book/view/372" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/bv/px/gh246292067ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[sun_추가구매_추가상품2 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210574&amp;m_menu=performance&amp;s_menu=info</link>
             <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210574&amp;m_menu=performance&amp;s_menu=info</guid>
@@ -459,9 +435,9 @@
         </item>
         <item>
             <title><![CDATA[페더 엘리아스(Peder Elias) 내한공연 'LOVE IN SEOUL' (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014458</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014458</guid>
-            <pubDate>Tue, 08 Oct 2024 08:31:23 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208983&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208983&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 16 Nov 2024 15:25:32 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">페더 엘리아스(Peder Elias) 내한공연 'LOVE IN SEOUL'</dt>
 						<dd>2024.11.16 ~ 2024.11.16</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
