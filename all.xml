@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 14:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 15:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -425,9 +425,9 @@
         </item>
         <item>
             <title><![CDATA[LOVE IN SEOUL - 스탠다드 프렌즈(자이언티, 기리보이, 원슈타인, 소코도모) (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015553</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015553</guid>
-            <pubDate>Tue, 29 Oct 2024 08:31:25 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209849&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209849&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 17 Nov 2024 15:23:56 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">LOVE IN SEOUL - 스탠다드 프렌즈(자이언티, 기리보이, 원슈타인, 소코도모)</dt>
 						<dd>2024.11.17 ~ 2024.11.17</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
