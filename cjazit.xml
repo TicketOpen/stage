@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.cjazit.org/cjazit/book/list</id>
-    <title>CJ문화재단 ─ 공연예매</title>
-    <updated>2024-11-17T23:24:48.815Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>CJ문화재단 ─ 공연예매</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 18 Nov 2024 01:58:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RAW SURVIVAL SEOUL]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/376</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/376</guid>
+            <pubDate>Mon, 18 Nov 2024 01:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.11.30
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>HYPNOSIS THERAPY</dd>
+<dt>출연:</dt>
+<dd>HYPNOSIS THERAPY</dd>
+</dl>
+<a href="/cjazit/book/view/376" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/kn/rw/qa248696689ma.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRACKER’s HOME]]></title>
+            <link>https://www.cjazit.org/cjazit/book/view/377</link>
+            <guid>https://www.cjazit.org/cjazit/book/view/377</guid>
+            <pubDate>Mon, 18 Nov 2024 01:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[<dl class="item-info">
+<dt class="a11y">날짜</dt>
+<dd>
+ 2024.12.07
+</dd>
+<dt class="a11y">장소</dt>
+ <dd>CJ아지트 광흥창</dd>
+</dl>
+<dl class="item-staff">
+<dt>주최:</dt>
+<dd>EGO GROUP</dd>
+<dt>출연:</dt>
+<dd>크래커(CRACKER) </dd>
+</dl>
+<a href="/cjazit/book/view/377" class="btn btn--bold item-book no-barba">
+<span class="btn-text">상세보기</span>
+</a>]]></content:encoded>
+            <enclosure url="https://www.cjazit.org/image/schedule/ar/mi/km248697548tw.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
