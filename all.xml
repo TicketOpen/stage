@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 14:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 15:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -477,9 +477,9 @@
         </item>
         <item>
             <title><![CDATA[LOVE IN SEOUL - 엔플라잉 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015828</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015828</guid>
-            <pubDate>Wed, 30 Oct 2024 06:35:18 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210129&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210129&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Wed, 20 Nov 2024 15:27:00 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">LOVE IN SEOUL - 엔플라잉</dt>
 						<dd>2024.11.20 ~ 2024.11.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
