@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 05:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 06:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>경서예지, 전건호</span>
 																<p>2024. 12. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미리메리크리스마송 콘서트(Mili Merry Christmas Song Concert)]]></title>
+            <link>https://tickets.interpark.com/goods/24016859</link>
+            <guid>https://tickets.interpark.com/goods/24016859</guid>
+            <pubDate>Wed, 20 Nov 2024 06:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/24016859" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17320803381732080338620.jpg">
+									</a>
+								</div>
+								<b>미리메리크리스마송 콘서트(Mili Merry Christmas Song Concert)</b>
+								<span>조상웅, 류제윤, 한보라, 김도하 (MC 이다슬)</span>
+																<p>2024. 12. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17320803381732080338620.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PL 연말 콘서트 ‘Come to Rest’]]></title>
@@ -182,22 +198,6 @@
 								<span>김경현</span>
 																<p>2024. 11. 30</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17304216141730421614802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이미스터메모리 EP 발매기념 공연 “행복해져랏!”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav</guid>
-            <pubDate>Tue, 29 Oct 2024 01:51:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210586#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg">
-									</a>
-								</div>
-								<b>하이미스터메모리 EP 발매기념 공연 “행복해져랏!”</b>
-								<span>하이미스터메모리</span>
-																<p>2024. 11. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17301629121730162912837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
