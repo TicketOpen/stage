@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 07:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 08:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
 								<span>박준하</span>
 																<p>2024. 12. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17316435381731643538820.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랑데부르스 2024년 겨울 크리스마스 공연 〈캐롤타임레전드 : Carol Time Legend〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210707</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210707</guid>
+            <pubDate>Mon, 25 Nov 2024 08:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210707" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17325228091732522809857.jpg">
+									</a>
+								</div>
+								<b>랑데부르스 2024년 겨울 크리스마스 공연 〈캐롤타임레전드 : Carol Time Legend〉</b>
+								<span>랑데부르스</span>
+																<p>2024. 12. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17325228091732522809857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위아더나잇 겨울 콘서트 〈good NIGHT 2024〉]]></title>
@@ -182,22 +198,6 @@
 								<span>송소희 (게스트.서도밴드)</span>
 																<p>2024. 12. 01</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17309413811730941381364.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[락이 빛나는 밤에]]></title>
-            <link>https://tickets.interpark.com/goods/24015853</link>
-            <guid>https://tickets.interpark.com/goods/24015853</guid>
-            <pubDate>Fri, 01 Nov 2024 01:57:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24015853" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17304216141730421614802.jpg">
-									</a>
-								</div>
-								<b>락이 빛나는 밤에</b>
-								<span>김경현</span>
-																<p>2024. 11. 30</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17304216141730421614802.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
