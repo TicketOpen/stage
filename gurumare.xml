@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 11:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 12:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>경서예지, 전건호</span>
 																<p>2024. 12. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김동현 & 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210735#skip_nav</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210735#skip_nav</guid>
+            <pubDate>Mon, 25 Nov 2024 12:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210735#skip_nav" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17325359751732535975298.jpg">
+									</a>
+								</div>
+								<b>김동현 &amp; 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’</b>
+								<span>김동현, 이병찬</span>
+																<p>2024. 12. 24 - 2024. 12. 25</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17325359751732535975298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미리메리크리스마송 콘서트(Mili Merry Christmas Song Concert)]]></title>
@@ -182,22 +198,6 @@
 								<span>이승환</span>
 																<p>2024. 12. 03 - 2024. 12. 19</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17307039791730703979841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Song Sohee 1st Concert：風流(풍류)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210618#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210618#skip_nav</guid>
-            <pubDate>Thu, 07 Nov 2024 01:47:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210618#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17309413811730941381364.jpg">
-									</a>
-								</div>
-								<b>Song Sohee 1st Concert：風流(풍류)</b>
-								<span>송소희 (게스트.서도밴드)</span>
-																<p>2024. 12. 01</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17309413811730941381364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
