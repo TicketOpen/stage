@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 23:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 01:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,22 @@
 								<span>경서예지, 전건호</span>
 																<p>2024. 12. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들 2024 연말 콘서트 “목적도 없고 주제도 없어요” (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210744</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210744</guid>
+            <pubDate>Thu, 28 Nov 2024 01:56:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210744" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17327527571732752757433.jpg">
+									</a>
+								</div>
+								<b>9와 숫자들 2024 연말 콘서트 “목적도 없고 주제도 없어요”</b>
+								<span>9와 숫자들</span>
+																<p>2024. 12. 28</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17327527571732752757433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김동현 & 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’ (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>제이슨 리(Jason Lee)</span>
 																<p>2024. 12. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승환 콘서트 [흑백영화처럼] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/24016082</link>
-            <guid>https://tickets.interpark.com/goods/24016082</guid>
-            <pubDate>Mon, 04 Nov 2024 07:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24016082" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17307039791730703979841.jpg">
-									</a>
-								</div>
-								<b>이승환 콘서트 [흑백영화처럼]</b>
-								<span>이승환</span>
-																<p>2024. 12. 03 - 2024. 12. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17307039791730703979841.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RAW SURVIVAL SEOUL (CJ문화재단 ─ 공연예매)]]></title>
