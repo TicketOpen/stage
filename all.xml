@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 14:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 15:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,30 +302,6 @@
 								<span>제이슨 리(Jason Lee)</span>
 																<p>2024. 12. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAW SURVIVAL SEOUL (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/376</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/376</guid>
-            <pubDate>Mon, 18 Nov 2024 01:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.11.30
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>HYPNOSIS THERAPY</dd>
-<dt>출연:</dt>
-<dd>HYPNOSIS THERAPY</dd>
-</dl>
-<a href="/cjazit/book/view/376" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/kn/rw/qa248696689ma.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테종 단독 콘서트 My Universe (CJ문화재단 ─ 공연예매)]]></title>
