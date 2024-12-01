@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 14:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 15:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,9 +413,9 @@
         </item>
         <item>
             <title><![CDATA[2024 Wave to Earth 단독공연 'play with earth! Seoul' (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015393</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015393</guid>
-            <pubDate>Thu, 24 Oct 2024 02:54:46 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209896&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209896&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 01 Dec 2024 15:24:34 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 Wave to Earth 단독공연 'play with earth! Seoul'</dt>
 						<dd>2024.11.30 ~ 2024.12.01</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
