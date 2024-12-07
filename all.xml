@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 14:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 15:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,30 +328,6 @@
             <enclosure url="https://www.cjazit.org/image/schedule/bn/js/zc248703491pr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CRACKER’s HOME (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/377</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/377</guid>
-            <pubDate>Mon, 18 Nov 2024 01:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.12.07
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>EGO GROUP</dd>
-<dt>출연:</dt>
-<dd>크래커(CRACKER) </dd>
-</dl>
-<a href="/cjazit/book/view/377" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/ar/mi/km248697548tw.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[소란 winter concert  ‘BE MY LIGHT’ (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017385</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017385</guid>
@@ -433,9 +409,9 @@
         </item>
         <item>
             <title><![CDATA[장기하 단독 공연 ［하기장기하］ (12월 7일 토요일 ［지정석］) (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015682</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015682</guid>
-            <pubDate>Wed, 13 Nov 2024 02:53:18 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210685&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210685&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sat, 07 Dec 2024 15:24:57 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">장기하 단독 공연 ［하기장기하］ (12월 7일 토요일 ［지정석］)</dt>
 						<dd>2024.12.07 ~ 2024.12.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
