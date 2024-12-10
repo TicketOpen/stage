@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 14:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 15:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,30 +302,6 @@
 								<span>제이슨 리(Jason Lee)</span>
 																<p>2024. 12. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테종 단독 콘서트 My Universe (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/378</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/378</guid>
-            <pubDate>Mon, 18 Nov 2024 04:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.12.10
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>㈜엔터크라우드</dd>
-<dt>출연:</dt>
-<dd>테종</dd>
-</dl>
-<a href="/cjazit/book/view/378" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/bn/js/zc248703491pr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란 winter concert  ‘BE MY LIGHT’ (블루스퀘어 ─ 공연안내)]]></title>

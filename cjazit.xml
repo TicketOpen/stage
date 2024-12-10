@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>CJ문화재단 ─ 공연예매</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 14:26:57 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[테종 단독 콘서트 My Universe]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/378</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/378</guid>
-            <pubDate>Wed, 20 Nov 2024 13:32:41 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2024.12.10
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>㈜엔터크라우드</dd>
-<dt>출연:</dt>
-<dd>테종</dd>
-</dl>
-<a href="/cjazit/book/view/378" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/bn/js/zc248703491pr.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cjazit.org/cjazit/book/list</id>
+    <title>CJ문화재단 ─ 공연예매</title>
+    <updated>2024-12-10T15:29:09.346Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cjazit.org/cjazit/book/favicon.ico</icon>
+</feed>
