@@ -4,9 +4,19 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 06:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 07:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 웨이션브이(WayV) 콘서트 'ON THE Way']]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017829</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017829</guid>
+            <pubDate>Mon, 16 Dec 2024 07:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2025 웨이션브이(WayV) 콘서트 'ON THE Way'</dt>
+						<dd>2025.02.22 ~ 2025.02.23</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/12/0400012412_211629_01.011.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[소란 winter concert  ‘BE MY LIGHT’]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017385</link>
@@ -146,16 +156,6 @@
 						<dd>2024.11.20 ~ 2024.11.20</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_210129_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IN SEOUL - 스탠다드 프렌즈(자이언티, 기리보이, 원슈타인, 소코도모)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209849&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209849&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Sun, 17 Nov 2024 15:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">LOVE IN SEOUL - 스탠다드 프렌즈(자이언티, 기리보이, 원슈타인, 소코도모)</dt>
-						<dd>2024.11.17 ~ 2024.11.17</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_209849_01.154.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
