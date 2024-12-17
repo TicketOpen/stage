@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 04:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 05:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,11 +25,27 @@
         </item>
         <item>
             <title><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : .. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=916&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=916&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Fri, 13 Dec 2024 06:36:01 GMT</pubDate>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=920&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=920&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 17 Dec 2024 05:25:10 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 18일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/916/28560639_5BED8FACEC8AA4ED84B05D20011820ED9788ED81B4EBB2A0EBA6ACED94BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/920/2090861401_ED9788ED81B4EBB2A0EBA6ACED94BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[적란운 단독 콘서트 '달의 방향' : 롤링 30.. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=919&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=919&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 17 Dec 2024 05:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 01월 23일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/919/1808289587_ECA081EB9E80EC9AB4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 콘서트 ‘flowers and trees’ (+ support a.. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=918&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=918&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 17 Dec 2024 05:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 01월 19일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/918/643287444_EC9EA0EBB984EB8298EC9DB4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐치더영 단독 콘서트 ‘Loud And Proud’ : 롤링 30.. (롤링홀)]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Fri, 06 Dec 2024 15:27:24 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 09일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/908/909470496_EBB894EBA3A8EB9494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념.. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=905&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=905&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Fri, 06 Dec 2024 15:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 01월 03일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/905/386765491_5BED8FACEC8AA4ED84B05D20010320EAB3B5ECA491EAB7B8EB8A98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년.. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=904&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=904&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Tue, 17 Dec 2024 04:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 01월 02일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/904/1258540225_5BED8FACEC8AA4ED84B05D20010220EC8690EC9D84EBAAA8EC9584.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경서예지X전건호 콘서트 “The Colors” (구름아래소극장 ─ 공연안내)]]></title>
