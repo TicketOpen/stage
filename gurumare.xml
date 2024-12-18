@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 07:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 08:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투가이즈쇼 [#2. GENERATION]]]></title>
+            <link>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</link>
+            <guid>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</guid>
+            <pubDate>Wed, 18 Dec 2024 08:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17345074131734507413353.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼 [#2. GENERATION]</b>
+								<span>최호승, 기세중 (게스트. 박현숙,이승현,김서환)</span>
+																<p>2025. 01. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17345074131734507413353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나비드 119 콘서트]]></title>
             <link>https://fonakorea.com/reservation/detail.html?product_no=31</link>
@@ -31,13 +47,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://tickets.interpark.com/goods/24016022" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17345075131734507513485.jpg">
 									</a>
 								</div>
 								<b>경서예지X전건호 콘서트 “The Colors”</b>
 								<span>경서예지, 전건호</span>
 																<p>2024. 12. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17308648671730864867870.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17345075131734507513485.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9와 숫자들 2024 연말 콘서트 “목적도 없고 주제도 없어요”]]></title>
@@ -63,13 +79,13 @@
             <content:encoded><![CDATA[<div>
 									<a href="https://ticket.melon.com/performance/index.htm?prodId=210735#skip_nav" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17325359751732535975298.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17345075921734507592831.jpg">
 									</a>
 								</div>
 								<b>김동현 &amp; 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’</b>
 								<span>김동현, 이병찬</span>
 																<p>2024. 12. 24 - 2024. 12. 25</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17325359751732535975298.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gurumare.co.kr/file_upload/17345075921734507592831.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미리메리크리스마송 콘서트(Mili Merry Christmas Song Concert)]]></title>
@@ -136,6 +152,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17325228091732522809857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[투가이즈쇼 [#2. GENERATION]]]></title>
+            <link>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</link>
+            <guid>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</guid>
+            <pubDate>Wed, 18 Dec 2024 08:32:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17345073501734507350032.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼 [#2. GENERATION]</b>
+								<span>최호승, 기세중 (게스트. 이지연,정세윤,박상혁)</span>
+																<p>2024. 12. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17345073501734507350032.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위아더나잇 겨울 콘서트 〈good NIGHT 2024〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210677#skip_nav</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210677#skip_nav</guid>
@@ -166,38 +198,6 @@
 								<span>밍기뉴</span>
 																<p>2024. 12. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17316555571731655557047.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목경 송년 콘서트 LIVE ON FRIDAY NIGHT]]></title>
-            <link>http://ticket.yes24.com/Perf/51406</link>
-            <guid>http://ticket.yes24.com/Perf/51406</guid>
-            <pubDate>Thu, 24 Oct 2024 04:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/51406" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17297427771729742777199.jpg">
-									</a>
-								</div>
-								<b>김목경 송년 콘서트 LIVE ON FRIDAY NIGHT</b>
-								<span>김목경</span>
-																<p>2024. 12. 13</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17297427771729742777199.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작곡가 한혜신 콘서트 <그대들 덕분에>]]></title>
-            <link>https://www.ticketlink.co.kr/product/52800</link>
-            <guid>https://www.ticketlink.co.kr/product/52800</guid>
-            <pubDate>Thu, 24 Oct 2024 04:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.ticketlink.co.kr/product/52800" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg">
-									</a>
-								</div>
-								<b>작곡가 한혜신 콘서트 &lt;그대들 덕분에&gt;</b>
-								<span>남민우, 박정원, 오유민, 이진우, 이태은, 조성태, 현석준, 홍승안</span>
-																<p>2024. 12. 09</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
