@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 05:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 06:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나비드 119 콘서트]]></title>
+            <link>https://fonakorea.com/reservation/detail.html?product_no=31</link>
+            <guid>https://fonakorea.com/reservation/detail.html?product_no=31</guid>
+            <pubDate>Wed, 18 Dec 2024 06:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://fonakorea.com/reservation/detail.html?product_no=31" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17345030821734503082863.jpg">
+									</a>
+								</div>
+								<b>나비드 119 콘서트</b>
+								<span>나비드</span>
+																<p>2025. 01. 19</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17345030821734503082863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경서예지X전건호 콘서트 “The Colors”]]></title>
             <link>https://tickets.interpark.com/goods/24016022</link>
@@ -182,22 +198,6 @@
 								<span>남민우, 박정원, 오유민, 이진우, 이태은, 조성태, 현석준, 홍승안</span>
 																<p>2024. 12. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17297423241729742324920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이슨 리 Winter Concert : The Christmas Song]]></title>
-            <link>https://tickets.interpark.com/goods/24016544</link>
-            <guid>https://tickets.interpark.com/goods/24016544</guid>
-            <pubDate>Thu, 14 Nov 2024 06:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24016544" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg">
-									</a>
-								</div>
-								<b>제이슨 리 Winter Concert : The Christmas Song</b>
-								<span>제이슨 리(Jason Lee)</span>
-																<p>2024. 12. 08</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17314870681731487068764.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
