@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 14:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 15:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,9 +365,9 @@
         </item>
         <item>
             <title><![CDATA[존 카메론 미첼 내한 공연 ［John Cameron Mitchell @ X-mas］ (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016208</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016208</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210369&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210369&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Wed, 25 Dec 2024 15:24:07 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">존 카메론 미첼 내한 공연 ［John Cameron Mitchell @ X-mas］</dt>
 						<dd>2024.12.24 ~ 2024.12.25</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
