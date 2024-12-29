@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Dec 2024 14:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 15:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,9 +59,9 @@
         </item>
         <item>
             <title><![CDATA[2024 소수빈 연말 콘서트]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016386</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016386</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210495&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210495&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 29 Dec 2024 15:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2024 소수빈 연말 콘서트</dt>
 						<dd>2024.12.27 ~ 2024.12.29</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
