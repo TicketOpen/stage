@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 14:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 15:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,9 +49,9 @@
         </item>
         <item>
             <title><![CDATA[WYBH 콘서트 Good bye 2024]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016648</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016648</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210794&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210794&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Tue, 31 Dec 2024 15:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">WYBH 콘서트 Good bye 2024</dt>
 						<dd>2024.12.31 ~ 2024.12.31</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
