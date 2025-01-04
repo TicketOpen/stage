@@ -4,33 +4,9 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 14:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 15:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ON]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/379</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/379</guid>
-            <pubDate>Tue, 31 Dec 2024 06:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2025.01.04
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>양준혁</dd>
-<dt>출연:</dt>
-<dd>적란운, 행로난, To More Raw (투모로우)</dd>
-</dl>
-<a href="/cjazit/book/view/379" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/mq/hr/mx252427635dy.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TUNE UP STAGE : 한 번 더 안녕]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/380</link>
