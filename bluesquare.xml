@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 14:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 15:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,9 +39,9 @@
         </item>
         <item>
             <title><![CDATA[2025 켄(KEN) 솔로 콘서트 : WONDER LAND]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017414</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017414</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=211537&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=211537&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 05 Jan 2025 15:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2025 켄(KEN) 솔로 콘서트 : WONDER LAND</dt>
 						<dd>2025.01.04 ~ 2025.01.05</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
