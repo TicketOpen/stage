@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 23:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 01:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,36 @@
 						<dd>2025.02.22 ~ 2025.02.23</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/12/0400012412_211629_01.011.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 폴킴 콘서트 'Sincerely yours']]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25000089</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25000089</guid>
+            <pubDate>Wed, 08 Jan 2025 01:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2025 폴킴 콘서트 'Sincerely yours'</dt>
+						<dd>2025.02.08 ~ 2025.02.16</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_212274_01.819.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 기리보이 콘서트 〈2252:2522〉 - 스탠딩]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018543</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018543</guid>
+            <pubDate>Wed, 08 Jan 2025 01:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2025 기리보이 콘서트 〈2252:2522〉 - 스탠딩</dt>
+						<dd>2025.02.02 ~ 2025.02.02</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_212305_01.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 기리보이 콘서트 〈2252:2522〉 - 지정석]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018542</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018542</guid>
+            <pubDate>Wed, 08 Jan 2025 01:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2025 기리보이 콘서트 〈2252:2522〉 - 지정석</dt>
+						<dd>2025.02.01 ~ 2025.02.01</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_212304_01.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[소란 winter concert  ‘BE MY LIGHT’]]></title>
@@ -126,36 +156,6 @@
 						<dd>2024.11.29 ~ 2025.05.18</dd>
 						<dd>블루스퀘어 신한카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/09/0400012409_208781_01.814.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IN SEOUL - FT아일랜드]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209178&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209178&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">LOVE IN SEOUL - FT아일랜드</dt>
-						<dd>2024.11.24 ~ 2024.11.24</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_209178_01.649.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IN SEOUL - John K]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208941&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=208941&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">LOVE IN SEOUL - John K</dt>
-						<dd>2024.11.22 ~ 2024.11.23</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_208941_01.856.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IN SEOUL - 엔플라잉]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210129&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210129&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">LOVE IN SEOUL - 엔플라잉</dt>
-						<dd>2024.11.20 ~ 2024.11.20</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_210129_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
