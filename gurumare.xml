@@ -4,9 +4,25 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jan 2025 06:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 07:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Just J-Min : 제이민 첫번째 콘서트 [젤리들에게]]]></title>
+            <link>https://www.ticketlink.co.kr/product/54001</link>
+            <guid>https://www.ticketlink.co.kr/product/54001</guid>
+            <pubDate>Sun, 12 Jan 2025 07:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ticketlink.co.kr/product/54001" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17366651661736665166212.jpg">
+									</a>
+								</div>
+								<b>Just J-Min : 제이민 첫번째 콘서트 [젤리들에게]</b>
+								<span>제이민</span>
+																<p>2025. 02. 02 - 2025. 02. 03</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17366651661736665166212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투가이즈쇼 [#2. GENERATION]]]></title>
             <link>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</link>
@@ -182,22 +198,6 @@
 								<span>최호승, 기세중 (게스트. 이지연,정세윤,박상혁)</span>
 																<p>2024. 12. 16</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17345073501734507350032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아더나잇 겨울 콘서트 〈good NIGHT 2024〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210677#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210677#skip_nav</guid>
-            <pubDate>Fri, 15 Nov 2024 04:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210677#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17316433191731643319285.jpg">
-									</a>
-								</div>
-								<b>위아더나잇 겨울 콘서트 〈good NIGHT 2024〉</b>
-								<span>위아더나잇</span>
-																<p>2024. 12. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17316433191731643319285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
