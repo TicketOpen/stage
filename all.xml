@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 08:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 09:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 25일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/923/1077521904_EB85B8EBB88CEBA088EC9DB8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤딴딴 정규 2집 '반칠십' 쇼케이스 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.youtube.com/channel/UChnbG-BYQKXrOBb-83KO-UQ/community?lb=UgkxvLiLrNYNyA7FKjt_zuElFFU7G7dno6JV</link>
+            <guid>https://www.youtube.com/channel/UChnbG-BYQKXrOBb-83KO-UQ/community?lb=UgkxvLiLrNYNyA7FKjt_zuElFFU7G7dno6JV</guid>
+            <pubDate>Mon, 20 Jan 2025 09:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.youtube.com/channel/UChnbG-BYQKXrOBb-83KO-UQ/community?lb=UgkxvLiLrNYNyA7FKjt_zuElFFU7G7dno6JV" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17373649101737364910612.jpg">
+									</a>
+								</div>
+								<b>윤딴딴 정규 2집 '반칠십' 쇼케이스 콘서트 </b>
+								<span>윤딴딴</span>
+																<p>2025. 03. 01 - 2025. 03. 03</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17373649101737364910612.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한올, 새봄 첫 번째 콘서트 ‘마음 둘 곳’ (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>PL(피엘)</span>
 																<p>2024. 12. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17312962051731296205882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박준하(JUNHA PARK) 연말 단독 콘서트〈Christmas Town〉 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210678#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210678#skip_nav</guid>
-            <pubDate>Fri, 15 Nov 2024 04:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210678#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17316435381731643538820.jpg">
-									</a>
-								</div>
-								<b>박준하(JUNHA PARK) 연말 단독 콘서트〈Christmas Town〉</b>
-								<span>박준하</span>
-																<p>2024. 12. 21</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17316435381731643538820.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B, The Second letter (CJ문화재단 ─ 공연예매)]]></title>
