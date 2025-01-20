@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 06:37:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 07:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,22 @@
 								<span>한올, 새봄</span>
 																<p>2025. 02. 16</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17369080651736908065238.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤은화 양금독주회 <구라철사금(歐羅鐵絲琴)：打> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/25000769</link>
+            <guid>https://tickets.interpark.com/goods/25000769</guid>
+            <pubDate>Mon, 20 Jan 2025 07:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/25000769" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17373570451737357045613.jpg">
+									</a>
+								</div>
+								<b>윤은화 양금독주회 &lt;구라철사금(歐羅鐵絲琴)：打&gt;</b>
+								<span>윤은화 외</span>
+																<p>2025. 02. 08 - 2025. 02. 09</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17373570451737357045613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Just J-Min : 제이민 첫번째 콘서트 [젤리들에게] (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>박준하</span>
 																<p>2024. 12. 21</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17316435381731643538820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랑데부르스 2024년 겨울 크리스마스 공연 〈캐롤타임레전드 : Carol Time Legend〉 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210707</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210707</guid>
-            <pubDate>Mon, 25 Nov 2024 08:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210707" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17325228091732522809857.jpg">
-									</a>
-								</div>
-								<b>랑데부르스 2024년 겨울 크리스마스 공연 〈캐롤타임레전드 : Carol Time Legend〉</b>
-								<span>랑데부르스</span>
-																<p>2024. 12. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17325228091732522809857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B, The Second letter (CJ문화재단 ─ 공연예매)]]></title>
