@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 03:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 04:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/906/1427513636_E18485E185A1E1848BE185B5E186ABE1848BE185A5E186B8_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울공연예술고등학교 실용음악과 14기 '공연한..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=937&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=937&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 22 Jan 2025 04:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 02월 24일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/937/59405674_ED8FACEC8AA4ED84B020EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트 'Mr. Vacation' : 롤링..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 02월 01일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/924/950487953_5BED8FACEC8AA4ED84B05D20020120ED94BCEC9790ED8380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노브레인 단독 콘서트 ‘노래부인Ⅱ’ : 롤링 30주년 ..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=923&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=923&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 01월 25일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/923/1077521904_EB85B8EBB88CEBA088EC9DB8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
