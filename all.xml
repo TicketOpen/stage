@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 04:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 05:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,16 @@
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_212274_01.819.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2025 JOOHONEY Fan Event 'JOOHONEYWALKER' (블루스퀘어 ─ 공연안내)]]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001155</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001155</guid>
+            <pubDate>Thu, 23 Jan 2025 05:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">2025 JOOHONEY Fan Event 'JOOHONEYWALKER'</dt>
+						<dd>2025.02.05 ~ 2025.02.05</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_213099_01.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 기리보이 콘서트 〈2252:2522〉 - 스탠딩 (블루스퀘어 ─ 공연안내)]]></title>
             <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018543</link>
             <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018543</guid>
@@ -466,16 +476,6 @@
 						<dd>2024.12.07 ~ 2024.12.07</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/11/0400012411_210685_01.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 Wave to Earth 단독공연 'play with earth! Seoul' (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209896&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=209896&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">2024 Wave to Earth 단독공연 'play with earth! Seoul'</dt>
-						<dd>2024.11.30 ~ 2024.12.01</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_209896_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
