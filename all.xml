@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 15:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,9 +365,9 @@
         </item>
         <item>
             <title><![CDATA[2025 김진호 콘서트 ： 그 노래의 시작은 무엇인가 (블루스퀘어 ─ 공연안내)]]></title>
-            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25000227</link>
-            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25000227</guid>
-            <pubDate>Mon, 13 Jan 2025 02:59:57 GMT</pubDate>
+            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=212622&amp;m_menu=performance&amp;s_menu=info</link>
+            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=212622&amp;m_menu=performance&amp;s_menu=info</guid>
+            <pubDate>Sun, 26 Jan 2025 15:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<dt class="subject">2025 김진호 콘서트 ： 그 노래의 시작은 무엇인가</dt>
 						<dd>2025.01.25 ~ 2025.01.26</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
