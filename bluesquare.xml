@@ -4,7 +4,7 @@
         <title>블루스퀘어 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 05:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 06:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 						<dd>2025.03.29 ~ 2025.03.30</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_212735_01.100.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[조민규 단독 콘서트 'MONO DRAMA 2025 : GARDEN BREEZE']]></title>
+            <link>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001393</link>
+            <guid>http://ticket.interpark.com/gate/TPGate.asp?Where=bluesquare&amp;GPage=http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001393</guid>
+            <pubDate>Tue, 04 Feb 2025 06:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<dt class="subject">조민규 단독 콘서트 'MONO DRAMA 2025 : GARDEN BREEZE'</dt>
+						<dd>2025.03.01 ~ 2025.03.02</dd>
+						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/25/01/0400012501_213223_01.659.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 웨이션브이(WayV) 콘서트 'ON THE Way']]></title>
@@ -146,16 +156,6 @@
 						<dd>2024.12.21 ~ 2024.12.22</dd>
 						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/10/0400012410_210188_01.119.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[장기하 단독 공연 ［하기장기하］ (12월 8일 일요일 ［스탠딩］)]]></title>
-            <link>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210686&amp;m_menu=performance&amp;s_menu=info</link>
-            <guid>http://www.bluesquare.kr/Goods/PerformanceDetail.asp?PlayNo=210686&amp;m_menu=performance&amp;s_menu=info</guid>
-            <pubDate>Mon, 16 Dec 2024 18:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[<dt class="subject">장기하 단독 공연 ［하기장기하］ (12월 8일 일요일 ［스탠딩］)</dt>
-						<dd>2024.12.08 ~ 2024.12.08</dd>
-						<dd>블루스퀘어 마스터카드홀</dd>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/PlayDictionary/DATA/PlayDic/PlayDicUpload/040001/24/11/0400012411_210686_01.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

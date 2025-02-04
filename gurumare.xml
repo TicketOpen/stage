@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 05:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 06:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17375180271737518027676.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6TH DEBUT ANNIVERSARY [What VVS wants] 팬이벤트]]></title>
+            <link>https://x.com/VannerOfficial/status/1885523471867801683?t=XqAsYCMbQAVgPS4oXXb9eA&amp;s=19</link>
+            <guid>https://x.com/VannerOfficial/status/1885523471867801683?t=XqAsYCMbQAVgPS4oXXb9eA&amp;s=19</guid>
+            <pubDate>Tue, 04 Feb 2025 06:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://x.com/VannerOfficial/status/1885523471867801683?t=XqAsYCMbQAVgPS4oXXb9eA&amp;s=19" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17386477581738647758635.jpg">
+									</a>
+								</div>
+								<b>6TH DEBUT ANNIVERSARY [What VVS wants] 팬이벤트</b>
+								<span>VANNER(배너)</span>
+																<p>2025. 02. 04</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17386477581738647758635.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Just J-Min : 제이민 첫번째 콘서트 [젤리들에게]]]></title>
             <link>https://www.ticketlink.co.kr/product/54001</link>
             <guid>https://www.ticketlink.co.kr/product/54001</guid>
@@ -182,22 +198,6 @@
 								<span>장재훈</span>
 																<p>2025. 01. 18</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17349470251734947025424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경서예지X전건호 콘서트 “The Colors”]]></title>
-            <link>https://tickets.interpark.com/goods/24016022</link>
-            <guid>https://tickets.interpark.com/goods/24016022</guid>
-            <pubDate>Wed, 06 Nov 2024 04:28:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/24016022" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17345075131734507513485.jpg">
-									</a>
-								</div>
-								<b>경서예지X전건호 콘서트 “The Colors”</b>
-								<span>경서예지, 전건호</span>
-																<p>2024. 12. 29</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17345075131734507513485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
