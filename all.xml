@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 07:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 08:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,22 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/929/1205871463_EC9588EBB391EC9B85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한웅재 찬송가 3집 발매기념 “그대와 나의 노래” (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/52358</link>
+            <guid>http://ticket.yes24.com/Perf/52358</guid>
+            <pubDate>Tue, 04 Feb 2025 08:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/52358" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17386576261738657626937.jpg">
+									</a>
+								</div>
+								<b>한웅재 찬송가 3집 발매기념 “그대와 나의 노래”</b>
+								<span>한웅재</span>
+																<p>2025. 03. 14 - 2025. 03. 15</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17386576261738657626937.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[경서예지x전건호 콘서트 “The sweet Colors” (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://tickets.interpark.com/goods/25001235</link>
             <guid>https://tickets.interpark.com/goods/25001235</guid>
@@ -158,6 +174,22 @@
 								<span>이석준</span>
 																<p>2025. 02. 28</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17375173831737517383088.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 Yoon Ji Sung Fan Meeting in Seoul : Letter from Yooniverse (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/25001356</link>
+            <guid>https://tickets.interpark.com/goods/25001356</guid>
+            <pubDate>Tue, 04 Feb 2025 08:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/25001356" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17386571891738657189008.jpg">
+									</a>
+								</div>
+								<b>2025 Yoon Ji Sung Fan Meeting in Seoul : Letter from Yooniverse</b>
+								<span>윤지성</span>
+																<p>2025. 02. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17386571891738657189008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재즈플룻티스트 지율의 단독 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
@@ -208,6 +240,22 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17376855211737685521322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[투가이즈쇼 [#2. GENERATION] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</link>
+            <guid>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</guid>
+            <pubDate>Wed, 18 Dec 2024 08:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17386573021738657302875.jpg">
+									</a>
+								</div>
+								<b>투가이즈쇼 [#2. GENERATION]</b>
+								<span>최호승, 기세중</span>
+																<p>2025. 02. 10</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17386573021738657302875.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤은화 양금독주회 <구라철사금(歐羅鐵絲琴)：打> (구름아래소극장 ─ 공연안내)]]></title>
             <link>https://tickets.interpark.com/goods/25000769</link>
             <guid>https://tickets.interpark.com/goods/25000769</guid>
@@ -254,54 +302,6 @@
 								<span>제이민</span>
 																<p>2025. 02. 02 - 2025. 02. 03</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17366651661736665166212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투가이즈쇼 [#2. GENERATION] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</link>
-            <guid>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</guid>
-            <pubDate>Wed, 18 Dec 2024 08:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17345074131734507413353.jpg">
-									</a>
-								</div>
-								<b>투가이즈쇼 [#2. GENERATION]</b>
-								<span>최호승, 기세중 (게스트. 박현숙,이승현,김서환)</span>
-																<p>2025. 01. 20</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17345074131734507413353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나비드 119 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://fonakorea.com/reservation/detail.html?product_no=31</link>
-            <guid>https://fonakorea.com/reservation/detail.html?product_no=31</guid>
-            <pubDate>Wed, 18 Dec 2024 06:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://fonakorea.com/reservation/detail.html?product_no=31" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17345030821734503082863.jpg">
-									</a>
-								</div>
-								<b>나비드 119 콘서트</b>
-								<span>나비드</span>
-																<p>2025. 01. 19</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17345030821734503082863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210835#skip_nav</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210835#skip_nav</guid>
-            <pubDate>Mon, 23 Dec 2024 10:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210835#skip_nav" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17349470251734947025424.jpg">
-									</a>
-								</div>
-								<b>장재훈 1st EP [THE COLORS] 발매 기념 공연</b>
-								<span>장재훈</span>
-																<p>2025. 01. 18</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17349470251734947025424.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JO1 WORLD TOUR JO1DER SHOW 2025 ‘WHEREVER WE ARE’ (블루스퀘어 ─ 공연안내)]]></title>
