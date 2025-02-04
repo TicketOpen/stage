@@ -4,7 +4,7 @@
         <title>롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 04:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 05:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/906/1427513636_E18485E185A1E1848BE185B5E186ABE1848BE185A5E186B8_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울전자음악단 단독 콘서트 '사이키델릭 평행 ..]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=941&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=941&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Tue, 04 Feb 2025 05:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 03월 07일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/941/912583577_EC849CEC9AB8ECA084EC9E90EC9D8CEC9585EB8BA8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이글루베이 단독 콘서트 '영혼상점' : 롤링..]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 08 Jan 2025 05:23:27 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 02월 09일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/929/1205871463_EC9588EBB391EC9B85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hathaw9y PURE LOVE After-party : 롤링홀 30주년 기..]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=928&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=928&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Tue, 07 Jan 2025 08:29:54 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 02월 08일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/928/1221934543_ED95B4EC849CEC9BA8EC9DB4200208.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
