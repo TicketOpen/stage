@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 04:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 05:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Wed, 08 Jan 2025 05:23:27 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 02월 09일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/929/1205871463_EC9588EBB391EC9B85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’ (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210996</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210996</guid>
+            <pubDate>Wed, 05 Feb 2025 05:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=210996" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17387298451738729845378.jpg">
+									</a>
+								</div>
+								<b>2025 보라미유 단독콘서트 ‘CLOVER’</b>
+								<span>보라미유</span>
+																<p>2025. 03. 16</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17387298451738729845378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한웅재 찬송가 3집 발매기념 “그대와 나의 노래” (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>VANNER(배너)</span>
 																<p>2025. 02. 04</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17386477581738647758635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Just J-Min : 제이민 첫번째 콘서트 [젤리들에게] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.ticketlink.co.kr/product/54001</link>
-            <guid>https://www.ticketlink.co.kr/product/54001</guid>
-            <pubDate>Sun, 12 Jan 2025 07:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.ticketlink.co.kr/product/54001" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17366651661736665166212.jpg">
-									</a>
-								</div>
-								<b>Just J-Min : 제이민 첫번째 콘서트 [젤리들에게]</b>
-								<span>제이민</span>
-																<p>2025. 02. 02 - 2025. 02. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17366651661736665166212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JO1 WORLD TOUR JO1DER SHOW 2025 ‘WHEREVER WE ARE’ (블루스퀘어 ─ 공연안내)]]></title>
