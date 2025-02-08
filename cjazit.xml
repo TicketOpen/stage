@@ -4,33 +4,9 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Feb 2025 14:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 15:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[No More Running Away]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/382</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/382</guid>
-            <pubDate>Fri, 07 Feb 2025 02:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2025.02.08
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>팀디오피(Team dop)</dd>
-<dt>출연:</dt>
-<dd>SUBOK</dd>
-</dl>
-<a href="/cjazit/book/view/382" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/em/wr/ud255697233mo.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[MPMG WEEK 2025:BLUE LABEL]]></title>
             <link>https://www.cjazit.org/cjazit/book/view/383</link>
