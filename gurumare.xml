@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 07:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 08:32:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
 								<span>경서예지, 전건호</span>
 																<p>2025. 03. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17385850531738585053207.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 단독콘서트 ‘Seize The Day’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211011</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211011</guid>
+            <pubDate>Mon, 10 Feb 2025 08:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=211011" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17391742511739174251599.jpg">
+									</a>
+								</div>
+								<b>W24 단독콘서트 ‘Seize The Day’</b>
+								<span>W24</span>
+																<p>2025. 03. 08</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17391742511739174251599.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤딴딴 정규 2집 '반칠십' 쇼케이스 콘서트]]></title>
@@ -182,22 +198,6 @@
 								<span>윤은화 외</span>
 																<p>2025. 02. 08 - 2025. 02. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17375180271737518027676.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6TH DEBUT ANNIVERSARY [What VVS wants] 팬이벤트]]></title>
-            <link>https://x.com/VannerOfficial/status/1885523471867801683?t=XqAsYCMbQAVgPS4oXXb9eA&amp;s=19</link>
-            <guid>https://x.com/VannerOfficial/status/1885523471867801683?t=XqAsYCMbQAVgPS4oXXb9eA&amp;s=19</guid>
-            <pubDate>Tue, 04 Feb 2025 06:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://x.com/VannerOfficial/status/1885523471867801683?t=XqAsYCMbQAVgPS4oXXb9eA&amp;s=19" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17386477581738647758635.jpg">
-									</a>
-								</div>
-								<b>6TH DEBUT ANNIVERSARY [What VVS wants] 팬이벤트</b>
-								<span>VANNER(배너)</span>
-																<p>2025. 02. 04</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17386477581738647758635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
