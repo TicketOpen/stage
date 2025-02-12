@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 04:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/906/1427513636_E18485E185A1E1848BE185B5E186ABE1848BE185A5E186B8_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아사달 단독 콘서트 ‘우리만의 이름으로’ : 롤링 30.. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=946&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=946&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Wed, 12 Feb 2025 05:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 03월 20일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/946/1986452193_EC9584EC82ACEB8BAC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKIPJACK 단독 콘서트 ‘펑!’ : 롤링 30주년 기념 공.. (롤링홀)]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 22 Jan 2025 04:27:19 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 02월 24일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/937/59405674_ED8FACEC8AA4ED84B020EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트 'Mr. Vacation' : 롤링.. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=935&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=935&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Wed, 15 Jan 2025 05:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 02월 23일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/935/1880739959_ED8FACEC8AA4ED84B020EC82ACEC9DB4ECA68820ED8FBC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’ (구름아래소극장 ─ 공연안내)]]></title>
