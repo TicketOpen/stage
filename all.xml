@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 04:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 05:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 06 Jan 2025 15:25:34 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/906/1427513636_E18485E185A1E1848BE185B5E186ABE1848BE185A5E186B8_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주니엘 단독 콘서트 ‘Time Trip’ : 롤링 30주년 기.. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=951&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=951&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Fri, 14 Feb 2025 05:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 03월 22일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/951/2057641483_ECA3BCEB8B88EC9798.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PUNK LODGE 2025 (롤링홀)]]></title>
@@ -104,12 +112,20 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/943/1179873103_EC9594ED98B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[암호 단독 콘서트 'ONE TAKE' : 롤링 30주.. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=942&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=942&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 06 Feb 2025 06:33:24 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 03월 08일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/942/1599757391_EC9594ED98B8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김바다 콘서트 <바다가 시작되는 곳> (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/52737</link>
+            <guid>http://ticket.yes24.com/Perf/52737</guid>
+            <pubDate>Fri, 14 Feb 2025 05:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/52737" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17395104111739510411607.jpg">
+									</a>
+								</div>
+								<b>김바다 콘서트 &lt;바다가 시작되는 곳&gt;</b>
+								<span>김바다 (특별게스트. 신윤철)</span>
+																<p>2025. 03. 29</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17395104111739510411607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’ (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>최호승, 기세중</span>
 																<p>2025. 02. 10</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17386573021738657302875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤은화 양금독주회 <구라철사금(歐羅鐵絲琴)：打> (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://tickets.interpark.com/goods/25000769</link>
-            <guid>https://tickets.interpark.com/goods/25000769</guid>
-            <pubDate>Mon, 20 Jan 2025 07:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/25000769" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17375180271737518027676.jpg">
-									</a>
-								</div>
-								<b>윤은화 양금독주회 &lt;구라철사금(歐羅鐵絲琴)：打&gt;</b>
-								<span>윤은화 외</span>
-																<p>2025. 02. 08 - 2025. 02. 09</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17375180271737518027676.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MPMG WEEK 2025:BLUE LABEL (CJ문화재단 ─ 공연예매)]]></title>
