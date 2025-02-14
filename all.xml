@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 14:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 15:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,30 +302,6 @@
 								<span>호리이료스케, 우가키히데나리, 은지원</span>
 																<p>2025. 02. 14</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17395258021739525802365.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MPMG WEEK 2025:BLUE LABEL (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/383</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/383</guid>
-            <pubDate>Fri, 07 Feb 2025 02:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2025.02.14
-</dd>
-<dt class="a11y">장소</dt>
- <dd>CJ아지트 광흥창</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>주식회사 엠피엠지</dd>
-<dt>출연:</dt>
-<dd>THE SOLUTIONS</dd>
-</dl>
-<a href="/cjazit/book/view/383" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/rr/az/ky255697634tq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MPMG WEEK 2025:Limited Edition (CJ문화재단 ─ 공연예매)]]></title>
