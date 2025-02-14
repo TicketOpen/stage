@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 09:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 10:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,20 +184,20 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17376855211737685521322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[투가이즈쇼 [#2. GENERATION]]]></title>
-            <link>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</link>
-            <guid>http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512</guid>
-            <pubDate>Wed, 18 Dec 2024 08:32:47 GMT</pubDate>
+            <title><![CDATA['용과 같이8 외전 Pirates in Hawaii' 발매 기념 쇼케이스]]></title>
+            <link>https://www.youtube.com/live/CaiUE0XCybs?si=xv9GF4Ko_cuHo16o</link>
+            <guid>https://www.youtube.com/live/CaiUE0XCybs?si=xv9GF4Ko_cuHo16o</guid>
+            <pubDate>Fri, 14 Feb 2025 10:25:17 GMT</pubDate>
             <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=51512" target="_blank">
+									<a href="https://www.youtube.com/live/CaiUE0XCybs?si=xv9GF4Ko_cuHo16o" target="_blank">
 										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17386573021738657302875.jpg">
+										<img src="http://gurumare.co.kr/file_upload/17395258021739525802365.jpg">
 									</a>
 								</div>
-								<b>투가이즈쇼 [#2. GENERATION]</b>
-								<span>최호승, 기세중</span>
-																<p>2025. 02. 10</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17386573021738657302875.jpg" length="0" type="image/jpg"/>
+								<b>'용과 같이8 외전 Pirates in Hawaii' 발매 기념 쇼케이스</b>
+								<span>호리이료스케, 우가키히데나리, 은지원</span>
+																<p>2025. 02. 14</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17395258021739525802365.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
