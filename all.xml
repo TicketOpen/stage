@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 23:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 01:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,22 @@
 								<span>김바다 (특별게스트. 신윤철)</span>
 																<p>2025. 03. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17395104111739510411607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍대광 단독 콘서트 ‘Spring Light’ (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211063</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211063</guid>
+            <pubDate>Thu, 20 Feb 2025 01:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=211063" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17400142931740014293399.jpg">
+									</a>
+								</div>
+								<b>홍대광 단독 콘서트 ‘Spring Light’</b>
+								<span>홍대광</span>
+																<p>2025. 03. 22 - 2025. 03. 23</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17400142931740014293399.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’ (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>김승하 (게스트. 김재희)</span>
 																<p>2025. 02. 15</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17376855211737685521322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['용과 같이8 외전 Pirates in Hawaii' 발매 기념 쇼케이스 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.youtube.com/live/CaiUE0XCybs?si=xv9GF4Ko_cuHo16o</link>
-            <guid>https://www.youtube.com/live/CaiUE0XCybs?si=xv9GF4Ko_cuHo16o</guid>
-            <pubDate>Fri, 14 Feb 2025 10:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.youtube.com/live/CaiUE0XCybs?si=xv9GF4Ko_cuHo16o" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17395258021739525802365.jpg">
-									</a>
-								</div>
-								<b>'용과 같이8 외전 Pirates in Hawaii' 발매 기념 쇼케이스</b>
-								<span>호리이료스케, 우가키히데나리, 은지원</span>
-																<p>2025. 02. 14</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17395258021739525802365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내게, 그 시간들이 (CJ문화재단 ─ 공연예매)]]></title>
