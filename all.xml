@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 08:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 09:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 27 Feb 2025 15:27:15 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 01월 일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/906/1427513636_E18485E185A1E1848BE185B5E186ABE1848BE185A5E186B8_RGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고고학 단독 콘서트 ‘파도’ : 롤링 30주년 기념 공.. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=958&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=958&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Mon, 03 Mar 2025 09:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 04월 03일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/958/1263698638_5BED8FACEC8AA4ED84B05D20040320EAB3A0EAB3A0ED9599.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박소은 단독 콘서트 ‘매일’ : 롤링 30주년 기념 공.. (롤링홀)]]></title>
@@ -104,12 +112,20 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/947/1179764357_ECA084EAB8B0EBB180EC9EA5EC96B4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아사달 단독 콘서트 ‘우리만의 이름으로’ : 롤링 30.. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=946&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=946&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Thu, 27 Feb 2025 15:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 03월 20일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/946/1986452193_EC9584EC82ACEB8BAC.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211116</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211116</guid>
+            <pubDate>Mon, 03 Mar 2025 09:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=211116" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17409913841740991384383.jpg">
+									</a>
+								</div>
+								<b>CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트</b>
+								<span>테종</span>
+																<p>2025. 03. 30</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17409913841740991384383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김바다 콘서트 <바다가 시작되는 곳> (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>한올, 새봄</span>
 																<p>2025. 02. 16</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17369080651736908065238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김승하 콘서트 [I am I] (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://www.instagram.com/p/DFJz2TuO89-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA%3D%3D</link>
-            <guid>https://www.instagram.com/p/DFJz2TuO89-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA%3D%3D</guid>
-            <pubDate>Fri, 24 Jan 2025 02:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://www.instagram.com/p/DFJz2TuO89-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA%3D%3D" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17376855211737685521322.jpg">
-									</a>
-								</div>
-								<b>김승하 콘서트 [I am I]</b>
-								<span>김승하 (게스트. 김재희)</span>
-																<p>2025. 02. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17376855211737685521322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
