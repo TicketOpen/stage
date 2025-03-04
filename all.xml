@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 07:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 08:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Mon, 03 Mar 2025 15:26:40 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 03월 14일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/950/496555084_0315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구름닮은-라이브 VOL.7 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://www.instagram.com/p/DGxRrfiy6tj/</link>
+            <guid>https://www.instagram.com/p/DGxRrfiy6tj/</guid>
+            <pubDate>Tue, 04 Mar 2025 08:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.instagram.com/p/DGxRrfiy6tj/" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17410753411741075341227.jpg">
+									</a>
+								</div>
+								<b>구름닮은-라이브 VOL.7</b>
+								<span>오이스터, 프랭클리</span>
+																<p>2025. 04. 06</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17410753411741075341227.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>지율</span>
 																<p>2025. 02. 22</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17385848421738584842049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한올, 새봄 첫 번째 콘서트 ‘마음 둘 곳’ (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210900</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210900</guid>
-            <pubDate>Wed, 15 Jan 2025 02:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210900" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17369080651736908065238.jpg">
-									</a>
-								</div>
-								<b>한올, 새봄 첫 번째 콘서트 ‘마음 둘 곳’</b>
-								<span>한올, 새봄</span>
-																<p>2025. 02. 16</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17369080651736908065238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕하세요 깅지원입니다 (CJ문화재단 ─ 공연예매)]]></title>
