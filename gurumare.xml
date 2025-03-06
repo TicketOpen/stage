@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 08:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 09:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>오이스터, 프랭클리</span>
 																<p>2025. 04. 06</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17410753411741075341227.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박장현 단독 콘서트 '봄의 초대,장']]></title>
+            <link>https://www.ticketlink.co.kr/product/55130</link>
+            <guid>https://www.ticketlink.co.kr/product/55130</guid>
+            <pubDate>Thu, 06 Mar 2025 09:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://www.ticketlink.co.kr/product/55130" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17412515521741251552300.jpg">
+									</a>
+								</div>
+								<b>박장현 단독 콘서트 '봄의 초대,장'</b>
+								<span>박장현</span>
+																<p>2025. 04. 05</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17412515521741251552300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트]]></title>
@@ -182,22 +198,6 @@
 								<span>윤지성</span>
 																<p>2025. 02. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17386571891738657189008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈플룻티스트 지율의 단독 콘서트]]></title>
-            <link>https://tickets.interpark.com/goods/25001197</link>
-            <guid>https://tickets.interpark.com/goods/25001197</guid>
-            <pubDate>Mon, 03 Feb 2025 12:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://tickets.interpark.com/goods/25001197" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17385848421738584842049.jpg">
-									</a>
-								</div>
-								<b>재즈플룻티스트 지율의 단독 콘서트</b>
-								<span>지율</span>
-																<p>2025. 02. 22</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17385848421738584842049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
