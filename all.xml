@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 04:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 05:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,7 +160,7 @@
             <enclosure url="http://gurumare.co.kr/file_upload/17409913841740991384383.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김바다 콘서트 <바다가 시작되는 곳> (구름아래소극장 ─ 공연안내)]]></title>
+            <title><![CDATA[김바다 콘서트 <아야진> (구름아래소극장 ─ 공연안내)]]></title>
             <link>http://ticket.yes24.com/Perf/52737</link>
             <guid>http://ticket.yes24.com/Perf/52737</guid>
             <pubDate>Fri, 14 Feb 2025 05:22:58 GMT</pubDate>
@@ -170,7 +170,7 @@
 										<img src="http://gurumare.co.kr/file_upload/17395104111739510411607.jpg">
 									</a>
 								</div>
-								<b>김바다 콘서트 &lt;바다가 시작되는 곳&gt;</b>
+								<b>김바다 콘서트 &lt;아야진&gt;</b>
 								<span>김바다 (특별게스트. 신윤철)</span>
 																<p>2025. 03. 29</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17395104111739510411607.jpg" length="0" type="image/jpg"/>
