@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 14:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 15:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,54 +302,6 @@
 								<span>윤딴딴</span>
 																<p>2025. 03. 01 - 2025. 03. 03</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17373649101737364910612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 홍이삭 콘서트 〈THE LOVERS〉 (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/389</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/389</guid>
-            <pubDate>Tue, 04 Mar 2025 01:54:46 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2025.03.14 ~ 2025.03.16
-</dd>
-<dt class="a11y">장소</dt>
- <dd>블루스퀘어 삼성카드홀</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>뮤직팜엔터테인먼트(주)</dd>
-<dt>출연:</dt>
-<dd>홍이삭</dd>
-</dl>
-<a href="/cjazit/book/view/389" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/cu/dv/qe257850712rg.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 지소쿠리클럽 단독공연: 등반가들 (CJ문화재단 ─ 공연예매)]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/390</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/390</guid>
-            <pubDate>Tue, 04 Mar 2025 01:54:46 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2025.03.15 ~ 2025.03.16
-</dd>
-<dt class="a11y">장소</dt>
- <dd>신한카드 SOL 페이 스퀘어 라이브홀</dd>
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>지소쿠리클럽</dd>
-<dt>출연:</dt>
-<dd>지소쿠리클럽</dd>
-</dl>
-<a href="/cjazit/book/view/390" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/lg/uj/rw257850919cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌8 (CJ문화재단 ─ 공연예매)]]></title>
