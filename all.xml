@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 08:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 09:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,22 @@
 								<span>zunhozoon</span>
 																<p>2025. 05. 23 - 2025. 05. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17418551451741855145607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 우디 콘서트 〈Woody, Live〉 (구름아래소극장 ─ 공연안내)]]></title>
+            <link>http://ticket.yes24.com/Perf/53230</link>
+            <guid>http://ticket.yes24.com/Perf/53230</guid>
+            <pubDate>Fri, 21 Mar 2025 09:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="http://ticket.yes24.com/Perf/53230" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17425476861742547686406.jpg">
+									</a>
+								</div>
+								<b>2025 우디 콘서트 〈Woody, Live〉</b>
+								<span>우디</span>
+																<p>2025. 04. 19 - 2025. 04. 20</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17425476861742547686406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이기찬 단독 콘서트 [Back to You] (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>W24</span>
 																<p>2025. 03. 08</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17391742511739174251599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤딴딴 정규 2집 '반칠십' 쇼케이스 콘서트 (구름아래소극장 ─ 공연안내)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210969</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210969</guid>
-            <pubDate>Mon, 03 Feb 2025 12:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210969" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17373649101737364910612.jpg">
-									</a>
-								</div>
-								<b>윤딴딴 정규 2집 '반칠십' 쇼케이스 콘서트 </b>
-								<span>윤딴딴</span>
-																<p>2025. 03. 01 - 2025. 03. 03</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17373649101737364910612.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌8 (CJ문화재단 ─ 공연예매)]]></title>
