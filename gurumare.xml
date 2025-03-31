@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 03:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 04:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>zunhozoon</span>
 																<p>2025. 05. 23 - 2025. 05. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17418551451741855145607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [안녕하신가영 단독 콘서트 “월요일에도 봄이 떠오르면 좋겠어요”]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211227</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211227</guid>
+            <pubDate>Mon, 31 Mar 2025 04:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://ticket.melon.com/performance/index.htm?prodId=211227" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17433945221743394522105.jpg">
+									</a>
+								</div>
+								<b>먼데이프로젝트 시즌8 [안녕하신가영 단독 콘서트 “월요일에도 봄이 떠오르면 좋겠어요”]</b>
+								<span>안녕하신가영</span>
+																<p>2025. 04. 21</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17433945221743394522105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 우디 콘서트 〈Woody, Live〉]]></title>
@@ -182,22 +198,6 @@
 								<span>경서예지, 전건호</span>
 																<p>2025. 03. 09</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17385850531738585053207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[W24 단독콘서트 ‘Seize The Day’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211011</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211011</guid>
-            <pubDate>Mon, 10 Feb 2025 08:30:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=211011" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17391742511739174251599.jpg">
-									</a>
-								</div>
-								<b>W24 단독콘서트 ‘Seize The Day’</b>
-								<span>W24</span>
-																<p>2025. 03. 08</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17391742511739174251599.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
