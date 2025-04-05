@@ -4,7 +4,7 @@
         <title>CJ문화재단 ─ 공연예매</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 14:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 15:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,30 +78,6 @@
 <span class="btn-text">상세보기</span>
 </a>]]></content:encoded>
             <enclosure url="https://www.cjazit.org/image/schedule/qv/vy/vu260279006jo.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스피 단독콘서트 ‘Creespy’]]></title>
-            <link>https://www.cjazit.org/cjazit/book/view/392</link>
-            <guid>https://www.cjazit.org/cjazit/book/view/392</guid>
-            <pubDate>Tue, 01 Apr 2025 03:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[<dl class="item-info">
-<dt class="a11y">날짜</dt>
-<dd>
- 2025.04.05
-</dd>
-<dt class="a11y">장소</dt>
-
-</dl>
-<dl class="item-staff">
-<dt>주최:</dt>
-<dd>테잎스(Tapes)</dd>
-<dt>출연:</dt>
-<dd>Creespy</dd>
-</dl>
-<a href="/cjazit/book/view/392" class="btn btn--bold item-book no-barba">
-<span class="btn-text">상세보기</span>
-</a>]]></content:encoded>
-            <enclosure url="https://www.cjazit.org/image/schedule/pf/nq/ra260278377lk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
