@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 05:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 06:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/906/336795308_1ECB0A8EB9DBCEC9DB8EC9785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아디오스오디오 단독콘서트 '별들 사이로' .. (롤링홀)]]></title>
+            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=979&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
+            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=979&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
+            <pubDate>Mon, 14 Apr 2025 06:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[공연일 : 2025년 05월 18일]]></content:encoded>
+            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/979/51048986_5BED8FACEC8AA4ED84B015D20051820EC9584EB9494EC98A4EC8AA4EC98A4EB9494EC98A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KARDI 단독콘서트 '각별' : 롤링 30주년 기.. (롤링홀)]]></title>
             <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=978&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
             <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=978&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 01 Apr 2025 15:28:58 GMT</pubDate>
             <content:encoded><![CDATA[공연일 : 2025년 05월 05일]]></content:encoded>
             <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/972/2138122211_ECB59CECA095EC9CA4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트 단독콘서트 '초심' : 롤링 30주년 .. (롤링홀)]]></title>
-            <link>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=970&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</link>
-            <guid>http://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?com_board_basic=read_form&amp;com_board_idx=970&amp;sub=02&amp;&amp;com_board_search_code=&amp;com_board_search_value1=&amp;com_board_search_value2=&amp;com_board_page=&amp;&amp;com_board_id=12&amp;&amp;com_board_id=12</guid>
-            <pubDate>Sun, 13 Apr 2025 05:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[공연일 : 2025년 05월 02일]]></content:encoded>
-            <enclosure url="http://www.rollinghall.co.kr/bizdemo70993/component/board/board_12/u_image/970/685235436_EAB8B0ED9484ED8AB820ED8FACEC8AA4ED84B01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[zunhozoon (2016-2018) 추가공연 (구름아래소극장 ─ 공연안내)]]></title>
