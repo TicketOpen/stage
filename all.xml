@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Apr 2025 23:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 02:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
 								<span>김결</span>
 																<p>2025. 04. 26 - 2025. 04. 27</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17435665061743566506479.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승환 콘서트 [흑백영화처럼] (구름아래소극장 ─ 공연안내)]]></title>
+            <link>https://tickets.interpark.com/goods/25005278</link>
+            <guid>https://tickets.interpark.com/goods/25005278</guid>
+            <pubDate>Mon, 14 Apr 2025 02:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/25005278" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17445959931744595993866.jpg">
+									</a>
+								</div>
+								<b>이승환 콘서트 [흑백영화처럼]</b>
+								<span>이승환</span>
+																<p>2025. 04. 22 - 2025. 04. 24</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17445959931744595993866.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌8 [안녕하신가영 단독 콘서트 “월요일에도 봄이 떠오르면 좋겠어요”] (구름아래소극장 ─ 공연안내)]]></title>
@@ -286,22 +302,6 @@
 								<span>보라미유</span>
 																<p>2025. 03. 16</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17387298451738729845378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한웅재 찬송가 3집 발매기념 “그대와 나의 노래” (구름아래소극장 ─ 공연안내)]]></title>
-            <link>http://ticket.yes24.com/Perf/52358</link>
-            <guid>http://ticket.yes24.com/Perf/52358</guid>
-            <pubDate>Tue, 04 Feb 2025 08:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="http://ticket.yes24.com/Perf/52358" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17386576261738657626937.jpg">
-									</a>
-								</div>
-								<b>한웅재 찬송가 3집 발매기념 “그대와 나의 노래”</b>
-								<span>한웅재</span>
-																<p>2025. 03. 14 - 2025. 03. 15</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17386576261738657626937.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시인을 위하여 정규 일집 발매 기념 쇼케이스 (CJ문화재단 ─ 공연예매)]]></title>
