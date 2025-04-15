@@ -4,7 +4,7 @@
         <title>구름아래소극장 ─ 공연안내</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 23:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 02:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 								<span>zunhozoon</span>
 																<p>2025. 05. 23 - 2025. 05. 24</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17418551451741855145607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김경욱 <텐미팅>]]></title>
+            <link>https://tickets.interpark.com/goods/25005415</link>
+            <guid>https://tickets.interpark.com/goods/25005415</guid>
+            <pubDate>Tue, 15 Apr 2025 02:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div>
+									<a href="https://tickets.interpark.com/goods/25005415" target="_blank">
+										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
+										<img src="http://gurumare.co.kr/file_upload/17446787381744678738752.jpg">
+									</a>
+								</div>
+								<b>김경욱 &lt;텐미팅&gt;</b>
+								<span>김경욱</span>
+																<p>2025. 05. 02 - 2025. 05. 11</p>]]></content:encoded>
+            <enclosure url="http://gurumare.co.kr/file_upload/17446787381744678738752.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KIM GYEOL 3rd Solo Concert “ANOTHER I”]]></title>
@@ -182,22 +198,6 @@
 								<span>홍대광</span>
 																<p>2025. 03. 22 - 2025. 03. 23</p>]]></content:encoded>
             <enclosure url="http://gurumare.co.kr/file_upload/17400142931740014293399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210996</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210996</guid>
-            <pubDate>Wed, 05 Feb 2025 05:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-									<a href="https://ticket.melon.com/performance/index.htm?prodId=210996" target="_blank">
-										<div class="hiddon-box"><i class="icon-line-plus"></i></div>
-										<img src="http://gurumare.co.kr/file_upload/17387298451738729845378.jpg">
-									</a>
-								</div>
-								<b>2025 보라미유 단독콘서트 ‘CLOVER’</b>
-								<span>보라미유</span>
-																<p>2025. 03. 16</p>]]></content:encoded>
-            <enclosure url="http://gurumare.co.kr/file_upload/17387298451738729845378.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
